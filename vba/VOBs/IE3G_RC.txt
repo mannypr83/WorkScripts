@@ -1,0 +1,93 @@
+--06-30T10:45  clearcase_nm75 protect directory element "M:\admin_view\IE3G_RC\.@@"
+  "CHMOD 775"
+--06-19T22:11  clearcase_nm75 export sync from replica "IE3G_RC_FL51" to replica "IE3G_RC_AZ18"
+  "Exported synchronization information for replica "IE3G_RC_AZ18".
+   Row at export was: IE3G_RC_FL51=22 IE3G_RC_AZ18=0"
+--06-19T22:07  clearcase_nm75 protect directory element "M:\admin_view\IE3G_RC\.@@"
+  "CHMOD 770"
+--06-19T22:07  clearcase_nm75 protect directory element "M:\admin_view\IE3G_RC\.@@"
+  "CHMOD 775"
+--06-12T13:30  clearcase_nm75 export sync from replica "IE3G_RC_FL51" to replica "IE3G_RC_AZ18"
+  "Exported synchronization information for replica "IE3G_RC_AZ18".
+   Row at export was: IE3G_RC_FL51=2 IE3G_RC_AZ18=0"
+--11-21T15:18  e706339    create directory version "M:\admin_view\IE3G_RC\Loader@@\main\jwest_IE3G_Dev\1"
+  "Test file to make sure CC CQ are working
+    
+   Added file element "Test File.txt"."
+--11-21T15:18  e706339    protect file element "M:\admin_view\IE3G_RC\Loader@@\main\jwest_IE3G_Dev\1\Test File.txt@@"
+  "CHMOD 770; CHOWN e711819; CHGRP Global\aero.cc.sgn.FL51SW.rc"
+--11-21T15:18  e706339    add name to directory version "M:\admin_view\IE3G_RC\Loader@@\main\jwest_IE3G_Dev\1"
+  "Added file element "Test File.txt".
+   Test file to make sure CC CQ are working"
+--11-21T15:18  e706339    make hyperlink "Change" on version "M:\admin_view\IE3G_RC\Loader@@\main\jwest_IE3G_Dev\1\Test File.txt@@\main\jwest_IE3G_Dev\1"
+  "Attached hyperlink "Change@165@\IE3G_RC_PVOB".
+   Test file to make sure CC CQ are working"
+--11-21T15:18  e706339    create version "M:\admin_view\IE3G_RC\Loader@@\main\jwest_IE3G_Dev\1\Test File.txt@@\main\jwest_IE3G_Dev\1"
+  "Test file to make sure CC CQ are working"
+--11-21T15:18  e706339    create version "M:\admin_view\IE3G_RC\Loader@@\main\jwest_IE3G_Dev\1\Test File.txt@@\main\jwest_IE3G_Dev\0"
+--11-21T15:18  e706339    create branch "M:\admin_view\IE3G_RC\Loader@@\main\jwest_IE3G_Dev\1\Test File.txt@@\main\jwest_IE3G_Dev"
+  "Test file to make sure CC CQ are working"
+--11-21T15:18  e706339    create version "M:\admin_view\IE3G_RC\Loader@@\main\jwest_IE3G_Dev\1\Test File.txt@@\main\0"
+--11-21T15:18  e706339    create branch "M:\admin_view\IE3G_RC\Loader@@\main\jwest_IE3G_Dev\1\Test File.txt@@\main"
+--11-21T15:18  e706339    create file element "M:\admin_view\IE3G_RC\Loader@@\main\jwest_IE3G_Dev\1\Test File.txt@@"
+  "Test file to make sure CC CQ are working"
+--11-21T15:18  e706339    make hyperlink "Change" on directory version "M:\admin_view\IE3G_RC\Loader@@\main\jwest_IE3G_Dev\1"
+  "Attached hyperlink "Change@164@\IE3G_RC_PVOB".
+   Test file to make sure CC CQ are working
+    "
+--11-21T15:18  e706339    create directory version "M:\admin_view\IE3G_RC\Loader@@\main\jwest_IE3G_Dev\0"
+--11-21T15:18  e706339    create branch "M:\admin_view\IE3G_RC\Loader@@\main\jwest_IE3G_Dev"
+  "Test file to make sure CC CQ are working
+    "
+--11-21T15:18  e706339    make hyperlink "GlobalDefinition" on branch type "jwest_IE3G_Dev"
+  "Attached hyperlink "GlobalDefinition@71@\IE3G_RC".
+   Automatically created branch type from global definition in VOB "\IE3G_RC_PVOB"."
+--11-21T15:18  e706339    create hyperlink "GlobalDefinition@71@\IE3G_RC"
+  "Automatically created branch type from global definition in VOB "\IE3G_RC_PVOB"."
+--11-21T15:18  e706339    create branch type "jwest_IE3G_Dev"
+  "Automatically created branch type from global definition in VOB "\IE3G_RC_PVOB"."
+--10-29T15:38  e711819    lock trigger type "CHECK_AR_STATE" (locked)
+  "Locked except for users: e041467 e702445 e704548 e721877 e730056 e722159 e041467 e711819 e582601 e181438"
+--10-29T15:38  e711819    unlock trigger type "CHECK_AR_STATE" (locked)
+--10-29T15:38  e711819    protect trigger type "CHECK_AR_STATE" (locked)
+  "CHOWN e711819; CHGRP Global\aero.cc.sgn.FL51SW.rc"
+--10-29T15:38  e711819    lock trigger type "NO_UNRES_CO" (locked)
+  "Locked except for users: e041467 e702445 e704548 e721877 e730056 e722159 e041467 e711819 e582601 e181438"
+--10-29T15:38  e711819    unlock trigger type "NO_UNRES_CO" (locked)
+--10-29T15:38  e711819    protect trigger type "NO_UNRES_CO" (locked)
+  "CHOWN e711819; CHGRP Global\aero.cc.sgn.FL51SW.rc"
+--10-29T15:38  e711819    lock trigger type "NO_MKTRIGGER" (locked)
+  "Locked except for users: e041467 e702445 e704548 e721877 e730056 e722159 e041467 e711819 e582601 e181438"
+--10-29T15:38  e711819    unlock trigger type "NO_MKTRIGGER" (locked)
+--10-29T15:38  e711819    lock trigger type "NO_RMNAME" (locked)
+  "Locked except for users: e041467 e702445 e704548 e721877 e730056 e722159 e041467 e711819 e582601 e181438"
+--10-29T15:38  e711819    unlock trigger type "NO_RMNAME" (locked)
+--10-29T15:38  e711819    lock trigger type "NO_RMLOCK" (locked)
+  "Locked except for users: e041467 e702445 e704548 e721877 e730056 e722159 e041467 e711819 e582601 e181438"
+--10-29T15:38  e711819    unlock trigger type "NO_RMLOCK" (locked)
+--10-29T15:38  e711819    lock trigger type "NO_RMTYPE" (locked)
+  "Locked except for users: e041467 e702445 e704548 e721877 e730056 e722159 e041467 e711819 e582601 e181438"
+--10-29T15:38  e711819    unlock trigger type "NO_RMTYPE" (locked)
+--10-29T15:38  e711819    lock trigger type "NO_EVIL_TWIN_MKELEM" (locked)
+  "Locked except for users: e041467 e702445 e704548 e721877 e730056 e722159 e041467 e711819 e582601 e181438"
+--10-29T15:38  e711819    unlock trigger type "NO_EVIL_TWIN_MKELEM" (locked)
+--10-29T15:38  e711819    lock trigger type "NO_RMVER" (locked)
+  "Locked except for users: e041467 e702445 e704548 e721877 e730056 e722159 e041467 e711819 e582601 e181438"
+--10-29T15:38  e711819    unlock trigger type "NO_RMVER" (locked)
+--10-29T15:38  e711819    lock trigger type "NO_RMELEM" (locked)
+  "Locked except for users: e041467 e702445 e704548 e721877 e730056 e722159 e041467 e711819 e582601 e181438"
+--10-29T15:38  e711819    unlock trigger type "NO_RMELEM" (locked)
+--10-29T15:38  e711819    lock trigger type "ChangeLbtypeOwner" (locked)
+  "Locked except for users: e041467 e702445 e704548 e721877 e730056 e722159 e041467 e711819 e582601 e181438"
+--10-29T15:38  e711819    unlock trigger type "ChangeLbtypeOwner" (locked)
+--10-29T15:38  e711819    lock trigger type "CHOWN" (locked)
+  "Locked except for users: e041467 e702445 e704548 e721877 e730056 e722159 e041467 e711819 e582601 e181438"
+--10-29T15:38  e711819    unlock trigger type "CHOWN" (locked)
+--10-29T15:38  e711819    lock trigger type "ChangeHltypeOwner" (locked)
+  "Locked except for users: e041467 e702445 e704548 e721877 e730056 e722159 e041467 e711819 e582601 e181438"
+--10-29T15:38  e711819    unlock trigger type "ChangeHltypeOwner" (locked)
+--10-29T15:38  e711819    lock trigger type "ChangeAttypeOwner" (locked)
+  "Locked except for users: e041467 e702445 e704548 e721877 e730056 e722159 e041467 e711819 e582601 e181438"
+--10-29T15:38  e711819    unlock trigger type "ChangeAttypeOwner" (locked)
+--10-29T15:38  e711819    lock trigger type "ChangeTrtypeOwner" (locked)
+  "Locked except for users: e041467 e702445 e704548 e721877 e730056 e722159 e041467 e711819 e582601 e181438"

@@ -1,0 +1,111 @@
+--06-30T10:43  clearcase_nm75 protect directory element "M:\admin_view\JLISS_GLOBAL_PVOB\.@@"
+  "CHMOD 775"
+--06-19T16:12  clearcase_nm75 protect directory element "M:\admin_view\JLISS_GLOBAL_PVOB\.@@"
+  "CHMOD 770"
+--06-19T16:12  clearcase_nm75 protect directory element "M:\admin_view\JLISS_GLOBAL_PVOB\.@@"
+  "CHMOD 775"
+--05-01T14:05  clearcase_nm75 import sync from replica "JLISS_GLOBAL_PVOB_DCW" to replica "JLISS_GLOBAL_PVOB_FL51"
+  "Imported synchronization information from replica "JLISS_GLOBAL_PVOB_DCW".
+   Row at import was: JLISS_GLOBAL_PVOB_MN51=7159 JLISS_GLOBAL_PVOB_AZ18.deleted=2 JLISS_GLOBAL_PVOB_MN10=0 JLISS_GLOBAL_PVOB_MN17=5 JLISS_GLOBAL_PVOB_FL51.deleted=0 JLISS_GLOBAL_PVOB_FL51.deleted.1=0 JLISS_GLOBAL_PVOB_CZ09=105608 JLISS_GLOBAL_PVOB_DCW=0 JLISS_GLOBAL_PVOB_FL51=49"
+--05-01T14:01  clearcase_nm75 import sync from replica "JLISS_GLOBAL_PVOB_CZ09" to replica "JLISS_GLOBAL_PVOB_FL51"
+  "Imported synchronization information from replica "JLISS_GLOBAL_PVOB_CZ09".
+   Row at import was: JLISS_GLOBAL_PVOB_MN51=7159 JLISS_GLOBAL_PVOB_AZ18.deleted=2 JLISS_GLOBAL_PVOB_MN10=0 JLISS_GLOBAL_PVOB_MN17=5 JLISS_GLOBAL_PVOB_FL51.deleted=0 JLISS_GLOBAL_PVOB_FL51.deleted.1=0 JLISS_GLOBAL_PVOB_CZ09=105608 JLISS_GLOBAL_PVOB_DCW=0 JLISS_GLOBAL_PVOB_FL51=49"
+--05-01T14:00  clearcase_nm75 export sync from replica "JLISS_GLOBAL_PVOB_FL51" to replica "JLISS_GLOBAL_PVOB_DCW"
+  "Exported synchronization information for replica "JLISS_GLOBAL_PVOB_DCW".
+   Row at export was: JLISS_GLOBAL_PVOB_MN10=0 JLISS_GLOBAL_PVOB_AZ18.deleted=2 JLISS_GLOBAL_PVOB_FL51.deleted.1=0 JLISS_GLOBAL_PVOB_FL51.deleted=0 JLISS_GLOBAL_PVOB_FL51=49 JLISS_GLOBAL_PVOB_CZ09=105608 JLISS_GLOBAL_PVOB_MN51=7159 JLISS_GLOBAL_PVOB_MN17=4 JLISS_GLOBAL_PVOB_DCW=0"
+--05-01T13:57  clearcase_nm75 import sync from replica "JLISS_GLOBAL_PVOB_MN17" to replica "JLISS_GLOBAL_PVOB_FL51"
+  "Imported synchronization information from replica "JLISS_GLOBAL_PVOB_MN17".
+   Row at import was: JLISS_GLOBAL_PVOB_MN51=7159 JLISS_GLOBAL_PVOB_AZ18.deleted=2 JLISS_GLOBAL_PVOB_MN10=0 JLISS_GLOBAL_PVOB_MN17=4 JLISS_GLOBAL_PVOB_FL51.deleted=0 JLISS_GLOBAL_PVOB_FL51.deleted.1=0 JLISS_GLOBAL_PVOB_CZ09=105608 JLISS_GLOBAL_PVOB_DCW=0 JLISS_GLOBAL_PVOB_FL51=49"
+--05-01T13:57  e704548    change master to "JLISS_GLOBAL_PVOB_DCW" of replica "JLISS_GLOBAL_PVOB_DCW"
+  "Changed master replica from "JLISS_GLOBAL_PVOB_MN17" to "JLISS_GLOBAL_PVOB_DCW"."
+--05-01T13:56  clearcase_nm75 import sync from replica "JLISS_GLOBAL_PVOB_MN17" to replica "JLISS_GLOBAL_PVOB_FL51"
+  "Imported synchronization information from replica "JLISS_GLOBAL_PVOB_MN17".
+   Row at import was: JLISS_GLOBAL_PVOB_MN51=7159 JLISS_GLOBAL_PVOB_AZ18.deleted=2 JLISS_GLOBAL_PVOB_MN10=0 JLISS_GLOBAL_PVOB_MN17=4 JLISS_GLOBAL_PVOB_FL51.deleted=0 JLISS_GLOBAL_PVOB_FL51.deleted.1=0 JLISS_GLOBAL_PVOB_CZ09=105608 JLISS_GLOBAL_PVOB_DCW=0 JLISS_GLOBAL_PVOB_FL51=49"
+--05-01T13:21  clearcase_nm75 import sync from replica "JLISS_GLOBAL_PVOB_CZ09" to replica "JLISS_GLOBAL_PVOB_FL51"
+  "Imported synchronization information from replica "JLISS_GLOBAL_PVOB_CZ09".
+   Row at import was: JLISS_GLOBAL_PVOB_MN51=7159 JLISS_GLOBAL_PVOB_AZ18.deleted=2 JLISS_GLOBAL_PVOB_MN10=0 JLISS_GLOBAL_PVOB_MN17=4 JLISS_GLOBAL_PVOB_FL51.deleted=0 JLISS_GLOBAL_PVOB_FL51.deleted.1=0 JLISS_GLOBAL_PVOB_CZ09=105608 JLISS_GLOBAL_PVOB_DCW=0 JLISS_GLOBAL_PVOB_FL51=49"
+--05-01T13:16  clearcase_nm75 import sync from replica "JLISS_GLOBAL_PVOB_DCW" to replica "JLISS_GLOBAL_PVOB_FL51"
+  "Imported synchronization information from replica "JLISS_GLOBAL_PVOB_DCW".
+   Row at import was: JLISS_GLOBAL_PVOB_MN51=7159 JLISS_GLOBAL_PVOB_AZ18=2 JLISS_GLOBAL_PVOB_MN10=0 JLISS_GLOBAL_PVOB_MN17=0 JLISS_GLOBAL_PVOB_FL51.deleted=0 JLISS_GLOBAL_PVOB_FL51.deleted.1=0 JLISS_GLOBAL_PVOB_CZ09=105608 JLISS_GLOBAL_PVOB_DCW=0 JLISS_GLOBAL_PVOB_FL51=49"
+--05-01T13:06  e704548    rename replica "JLISS_GLOBAL_PVOB_AZ18.deleted"
+  "Changed name of replica from "JLISS_GLOBAL_PVOB_AZ18" to "JLISS_GLOBAL_PVOB_AZ18.deleted".
+   Destroyed replica "JLISS_GLOBAL_PVOB_AZ18"."
+--05-01T13:06  e704548    destroy replica in versioned object base "\JLISS_GLOBAL_PVOB"
+  "Destroyed replica "JLISS_GLOBAL_PVOB_AZ18"."
+--05-01T13:06  e704548    change master to "JLISS_GLOBAL_PVOB_MN17" of replica "JLISS_GLOBAL_PVOB_DCW"
+  "Changed master replica from "JLISS_GLOBAL_PVOB_AZ18" to "JLISS_GLOBAL_PVOB_MN17"."
+--05-01T13:06  e704548    change master to "JLISS_GLOBAL_PVOB_MN17" of replica "JLISS_GLOBAL_PVOB_CZ09"
+  "Changed master replica from "JLISS_GLOBAL_PVOB_AZ18" to "JLISS_GLOBAL_PVOB_MN17"."
+--05-01T13:06  e704548    change master to "JLISS_GLOBAL_PVOB_MN17" of replica "JLISS_GLOBAL_PVOB_AZ18.deleted"
+  "Changed master replica from "JLISS_GLOBAL_PVOB_AZ18" to "JLISS_GLOBAL_PVOB_MN17"."
+--03-25T11:51  clearcase_nm75 export sync from replica "JLISS_GLOBAL_PVOB_FL51" to replica "JLISS_GLOBAL_PVOB_DCW"
+  "Exported synchronization information for replica "JLISS_GLOBAL_PVOB_DCW".
+   Row at export was: JLISS_GLOBAL_PVOB_MN10=0 JLISS_GLOBAL_PVOB_AZ18=1 JLISS_GLOBAL_PVOB_FL51.deleted.1=0 JLISS_GLOBAL_PVOB_FL51.deleted=0 JLISS_GLOBAL_PVOB_FL51=35 JLISS_GLOBAL_PVOB_CZ09=103863 JLISS_GLOBAL_PVOB_MN51=7159 JLISS_GLOBAL_PVOB_MN17=0 JLISS_GLOBAL_PVOB_DCW=0"
+--03-18T10:20  clearcase_nm75 export sync from replica "JLISS_GLOBAL_PVOB_FL51" to replica "JLISS_GLOBAL_PVOB_AZ18.deleted"
+  "Exported synchronization information for replica "JLISS_GLOBAL_PVOB_AZ18".
+   Row at export was: JLISS_GLOBAL_PVOB_MN10=0 JLISS_GLOBAL_PVOB_AZ18=2 JLISS_GLOBAL_PVOB_FL51.deleted.1=0 JLISS_GLOBAL_PVOB_FL51.deleted=0 JLISS_GLOBAL_PVOB_FL51=49 JLISS_GLOBAL_PVOB_CZ09=105607 JLISS_GLOBAL_PVOB_MN51=7159 JLISS_GLOBAL_PVOB_MN17=0 JLISS_GLOBAL_PVOB_DCW=0"
+--03-18T10:20  clearcase_nm75 import sync from replica "JLISS_GLOBAL_PVOB_DCW" to replica "JLISS_GLOBAL_PVOB_FL51"
+  "Imported synchronization information from replica "JLISS_GLOBAL_PVOB_DCW".
+   Row at import was: JLISS_GLOBAL_PVOB_MN51=7159 JLISS_GLOBAL_PVOB_AZ18=2 JLISS_GLOBAL_PVOB_MN10=0 JLISS_GLOBAL_PVOB_MN17=0 JLISS_GLOBAL_PVOB_FL51.deleted=0 JLISS_GLOBAL_PVOB_FL51.deleted.1=0 JLISS_GLOBAL_PVOB_CZ09=105608 JLISS_GLOBAL_PVOB_DCW=0 JLISS_GLOBAL_PVOB_FL51=49"
+--03-18T10:20  clearcase_nm75 import sync from replica "JLISS_GLOBAL_PVOB_CZ09" to replica "JLISS_GLOBAL_PVOB_FL51"
+  "Imported synchronization information from replica "JLISS_GLOBAL_PVOB_CZ09".
+   Row at import was: JLISS_GLOBAL_PVOB_MN51=7159 JLISS_GLOBAL_PVOB_AZ18=2 JLISS_GLOBAL_PVOB_MN10=0 JLISS_GLOBAL_PVOB_MN17=0 JLISS_GLOBAL_PVOB_FL51.deleted=0 JLISS_GLOBAL_PVOB_FL51.deleted.1=0 JLISS_GLOBAL_PVOB_CZ09=105607 JLISS_GLOBAL_PVOB_DCW=0 JLISS_GLOBAL_PVOB_FL51=49"
+--03-18T10:10  clearcase_nm75 export sync from replica "JLISS_GLOBAL_PVOB_FL51" to replica "JLISS_GLOBAL_PVOB_AZ18.deleted"
+  "Exported synchronization information for replica "JLISS_GLOBAL_PVOB_AZ18".
+   Row at export was: JLISS_GLOBAL_PVOB_MN10=0 JLISS_GLOBAL_PVOB_AZ18=2 JLISS_GLOBAL_PVOB_FL51.deleted.1=0 JLISS_GLOBAL_PVOB_FL51.deleted=0 JLISS_GLOBAL_PVOB_FL51=49 JLISS_GLOBAL_PVOB_CZ09=105604 JLISS_GLOBAL_PVOB_MN51=7159 JLISS_GLOBAL_PVOB_MN17=0 JLISS_GLOBAL_PVOB_DCW=0"
+--03-18T10:10  clearcase_nm75 import sync from replica "JLISS_GLOBAL_PVOB_DCW" to replica "JLISS_GLOBAL_PVOB_FL51"
+  "Imported synchronization information from replica "JLISS_GLOBAL_PVOB_DCW".
+   Row at import was: JLISS_GLOBAL_PVOB_MN51=7159 JLISS_GLOBAL_PVOB_AZ18=2 JLISS_GLOBAL_PVOB_MN10=0 JLISS_GLOBAL_PVOB_MN17=0 JLISS_GLOBAL_PVOB_FL51.deleted=0 JLISS_GLOBAL_PVOB_FL51.deleted.1=0 JLISS_GLOBAL_PVOB_CZ09=105607 JLISS_GLOBAL_PVOB_DCW=0 JLISS_GLOBAL_PVOB_FL51=49"
+--03-18T10:10  clearcase_nm75 import sync from replica "JLISS_GLOBAL_PVOB_CZ09" to replica "JLISS_GLOBAL_PVOB_FL51"
+  "Imported synchronization information from replica "JLISS_GLOBAL_PVOB_CZ09".
+   Row at import was: JLISS_GLOBAL_PVOB_MN51=7159 JLISS_GLOBAL_PVOB_AZ18=2 JLISS_GLOBAL_PVOB_MN10=0 JLISS_GLOBAL_PVOB_MN17=0 JLISS_GLOBAL_PVOB_FL51.deleted=0 JLISS_GLOBAL_PVOB_FL51.deleted.1=0 JLISS_GLOBAL_PVOB_CZ09=105604 JLISS_GLOBAL_PVOB_DCW=0 JLISS_GLOBAL_PVOB_FL51=49"
+--03-18T10:07  E467704    set work for activity "e467704_JLISS_GLOBAL_SINGLE"
+  "User "SVMap" in view "cz09nt43:d:\ClearCase_Storage\views\GLOBAL\E467704\e467704_JLISS_GLOBAL_SINGLE.1.vws"."
+--03-18T10:01  E467704    set work for activity "JLISS_GLOBAL_SINGLE_int"
+  "User "SVMap" in view "cz09nt43:d:\ClearCase_Storage\views\GLOBAL\E467704\e467704_JLISS_GLOBAL_SINGLE_int.1.vws"."
+--03-18T10:01  clearcase_nm75 unset work for activity "JLISS_GLOBAL_SINGLE_int"
+--03-18T10:00  clearcase_nm75 export sync from replica "JLISS_GLOBAL_PVOB_FL51" to replica "JLISS_GLOBAL_PVOB_AZ18.deleted"
+  "Exported synchronization information for replica "JLISS_GLOBAL_PVOB_AZ18".
+   Row at export was: JLISS_GLOBAL_PVOB_MN10=0 JLISS_GLOBAL_PVOB_AZ18=2 JLISS_GLOBAL_PVOB_FL51.deleted.1=0 JLISS_GLOBAL_PVOB_FL51.deleted=0 JLISS_GLOBAL_PVOB_FL51=49 JLISS_GLOBAL_PVOB_CZ09=105603 JLISS_GLOBAL_PVOB_MN51=7159 JLISS_GLOBAL_PVOB_MN17=0 JLISS_GLOBAL_PVOB_DCW=0"
+--03-18T10:00  E467704    set work for activity "JLISS_GLOBAL_SINGLE_int"
+  "User "SVMap" in view "cz09nt43:d:\ClearCase_Storage\views\GLOBAL\E467704\e467704_JLISS_GLOBAL_SINGLE_int.1.vws"."
+--03-18T10:00  clearcase_nm75 import sync from replica "JLISS_GLOBAL_PVOB_DCW" to replica "JLISS_GLOBAL_PVOB_FL51"
+  "Imported synchronization information from replica "JLISS_GLOBAL_PVOB_DCW".
+   Row at import was: JLISS_GLOBAL_PVOB_MN51=7159 JLISS_GLOBAL_PVOB_AZ18=2 JLISS_GLOBAL_PVOB_MN10=0 JLISS_GLOBAL_PVOB_MN17=0 JLISS_GLOBAL_PVOB_FL51.deleted=0 JLISS_GLOBAL_PVOB_FL51.deleted.1=0 JLISS_GLOBAL_PVOB_CZ09=105604 JLISS_GLOBAL_PVOB_DCW=0 JLISS_GLOBAL_PVOB_FL51=49"
+--03-18T10:00  clearcase_nm75 import sync from replica "JLISS_GLOBAL_PVOB_CZ09" to replica "JLISS_GLOBAL_PVOB_FL51"
+  "Imported synchronization information from replica "JLISS_GLOBAL_PVOB_CZ09".
+   Row at import was: JLISS_GLOBAL_PVOB_MN51=7159 JLISS_GLOBAL_PVOB_AZ18=2 JLISS_GLOBAL_PVOB_MN10=0 JLISS_GLOBAL_PVOB_MN17=0 JLISS_GLOBAL_PVOB_FL51.deleted=0 JLISS_GLOBAL_PVOB_FL51.deleted.1=0 JLISS_GLOBAL_PVOB_CZ09=105603 JLISS_GLOBAL_PVOB_DCW=0 JLISS_GLOBAL_PVOB_FL51=49"
+--03-18T09:48  clearcase_nm75 unset work for activity "jliss_dev_new"
+--03-18T09:10  clearcase_nm75 export sync from replica "JLISS_GLOBAL_PVOB_FL51" to replica "JLISS_GLOBAL_PVOB_AZ18.deleted"
+  "Exported synchronization information for replica "JLISS_GLOBAL_PVOB_AZ18".
+   Row at export was: JLISS_GLOBAL_PVOB_MN10=0 JLISS_GLOBAL_PVOB_AZ18=2 JLISS_GLOBAL_PVOB_FL51.deleted.1=0 JLISS_GLOBAL_PVOB_FL51.deleted=0 JLISS_GLOBAL_PVOB_FL51=49 JLISS_GLOBAL_PVOB_CZ09=105592 JLISS_GLOBAL_PVOB_MN51=7159 JLISS_GLOBAL_PVOB_MN17=0 JLISS_GLOBAL_PVOB_DCW=0"
+--03-18T09:10  clearcase_nm75 import sync from replica "JLISS_GLOBAL_PVOB_DCW" to replica "JLISS_GLOBAL_PVOB_FL51"
+  "Imported synchronization information from replica "JLISS_GLOBAL_PVOB_DCW".
+   Row at import was: JLISS_GLOBAL_PVOB_MN51=7159 JLISS_GLOBAL_PVOB_AZ18=2 JLISS_GLOBAL_PVOB_MN10=0 JLISS_GLOBAL_PVOB_MN17=0 JLISS_GLOBAL_PVOB_FL51.deleted=0 JLISS_GLOBAL_PVOB_FL51.deleted.1=0 JLISS_GLOBAL_PVOB_CZ09=105603 JLISS_GLOBAL_PVOB_DCW=0 JLISS_GLOBAL_PVOB_FL51=49"
+--03-18T09:10  clearcase_nm75 import sync from replica "JLISS_GLOBAL_PVOB_CZ09" to replica "JLISS_GLOBAL_PVOB_FL51"
+  "Imported synchronization information from replica "JLISS_GLOBAL_PVOB_CZ09".
+   Row at import was: JLISS_GLOBAL_PVOB_MN51=7159 JLISS_GLOBAL_PVOB_AZ18=2 JLISS_GLOBAL_PVOB_MN10=0 JLISS_GLOBAL_PVOB_MN17=0 JLISS_GLOBAL_PVOB_FL51.deleted=0 JLISS_GLOBAL_PVOB_FL51.deleted.1=0 JLISS_GLOBAL_PVOB_CZ09=105592 JLISS_GLOBAL_PVOB_DCW=0 JLISS_GLOBAL_PVOB_FL51=49"
+--03-18T08:57  E467704    set work for activity "jliss_dev_new"
+  "User "SVMap" in view "cz09nt43:d:\ClearCase_Storage\views\GLOBAL\E467704\jliss_dev_new.vws"."
+--03-18T08:57  E467704    set process variable on activity "internal140318.135750"
+  "Set activity process variable named "SUM_Stream_special_folder_type"."
+--03-18T08:57  E467704    make folder "internal140318.135750"
+--03-18T08:57  E467704    set process variable on activity "internal140318.135749"
+  "Set activity process variable named "SUM_Stream_special_folder_type"."
+--03-18T08:57  E467704    make folder "internal140318.135749"
+--03-18T08:57  E467704    change stream "jliss_dev_new"
+  "Updated config_spec.
+   Regenerated config spec"
+--03-18T08:57  E467704    set process variable on activity "jliss_dev_new"
+  "Set activity process variable named "SUM_CSPEC_ID"."
+--03-18T08:57  E467704    make hyperlink "UseBaseline" on activity "jliss_dev_new"
+--03-18T08:57  E467704    make hyperlink "UseBaseline" on baseline "JLISS_GLOBAL_SINGLE_7_16_2013"
+--03-18T08:57  E467704    create hyperlink "UseBaseline@57591@\JLISS_GLOBAL_PVOB"
+--03-18T08:57  E467704    make hyperlink "IndependentGuard" on activity "jliss_dev_new"
+--03-18T08:57  E467704    make hyperlink "IndependentGuard" on branch type "jliss_dev_new"
+--03-18T08:57  E467704    create hyperlink "IndependentGuard@57590@\JLISS_GLOBAL_PVOB"
+--03-18T08:57  E467704    create branch type "jliss_dev_new"
+--03-18T08:57  E467704    make stream "jliss_dev_new"
+--03-13T06:20  clearcase_nm75 export sync from replica "JLISS_GLOBAL_PVOB_FL51" to replica "JLISS_GLOBAL_PVOB_AZ18.deleted"
+  "Exported synchronization information for replica "JLISS_GLOBAL_PVOB_AZ18".
+   Row at export was: JLISS_GLOBAL_PVOB_MN10=0 JLISS_GLOBAL_PVOB_AZ18=2 JLISS_GLOBAL_PVOB_FL51.deleted.1=0 JLISS_GLOBAL_PVOB_FL51.deleted=0 JLISS_GLOBAL_PVOB_FL51=49 JLISS_GLOBAL_PVOB_CZ09=105581 JLISS_GLOBAL_PVOB_MN51=7159 JLISS_GLOBAL_PVOB_MN17=0 JLISS_GLOBAL_PVOB_DCW=0"

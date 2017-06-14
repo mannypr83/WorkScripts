@@ -1,0 +1,131 @@
+--06-30T10:45  clearcase_nm75 protect directory element "M:\admin_view\RTOS_DDCI_NC\.@@"
+  "CHMOD 775"
+--06-19T22:10  clearcase_nm75 protect directory element "M:\admin_view\RTOS_DDCI_NC\.@@"
+  "CHMOD 770"
+--06-19T22:10  clearcase_nm75 protect directory element "M:\admin_view\RTOS_DDCI_NC\.@@"
+  "CHMOD 775"
+--06-16T08:06  clearcase_nm75 import sync from replica "RTOS_DDCI_NC_WA05" to replica "RTOS_DDCI_NC_FL51"
+  "Imported synchronization information from replica "RTOS_DDCI_NC_WA05".
+   Row at import was: RTOS_DDCI_NC_AZ75=308 RTOS_DDCI_NC_NM75=1 RTOS_DDCI_NC_DCW=0 RTOS_DDCI_NC_WA05=0 RTOS_DDCI_NC_MN17=0 RTOS_DDCI_NC_CZ09=0 RTOS_DDCI_NC_ON98=0 RTOS_DDCI_NC_CH01=0 RTOS_DDCI_NC_IE10=1 RTOS_DDCI_NC_AZ10=1 RTOS_DDCI_NC_FL51=0"
+--06-16T08:01  clearcase_nm75 import sync from replica "RTOS_DDCI_NC_AZ10" to replica "RTOS_DDCI_NC_FL51"
+  "Imported synchronization information from replica "RTOS_DDCI_NC_AZ10".
+   Row at import was: RTOS_DDCI_NC_AZ75=308 RTOS_DDCI_NC_NM75=1 RTOS_DDCI_NC_DCW=0 RTOS_DDCI_NC_WA05=0 RTOS_DDCI_NC_MN17=0 RTOS_DDCI_NC_CZ09=0 RTOS_DDCI_NC_ON98=0 RTOS_DDCI_NC_CH01=0 RTOS_DDCI_NC_IE10=1 RTOS_DDCI_NC_AZ10=1 RTOS_DDCI_NC_FL51=0"
+--06-16T08:01  clearcase_nm75 import sync from replica "RTOS_DDCI_NC_ON98" to replica "RTOS_DDCI_NC_FL51"
+  "Imported synchronization information from replica "RTOS_DDCI_NC_ON98".
+   Row at import was: RTOS_DDCI_NC_AZ75=308 RTOS_DDCI_NC_NM75=1 RTOS_DDCI_NC_DCW=0 RTOS_DDCI_NC_WA05=0 RTOS_DDCI_NC_MN17=0 RTOS_DDCI_NC_CZ09=0 RTOS_DDCI_NC_ON98=0 RTOS_DDCI_NC_CH01=0 RTOS_DDCI_NC_IE10=1 RTOS_DDCI_NC_AZ10=1 RTOS_DDCI_NC_FL51=0"
+--06-16T07:57  clearcase_nm75 import sync from replica "RTOS_DDCI_NC_CZ09" to replica "RTOS_DDCI_NC_FL51"
+  "Imported synchronization information from replica "RTOS_DDCI_NC_CZ09".
+   Row at import was: RTOS_DDCI_NC_AZ75=308 RTOS_DDCI_NC_NM75=1 RTOS_DDCI_NC_DCW=0 RTOS_DDCI_NC_WA05=0 RTOS_DDCI_NC_MN17=0 RTOS_DDCI_NC_CZ09=0 RTOS_DDCI_NC_ON98=0 RTOS_DDCI_NC_CH01=0 RTOS_DDCI_NC_IE10=1 RTOS_DDCI_NC_AZ10=1 RTOS_DDCI_NC_FL51=0"
+--06-16T07:55  clearcase_nm75 import sync from replica "RTOS_DDCI_NC_DCW" to replica "RTOS_DDCI_NC_FL51"
+  "Imported synchronization information from replica "RTOS_DDCI_NC_DCW".
+   Row at import was: RTOS_DDCI_NC_AZ75=308 RTOS_DDCI_NC_NM75=0 RTOS_DDCI_NC_DCW=0 RTOS_DDCI_NC_WA05=0 RTOS_DDCI_NC_MN17=0 RTOS_DDCI_NC_CZ09=0 RTOS_DDCI_NC_ON98=0 RTOS_DDCI_NC_CH01=0 RTOS_DDCI_NC_IE10=1 RTOS_DDCI_NC_AZ10=1 RTOS_DDCI_NC_FL51=0"
+--06-16T07:47  E704548    import sync to replica "RTOS_DDCI_NC_NM75"
+  "Changed information associated with replica."
+--06-05T18:34  clearcase_nm75 import sync from replica "RTOS_DDCI_NC_WA05" to replica "RTOS_DDCI_NC_FL51"
+  "Imported synchronization information from replica "RTOS_DDCI_NC_WA05".
+   Row at import was: RTOS_DDCI_NC_AZ75=308 RTOS_DDCI_NC_NM75=0 RTOS_DDCI_NC_DCW=0 RTOS_DDCI_NC_WA05=0 RTOS_DDCI_NC_MN17=0 RTOS_DDCI_NC_CZ09=0 RTOS_DDCI_NC_ON98=0 RTOS_DDCI_NC_CH01=0 RTOS_DDCI_NC_IE10=1 RTOS_DDCI_NC_AZ10=1 RTOS_DDCI_NC_FL51=0"
+--06-05T17:22  clearcase_nm75 import sync from replica "RTOS_DDCI_NC_ON98" to replica "RTOS_DDCI_NC_FL51"
+  "Imported synchronization information from replica "RTOS_DDCI_NC_ON98".
+   Row at import was: RTOS_DDCI_NC_AZ75=308 RTOS_DDCI_NC_NM75=0 RTOS_DDCI_NC_DCW=0 RTOS_DDCI_NC_WA05=0 RTOS_DDCI_NC_MN17=0 RTOS_DDCI_NC_CZ09=0 RTOS_DDCI_NC_ON98=0 RTOS_DDCI_NC_CH01=0 RTOS_DDCI_NC_IE10=1 RTOS_DDCI_NC_AZ10=1 RTOS_DDCI_NC_FL51=0"
+--06-05T16:41  clearcase_nm75 import sync from replica "RTOS_DDCI_NC_AZ10" to replica "RTOS_DDCI_NC_FL51"
+  "Imported synchronization information from replica "RTOS_DDCI_NC_AZ10".
+   Row at import was: RTOS_DDCI_NC_AZ75=308 RTOS_DDCI_NC_NM75=0 RTOS_DDCI_NC_DCW=0 RTOS_DDCI_NC_WA05=0 RTOS_DDCI_NC_MN17=0 RTOS_DDCI_NC_CZ09=0 RTOS_DDCI_NC_ON98=0 RTOS_DDCI_NC_CH01=0 RTOS_DDCI_NC_IE10=1 RTOS_DDCI_NC_AZ10=1 RTOS_DDCI_NC_FL51=0"
+--06-05T16:07  clearcase_nm75 import sync from replica "RTOS_DDCI_NC_CZ09" to replica "RTOS_DDCI_NC_FL51"
+  "Imported synchronization information from replica "RTOS_DDCI_NC_CZ09".
+   Row at import was: RTOS_DDCI_NC_AZ75=308 RTOS_DDCI_NC_NM75=0 RTOS_DDCI_NC_DCW=0 RTOS_DDCI_NC_WA05=0 RTOS_DDCI_NC_MN17=0 RTOS_DDCI_NC_CZ09=0 RTOS_DDCI_NC_ON98=0 RTOS_DDCI_NC_CH01=0 RTOS_DDCI_NC_IE10=1 RTOS_DDCI_NC_AZ10=1 RTOS_DDCI_NC_FL51=0"
+--06-05T15:28  clearcase_nm75 import sync from replica "RTOS_DDCI_NC_DCW" to replica "RTOS_DDCI_NC_FL51"
+  "Imported synchronization information from replica "RTOS_DDCI_NC_DCW".
+   Row at import was: RTOS_DDCI_NC_AZ75=306 RTOS_DDCI_NC_NM75=0 RTOS_DDCI_NC_DCW=0 RTOS_DDCI_NC_WA05=0 RTOS_DDCI_NC_MN17=0 RTOS_DDCI_NC_CZ09=0 RTOS_DDCI_NC_ON98=0 RTOS_DDCI_NC_CH01=0 RTOS_DDCI_NC_IE10=1 RTOS_DDCI_NC_AZ10=1 RTOS_DDCI_NC_FL51=0"
+--06-05T15:16  clearcase_nm75 import sync from replica "RTOS_DDCI_NC_DCW" to replica "RTOS_DDCI_NC_FL51"
+  "Imported synchronization information from replica "RTOS_DDCI_NC_DCW".
+   Row at import was: RTOS_DDCI_NC_AZ75=306 RTOS_DDCI_NC_NM75=0 RTOS_DDCI_NC_DCW=0 RTOS_DDCI_NC_WA05=0 RTOS_DDCI_NC_MN17=0 RTOS_DDCI_NC_CZ09=0 RTOS_DDCI_NC_ON98=0 RTOS_DDCI_NC_CH01=0 RTOS_DDCI_NC_IE10=1 RTOS_DDCI_NC_AZ10=1 RTOS_DDCI_NC_FL51=0"
+--06-05T15:11  clearcase_nm75 import sync from replica "RTOS_DDCI_NC_ON98" to replica "RTOS_DDCI_NC_FL51"
+  "Imported synchronization information from replica "RTOS_DDCI_NC_ON98".
+   Row at import was: RTOS_DDCI_NC_AZ75=306 RTOS_DDCI_NC_NM75=0 RTOS_DDCI_NC_DCW=0 RTOS_DDCI_NC_WA05=0 RTOS_DDCI_NC_MN17=0 RTOS_DDCI_NC_CZ09=0 RTOS_DDCI_NC_ON98=0 RTOS_DDCI_NC_CH01=0 RTOS_DDCI_NC_IE10=1 RTOS_DDCI_NC_AZ10=1 RTOS_DDCI_NC_FL51=0"
+--06-05T15:07  clearcase_nm75 import sync from replica "RTOS_DDCI_NC_CZ09" to replica "RTOS_DDCI_NC_FL51"
+  "Imported synchronization information from replica "RTOS_DDCI_NC_CZ09".
+   Row at import was: RTOS_DDCI_NC_AZ75=306 RTOS_DDCI_NC_NM75=0 RTOS_DDCI_NC_DCW=0 RTOS_DDCI_NC_WA05=0 RTOS_DDCI_NC_MN17=0 RTOS_DDCI_NC_CZ09=0 RTOS_DDCI_NC_ON98=0 RTOS_DDCI_NC_CH01=0 RTOS_DDCI_NC_IE10=1 RTOS_DDCI_NC_AZ10=1 RTOS_DDCI_NC_FL51=0"
+--06-05T15:06  clearcase_nm75 import sync from replica "RTOS_DDCI_NC_WA05" to replica "RTOS_DDCI_NC_FL51"
+  "Imported synchronization information from replica "RTOS_DDCI_NC_WA05".
+   Row at import was: RTOS_DDCI_NC_AZ75=306 RTOS_DDCI_NC_NM75=0 RTOS_DDCI_NC_DCW=0 RTOS_DDCI_NC_WA05=0 RTOS_DDCI_NC_MN17=0 RTOS_DDCI_NC_CZ09=0 RTOS_DDCI_NC_ON98=0 RTOS_DDCI_NC_CH01=0 RTOS_DDCI_NC_IE10=1 RTOS_DDCI_NC_AZ10=1 RTOS_DDCI_NC_FL51=0"
+--06-05T15:00  clearcase_nm75 import sync from replica "RTOS_DDCI_NC_AZ10" to replica "RTOS_DDCI_NC_FL51"
+  "Imported synchronization information from replica "RTOS_DDCI_NC_AZ10".
+   Row at import was: RTOS_DDCI_NC_AZ75=302 RTOS_DDCI_NC_NM75=0 RTOS_DDCI_NC_DCW=0 RTOS_DDCI_NC_WA05=0 RTOS_DDCI_NC_MN17=0 RTOS_DDCI_NC_CZ09=0 RTOS_DDCI_NC_ON98=0 RTOS_DDCI_NC_CH01=0 RTOS_DDCI_NC_IE10=1 RTOS_DDCI_NC_AZ10=1 RTOS_DDCI_NC_FL51=0"
+--06-05T14:43  e718929    create directory version "M:\admin_view\RTOS_DDCI_NC\DDS_Suite\Deos653@@\main\26"
+  "DDC-I 2014-06-04 delivery.
+    
+   Added file element "DDS20140604.iso"."
+--06-05T14:43  e718929    add name to directory version "M:\admin_view\RTOS_DDCI_NC\DDS_Suite\Deos653@@\main\26"
+  "DDC-I 2014-06-04 delivery."
+--06-05T14:43  e718929    create version "M:\admin_view\RTOS_DDCI_NC\DDS_Suite\Deos653\DDS20140604.iso@@\main\1"
+  "DDC-I 2014-06-04 delivery."
+--06-05T14:43  e718929    create version "M:\admin_view\RTOS_DDCI_NC\DDS_Suite\Deos653\DDS20140604.iso@@\main\0"
+--06-05T14:43  e718929    create branch "M:\admin_view\RTOS_DDCI_NC\DDS_Suite\Deos653\DDS20140604.iso@@\main"
+--06-05T14:43  e718929    create file element "M:\admin_view\RTOS_DDCI_NC\DDS_Suite\Deos653\DDS20140604.iso@@"
+  "DDC-I 2014-06-04 delivery."
+--06-01T06:01  clearcase_nm75 import sync from replica "RTOS_DDCI_NC_ON98" to replica "RTOS_DDCI_NC_FL51"
+  "Imported synchronization information from replica "RTOS_DDCI_NC_ON98".
+   Row at import was: RTOS_DDCI_NC_AZ75=302 RTOS_DDCI_NC_NM75=0 RTOS_DDCI_NC_DCW=0 RTOS_DDCI_NC_WA05=0 RTOS_DDCI_NC_MN17=0 RTOS_DDCI_NC_CZ09=0 RTOS_DDCI_NC_ON98=0 RTOS_DDCI_NC_CH01=0 RTOS_DDCI_NC_IE10=1 RTOS_DDCI_NC_AZ10=1 RTOS_DDCI_NC_FL51=0"
+--06-01T02:06  clearcase_nm75 import sync from replica "RTOS_DDCI_NC_WA05" to replica "RTOS_DDCI_NC_FL51"
+  "Imported synchronization information from replica "RTOS_DDCI_NC_WA05".
+   Row at import was: RTOS_DDCI_NC_AZ75=302 RTOS_DDCI_NC_NM75=0 RTOS_DDCI_NC_DCW=0 RTOS_DDCI_NC_WA05=0 RTOS_DDCI_NC_MN17=0 RTOS_DDCI_NC_CZ09=0 RTOS_DDCI_NC_ON98=0 RTOS_DDCI_NC_CH01=0 RTOS_DDCI_NC_IE10=1 RTOS_DDCI_NC_AZ10=1 RTOS_DDCI_NC_FL51=0"
+--06-01T02:00  clearcase_nm75 import sync from replica "RTOS_DDCI_NC_AZ10" to replica "RTOS_DDCI_NC_FL51"
+  "Imported synchronization information from replica "RTOS_DDCI_NC_AZ10".
+   Row at import was: RTOS_DDCI_NC_AZ75=302 RTOS_DDCI_NC_NM75=0 RTOS_DDCI_NC_DCW=0 RTOS_DDCI_NC_WA05=0 RTOS_DDCI_NC_MN17=0 RTOS_DDCI_NC_CZ09=0 RTOS_DDCI_NC_ON98=0 RTOS_DDCI_NC_CH01=0 RTOS_DDCI_NC_IE10=1 RTOS_DDCI_NC_AZ10=1 RTOS_DDCI_NC_FL51=0"
+--06-01T01:57  clearcase_nm75 import sync from replica "RTOS_DDCI_NC_CZ09" to replica "RTOS_DDCI_NC_FL51"
+  "Imported synchronization information from replica "RTOS_DDCI_NC_CZ09".
+   Row at import was: RTOS_DDCI_NC_AZ75=302 RTOS_DDCI_NC_NM75=0 RTOS_DDCI_NC_DCW=0 RTOS_DDCI_NC_WA05=0 RTOS_DDCI_NC_MN17=0 RTOS_DDCI_NC_CZ09=0 RTOS_DDCI_NC_ON98=0 RTOS_DDCI_NC_CH01=0 RTOS_DDCI_NC_IE10=1 RTOS_DDCI_NC_AZ10=1 RTOS_DDCI_NC_FL51=0"
+--06-01T01:55  clearcase_nm75 import sync from replica "RTOS_DDCI_NC_DCW" to replica "RTOS_DDCI_NC_FL51"
+  "Imported synchronization information from replica "RTOS_DDCI_NC_DCW".
+   Row at import was: RTOS_DDCI_NC_AZ75=302 RTOS_DDCI_NC_NM75=0 RTOS_DDCI_NC_DCW=0 RTOS_DDCI_NC_WA05=0 RTOS_DDCI_NC_MN17=0 RTOS_DDCI_NC_CZ09=0 RTOS_DDCI_NC_ON98=0 RTOS_DDCI_NC_CH01=0 RTOS_DDCI_NC_IE10=0 RTOS_DDCI_NC_AZ10=1 RTOS_DDCI_NC_FL51=0"
+--06-01T01:46  ie10-clearcase_albd import sync to replica "RTOS_DDCI_NC_IE10"
+  "Changed information associated with replica."
+--05-31T00:05  clearcase_nm75 import sync from replica "RTOS_DDCI_NC_WA05" to replica "RTOS_DDCI_NC_FL51"
+  "Imported synchronization information from replica "RTOS_DDCI_NC_WA05".
+   Row at import was: RTOS_DDCI_NC_AZ75=302 RTOS_DDCI_NC_NM75=0 RTOS_DDCI_NC_DCW=0 RTOS_DDCI_NC_WA05=0 RTOS_DDCI_NC_MN17=0 RTOS_DDCI_NC_CZ09=0 RTOS_DDCI_NC_ON98=0 RTOS_DDCI_NC_CH01=0 RTOS_DDCI_NC_IE10=0 RTOS_DDCI_NC_AZ10=1 RTOS_DDCI_NC_FL51=0"
+--05-30T23:46  clearcase_nm75 import sync from replica "RTOS_DDCI_NC_WA05" to replica "RTOS_DDCI_NC_FL51"
+  "Imported synchronization information from replica "RTOS_DDCI_NC_WA05".
+   Row at import was: RTOS_DDCI_NC_AZ75=302 RTOS_DDCI_NC_NM75=0 RTOS_DDCI_NC_DCW=0 RTOS_DDCI_NC_WA05=0 RTOS_DDCI_NC_MN17=0 RTOS_DDCI_NC_CZ09=0 RTOS_DDCI_NC_ON98=0 RTOS_DDCI_NC_CH01=0 RTOS_DDCI_NC_IE10=0 RTOS_DDCI_NC_AZ10=1 RTOS_DDCI_NC_FL51=0"
+--05-30T22:57  clearcase_nm75 import sync from replica "RTOS_DDCI_NC_CZ09" to replica "RTOS_DDCI_NC_FL51"
+  "Imported synchronization information from replica "RTOS_DDCI_NC_CZ09".
+   Row at import was: RTOS_DDCI_NC_AZ75=302 RTOS_DDCI_NC_NM75=0 RTOS_DDCI_NC_DCW=0 RTOS_DDCI_NC_WA05=0 RTOS_DDCI_NC_MN17=0 RTOS_DDCI_NC_CZ09=0 RTOS_DDCI_NC_ON98=0 RTOS_DDCI_NC_CH01=0 RTOS_DDCI_NC_IE10=0 RTOS_DDCI_NC_AZ10=1 RTOS_DDCI_NC_FL51=0"
+--05-30T22:50  clearcase_nm75 import sync from replica "RTOS_DDCI_NC_AZ10" to replica "RTOS_DDCI_NC_FL51"
+  "Imported synchronization information from replica "RTOS_DDCI_NC_AZ10".
+   Row at import was: RTOS_DDCI_NC_AZ75=302 RTOS_DDCI_NC_NM75=0 RTOS_DDCI_NC_DCW=0 RTOS_DDCI_NC_WA05=0 RTOS_DDCI_NC_MN17=0 RTOS_DDCI_NC_CZ09=0 RTOS_DDCI_NC_ON98=0 RTOS_DDCI_NC_CH01=0 RTOS_DDCI_NC_IE10=0 RTOS_DDCI_NC_AZ10=1 RTOS_DDCI_NC_FL51=0"
+--05-30T22:42  clearcase_nm75 import sync from replica "RTOS_DDCI_NC_CZ09" to replica "RTOS_DDCI_NC_FL51"
+  "Imported synchronization information from replica "RTOS_DDCI_NC_CZ09".
+   Row at import was: RTOS_DDCI_NC_AZ75=302 RTOS_DDCI_NC_NM75=0 RTOS_DDCI_NC_DCW=0 RTOS_DDCI_NC_WA05=0 RTOS_DDCI_NC_MN17=0 RTOS_DDCI_NC_CZ09=0 RTOS_DDCI_NC_ON98=0 RTOS_DDCI_NC_CH01=0 RTOS_DDCI_NC_IE10=0 RTOS_DDCI_NC_AZ10=1 RTOS_DDCI_NC_FL51=0"
+--05-30T22:37  clearcase_nm75 import sync from replica "RTOS_DDCI_NC_AZ10" to replica "RTOS_DDCI_NC_FL51"
+  "Imported synchronization information from replica "RTOS_DDCI_NC_AZ10".
+   Row at import was: RTOS_DDCI_NC_AZ75=302 RTOS_DDCI_NC_NM75=0 RTOS_DDCI_NC_DCW=0 RTOS_DDCI_NC_WA05=0 RTOS_DDCI_NC_MN17=0 RTOS_DDCI_NC_CZ09=0 RTOS_DDCI_NC_ON98=0 RTOS_DDCI_NC_CH01=0 RTOS_DDCI_NC_IE10=0 RTOS_DDCI_NC_AZ10=1 RTOS_DDCI_NC_FL51=0"
+--05-30T22:02  clearcase_nm75 import sync from replica "RTOS_DDCI_NC_ON98" to replica "RTOS_DDCI_NC_FL51"
+  "Imported synchronization information from replica "RTOS_DDCI_NC_ON98".
+   Row at import was: RTOS_DDCI_NC_AZ75=302 RTOS_DDCI_NC_NM75=0 RTOS_DDCI_NC_DCW=0 RTOS_DDCI_NC_WA05=0 RTOS_DDCI_NC_MN17=0 RTOS_DDCI_NC_CZ09=0 RTOS_DDCI_NC_ON98=0 RTOS_DDCI_NC_CH01=0 RTOS_DDCI_NC_IE10=0 RTOS_DDCI_NC_AZ10=1 RTOS_DDCI_NC_FL51=0"
+--05-30T21:52  clearcase_nm75 import sync from replica "RTOS_DDCI_NC_ON98" to replica "RTOS_DDCI_NC_FL51"
+  "Imported synchronization information from replica "RTOS_DDCI_NC_ON98".
+   Row at import was: RTOS_DDCI_NC_AZ75=302 RTOS_DDCI_NC_NM75=0 RTOS_DDCI_NC_DCW=0 RTOS_DDCI_NC_WA05=0 RTOS_DDCI_NC_MN17=0 RTOS_DDCI_NC_CZ09=0 RTOS_DDCI_NC_ON98=0 RTOS_DDCI_NC_CH01=0 RTOS_DDCI_NC_IE10=0 RTOS_DDCI_NC_AZ10=1 RTOS_DDCI_NC_FL51=0"
+--05-30T21:18  clearcase_nm75 import sync from replica "RTOS_DDCI_NC_DCW" to replica "RTOS_DDCI_NC_FL51"
+  "Imported synchronization information from replica "RTOS_DDCI_NC_DCW".
+   Row at import was: RTOS_DDCI_NC_AZ75=299 RTOS_DDCI_NC_NM75=0 RTOS_DDCI_NC_DCW=0 RTOS_DDCI_NC_WA05=0 RTOS_DDCI_NC_MN17=0 RTOS_DDCI_NC_CZ09=0 RTOS_DDCI_NC_ON98=0 RTOS_DDCI_NC_CH01=0 RTOS_DDCI_NC_IE10=0 RTOS_DDCI_NC_AZ10=1 RTOS_DDCI_NC_FL51=0"
+--05-30T21:08  clearcase_nm75 import sync from replica "RTOS_DDCI_NC_DCW" to replica "RTOS_DDCI_NC_FL51"
+  "Imported synchronization information from replica "RTOS_DDCI_NC_DCW".
+   Row at import was: RTOS_DDCI_NC_AZ75=294 RTOS_DDCI_NC_NM75=0 RTOS_DDCI_NC_DCW=0 RTOS_DDCI_NC_WA05=0 RTOS_DDCI_NC_MN17=0 RTOS_DDCI_NC_CZ09=0 RTOS_DDCI_NC_ON98=0 RTOS_DDCI_NC_CH01=0 RTOS_DDCI_NC_IE10=0 RTOS_DDCI_NC_AZ10=1 RTOS_DDCI_NC_FL51=0"
+--05-30T19:47  clearcase_nm75 import sync from replica "RTOS_DDCI_NC_AZ10" to replica "RTOS_DDCI_NC_FL51"
+  "Imported synchronization information from replica "RTOS_DDCI_NC_AZ10".
+   Row at import was: RTOS_DDCI_NC_AZ75=294 RTOS_DDCI_NC_NM75=0 RTOS_DDCI_NC_DCW=0 RTOS_DDCI_NC_WA05=0 RTOS_DDCI_NC_MN17=0 RTOS_DDCI_NC_CZ09=0 RTOS_DDCI_NC_ON98=0 RTOS_DDCI_NC_CH01=0 RTOS_DDCI_NC_IE10=0 RTOS_DDCI_NC_AZ10=1 RTOS_DDCI_NC_FL51=0"
+--05-30T19:32  clearcase_nm75 import sync from replica "RTOS_DDCI_NC_CZ09" to replica "RTOS_DDCI_NC_FL51"
+  "Imported synchronization information from replica "RTOS_DDCI_NC_CZ09".
+   Row at import was: RTOS_DDCI_NC_AZ75=294 RTOS_DDCI_NC_NM75=0 RTOS_DDCI_NC_DCW=0 RTOS_DDCI_NC_WA05=0 RTOS_DDCI_NC_MN17=0 RTOS_DDCI_NC_CZ09=0 RTOS_DDCI_NC_ON98=0 RTOS_DDCI_NC_CH01=0 RTOS_DDCI_NC_IE10=0 RTOS_DDCI_NC_AZ10=1 RTOS_DDCI_NC_FL51=0"
+--05-30T19:12  e718929    create version "M:\admin_view\RTOS_DDCI_NC\DDS_Suite\Deos653\md5sum.txt@@\main\2"
+--05-30T19:12  e718929    create directory version "M:\admin_view\RTOS_DDCI_NC\DDS_Suite\Deos653@@\main\25"
+  "Deos653 delivery from DDC-I recv'd on 2014-0530.
+    
+   Added file element "DDS20140530.iso"."
+--05-30T19:11  e718929    add name to directory version "M:\admin_view\RTOS_DDCI_NC\DDS_Suite\Deos653@@\main\25"
+  "Deos653 delivery from DDC-I recv'd on 2014-0530."
+--05-30T19:11  e718929    create version "M:\admin_view\RTOS_DDCI_NC\DDS_Suite\Deos653\DDS20140530.iso@@\main\1"
+  "Deos653 delivery from DDC-I recv'd on 2014-0530."
+--05-30T19:11  e718929    create version "M:\admin_view\RTOS_DDCI_NC\DDS_Suite\Deos653\DDS20140530.iso@@\main\0"
+--05-30T19:11  e718929    create branch "M:\admin_view\RTOS_DDCI_NC\DDS_Suite\Deos653\DDS20140530.iso@@\main"
+--05-30T19:11  e718929    create file element "M:\admin_view\RTOS_DDCI_NC\DDS_Suite\Deos653\DDS20140530.iso@@"
+  "Deos653 delivery from DDC-I recv'd on 2014-0530."

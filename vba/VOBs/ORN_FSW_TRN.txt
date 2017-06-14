@@ -1,0 +1,130 @@
+--06-30T10:42  clearcase_nm75 protect directory element "M:\admin_view\ORN_FSW_TRN\.@@"
+  "CHMOD 775"
+--06-19T15:48  clearcase_nm75 protect directory element "M:\admin_view\ORN_FSW_TRN\.@@"
+  "CHMOD 770"
+--06-19T15:48  clearcase_nm75 protect directory element "M:\admin_view\ORN_FSW_TRN\.@@"
+  "CHMOD 775"
+--05-19T14:42  clearcase_nm75 import sync from replica "ORN_FSW_TRN_KS07" to replica "ORN_FSW_TRN_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_TRN_KS07".
+   Row at import was: ORN_FSW_TRN_AZ18.deleted=21 ORN_FSW_TRN_TX0Z.deleted=1209 ORN_FSW_TRN_AZ75=135 ORN_FSW_TRN_FL1.deleted=22 ORN_FSW_TRN_NM75.deleted=0 ORN_FSW_TRN_KS07.deleted=0 ORN_FSW_TRN_KS07.deleted.1=0 ORN_FSW_TRN_KS07.deleted.2=0 ORN_FSW_TRN_KS07.deleted.3=0 ORN_FSW_TRN_KS07.deleted.4=0 ORN_FSW_TRN_MN51=0 ORN_FSW_TRN_KS07=0 ORN_FSW_TRN_DCW=0 ORN_FSW_TRN_FL51_new=0"
+--05-19T14:41  clearcase_nm75 import sync from replica "ORN_FSW_TRN_MN51" to replica "ORN_FSW_TRN_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_TRN_MN51".
+   Row at import was: ORN_FSW_TRN_AZ18.deleted=21 ORN_FSW_TRN_TX0Z.deleted=1209 ORN_FSW_TRN_AZ75=135 ORN_FSW_TRN_FL1.deleted=22 ORN_FSW_TRN_NM75.deleted=0 ORN_FSW_TRN_KS07.deleted=0 ORN_FSW_TRN_KS07.deleted.1=0 ORN_FSW_TRN_KS07.deleted.2=0 ORN_FSW_TRN_KS07.deleted.3=0 ORN_FSW_TRN_KS07.deleted.4=0 ORN_FSW_TRN_MN51=0 ORN_FSW_TRN_KS07=0 ORN_FSW_TRN_DCW=0 ORN_FSW_TRN_FL51_new=0"
+--05-19T14:41  clearcase_nm75 export sync from replica "ORN_FSW_TRN_FL51_new" to replica "ORN_FSW_TRN_DCW"
+  "Exported synchronization information for replica "ORN_FSW_TRN_DCW".
+   Row at export was: ORN_FSW_TRN_MN51=0 ORN_FSW_TRN_KS07.deleted.4=0 ORN_FSW_TRN_TX0Z.deleted=1209 ORN_FSW_TRN_NM75.deleted=0 ORN_FSW_TRN_KS07.deleted.2=0 ORN_FSW_TRN_AZ75=123 ORN_FSW_TRN_AZ18.deleted=21 ORN_FSW_TRN_KS07=0 ORN_FSW_TRN_KS07.deleted.3=0 ORN_FSW_TRN_KS07.deleted.1=0 ORN_FSW_TRN_DCW=0 ORN_FSW_TRN_KS07.deleted=0 ORN_FSW_TRN_FL51_new=0 ORN_FSW_TRN_FL1.deleted=22"
+--05-19T14:40  clearcase_nm75 import sync from replica "ORN_FSW_TRN_DCW" to replica "ORN_FSW_TRN_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_TRN_DCW".
+   Row at import was: ORN_FSW_TRN_AZ18.deleted=21 ORN_FSW_TRN_TX0Z.deleted=1209 ORN_FSW_TRN_AZ75=135 ORN_FSW_TRN_FL1.deleted=22 ORN_FSW_TRN_NM75.deleted=0 ORN_FSW_TRN_KS07.deleted=0 ORN_FSW_TRN_KS07.deleted.1=0 ORN_FSW_TRN_KS07.deleted.2=0 ORN_FSW_TRN_KS07.deleted.3=0 ORN_FSW_TRN_KS07.deleted.4=0 ORN_FSW_TRN_MN51=0 ORN_FSW_TRN_KS07=0 ORN_FSW_TRN_DCW=0 ORN_FSW_TRN_FL51_new=0"
+--05-19T14:39  clearcase_nm75 import sync from replica "ORN_FSW_TRN_AZ75" to replica "ORN_FSW_TRN_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_TRN_AZ75".
+   Row at import was: ORN_FSW_TRN_AZ18.deleted=21 ORN_FSW_TRN_TX0Z.deleted=1209 ORN_FSW_TRN_AZ75=134 ORN_FSW_TRN_FL1.deleted=22 ORN_FSW_TRN_NM75.deleted=0 ORN_FSW_TRN_KS07.deleted=0 ORN_FSW_TRN_KS07.deleted.1=0 ORN_FSW_TRN_KS07.deleted.2=0 ORN_FSW_TRN_KS07.deleted.3=0 ORN_FSW_TRN_KS07.deleted.4=0 ORN_FSW_TRN_MN51=0 ORN_FSW_TRN_KS07=0 ORN_FSW_TRN_DCW=0 ORN_FSW_TRN_FL51_new=0"
+--05-19T14:39  root       change master to "ORN_FSW_TRN_DCW" of replica "ORN_FSW_TRN_DCW"
+  "Changed master replica from "ORN_FSW_TRN_AZ75" to "ORN_FSW_TRN_DCW"."
+--05-19T14:38  clearcase_nm75 import sync from replica "ORN_FSW_TRN_AZ75" to replica "ORN_FSW_TRN_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_TRN_AZ75".
+   Row at import was: ORN_FSW_TRN_AZ18=21 ORN_FSW_TRN_TX0Z.deleted=1209 ORN_FSW_TRN_AZ75=123 ORN_FSW_TRN_FL1.deleted=22 ORN_FSW_TRN_NM75.deleted=0 ORN_FSW_TRN_KS07.deleted=0 ORN_FSW_TRN_KS07.deleted.1=0 ORN_FSW_TRN_KS07.deleted.2=0 ORN_FSW_TRN_KS07.deleted.3=0 ORN_FSW_TRN_KS07.deleted.4=0 ORN_FSW_TRN_MN51=0 ORN_FSW_TRN_KS07=0 ORN_FSW_TRN_DCW=0 ORN_FSW_TRN_FL51_new=0"
+--05-19T14:38  root       rename replica "ORN_FSW_TRN_AZ18.deleted"
+  "Changed name of replica from "ORN_FSW_TRN_AZ18" to "ORN_FSW_TRN_AZ18.deleted".
+   Destroyed replica "ORN_FSW_TRN_AZ18"."
+--05-19T14:38  root       destroy replica in versioned object base "\ORN_FSW_TRN"
+  "Destroyed replica "ORN_FSW_TRN_AZ18"."
+--05-19T14:38  root       change master to "ORN_FSW_TRN_AZ75" of replica "ORN_FSW_TRN_DCW"
+  "Changed master replica from "ORN_FSW_TRN_AZ18" to "ORN_FSW_TRN_AZ75"."
+--05-19T14:38  root       change master to "ORN_FSW_TRN_AZ75" of replica "ORN_FSW_TRN_KS07"
+  "Changed master replica from "ORN_FSW_TRN_AZ18" to "ORN_FSW_TRN_AZ75"."
+--05-19T14:38  root       change master to "ORN_FSW_TRN_AZ75" of replica "ORN_FSW_TRN_FL51_new"
+  "Changed master replica from "ORN_FSW_TRN_AZ18" to "ORN_FSW_TRN_AZ75"."
+--05-19T14:38  root       change master to "ORN_FSW_TRN_AZ75" of replica "ORN_FSW_TRN_MN51"
+  "Changed master replica from "ORN_FSW_TRN_AZ18" to "ORN_FSW_TRN_AZ75"."
+--05-19T14:38  root       change master to "ORN_FSW_TRN_AZ75" of replica "ORN_FSW_TRN_KS07.deleted.3"
+  "Changed master replica from "ORN_FSW_TRN_AZ18" to "ORN_FSW_TRN_AZ75"."
+--05-19T14:38  root       change master to "ORN_FSW_TRN_AZ75" of replica "ORN_FSW_TRN_KS07.deleted.2"
+  "Changed master replica from "ORN_FSW_TRN_AZ18" to "ORN_FSW_TRN_AZ75"."
+--05-19T14:38  root       change master to "ORN_FSW_TRN_AZ75" of replica "ORN_FSW_TRN_KS07.deleted.1"
+  "Changed master replica from "ORN_FSW_TRN_AZ18" to "ORN_FSW_TRN_AZ75"."
+--05-19T14:38  root       change master to "ORN_FSW_TRN_AZ75" of replica "ORN_FSW_TRN_KS07.deleted"
+  "Changed master replica from "ORN_FSW_TRN_AZ18" to "ORN_FSW_TRN_AZ75"."
+--05-19T14:38  root       change master to "ORN_FSW_TRN_AZ75" of replica "ORN_FSW_TRN_FL1.deleted"
+  "Changed master replica from "ORN_FSW_TRN_AZ18" to "ORN_FSW_TRN_AZ75"."
+--05-19T14:38  root       change master to "ORN_FSW_TRN_AZ75" of replica "ORN_FSW_TRN_AZ75"
+  "Changed master replica from "ORN_FSW_TRN_AZ18" to "ORN_FSW_TRN_AZ75"."
+--03-21T12:08  clearcase_nm75 export sync from replica "ORN_FSW_TRN_FL51_new" to replica "ORN_FSW_TRN_DCW"
+  "Exported synchronization information for replica "ORN_FSW_TRN_DCW".
+   Row at export was: ORN_FSW_TRN_MN51=0 ORN_FSW_TRN_KS07.deleted.4=0 ORN_FSW_TRN_TX0Z.deleted=997 ORN_FSW_TRN_NM75.deleted=0 ORN_FSW_TRN_KS07.deleted.2=0 ORN_FSW_TRN_AZ75=119 ORN_FSW_TRN_AZ18=19 ORN_FSW_TRN_KS07=0 ORN_FSW_TRN_KS07.deleted.3=0 ORN_FSW_TRN_KS07.deleted.1=0 ORN_FSW_TRN_DCW=0 ORN_FSW_TRN_KS07.deleted=0 ORN_FSW_TRN_FL51_new=0 ORN_FSW_TRN_FL1.deleted=22"
+--03-18T12:01  clearcase_nm75 export sync from replica "ORN_FSW_TRN_FL51_new" to replica "ORN_FSW_TRN_AZ18.deleted"
+  "Exported synchronization information for replica "ORN_FSW_TRN_AZ18".
+   Row at export was: ORN_FSW_TRN_MN51=0 ORN_FSW_TRN_KS07.deleted.4=0 ORN_FSW_TRN_TX0Z.deleted=1209 ORN_FSW_TRN_NM75.deleted=0 ORN_FSW_TRN_KS07.deleted.2=0 ORN_FSW_TRN_AZ75=121 ORN_FSW_TRN_AZ18=21 ORN_FSW_TRN_KS07=0 ORN_FSW_TRN_KS07.deleted.3=0 ORN_FSW_TRN_KS07.deleted.1=0 ORN_FSW_TRN_DCW=0 ORN_FSW_TRN_KS07.deleted=0 ORN_FSW_TRN_FL51_new=0 ORN_FSW_TRN_FL1.deleted=22"
+--03-18T12:00  clearcase_nm75 import sync from replica "ORN_FSW_TRN_MN51" to replica "ORN_FSW_TRN_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_TRN_MN51".
+   Row at import was: ORN_FSW_TRN_AZ18=21 ORN_FSW_TRN_TX0Z.deleted=1209 ORN_FSW_TRN_AZ75=123 ORN_FSW_TRN_FL1.deleted=22 ORN_FSW_TRN_NM75.deleted=0 ORN_FSW_TRN_KS07.deleted=0 ORN_FSW_TRN_KS07.deleted.1=0 ORN_FSW_TRN_KS07.deleted.2=0 ORN_FSW_TRN_KS07.deleted.3=0 ORN_FSW_TRN_KS07.deleted.4=0 ORN_FSW_TRN_MN51=0 ORN_FSW_TRN_KS07=0 ORN_FSW_TRN_DCW=0 ORN_FSW_TRN_FL51_new=0"
+--03-18T12:00  clearcase_nm75 import sync from replica "ORN_FSW_TRN_KS07" to replica "ORN_FSW_TRN_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_TRN_KS07".
+   Row at import was: ORN_FSW_TRN_AZ18=21 ORN_FSW_TRN_TX0Z.deleted=1209 ORN_FSW_TRN_AZ75=123 ORN_FSW_TRN_FL1.deleted=22 ORN_FSW_TRN_NM75.deleted=0 ORN_FSW_TRN_KS07.deleted=0 ORN_FSW_TRN_KS07.deleted.1=0 ORN_FSW_TRN_KS07.deleted.2=0 ORN_FSW_TRN_KS07.deleted.3=0 ORN_FSW_TRN_KS07.deleted.4=0 ORN_FSW_TRN_MN51=0 ORN_FSW_TRN_KS07=0 ORN_FSW_TRN_DCW=0 ORN_FSW_TRN_FL51_new=0"
+--03-18T12:00  clearcase_nm75 import sync from replica "ORN_FSW_TRN_DCW" to replica "ORN_FSW_TRN_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_TRN_DCW".
+   Row at import was: ORN_FSW_TRN_AZ18=21 ORN_FSW_TRN_TX0Z.deleted=1209 ORN_FSW_TRN_AZ75=123 ORN_FSW_TRN_FL1.deleted=22 ORN_FSW_TRN_NM75.deleted=0 ORN_FSW_TRN_KS07.deleted=0 ORN_FSW_TRN_KS07.deleted.1=0 ORN_FSW_TRN_KS07.deleted.2=0 ORN_FSW_TRN_KS07.deleted.3=0 ORN_FSW_TRN_KS07.deleted.4=0 ORN_FSW_TRN_MN51=0 ORN_FSW_TRN_KS07=0 ORN_FSW_TRN_DCW=0 ORN_FSW_TRN_FL51_new=0"
+--03-18T12:00  clearcase_nm75 import sync from replica "ORN_FSW_TRN_AZ75" to replica "ORN_FSW_TRN_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_TRN_AZ75".
+   Row at import was: ORN_FSW_TRN_AZ18=21 ORN_FSW_TRN_TX0Z=1209 ORN_FSW_TRN_AZ75=121 ORN_FSW_TRN_FL1.deleted=22 ORN_FSW_TRN_NM75.deleted=0 ORN_FSW_TRN_KS07.deleted=0 ORN_FSW_TRN_KS07.deleted.1=0 ORN_FSW_TRN_KS07.deleted.2=0 ORN_FSW_TRN_KS07.deleted.3=0 ORN_FSW_TRN_KS07.deleted.4=0 ORN_FSW_TRN_MN51=0 ORN_FSW_TRN_KS07=0 ORN_FSW_TRN_DCW=0 ORN_FSW_TRN_FL51_new=0"
+--03-18T11:41  root       rename replica "ORN_FSW_TRN_TX0Z.deleted"
+  "Changed name of replica from "ORN_FSW_TRN_TX0Z" to "ORN_FSW_TRN_TX0Z.deleted".
+   Destroyed replica "ORN_FSW_TRN_TX0Z"."
+--03-18T11:41  root       destroy replica in versioned object base "\ORN_FSW_TRN"
+  "Destroyed replica "ORN_FSW_TRN_TX0Z"."
+--03-18T11:41  root       change master to "ORN_FSW_TRN_AZ75" of directory element "M:\admin_view\ORN_FSW_TRN\TRN_DOC@@\main\e406732_TRN_DOCS_dev\2\TRN_COMMON\main\e406732_TRN_DOCS_dev\1\T-033_ADD@@"
+  "Changed master replica from "ORN_FSW_TRN_TX0Z" to "ORN_FSW_TRN_AZ75"."
+--02-13T13:18  clearcase_nm75 import sync from replica "ORN_FSW_TRN_MN51" to replica "ORN_FSW_TRN_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_TRN_MN51".
+   Row at import was: ORN_FSW_TRN_AZ18=21 ORN_FSW_TRN_TX0Z=1209 ORN_FSW_TRN_AZ75=121 ORN_FSW_TRN_FL1.deleted=22 ORN_FSW_TRN_NM75.deleted=0 ORN_FSW_TRN_KS07.deleted=0 ORN_FSW_TRN_KS07.deleted.1=0 ORN_FSW_TRN_KS07.deleted.2=0 ORN_FSW_TRN_KS07.deleted.3=0 ORN_FSW_TRN_KS07.deleted.4=0 ORN_FSW_TRN_MN51=0 ORN_FSW_TRN_KS07=0 ORN_FSW_TRN_DCW=0 ORN_FSW_TRN_FL51_new=0"
+--02-10T10:50  clearcase_nm75 import sync from replica "ORN_FSW_TRN_TX0Z.deleted" to replica "ORN_FSW_TRN_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_TRN_TX0Z".
+   Row at import was: ORN_FSW_TRN_AZ18=21 ORN_FSW_TRN_TX0Z=1209 ORN_FSW_TRN_AZ75=121 ORN_FSW_TRN_FL1.deleted=22 ORN_FSW_TRN_NM75.deleted=0 ORN_FSW_TRN_KS07.deleted=0 ORN_FSW_TRN_KS07.deleted.1=0 ORN_FSW_TRN_KS07.deleted.2=0 ORN_FSW_TRN_KS07.deleted.3=0 ORN_FSW_TRN_KS07.deleted.4=0 ORN_FSW_TRN_MN51=0 ORN_FSW_TRN_KS07=0 ORN_FSW_TRN_DCW=0 ORN_FSW_TRN_FL51_new=0"
+--02-10T10:50  clearcase_nm75 import sync from replica "ORN_FSW_TRN_KS07" to replica "ORN_FSW_TRN_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_TRN_KS07".
+   Row at import was: ORN_FSW_TRN_AZ18=21 ORN_FSW_TRN_TX0Z=1209 ORN_FSW_TRN_AZ75=121 ORN_FSW_TRN_FL1.deleted=22 ORN_FSW_TRN_NM75.deleted=0 ORN_FSW_TRN_KS07.deleted=0 ORN_FSW_TRN_KS07.deleted.1=0 ORN_FSW_TRN_KS07.deleted.2=0 ORN_FSW_TRN_KS07.deleted.3=0 ORN_FSW_TRN_KS07.deleted.4=0 ORN_FSW_TRN_MN51=0 ORN_FSW_TRN_KS07=0 ORN_FSW_TRN_DCW=0 ORN_FSW_TRN_FL51_new=0"
+--02-10T10:50  clearcase_nm75 import sync from replica "ORN_FSW_TRN_DCW" to replica "ORN_FSW_TRN_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_TRN_DCW".
+   Row at import was: ORN_FSW_TRN_AZ18=21 ORN_FSW_TRN_TX0Z=1209 ORN_FSW_TRN_AZ75=121 ORN_FSW_TRN_FL1.deleted=22 ORN_FSW_TRN_NM75.deleted=0 ORN_FSW_TRN_KS07.deleted=0 ORN_FSW_TRN_KS07.deleted.1=0 ORN_FSW_TRN_KS07.deleted.2=0 ORN_FSW_TRN_KS07.deleted.3=0 ORN_FSW_TRN_KS07.deleted.4=0 ORN_FSW_TRN_MN51=0 ORN_FSW_TRN_KS07=0 ORN_FSW_TRN_DCW=0 ORN_FSW_TRN_FL51_new=0"
+--02-10T10:41  clearcase_nm75 export sync from replica "ORN_FSW_TRN_FL51_new" to replica "ORN_FSW_TRN_AZ18.deleted"
+  "Exported synchronization information for replica "ORN_FSW_TRN_AZ18".
+   Row at export was: ORN_FSW_TRN_MN51=0 ORN_FSW_TRN_KS07.deleted.4=0 ORN_FSW_TRN_TX0Z=1209 ORN_FSW_TRN_NM75.deleted=0 ORN_FSW_TRN_KS07.deleted.2=0 ORN_FSW_TRN_AZ75=119 ORN_FSW_TRN_AZ18=21 ORN_FSW_TRN_KS07=0 ORN_FSW_TRN_KS07.deleted.3=0 ORN_FSW_TRN_KS07.deleted.1=0 ORN_FSW_TRN_DCW=0 ORN_FSW_TRN_KS07.deleted=0 ORN_FSW_TRN_FL51_new=0 ORN_FSW_TRN_FL1.deleted=22"
+--02-10T10:40  clearcase_nm75 import sync from replica "ORN_FSW_TRN_TX0Z.deleted" to replica "ORN_FSW_TRN_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_TRN_TX0Z".
+   Row at import was: ORN_FSW_TRN_AZ18=21 ORN_FSW_TRN_TX0Z=1209 ORN_FSW_TRN_AZ75=121 ORN_FSW_TRN_FL1.deleted=22 ORN_FSW_TRN_NM75.deleted=0 ORN_FSW_TRN_KS07.deleted=0 ORN_FSW_TRN_KS07.deleted.1=0 ORN_FSW_TRN_KS07.deleted.2=0 ORN_FSW_TRN_KS07.deleted.3=0 ORN_FSW_TRN_KS07.deleted.4=0 ORN_FSW_TRN_MN51=0 ORN_FSW_TRN_KS07=0 ORN_FSW_TRN_DCW=0 ORN_FSW_TRN_FL51_new=0"
+--02-10T10:40  clearcase_nm75 import sync from replica "ORN_FSW_TRN_KS07" to replica "ORN_FSW_TRN_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_TRN_KS07".
+   Row at import was: ORN_FSW_TRN_AZ18=21 ORN_FSW_TRN_TX0Z=1209 ORN_FSW_TRN_AZ75=121 ORN_FSW_TRN_FL1.deleted=22 ORN_FSW_TRN_NM75.deleted=0 ORN_FSW_TRN_KS07.deleted=0 ORN_FSW_TRN_KS07.deleted.1=0 ORN_FSW_TRN_KS07.deleted.2=0 ORN_FSW_TRN_KS07.deleted.3=0 ORN_FSW_TRN_KS07.deleted.4=0 ORN_FSW_TRN_MN51=0 ORN_FSW_TRN_KS07=0 ORN_FSW_TRN_DCW=0 ORN_FSW_TRN_FL51_new=0"
+--02-10T10:40  clearcase_nm75 import sync from replica "ORN_FSW_TRN_DCW" to replica "ORN_FSW_TRN_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_TRN_DCW".
+   Row at import was: ORN_FSW_TRN_AZ18=21 ORN_FSW_TRN_TX0Z=1209 ORN_FSW_TRN_AZ75=121 ORN_FSW_TRN_FL1.deleted=22 ORN_FSW_TRN_NM75.deleted=0 ORN_FSW_TRN_KS07.deleted=0 ORN_FSW_TRN_KS07.deleted.1=0 ORN_FSW_TRN_KS07.deleted.2=0 ORN_FSW_TRN_KS07.deleted.3=0 ORN_FSW_TRN_KS07.deleted.4=0 ORN_FSW_TRN_MN51=0 ORN_FSW_TRN_KS07=0 ORN_FSW_TRN_DCW=0 ORN_FSW_TRN_FL51_new=0"
+--02-10T10:40  clearcase_nm75 import sync from replica "ORN_FSW_TRN_AZ75" to replica "ORN_FSW_TRN_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_TRN_AZ75".
+   Row at import was: ORN_FSW_TRN_AZ18=21 ORN_FSW_TRN_TX0Z=1209 ORN_FSW_TRN_AZ75=119 ORN_FSW_TRN_FL1.deleted=22 ORN_FSW_TRN_NM75=0 ORN_FSW_TRN_KS07.deleted=0 ORN_FSW_TRN_KS07.deleted.1=0 ORN_FSW_TRN_KS07.deleted.2=0 ORN_FSW_TRN_KS07.deleted.3=0 ORN_FSW_TRN_KS07.deleted.4=0 ORN_FSW_TRN_MN51=0 ORN_FSW_TRN_KS07=0 ORN_FSW_TRN_DCW=0 ORN_FSW_TRN_FL51_new=0"
+--02-10T10:40  clearcase_nm75 import sync from replica "ORN_FSW_TRN_AZ75" to replica "ORN_FSW_TRN_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_TRN_AZ75".
+   Row at import was: ORN_FSW_TRN_AZ18=20 ORN_FSW_TRN_TX0Z=1209 ORN_FSW_TRN_AZ75=119 ORN_FSW_TRN_FL1.deleted=22 ORN_FSW_TRN_NM75=0 ORN_FSW_TRN_KS07.deleted=0 ORN_FSW_TRN_KS07.deleted.1=0 ORN_FSW_TRN_KS07.deleted.2=0 ORN_FSW_TRN_KS07.deleted.3=0 ORN_FSW_TRN_KS07.deleted.4=0 ORN_FSW_TRN_MN51=0 ORN_FSW_TRN_KS07=0 ORN_FSW_TRN_DCW=0 ORN_FSW_TRN_FL51_new=0"
+--02-10T10:31  root       rename replica "ORN_FSW_TRN_NM75.deleted"
+  "Changed name of replica from "ORN_FSW_TRN_NM75" to "ORN_FSW_TRN_NM75.deleted".
+   Destroyed replica "ORN_FSW_TRN_NM75"."
+--02-10T10:31  root       destroy replica in versioned object base "\ORN_FSW_TRN"
+  "Destroyed replica "ORN_FSW_TRN_NM75"."
+--02-10T10:30  root       change master to "ORN_FSW_TRN_AZ75" of replica "ORN_FSW_TRN_NM75.deleted"
+  "Changed master replica from "ORN_FSW_TRN_NM75" to "ORN_FSW_TRN_AZ75"."
+--02-10T10:29  root       change master to "ORN_FSW_TRN_NM75.deleted" of replica "ORN_FSW_TRN_NM75.deleted"
+  "Changed master replica from "ORN_FSW_TRN_AZ18" to "ORN_FSW_TRN_NM75"."
+--11-18T16:00  clearcase_nm75 import sync from replica "ORN_FSW_TRN_DCW" to replica "ORN_FSW_TRN_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_TRN_DCW".
+   Row at import was: ORN_FSW_TRN_AZ18=20 ORN_FSW_TRN_TX0Z=1209 ORN_FSW_TRN_AZ75=119 ORN_FSW_TRN_FL1.deleted=22 ORN_FSW_TRN_NM75=0 ORN_FSW_TRN_KS07.deleted=0 ORN_FSW_TRN_KS07.deleted.1=0 ORN_FSW_TRN_KS07.deleted.2=0 ORN_FSW_TRN_KS07.deleted.3=0 ORN_FSW_TRN_KS07.deleted.4=0 ORN_FSW_TRN_MN51=0 ORN_FSW_TRN_KS07=0 ORN_FSW_TRN_DCW=0 ORN_FSW_TRN_FL51_new=0"
+--10-29T16:00  clearcase_nm75 import sync from replica "ORN_FSW_TRN_AZ75" to replica "ORN_FSW_TRN_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_TRN_AZ75".
+   Row at import was: ORN_FSW_TRN_AZ18=20 ORN_FSW_TRN_TX0Z=1209 ORN_FSW_TRN_AZ75=119 ORN_FSW_TRN_FL1.deleted=22 ORN_FSW_TRN_NM75=0 ORN_FSW_TRN_KS07.deleted=0 ORN_FSW_TRN_KS07.deleted.1=0 ORN_FSW_TRN_KS07.deleted.2=0 ORN_FSW_TRN_KS07.deleted.3=0 ORN_FSW_TRN_KS07.deleted.4=0 ORN_FSW_TRN_MN51=0 ORN_FSW_TRN_KS07=0 ORN_FSW_TRN_DCW=0 ORN_FSW_TRN_FL51_new=0"
+--10-29T14:10  clearcase_nm75 import sync from replica "ORN_FSW_TRN_KS07" to replica "ORN_FSW_TRN_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_TRN_KS07".
+   Row at import was: ORN_FSW_TRN_AZ18=20 ORN_FSW_TRN_TX0Z=1209 ORN_FSW_TRN_AZ75=119 ORN_FSW_TRN_FL1.deleted=22 ORN_FSW_TRN_NM75=0 ORN_FSW_TRN_KS07.deleted=0 ORN_FSW_TRN_KS07.deleted.1=0 ORN_FSW_TRN_KS07.deleted.2=0 ORN_FSW_TRN_KS07.deleted.3=0 ORN_FSW_TRN_KS07.deleted.4=0 ORN_FSW_TRN_MN51=0 ORN_FSW_TRN_KS07=0 ORN_FSW_TRN_DCW=0 ORN_FSW_TRN_FL51_new=0"
+--10-29T14:01  clearcase_nm75 export sync from replica "ORN_FSW_TRN_FL51_new" to replica "ORN_FSW_TRN_AZ18.deleted"
+  "Exported synchronization information for replica "ORN_FSW_TRN_AZ18".
+   Row at export was: ORN_FSW_TRN_MN51=0 ORN_FSW_TRN_KS07.deleted.4=0 ORN_FSW_TRN_TX0Z=997 ORN_FSW_TRN_NM75=0 ORN_FSW_TRN_KS07.deleted.2=0 ORN_FSW_TRN_AZ75=119 ORN_FSW_TRN_AZ18=20 ORN_FSW_TRN_KS07=0 ORN_FSW_TRN_KS07.deleted.3=0 ORN_FSW_TRN_KS07.deleted.1=0 ORN_FSW_TRN_DCW=0 ORN_FSW_TRN_KS07.deleted=0 ORN_FSW_TRN_FL51_new=0 ORN_FSW_TRN_FL1.deleted=22"
+--10-29T14:01  clearcase_nm75 import sync from replica "ORN_FSW_TRN_TX0Z.deleted" to replica "ORN_FSW_TRN_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_TRN_TX0Z".
+   Row at import was: ORN_FSW_TRN_AZ18=20 ORN_FSW_TRN_TX0Z=997 ORN_FSW_TRN_AZ75=119 ORN_FSW_TRN_FL1.deleted=22 ORN_FSW_TRN_NM75=0 ORN_FSW_TRN_KS07.deleted=0 ORN_FSW_TRN_KS07.deleted.1=0 ORN_FSW_TRN_KS07.deleted.2=0 ORN_FSW_TRN_KS07.deleted.3=0 ORN_FSW_TRN_KS07.deleted.4=0 ORN_FSW_TRN_MN51=0 ORN_FSW_TRN_KS07=0 ORN_FSW_TRN_DCW=0 ORN_FSW_TRN_FL51_new=0"

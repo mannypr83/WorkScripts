@@ -1,0 +1,114 @@
+--06-30T10:41  clearcase_nm75 protect directory element "M:\admin_view\NAV_UTIL_GLOBAL\.@@"
+  "CHMOD 775"
+--06-30T10:37  clearcase_nm75 protect directory element "M:\admin_view\NAV_UTIL_GLOBAL\.@@"
+  "CHMOD 770"
+--06-30T10:37  clearcase_nm75 protect directory element "M:\admin_view\NAV_UTIL_GLOBAL\.@@"
+  "CHMOD 775"
+--06-30T10:35  clearcase_nm75 protect directory element "M:\admin_view\NAV_UTIL_GLOBAL\.@@"
+  "CHMOD 770"
+--06-30T10:35  clearcase_nm75 protect directory element "M:\admin_view\NAV_UTIL_GLOBAL\.@@"
+  "CHMOD 775"
+--06-19T15:33  clearcase_nm75 protect directory element "M:\admin_view\NAV_UTIL_GLOBAL\.@@"
+  "CHMOD 770"
+--06-19T15:33  clearcase_nm75 protect directory element "M:\admin_view\NAV_UTIL_GLOBAL\.@@"
+  "CHMOD 775"
+--05-01T14:16  clearcase_nm75 import sync from replica "NAV_UTIL_GLOBAL_DCW" to replica "NAV_UTIL_GLOBAL_FL51_new"
+  "Imported synchronization information from replica "NAV_UTIL_GLOBAL_DCW".
+   Row at import was: NAV_UTIL_GLOBAL_AZ18.deleted=10 NAV_UTIL_GLOBAL_MN17=3150 NAV_UTIL_GLOBAL_CZ21.deleted=2 NAV_UTIL_GLOBAL_MN51=0 NAV_UTIL_GLOBAL_FL51.deleted=0 NAV_UTIL_GLOBAL_PR08.deleted=4 NAV_UTIL_GLOBAL_MN10=723 NAV_UTIL_GLOBAL_IE10=0 NAV_UTIL_GLOBAL_CZ21=1 NAV_UTIL_GLOBAL_DCW=0 NAV_UTIL_GLOBAL_FL51_new=0"
+--05-01T14:13  clearcase_nm75 import sync from replica "NAV_UTIL_GLOBAL_CZ21" to replica "NAV_UTIL_GLOBAL_FL51_new"
+  "Imported synchronization information from replica "NAV_UTIL_GLOBAL_CZ21".
+   Row at import was: NAV_UTIL_GLOBAL_AZ18.deleted=10 NAV_UTIL_GLOBAL_MN17=3150 NAV_UTIL_GLOBAL_CZ21.deleted=2 NAV_UTIL_GLOBAL_MN51=0 NAV_UTIL_GLOBAL_FL51.deleted=0 NAV_UTIL_GLOBAL_PR08.deleted=4 NAV_UTIL_GLOBAL_MN10=723 NAV_UTIL_GLOBAL_IE10=0 NAV_UTIL_GLOBAL_CZ21=1 NAV_UTIL_GLOBAL_DCW=0 NAV_UTIL_GLOBAL_FL51_new=0"
+--05-01T14:11  clearcase_nm75 export sync from replica "NAV_UTIL_GLOBAL_FL51_new" to replica "NAV_UTIL_GLOBAL_DCW"
+  "Exported synchronization information for replica "NAV_UTIL_GLOBAL_DCW".
+   Row at export was: NAV_UTIL_GLOBAL_DCW=0 NAV_UTIL_GLOBAL_FL51_new=0 NAV_UTIL_GLOBAL_IE10=0 NAV_UTIL_GLOBAL_PR08.deleted=4 NAV_UTIL_GLOBAL_MN51=0 NAV_UTIL_GLOBAL_MN10=723 NAV_UTIL_GLOBAL_MN17=3142 NAV_UTIL_GLOBAL_CZ21=1 NAV_UTIL_GLOBAL_AZ18.deleted=10 NAV_UTIL_GLOBAL_FL51.deleted=0 NAV_UTIL_GLOBAL_CZ21.deleted=2"
+--05-01T14:10  clearcase_nm75 import sync from replica "NAV_UTIL_GLOBAL_MN17" to replica "NAV_UTIL_GLOBAL_FL51_new"
+  "Imported synchronization information from replica "NAV_UTIL_GLOBAL_MN17".
+   Row at import was: NAV_UTIL_GLOBAL_AZ18.deleted=10 NAV_UTIL_GLOBAL_MN17=3149 NAV_UTIL_GLOBAL_CZ21.deleted=2 NAV_UTIL_GLOBAL_MN51=0 NAV_UTIL_GLOBAL_FL51.deleted=0 NAV_UTIL_GLOBAL_PR08.deleted=4 NAV_UTIL_GLOBAL_MN10=723 NAV_UTIL_GLOBAL_IE10=0 NAV_UTIL_GLOBAL_CZ21=1 NAV_UTIL_GLOBAL_DCW=0 NAV_UTIL_GLOBAL_FL51_new=0"
+--05-01T14:10  e704548    change master to "NAV_UTIL_GLOBAL_DCW" of replica "NAV_UTIL_GLOBAL_DCW"
+  "Changed master replica from "NAV_UTIL_GLOBAL_MN17" to "NAV_UTIL_GLOBAL_DCW"."
+--05-01T14:10  clearcase_nm75 import sync from replica "NAV_UTIL_GLOBAL_MN17" to replica "NAV_UTIL_GLOBAL_FL51_new"
+  "Imported synchronization information from replica "NAV_UTIL_GLOBAL_MN17".
+   Row at import was: NAV_UTIL_GLOBAL_AZ18=10 NAV_UTIL_GLOBAL_MN17=3142 NAV_UTIL_GLOBAL_CZ21.deleted=2 NAV_UTIL_GLOBAL_MN51=0 NAV_UTIL_GLOBAL_FL51.deleted=0 NAV_UTIL_GLOBAL_PR08.deleted=4 NAV_UTIL_GLOBAL_MN10=723 NAV_UTIL_GLOBAL_IE10=0 NAV_UTIL_GLOBAL_CZ21=1 NAV_UTIL_GLOBAL_DCW=0 NAV_UTIL_GLOBAL_FL51_new=0"
+--05-01T14:09  e704548    rename replica "NAV_UTIL_GLOBAL_AZ18.deleted"
+  "Changed name of replica from "NAV_UTIL_GLOBAL_AZ18" to "NAV_UTIL_GLOBAL_AZ18.deleted".
+   Destroyed replica "NAV_UTIL_GLOBAL_AZ18"."
+--05-01T14:09  e704548    destroy replica in versioned object base "\NAV_UTIL_GLOBAL"
+  "Destroyed replica "NAV_UTIL_GLOBAL_AZ18"."
+--05-01T14:09  e704548    change master to "NAV_UTIL_GLOBAL_MN17" of replica "NAV_UTIL_GLOBAL_DCW"
+  "Changed master replica from "NAV_UTIL_GLOBAL_AZ18" to "NAV_UTIL_GLOBAL_MN17"."
+--05-01T14:09  e704548    change master to "NAV_UTIL_GLOBAL_MN17" of replica "NAV_UTIL_GLOBAL_FL51_new"
+  "Changed master replica from "NAV_UTIL_GLOBAL_AZ18" to "NAV_UTIL_GLOBAL_MN17"."
+--05-01T14:09  e704548    change master to "NAV_UTIL_GLOBAL_MN17" of replica "NAV_UTIL_GLOBAL_IE10"
+  "Changed master replica from "NAV_UTIL_GLOBAL_AZ18" to "NAV_UTIL_GLOBAL_MN17"."
+--05-01T14:09  e704548    change master to "NAV_UTIL_GLOBAL_MN17" of replica "NAV_UTIL_GLOBAL_MN10"
+  "Changed master replica from "NAV_UTIL_GLOBAL_AZ18" to "NAV_UTIL_GLOBAL_MN17"."
+--05-01T14:09  e704548    change master to "NAV_UTIL_GLOBAL_MN17" of replica "NAV_UTIL_GLOBAL_PR08.deleted"
+  "Changed master replica from "NAV_UTIL_GLOBAL_AZ18" to "NAV_UTIL_GLOBAL_MN17"."
+--05-01T14:09  e704548    change master to "NAV_UTIL_GLOBAL_MN17" of replica "NAV_UTIL_GLOBAL_CZ21.deleted"
+  "Changed master replica from "NAV_UTIL_GLOBAL_AZ18" to "NAV_UTIL_GLOBAL_MN17"."
+--03-25T12:11  clearcase_nm75 export sync from replica "NAV_UTIL_GLOBAL_FL51_new" to replica "NAV_UTIL_GLOBAL_DCW"
+  "Exported synchronization information for replica "NAV_UTIL_GLOBAL_DCW".
+   Row at export was: NAV_UTIL_GLOBAL_DCW=0 NAV_UTIL_GLOBAL_FL51_new=0 NAV_UTIL_GLOBAL_IE10=0 NAV_UTIL_GLOBAL_PR08.deleted=4 NAV_UTIL_GLOBAL_MN51=0 NAV_UTIL_GLOBAL_MN10=723 NAV_UTIL_GLOBAL_MN17=3142 NAV_UTIL_GLOBAL_CZ21=1 NAV_UTIL_GLOBAL_AZ18=9 NAV_UTIL_GLOBAL_FL51.deleted=0 NAV_UTIL_GLOBAL_CZ21.deleted=2"
+--12-17T11:00  clearcase_nm75 import sync from replica "NAV_UTIL_GLOBAL_CZ21" to replica "NAV_UTIL_GLOBAL_FL51_new"
+  "Imported synchronization information from replica "NAV_UTIL_GLOBAL_CZ21".
+   Row at import was: NAV_UTIL_GLOBAL_AZ18=10 NAV_UTIL_GLOBAL_MN17=3142 NAV_UTIL_GLOBAL_CZ21.deleted=2 NAV_UTIL_GLOBAL_MN51=0 NAV_UTIL_GLOBAL_FL51.deleted=0 NAV_UTIL_GLOBAL_PR08.deleted=4 NAV_UTIL_GLOBAL_MN10=723 NAV_UTIL_GLOBAL_IE10=0 NAV_UTIL_GLOBAL_CZ21=1 NAV_UTIL_GLOBAL_DCW=0 NAV_UTIL_GLOBAL_FL51_new=0"
+2013-06-26     clearcase_nm75 import sync from replica "NAV_UTIL_GLOBAL_DCW" to replica "NAV_UTIL_GLOBAL_FL51_new"
+  "Imported synchronization information from replica "NAV_UTIL_GLOBAL_DCW".
+   Row at import was: NAV_UTIL_GLOBAL_AZ18=10 NAV_UTIL_GLOBAL_MN17=3142 NAV_UTIL_GLOBAL_CZ21.deleted=2 NAV_UTIL_GLOBAL_MN51=0 NAV_UTIL_GLOBAL_FL51.deleted=0 NAV_UTIL_GLOBAL_PR08.deleted=4 NAV_UTIL_GLOBAL_MN10=723 NAV_UTIL_GLOBAL_IE10=0 NAV_UTIL_GLOBAL_CZ21=1 NAV_UTIL_GLOBAL_DCW=0 NAV_UTIL_GLOBAL_FL51_new=0"
+2013-06-26     clearcase_nm75 import sync from replica "NAV_UTIL_GLOBAL_AZ18.deleted" to replica "NAV_UTIL_GLOBAL_FL51_new"
+  "Imported synchronization information from replica "NAV_UTIL_GLOBAL_AZ18".
+   Row at import was: NAV_UTIL_GLOBAL_AZ18=9 NAV_UTIL_GLOBAL_MN17=3142 NAV_UTIL_GLOBAL_CZ21.deleted=2 NAV_UTIL_GLOBAL_MN51=0 NAV_UTIL_GLOBAL_FL51.deleted=0 NAV_UTIL_GLOBAL_PR08.deleted=4 NAV_UTIL_GLOBAL_MN10=723 NAV_UTIL_GLOBAL_IE10=0 NAV_UTIL_GLOBAL_CZ21=1 NAV_UTIL_GLOBAL_FL51_new=0"
+2013-06-26     root       create replica "NAV_UTIL_GLOBAL_DCW"
+2013-06-15     clearcase_nm75 import sync from replica "NAV_UTIL_GLOBAL_AZ18.deleted" to replica "NAV_UTIL_GLOBAL_FL51_new"
+  "Imported synchronization information from replica "NAV_UTIL_GLOBAL_AZ18".
+   Row at import was: NAV_UTIL_GLOBAL_AZ18=8 NAV_UTIL_GLOBAL_MN17=3142 NAV_UTIL_GLOBAL_CZ21.deleted=2 NAV_UTIL_GLOBAL_MN51=0 NAV_UTIL_GLOBAL_FL51.deleted=0 NAV_UTIL_GLOBAL_PR08=3 NAV_UTIL_GLOBAL_MN10=723 NAV_UTIL_GLOBAL_IE10=0 NAV_UTIL_GLOBAL_CZ21=1 NAV_UTIL_GLOBAL_FL51_new=0"
+2013-06-15     root       rename replica "NAV_UTIL_GLOBAL_PR08.deleted"
+  "Changed name of replica from "NAV_UTIL_GLOBAL_PR08" to "NAV_UTIL_GLOBAL_PR08.deleted".
+   Destroyed replica "NAV_UTIL_GLOBAL_PR08"."
+2013-06-15     root       destroy replica in versioned object base "\NAV_UTIL_GLOBAL"
+  "Destroyed replica "NAV_UTIL_GLOBAL_PR08"."
+2013-06-15     e721877    change master to "NAV_UTIL_GLOBAL_AZ18.deleted" of replica "NAV_UTIL_GLOBAL_PR08.deleted"
+  "Changed master replica from "NAV_UTIL_GLOBAL_PR08" to "NAV_UTIL_GLOBAL_AZ18"."
+2013-04-12     clearcase_nm75 import sync from replica "NAV_UTIL_GLOBAL_AZ18.deleted" to replica "NAV_UTIL_GLOBAL_FL51_new"
+  "Imported synchronization information from replica "NAV_UTIL_GLOBAL_AZ18".
+   Row at import was: NAV_UTIL_GLOBAL_AZ18=8 NAV_UTIL_GLOBAL_MN17=3142 NAV_UTIL_GLOBAL_CZ21.deleted=2 NAV_UTIL_GLOBAL_MN51=0 NAV_UTIL_GLOBAL_FL51.deleted=0 NAV_UTIL_GLOBAL_PR08=2 NAV_UTIL_GLOBAL_MN10=723 NAV_UTIL_GLOBAL_IE10=0 NAV_UTIL_GLOBAL_CZ21=1 NAV_UTIL_GLOBAL_FL51_new=0"
+2013-04-12     sv-das_cc_albd import sync to replica "NAV_UTIL_GLOBAL_PR08.deleted"
+  "Changed information associated with replica."
+2013-04-12     clearcase_nm75 import sync from replica "NAV_UTIL_GLOBAL_AZ18.deleted" to replica "NAV_UTIL_GLOBAL_FL51_new"
+  "Imported synchronization information from replica "NAV_UTIL_GLOBAL_AZ18".
+   Row at import was: NAV_UTIL_GLOBAL_AZ18=8 NAV_UTIL_GLOBAL_MN17=3142 NAV_UTIL_GLOBAL_CZ21.deleted=2 NAV_UTIL_GLOBAL_MN51=0 NAV_UTIL_GLOBAL_FL51.deleted=0 NAV_UTIL_GLOBAL_PR08=1 NAV_UTIL_GLOBAL_MN10=723 NAV_UTIL_GLOBAL_IE10=0 NAV_UTIL_GLOBAL_CZ21=1 NAV_UTIL_GLOBAL_FL51_new=0"
+2013-04-12     clearcase_nm75 import sync from replica "NAV_UTIL_GLOBAL_AZ18.deleted" to replica "NAV_UTIL_GLOBAL_FL51_new"
+  "Imported synchronization information from replica "NAV_UTIL_GLOBAL_AZ18".
+   Row at import was: NAV_UTIL_GLOBAL_AZ18=8 NAV_UTIL_GLOBAL_MN17=3142 NAV_UTIL_GLOBAL_CZ21.deleted=2 NAV_UTIL_GLOBAL_MN51=0 NAV_UTIL_GLOBAL_FL51.deleted=0 NAV_UTIL_GLOBAL_PR08=0 NAV_UTIL_GLOBAL_MN10=723 NAV_UTIL_GLOBAL_IE10=0 NAV_UTIL_GLOBAL_CZ21=1 NAV_UTIL_GLOBAL_FL51_new=0"
+2013-04-12     sv-das_cc_albd import sync to replica "NAV_UTIL_GLOBAL_PR08.deleted"
+  "Changed information associated with replica."
+2013-04-12     sv-das_cc_albd import sync to replica "NAV_UTIL_GLOBAL_PR08.deleted"
+  "Changed information associated with replica."
+2013-04-12     clearcase_nm75 import sync from replica "NAV_UTIL_GLOBAL_AZ18.deleted" to replica "NAV_UTIL_GLOBAL_FL51_new"
+  "Imported synchronization information from replica "NAV_UTIL_GLOBAL_AZ18".
+   Row at import was: NAV_UTIL_GLOBAL_AZ18=8 NAV_UTIL_GLOBAL_MN17=3141 NAV_UTIL_GLOBAL_CZ21.deleted=2 NAV_UTIL_GLOBAL_MN51=0 NAV_UTIL_GLOBAL_FL51.deleted=0 NAV_UTIL_GLOBAL_PR08=0 NAV_UTIL_GLOBAL_MN10=723 NAV_UTIL_GLOBAL_IE10=0 NAV_UTIL_GLOBAL_CZ21=1 NAV_UTIL_GLOBAL_FL51_new=0"
+2013-04-12     e463300    change master to "NAV_UTIL_GLOBAL_PR08.deleted" of replica "NAV_UTIL_GLOBAL_PR08.deleted"
+  "Changed master replica from "NAV_UTIL_GLOBAL_MN17" to "NAV_UTIL_GLOBAL_PR08"."
+2012-02-23     clearcase_nm75 import sync from replica "NAV_UTIL_GLOBAL_AZ18.deleted" to replica "NAV_UTIL_GLOBAL_FL51_new"
+  "Imported synchronization information from replica "NAV_UTIL_GLOBAL_AZ18".
+   Row at import was: NAV_UTIL_GLOBAL_AZ18=8 NAV_UTIL_GLOBAL_MN17=3141 NAV_UTIL_GLOBAL_CZ21.deleted=2 NAV_UTIL_GLOBAL_MN51=0 NAV_UTIL_GLOBAL_FL51.deleted=0 NAV_UTIL_GLOBAL_PR08=0 NAV_UTIL_GLOBAL_MN10=719 NAV_UTIL_GLOBAL_IE10=0 NAV_UTIL_GLOBAL_CZ21=1 NAV_UTIL_GLOBAL_FL51_new=0"
+2012-02-23     clearcase_nm75 make hyperlink "BaselineLbtype" on label type "TGEN_LIMITED_2_23_2012"
+2012-02-23     clearcase_nm75 rename label type "TGEN_LIMITED_2_23_2012"
+  "Changed name of label type from "TGEN_LIMITED_2_23_2012_in_progress" to "TGEN_LIMITED_2_23_2012"."
+2012-02-23     e713663    create label type "TGEN_LIMITED_2_23_2012"
+2012-02-22     clearcase_nm75 import sync from replica "NAV_UTIL_GLOBAL_AZ18.deleted" to replica "NAV_UTIL_GLOBAL_FL51_new"
+  "Imported synchronization information from replica "NAV_UTIL_GLOBAL_AZ18".
+   Row at import was: NAV_UTIL_GLOBAL_AZ18=8 NAV_UTIL_GLOBAL_MN17=3103 NAV_UTIL_GLOBAL_CZ21.deleted=2 NAV_UTIL_GLOBAL_MN51=0 NAV_UTIL_GLOBAL_FL51.deleted=0 NAV_UTIL_GLOBAL_PR08=0 NAV_UTIL_GLOBAL_MN10=719 NAV_UTIL_GLOBAL_IE10=0 NAV_UTIL_GLOBAL_CZ21=1 NAV_UTIL_GLOBAL_FL51_new=0"
+2012-02-22     e702445    create directory version "M:\admin_view\NAV_UTIL_GLOBAL\TGEN_Limited@@\main\TGEN_Limited_Int\1" (TGEN_LIMITED_2_23_2012)
+  "Added directory element "documents".
+   Added directory element "execute"."
+2012-02-22     e702445    create directory version "M:\admin_view\NAV_UTIL_GLOBAL\TGEN_Limited@@\main\pakline_TGEN_LIMITED\1\documents@@\main\TGEN_Limited_Int\1" (TGEN_LIMITED_2_23_2012)
+  "Added file element "TGEN Classification V7.docx".
+   Added file element "TGEN_L_Manual_Jan2012.doc".
+   Added file element "TgenLightExportClassificationsEmail.txt"."
+2012-02-22     e702445    create directory version "M:\admin_view\NAV_UTIL_GLOBAL\TGEN_Limited@@\main\pakline_TGEN_LIMITED\1\execute@@\main\TGEN_Limited_Int\1" (TGEN_LIMITED_2_23_2012)
+  "Added file element "tgen.exe"."
+2012-02-22     e702445    create version "M:\admin_view\NAV_UTIL_GLOBAL\TGEN_Limited@@\main\pakline_TGEN_LIMITED\1\documents\main\pakline_TGEN_LIMITED\2\TGEN Classification V7.docx@@\main\TGEN_Limited_Int\1" (TGEN_LIMITED_2_23_2012)
+2012-02-22     e702445    create version "M:\admin_view\NAV_UTIL_GLOBAL\TGEN_Limited@@\main\pakline_TGEN_LIMITED\1\documents\main\pakline_TGEN_LIMITED\2\TGEN_L_Manual_Jan2012.doc@@\main\TGEN_Limited_Int\1" (TGEN_LIMITED_2_23_2012)
+2012-02-22     e702445    create version "M:\admin_view\NAV_UTIL_GLOBAL\TGEN_Limited@@\main\pakline_TGEN_LIMITED\1\documents\main\pakline_TGEN_LIMITED\2\TgenLightExportClassificationsEmail.txt@@\main\TGEN_Limited_Int\1" (TGEN_LIMITED_2_23_2012)
+2012-02-22     e702445    create version "M:\admin_view\NAV_UTIL_GLOBAL\TGEN_Limited@@\main\pakline_TGEN_LIMITED\1\execute\main\pakline_TGEN_LIMITED\2\tgen.exe@@\main\TGEN_Limited_Int\1" (TGEN_LIMITED_2_23_2012)

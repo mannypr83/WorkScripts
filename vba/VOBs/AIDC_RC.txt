@@ -1,0 +1,129 @@
+--06-30T10:45  clearcase_nm75 protect directory element "M:\admin_view\AIDC_RC\.@@"
+  "CHMOD 775"
+--06-19T22:11  clearcase_nm75 export sync from replica "AIDC_RC_FL51" to replica "AIDC_RC_PR08"
+  "Exported synchronization information for replica "AIDC_RC_PR08".
+   Row at export was: AIDC_RC_FL51=151 AIDC_RC_AZ18=0 AIDC_RC_PR08=1976"
+--06-19T22:11  clearcase_nm75 export sync from replica "AIDC_RC_FL51" to replica "AIDC_RC_AZ18"
+  "Exported synchronization information for replica "AIDC_RC_AZ18".
+   Row at export was: AIDC_RC_FL51=151 AIDC_RC_AZ18=0 AIDC_RC_PR08=1976"
+--06-19T22:03  clearcase_nm75 protect directory element "M:\admin_view\AIDC_RC\.@@"
+  "CHMOD 770"
+--06-19T22:03  clearcase_nm75 protect directory element "M:\admin_view\AIDC_RC\.@@"
+  "CHMOD 775"
+--06-19T17:50  clearcase_nm75 export sync from replica "AIDC_RC_FL51" to replica "AIDC_RC_PR08"
+  "Exported synchronization information for replica "AIDC_RC_PR08".
+   Row at export was: AIDC_RC_FL51=147 AIDC_RC_AZ18=0 AIDC_RC_PR08=1976"
+--06-19T17:50  clearcase_nm75 export sync from replica "AIDC_RC_FL51" to replica "AIDC_RC_AZ18"
+  "Exported synchronization information for replica "AIDC_RC_AZ18".
+   Row at export was: AIDC_RC_FL51=147 AIDC_RC_AZ18=0 AIDC_RC_PR08=1976"
+--06-19T17:47  clearcase_nm75 protect directory element "M:\admin_view\AIDC_RC\.@@"
+  "CHMOD 770"
+--06-19T17:47  clearcase_nm75 protect directory element "M:\admin_view\AIDC_RC\.@@"
+  "CHMOD 775"
+--06-19T17:44  clearcase_nm75 protect directory element "M:\admin_view\AIDC_RC\.@@"
+  "CHMOD 770"
+--06-19T17:44  clearcase_nm75 protect directory element "M:\admin_view\AIDC_RC\.@@"
+  "CHMOD 775"
+--05-29T14:02  clearcase_nm75 import sync from replica "AIDC_RC_AZ18" to replica "AIDC_RC_FL51"
+  "Imported synchronization information from replica "AIDC_RC_AZ18".
+   Row at import was: AIDC_RC_PR08=1976 AIDC_RC_AZ18=0 AIDC_RC_FL51=147"
+--05-29T13:50  clearcase_nm75 export sync from replica "AIDC_RC_FL51" to replica "AIDC_RC_AZ18"
+  "Exported synchronization information for replica "AIDC_RC_AZ18".
+   Row at export was: AIDC_RC_FL51=147 AIDC_RC_AZ18=0 AIDC_RC_PR08=1968"
+--05-29T13:50  clearcase_nm75 import sync from replica "AIDC_RC_PR08" to replica "AIDC_RC_FL51"
+  "Imported synchronization information from replica "AIDC_RC_PR08".
+   Row at import was: AIDC_RC_PR08=1968 AIDC_RC_AZ18=0 AIDC_RC_FL51=147"
+--05-29T13:43  clearcase_nm75 make hyperlink "BaselineLbtype" on label type "AIDC006"
+--05-29T13:43  clearcase_nm75 rename label type "AIDC006"
+  "Changed name of label type from "AIDC006_in_progress" to "AIDC006"."
+--05-29T13:43  e711819    create label type "AIDC006"
+--05-29T13:43  clearcase_nm75 make hyperlink "BaselineLbtype" on label type "AIDC006.1309"
+--05-29T13:43  clearcase_nm75 rename label type "AIDC006.1309"
+  "Changed name of label type from "AIDC006.1309_in_progress" to "AIDC006.1309"."
+--05-29T13:43  e711819    create label type "AIDC006.1309"
+--05-29T12:01  clearcase_nm75 import sync from replica "AIDC_RC_AZ18" to replica "AIDC_RC_FL51"
+  "Imported synchronization information from replica "AIDC_RC_AZ18".
+   Row at import was: AIDC_RC_PR08=1968 AIDC_RC_AZ18=0 AIDC_RC_FL51=147"
+--05-29T11:51  clearcase_nm75 import sync from replica "AIDC_RC_AZ18" to replica "AIDC_RC_FL51"
+  "Imported synchronization information from replica "AIDC_RC_AZ18".
+   Row at import was: AIDC_RC_PR08=1968 AIDC_RC_AZ18=0 AIDC_RC_FL51=147"
+--05-29T11:50  clearcase_nm75 export sync from replica "AIDC_RC_FL51" to replica "AIDC_RC_AZ18"
+  "Exported synchronization information for replica "AIDC_RC_AZ18".
+   Row at export was: AIDC_RC_FL51=147 AIDC_RC_AZ18=0 AIDC_RC_PR08=1897"
+--05-29T11:50  clearcase_nm75 import sync from replica "AIDC_RC_PR08" to replica "AIDC_RC_FL51"
+  "Imported synchronization information from replica "AIDC_RC_PR08".
+   Row at import was: AIDC_RC_PR08=1947 AIDC_RC_AZ18=0 AIDC_RC_FL51=147"
+--05-29T11:41  clearcase_nm75 import sync from replica "AIDC_RC_AZ18" to replica "AIDC_RC_FL51"
+  "Imported synchronization information from replica "AIDC_RC_AZ18".
+   Row at import was: AIDC_RC_PR08=1947 AIDC_RC_AZ18=0 AIDC_RC_FL51=147"
+--05-29T11:41  clearcase_nm75 import sync from replica "AIDC_RC_PR08" to replica "AIDC_RC_FL51"
+  "Imported synchronization information from replica "AIDC_RC_PR08".
+   Row at import was: AIDC_RC_PR08=1897 AIDC_RC_AZ18=0 AIDC_RC_FL51=147"
+--05-29T11:40  clearcase_nm75 export sync from replica "AIDC_RC_FL51" to replica "AIDC_RC_AZ18"
+  "Exported synchronization information for replica "AIDC_RC_AZ18".
+   Row at export was: AIDC_RC_FL51=147 AIDC_RC_AZ18=0 AIDC_RC_PR08=1454"
+--05-29T11:40  E730056    create directory version "M:\admin_view\AIDC_RC\OFP@@\main\AIDC_RC_Integration\2" (AIDC006)
+  "Added file element "ALIGN_DATA.ADB".
+   Added file element "ALIGN_DATA.ADS".
+   Added file element "ATP_STORAGE.ADB".
+   Added file element "BIT_TESTS.ADB".
+   Added file element "BIT_TESTS.ADS".
+   Added file element "COARSE_LEVEL.ADB".
+   Added file element "COMMON_IO_DATA.ADS".
+   Added file element "COMPUTE_COMMON_IO.ADB".
+   Added file element "EARTH.ADS".
+   Added file element "ECOS_PROCESSES.ADB".
+   Added file element "EEPROM_DATA_TRANSFER.ADB".
+   Added file element "IO_MAP.ADS".
+   Added file element "KF_BACKGROUND.ADB".
+   Added file element "MAGVAR.ADB".
+   Added file element "MAGVAR.ADS".
+   Added file element "MODE_CHANGE_INITIATION.ADB".
+   Added file element "PASS_DATA.ADB".
+   Added file element "PROCESSES.ADB".
+   Added file element "PROCESS_I01.ADA".
+   Added file element "PROCESS_I06.ADA".
+   Added file element "PROCESS_I07.ADA".
+   Added file element "RAS.ADB".
+   Added file element "RAS.ADS".
+   Added file element "SERIAL_B.ADB".
+   Added file element "SERIAL_B.ADS".
+   Added file element "SPEC_1553.ADS".
+   Added file element "STEERING.ADS".
+   Added file element "SYNCHRO.ADB".
+   Added file element "SYNCHRO.ADS".
+   Added file element "TEMP_COMPENSATION.ADB".
+   Added file element "TEMP_COMPENSATION.ADS".
+   Added file element "UNIQUE_IO.ADB".
+   Added file element "UNIQUE_IO.ADS".
+   Added file element "USC.ADB".
+   Added file element "USC.ADS".
+   Added file element "UTILITIES.ADB".
+   Added file element "UTILITIES.ADS".
+   Added file element "UTM.ADB".
+   Added file element "WGS.ADS"."
+--05-29T11:40  E730056    create directory version "M:\admin_view\AIDC_RC\Build_Files@@\main\AIDC_RC_Integration\1" (AIDC006.1309)
+  "Added file element "LINK51.LCF".
+   Added file element "build.bat".
+   Added file element "build_ofp.bat"."
+--05-29T11:40  E730056    create version "M:\admin_view\AIDC_RC\OFP@@\main\AIDC_RC_DEV_SGN_PR\1\MISSIONIZATION_PARAMETERS.ADS@@\main\AIDC_RC_Integration\2" (AIDC006)
+--05-29T11:40  E730056    create version "M:\admin_view\AIDC_RC\OFP@@\main\AIDC_RC_DEV_SGN_PR\2\GEM_CORE.ADS@@\main\AIDC_RC_Integration\2" (AIDC006)
+--05-29T11:40  E730056    create version "M:\admin_view\AIDC_RC\OFP@@\main\AIDC_RC_DEV_SGN_PR\2\GEM_IO.ADB@@\main\AIDC_RC_Integration\2" (AIDC006)
+--05-29T11:40  E730056    create version "M:\admin_view\AIDC_RC\OFP@@\main\AIDC_RC_DEV_SGN_PR\2\GPS.ADS@@\main\AIDC_RC_Integration\2" (AIDC006)
+--05-29T11:40  E730056    create version "M:\admin_view\AIDC_RC\OFP@@\main\AIDC_RC_DEV_SGN_PR\2\GEM_IO.ADS@@\main\AIDC_RC_Integration\2" (AIDC006)
+--05-29T11:40  E730056    create version "M:\admin_view\AIDC_RC\OFP@@\main\AIDC_RC_DEV_SGN_PR\2\MISC_PARAMS.ADB@@\main\AIDC_RC_Integration\2" (AIDC006)
+--05-29T11:40  E730056    create version "M:\admin_view\AIDC_RC\OFP@@\main\AIDC_RC_DEV_SGN_PR\3\PROCESS_IO.ADB@@\main\AIDC_RC_Integration\2" (AIDC006)
+--05-29T11:40  E730056    create version "M:\admin_view\AIDC_RC\OFP@@\main\AIDC_RC_DEV_SGN_PR\3\PROCESS_D01.ADA@@\main\AIDC_RC_Integration\2" (AIDC006)
+--05-29T11:40  E730056    create version "M:\admin_view\AIDC_RC\OFP@@\main\AIDC_RC_DEV_SGN_PR\4\GPS_KALMAN.ADB@@\main\AIDC_RC_Integration\2" (AIDC006)
+--05-29T11:40  E730056    create version "M:\admin_view\AIDC_RC\OFP@@\main\AIDC_RC_DEV_SGN_PR\5\MODE_CHANGE_INITIATION.ADB@@\main\AIDC_RC_Integration\1" (AIDC006)
+--05-29T11:40  E730056    create version "M:\admin_view\AIDC_RC\OFP@@\main\AIDC_RC_DEV_SGN_PR\6\UTM.ADB@@\main\AIDC_RC_Integration\1" (AIDC006)
+--05-29T11:40  E730056    create version "M:\admin_view\AIDC_RC\OFP@@\main\AIDC_RC_DEV_SGN_PR\7\PROCESS_I07.ADA@@\main\AIDC_RC_Integration\1" (AIDC006)
+--05-29T11:40  E730056    create version "M:\admin_view\AIDC_RC\OFP@@\main\AIDC_RC_DEV_SGN_PR\8\ALIGN_DATA.ADS@@\main\AIDC_RC_Integration\1" (AIDC006)
+--05-29T11:40  E730056    create version "M:\admin_view\AIDC_RC\OFP@@\main\AIDC_RC_DEV_SGN_PR\9\EARTH.ADS@@\main\AIDC_RC_Integration\1" (AIDC006)
+--05-29T11:40  E730056    create version "M:\admin_view\AIDC_RC\OFP@@\main\AIDC_RC_DEV_SGN_PR\10\WGS.ADS@@\main\AIDC_RC_Integration\1" (AIDC006)
+--05-29T11:40  E730056    create version "M:\admin_view\AIDC_RC\OFP@@\main\AIDC_RC_DEV_SGN_PR\11\ECOS_PROCESSES.ADB@@\main\AIDC_RC_Integration\1" (AIDC006)
+--05-29T11:40  E730056    create version "M:\admin_view\AIDC_RC\OFP@@\main\AIDC_RC_DEV_SGN_PR\12\ALIGN_DATA.ADB@@\main\AIDC_RC_Integration\1" (AIDC006)
+--05-29T11:40  E730056    create version "M:\admin_view\AIDC_RC\OFP@@\main\AIDC_RC_DEV_SGN_PR\13\COMPUTE_COMMON_IO.ADB@@\main\AIDC_RC_Integration\1" (AIDC006)
+--05-29T11:40  E730056    create version "M:\admin_view\AIDC_RC\OFP@@\main\AIDC_RC_DEV_SGN_PR\13\COARSE_LEVEL.ADB@@\main\AIDC_RC_Integration\1" (AIDC006)
+--05-29T11:40  E730056    create version "M:\admin_view\AIDC_RC\OFP@@\main\AIDC_RC_DEV_SGN_PR\13\COMMON_IO_DATA.ADS@@\main\AIDC_RC_Integration\1" (AIDC006)
+--05-29T11:40  E730056    create version "M:\admin_view\AIDC_RC\OFP@@\main\AIDC_RC_DEV_SGN_PR\13\BIT_TESTS.ADB@@\main\AIDC_RC_Integration\1" (AIDC006)

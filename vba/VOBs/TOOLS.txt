@@ -1,0 +1,103 @@
+--06-30T10:45  clearcase_nm75 protect directory element "M:\admin_view\TOOLS\.@@"
+  "CHMOD 775"
+--06-24T06:01  clearcase_nm75 export sync from replica "TOOLS_FL51" to replica "TOOLS_tus_DCW"
+  "Exported synchronization information for replica "TOOLS_tus_DCW".
+   Row at export was: TOOLS_NJ06.deleted=0 htsl_tools=262394 TOOLS_NJ06=0 TOOLS_AZ18.deleted=6 TOOLS_AZ75.deleted=0 TOOLS_FL51=0 TOOLS_IE1F=205 brno_tools=9 BRNO_TOOLS.deleted=0 TOOLS_AZ75.deleted.1=0 TOOLS_PR08=8 TOOLS_AZ10=13027 TOOLS_AZ75=2 brno_tools.deleted=0 TOOLS_tus_DCW=0 original.deleted=33073 TOOLS_CH01=8"
+--06-24T03:55  clearcase_nm75 import sync from replica "TOOLS_tus_DCW" to replica "TOOLS_FL51"
+  "Imported synchronization information from replica "TOOLS_tus_DCW".
+   Row at import was: TOOLS_AZ10=13027 original.deleted=33073 htsl_tools=262394 BRNO_TOOLS.deleted=0 brno_tools.deleted=0 brno_tools=9 TOOLS_AZ18.deleted=6 TOOLS_PR08=8 TOOLS_CH01=8 TOOLS_IE1F=206 TOOLS_AZ75.deleted=0 TOOLS_AZ75.deleted.1=0 TOOLS_NJ06.deleted=0 TOOLS_AZ75=2 TOOLS_NJ06=0 TOOLS_tus_DCW=0 TOOLS_FL51=0"
+--06-24T03:46  clearcase_nm75 import sync from replica "TOOLS_IE1F" to replica "TOOLS_FL51"
+  "Imported synchronization information from replica "TOOLS_IE1F".
+   Row at import was: TOOLS_AZ10=13027 original.deleted=33073 htsl_tools=262394 BRNO_TOOLS.deleted=0 brno_tools.deleted=0 brno_tools=9 TOOLS_AZ18.deleted=6 TOOLS_PR08=8 TOOLS_CH01=8 TOOLS_IE1F=205 TOOLS_AZ75.deleted=0 TOOLS_AZ75.deleted.1=0 TOOLS_NJ06.deleted=0 TOOLS_AZ75=2 TOOLS_NJ06=0 TOOLS_tus_DCW=0 TOOLS_FL51=0"
+--06-21T06:01  clearcase_nm75 export sync from replica "TOOLS_FL51" to replica "TOOLS_tus_DCW"
+  "Exported synchronization information for replica "TOOLS_tus_DCW".
+   Row at export was: TOOLS_NJ06.deleted=0 htsl_tools=262394 TOOLS_NJ06=0 TOOLS_AZ18.deleted=6 TOOLS_AZ75.deleted=0 TOOLS_FL51=0 TOOLS_IE1F=204 brno_tools=9 BRNO_TOOLS.deleted=0 TOOLS_AZ75.deleted.1=0 TOOLS_PR08=8 TOOLS_AZ10=13027 TOOLS_AZ75=2 brno_tools.deleted=0 TOOLS_tus_DCW=0 original.deleted=33073 TOOLS_CH01=8"
+--06-21T03:15  clearcase_nm75 import sync from replica "TOOLS_tus_DCW" to replica "TOOLS_FL51"
+  "Imported synchronization information from replica "TOOLS_tus_DCW".
+   Row at import was: TOOLS_AZ10=13027 original.deleted=33073 htsl_tools=262394 BRNO_TOOLS.deleted=0 brno_tools.deleted=0 brno_tools=9 TOOLS_AZ18.deleted=6 TOOLS_PR08=8 TOOLS_CH01=8 TOOLS_IE1F=205 TOOLS_AZ75.deleted=0 TOOLS_AZ75.deleted.1=0 TOOLS_NJ06.deleted=0 TOOLS_AZ75=2 TOOLS_NJ06=0 TOOLS_tus_DCW=0 TOOLS_FL51=0"
+--06-21T03:06  clearcase_nm75 import sync from replica "TOOLS_IE1F" to replica "TOOLS_FL51"
+  "Imported synchronization information from replica "TOOLS_IE1F".
+   Row at import was: TOOLS_AZ10=13027 original.deleted=33073 htsl_tools=262394 BRNO_TOOLS.deleted=0 brno_tools.deleted=0 brno_tools=9 TOOLS_AZ18.deleted=6 TOOLS_PR08=8 TOOLS_CH01=8 TOOLS_IE1F=204 TOOLS_AZ75.deleted=0 TOOLS_AZ75.deleted.1=0 TOOLS_NJ06.deleted=0 TOOLS_AZ75=2 TOOLS_NJ06=0 TOOLS_tus_DCW=0 TOOLS_FL51=0"
+--06-19T17:41  clearcase_nm75 protect directory element "M:\admin_view\TOOLS\.@@"
+  "CHMOD 770"
+--06-19T17:41  clearcase_nm75 protect directory element "M:\admin_view\TOOLS\.@@"
+  "CHMOD 775"
+--06-19T17:18  clearcase_nm75 protect directory element "M:\admin_view\TOOLS\.@@"
+  "CHMOD 770"
+--06-19T17:18  clearcase_nm75 protect directory element "M:\admin_view\TOOLS\.@@"
+  "CHMOD 775"
+--06-16T06:01  clearcase_nm75 export sync from replica "TOOLS_FL51" to replica "TOOLS_tus_DCW"
+  "Exported synchronization information for replica "TOOLS_tus_DCW".
+   Row at export was: TOOLS_NJ06.deleted=0 htsl_tools=262394 TOOLS_NJ06=0 TOOLS_AZ18.deleted=6 TOOLS_AZ75.deleted=0 TOOLS_FL51=0 TOOLS_IE1F=199 brno_tools=9 BRNO_TOOLS.deleted=0 TOOLS_AZ75.deleted.1=0 TOOLS_PR08=8 TOOLS_AZ10=13027 TOOLS_AZ75=2 brno_tools.deleted=0 TOOLS_tus_DCW=0 original.deleted=33073 TOOLS_CH01=8"
+--06-16T03:25  clearcase_nm75 import sync from replica "TOOLS_tus_DCW" to replica "TOOLS_FL51"
+  "Imported synchronization information from replica "TOOLS_tus_DCW".
+   Row at import was: TOOLS_AZ10=13027 original.deleted=33073 htsl_tools=262394 BRNO_TOOLS.deleted=0 brno_tools.deleted=0 brno_tools=9 TOOLS_AZ18.deleted=6 TOOLS_PR08=8 TOOLS_CH01=8 TOOLS_IE1F=204 TOOLS_AZ75.deleted=0 TOOLS_AZ75.deleted.1=0 TOOLS_NJ06.deleted=0 TOOLS_AZ75=2 TOOLS_NJ06=0 TOOLS_tus_DCW=0 TOOLS_FL51=0"
+--06-16T03:13  clearcase_nm75 import sync from replica "TOOLS_IE1F" to replica "TOOLS_FL51"
+  "Imported synchronization information from replica "TOOLS_IE1F".
+   Row at import was: TOOLS_AZ10=13027 original.deleted=33073 htsl_tools=262394 BRNO_TOOLS.deleted=0 brno_tools.deleted=0 brno_tools=9 TOOLS_AZ18.deleted=6 TOOLS_PR08=8 TOOLS_CH01=8 TOOLS_IE1F=199 TOOLS_AZ75.deleted=0 TOOLS_AZ75.deleted.1=0 TOOLS_NJ06.deleted=0 TOOLS_AZ75=2 TOOLS_NJ06=0 TOOLS_tus_DCW=0 TOOLS_FL51=0"
+--06-09T20:06  clearcase_nm75 import sync from replica "TOOLS_IE1F" to replica "TOOLS_FL51"
+  "Imported synchronization information from replica "TOOLS_IE1F".
+   Row at import was: TOOLS_AZ10=13027 original.deleted=33073 htsl_tools=262394 BRNO_TOOLS.deleted=0 brno_tools.deleted=0 brno_tools=9 TOOLS_AZ18.deleted=6 TOOLS_PR08=8 TOOLS_CH01=8 TOOLS_IE1F=199 TOOLS_AZ75.deleted=0 TOOLS_AZ75.deleted.1=0 TOOLS_NJ06.deleted=0 TOOLS_AZ75=2 TOOLS_NJ06=0 TOOLS_tus_DCW=0 TOOLS_FL51=0"
+--06-07T14:35  clearcase_nm75 import sync from replica "TOOLS_tus_DCW" to replica "TOOLS_FL51"
+  "Imported synchronization information from replica "TOOLS_tus_DCW".
+   Row at import was: TOOLS_AZ10=13027 original.deleted=33073 htsl_tools=262291 BRNO_TOOLS.deleted=0 brno_tools.deleted=0 brno_tools=9 TOOLS_AZ18.deleted=6 TOOLS_PR08=8 TOOLS_CH01=8 TOOLS_IE1F=132 TOOLS_AZ75.deleted=0 TOOLS_AZ75.deleted.1=0 TOOLS_NJ06.deleted=0 TOOLS_AZ75=2 TOOLS_NJ06=0 TOOLS_tus_DCW=0 TOOLS_FL51=0"
+--06-07T14:08  vobadm     import sync to replica "htsl_tools"
+  "Changed information associated with replica."
+--05-28T12:02  E528634    create version "M:\admin_view\TOOLS\HMATS\program_mgt\Status_reports\2014\HMATS_Enhancement_Plan.xlsx@@\main\10"
+  "HMATS Status is updated till 23rd May"
+--05-28T11:37  ie10-clearcase_albd change master to "TOOLS_AZ10" of branch "M:\admin_view\TOOLS\eTPU\documents\VDD\SW65051420-1001_ECO.doc@@\main"
+  "Reqmaster changed master replica from "htsl_tools" to "TOOLS_AZ10".
+   Requester: user "NAMERICA3\e077061" in domain "NAMERICA3" on host "AZ10LT63C25Q1""
+--05-28T11:29  ie10-clearcase_albd change master to "TOOLS_AZ10" of branch "M:\admin_view\TOOLS\eTPU\documents\VDD\SW65051420-1001.doc@@\main"
+  "Reqmaster changed master replica from "htsl_tools" to "TOOLS_AZ10".
+   Requester: user "NAMERICA3\e077061" in domain "NAMERICA3" on host "AZ10LT63C25Q1""
+--05-28T02:25  E810427    checkout version "M:\admin_view\TOOLS\SuperTracer\Executable\SuperTracer.exe" from \main\26 (unreserved)
+--05-20T01:21  E851023    checkout version "M:\admin_view\TOOLS\SuperTracer\Executable\SuperTracer.exe" from \main\26 (unreserved)
+--05-19T06:59  e381587    checkout version "M:\admin_view\TOOLS\SuperTracer\Executable\SuperTracer.exe" from \main\28 (unreserved)
+--05-16T01:14  E381587    checkout version "M:\admin_view\TOOLS\SuperTracer\Executable\SuperTracer.exe" from \main\26 (unreserved)
+--05-08T03:21  E859868    checkout version "M:\admin_view\TOOLS\SuperTracer\Executable\SuperTracer.exe" from \main\26 (unreserved)
+--04-30T10:19  E293885    checkout version "M:\admin_view\TOOLS\SuperTracer\Executable\SuperTracer.exe" from \main\26 (unreserved)
+--04-30T09:35  E293885    checkout version "M:\admin_view\TOOLS\SuperTracer\Executable\SuperTracer.exe" from \main\26 (unreserved)
+--04-30T08:47  E451849    checkout version "M:\admin_view\TOOLS\SuperTracer\Executable\SuperTracer.exe" from \main\26 (unreserved)
+--04-30T07:57  E526501    checkout version "M:\admin_view\TOOLS\SuperTracer\Executable\SuperTracer.exe" from \main\36 (unreserved)
+--04-29T09:04  E859868    checkout version "M:\admin_view\TOOLS\SuperTracer\Executable\SuperTracer.exe" from \main\26 (unreserved)
+--04-29T08:07  E859868    checkout version "M:\admin_view\TOOLS\SuperTracer\Executable\SuperTracer.exe" from \main\26 (unreserved)
+--04-24T15:40  clearcase_nm75 export sync from replica "TOOLS_FL51" to replica "TOOLS_tus_DCW"
+  "Exported synchronization information for replica "TOOLS_tus_DCW".
+   Row at export was: TOOLS_NJ06.deleted=0 htsl_tools=262268 TOOLS_NJ06=0 TOOLS_AZ18.deleted=6 TOOLS_AZ75.deleted=0 TOOLS_FL51=0 TOOLS_IE1F=109 brno_tools=9 BRNO_TOOLS.deleted=0 TOOLS_AZ75.deleted.1=0 TOOLS_PR08=8 TOOLS_AZ10=13015 TOOLS_AZ75=2 brno_tools.deleted=0 TOOLS_tus_DCW=0 original.deleted=33073 TOOLS_CH01=8"
+--04-24T15:35  clearcase_nm75 import sync from replica "TOOLS_tus_DCW" to replica "TOOLS_FL51"
+  "Imported synchronization information from replica "TOOLS_tus_DCW".
+   Row at import was: TOOLS_AZ10=13027 original.deleted=33073 htsl_tools=262291 BRNO_TOOLS.deleted=0 brno_tools.deleted=0 brno_tools=9 TOOLS_AZ18.deleted=6 TOOLS_PR08=8 TOOLS_CH01=8 TOOLS_IE1F=132 TOOLS_AZ75.deleted=0 TOOLS_AZ75.deleted.1=0 TOOLS_NJ06.deleted=0 TOOLS_AZ75=2 TOOLS_NJ06=0 TOOLS_tus_DCW=0 TOOLS_FL51=0"
+--04-24T15:32  clearcase_nm75 import sync from replica "TOOLS_AZ10" to replica "TOOLS_FL51"
+  "Imported synchronization information from replica "TOOLS_AZ10".
+   Row at import was: TOOLS_AZ10=13015 original.deleted=33073 htsl_tools=262268 BRNO_TOOLS.deleted=0 brno_tools.deleted=0 brno_tools=9 TOOLS_AZ18=6 TOOLS_PR08=8 TOOLS_CH01=8 TOOLS_IE1F=109 TOOLS_AZ75.deleted=0 TOOLS_AZ75.deleted.1=0 TOOLS_NJ06.deleted=0 TOOLS_AZ75=2 TOOLS_NJ06=0 TOOLS_tus_DCW=0 TOOLS_FL51=0"
+--04-24T15:31  TusVobAdm  change master to "TOOLS_tus_DCW" of replica "TOOLS_tus_DCW"
+  "Changed master replica from "TOOLS_AZ10" to "TOOLS_tus_DCW"."
+--04-24T15:31  TusVobAdm  rename replica "TOOLS_AZ18.deleted"
+  "Changed name of replica from "TOOLS_AZ18" to "TOOLS_AZ18.deleted".
+   Destroyed replica "TOOLS_AZ18"."
+--04-24T15:31  TusVobAdm  destroy replica in versioned object base "\TOOLS"
+  "Destroyed replica "TOOLS_AZ18"."
+--04-24T15:30  TusVobAdm  change master to "TOOLS_AZ10" of replica "TOOLS_tus_DCW"
+  "Changed master replica from "TOOLS_AZ18" to "TOOLS_AZ10"."
+--04-24T15:30  TusVobAdm  change master to "TOOLS_AZ10" of replica "TOOLS_NJ06"
+  "Changed master replica from "TOOLS_AZ18" to "TOOLS_AZ10"."
+--04-24T15:30  TusVobAdm  change master to "TOOLS_AZ10" of replica "TOOLS_NJ06.deleted"
+  "Changed master replica from "TOOLS_AZ18" to "TOOLS_AZ10"."
+--04-24T15:30  TusVobAdm  change master to "TOOLS_AZ10" of replica "TOOLS_AZ75.deleted.1"
+  "Changed master replica from "TOOLS_AZ18" to "TOOLS_AZ10"."
+--04-24T15:30  TusVobAdm  change master to "TOOLS_AZ10" of replica "TOOLS_AZ18.deleted"
+  "Changed master replica from "TOOLS_AZ18" to "TOOLS_AZ10"."
+--04-23T06:30  E539702    checkout version "M:\admin_view\TOOLS\ImageUtilities\Code\crc_coff2\coff-CRC.py" from \main\2 (unreserved)
+--04-23T06:30  E539702    checkout version "M:\admin_view\TOOLS\ImageUtilities\Code\crc_coff2\hex2000.exe" from \main\1 (unreserved)
+--04-14T07:06  E528634    create version "M:\admin_view\TOOLS\HMATS\program_mgt\Status_reports\2014\HMATS_Enhancement_Plan.xlsx@@\main\9"
+  "Updated estimate for CAN USB support."
+--04-14T04:56  E473301    checkout version "M:\admin_view\TOOLS\SuperTracer\Executable\SuperTracer.exe" from \main\36 (unreserved)
+--04-11T19:12  e371166    create directory version "M:\admin_view\TOOLS\eTPU\documents\VDD@@\main\8"
+  "AeroPDM release
+   Added file element "SW65051420-1001_A_MASTER.PDF"."
+--04-11T19:12  e371166    add name to directory version "M:\admin_view\TOOLS\eTPU\documents\VDD@@\main\8"
+  "AeroPDM release"
+--04-11T19:12  e371166    create version "M:\admin_view\TOOLS\eTPU\documents\VDD\SW65051420-1001_A_MASTER.PDF@@\main\1"
+  "AeroPDM release"
+--04-11T19:12  e371166    create version "M:\admin_view\TOOLS\eTPU\documents\VDD\SW65051420-1001_A_MASTER.PDF@@\main\0"

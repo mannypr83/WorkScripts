@@ -1,0 +1,106 @@
+--06-30T10:44  clearcase_nm75 protect directory element "M:\admin_view\WEDGETAIL\.@@"
+  "CHMOD 775"
+--06-19T17:41  clearcase_nm75 export sync from replica "WEDGETAIL_FL51" to replica "WEDGETAIL_DCW"
+  "Exported synchronization information for replica "WEDGETAIL_DCW".
+   Row at export was: WEDGETAIL_FL51=10 WEDGETAIL_DCW=0 WEDGETAIL_AZ18.deleted=1"
+--06-19T17:39  clearcase_nm75 protect directory element "M:\admin_view\WEDGETAIL\.@@"
+  "CHMOD 770"
+--06-19T17:39  clearcase_nm75 protect directory element "M:\admin_view\WEDGETAIL\.@@"
+  "CHMOD 775"
+--06-19T17:21  clearcase_nm75 export sync from replica "WEDGETAIL_FL51" to replica "WEDGETAIL_DCW"
+  "Exported synchronization information for replica "WEDGETAIL_DCW".
+   Row at export was: WEDGETAIL_FL51=8 WEDGETAIL_DCW=0 WEDGETAIL_AZ18.deleted=1"
+--06-19T17:15  clearcase_nm75 protect directory element "M:\admin_view\WEDGETAIL\.@@"
+  "CHMOD 770"
+--06-19T17:15  clearcase_nm75 protect directory element "M:\admin_view\WEDGETAIL\.@@"
+  "CHMOD 775"
+--05-06T11:24  e704548    export sync from replica "WEDGETAIL_FL51" to replica "WEDGETAIL_DCW"
+  "Exported synchronization information for replica "WEDGETAIL_DCW".
+   Row at export was: WEDGETAIL_FL51=7 WEDGETAIL_DCW=0 WEDGETAIL_AZ18.deleted=1"
+--05-06T11:24  e704548    change master to "WEDGETAIL_DCW" of replica "WEDGETAIL_DCW"
+  "Changed master replica from "WEDGETAIL_FL51" to "WEDGETAIL_DCW"."
+--05-06T11:24  e704548    export sync from replica "WEDGETAIL_FL51" to replica "WEDGETAIL_DCW"
+  "Exported synchronization information for replica "WEDGETAIL_DCW".
+   Row at export was: WEDGETAIL_FL51=4 WEDGETAIL_DCW=0 WEDGETAIL_AZ18.deleted=1"
+--05-06T11:24  e704548    rename replica "WEDGETAIL_AZ18.deleted"
+  "Changed name of replica from "WEDGETAIL_AZ18" to "WEDGETAIL_AZ18.deleted"."
+--05-06T11:24  e704548    destroy replica in versioned object base "\WEDGETAIL"
+  "Destroyed replica "WEDGETAIL_AZ18"."
+--05-06T11:24  e704548    change master to "WEDGETAIL_FL51" of replica "WEDGETAIL_DCW"
+  "Changed master replica from "WEDGETAIL_AZ18" to "WEDGETAIL_FL51"."
+--05-06T11:24  e704548    change master to "WEDGETAIL_FL51" of replica "WEDGETAIL_AZ18.deleted"
+  "Changed master replica from "WEDGETAIL_AZ18" to "WEDGETAIL_FL51"."
+--05-06T11:24  e704548    modify replica "WEDGETAIL_AZ18.deleted"
+  "Marked replica "WEDGETAIL_AZ18" for deletion."
+--03-25T12:22  clearcase_nm75 export sync from replica "WEDGETAIL_FL51" to replica "WEDGETAIL_DCW"
+  "Exported synchronization information for replica "WEDGETAIL_DCW".
+   Row at export was: WEDGETAIL_FL51=4 WEDGETAIL_DCW=0 WEDGETAIL_AZ18=0"
+--07-19T14:30  clearcase_nm75 import sync from replica "WEDGETAIL_DCW" to replica "WEDGETAIL_FL51"
+  "Imported synchronization information from replica "WEDGETAIL_DCW".
+   Row at import was: WEDGETAIL_AZ18=1 WEDGETAIL_DCW=0 WEDGETAIL_FL51=4"
+--07-19T10:30  clearcase_nm75 import sync from replica "WEDGETAIL_AZ18.deleted" to replica "WEDGETAIL_FL51"
+  "Imported synchronization information from replica "WEDGETAIL_AZ18".
+   Row at import was: WEDGETAIL_AZ18=0 WEDGETAIL_FL51=4"
+--07-19T10:17  root       create replica "WEDGETAIL_DCW"
+2013-06-10     e564406    lock trigger type "CHOWN" (locked)
+  "Locked except for users: e702445"
+2013-06-10     e564406    modify trigger type "CHOWN" (locked)
+  "Changed definition of type."
+2013-06-10     e564406    unlock trigger type "CHOWN" (locked)
+2013-06-03     e564406    lock trigger type "NO_RMTYPE" (locked)
+  "Locked for all users."
+2013-06-03     e564406    destroy type in versioned object base "\WEDGETAIL"
+  "Destroyed trigger type "NO_RMTRIGGER"."
+2013-06-03     e564406    modify trigger type "NO_RMTYPE" (locked)
+  "Changed definition of type.
+   Disallow removal of types"
+2013-06-03     e564406    unlock trigger type "NO_RMTYPE" (locked)
+2012-07-02     e538625    export sync from replica "WEDGETAIL_FL51" to replica "WEDGETAIL_AZ18.deleted"
+  "Exported synchronization information for replica "WEDGETAIL_AZ18".
+   Row at export was: WEDGETAIL_FL51=2 WEDGETAIL_AZ18=0"
+2012-07-02     e538625    unlock versioned object base "\WEDGETAIL"
+2012-07-02     e730056    lock versioned object base "\WEDGETAIL"
+  "Locked for all users (obsolete)."
+2012-05-22     e702445    export sync from replica "WEDGETAIL_FL51" to replica "WEDGETAIL_AZ18.deleted"
+  "Exported synchronization information for replica "WEDGETAIL_AZ18".
+   Row at export was: WEDGETAIL_FL51=0 WEDGETAIL_AZ18=0"
+2012-05-22     e702445    change master to "WEDGETAIL_AZ18.deleted" of replica "WEDGETAIL_AZ18.deleted"
+  "Changed master replica from "WEDGETAIL_FL51" to "WEDGETAIL_AZ18"."
+2012-05-22     e702445    unlock versioned object base "\WEDGETAIL"
+  "Unlock after replica dump"
+2012-05-22     e702445    lock versioned object base "\WEDGETAIL"
+  "Locked for all users.
+   Locked for replica dump"
+2012-05-22     e702445    create replica "WEDGETAIL_AZ18.deleted"
+2012-05-22     e702445    rename replica "WEDGETAIL_FL51"
+  "Changed name of replica from "original" to "WEDGETAIL_FL51"."
+2012-05-22     e702445    lock trigger type "NO_RMNAME" (locked)
+  "Locked except for users: e702445 e704548 e721877 e730056 e722159 e041467"
+2012-05-22     e702445    lock trigger type "NO_RMLOCK" (locked)
+  "Locked except for users: e702445 e704548 e721877 e730056 e722159 e041467"
+2012-05-22     e702445    lock trigger type "NO_RMTYPE" (locked)
+  "Locked except for users: e702445 e704548 e721877 e730056 e722159 e041467"
+2012-05-22     e702445    lock trigger type "NO_MKTRIGGER" (locked)
+  "Locked except for users: e702445 e704548 e721877 e730056 e722159 e041467"
+2012-05-22     e702445    lock trigger type "NO_EVIL_TWIN_MKELEM" (locked)
+  "Locked except for users: e702445 e704548 e721877 e730056 e722159 e041467"
+2012-05-22     e702445    lock trigger type "NO_RMELEM" (locked)
+  "Locked except for users: e702445 e704548 e721877 e730056 e722159 e041467"
+2012-05-22     e702445    lock trigger type "CHOWN" (locked)
+  "Locked except for users: e702445 e704548 e721877 e730056 e722159 e041467"
+2012-05-22     e702445    lock trigger type "NO_RMVER" (locked)
+  "Locked except for users: e702445 e704548 e721877 e730056 e722159 e041467"
+2012-05-22     e702445    lock trigger type "ChangeLbtypeOwner" (locked)
+  "Locked except for users: e702445 e704548 e721877 e730056 e722159 e041467"
+2012-05-22     e702445    lock trigger type "ChangeHltypeOwner" (locked)
+  "Locked except for users: e702445 e704548 e721877 e730056 e722159 e041467"
+2012-05-22     e702445    lock trigger type "ChangeAttypeOwner" (locked)
+  "Locked except for users: e702445 e704548 e721877 e730056 e722159 e041467"
+2012-05-22     e702445    lock trigger type "ChangeTrtypeOwner" (locked)
+  "Locked except for users: e702445 e704548 e721877 e730056 e722159 e041467"
+2012-05-22     e702445    protect trigger type "NO_RMNAME" (locked)
+  "CHOWN e702445; CHGRP Global\aero.cc.sgn.wedgetail.rc"
+2012-05-22     e702445    protect trigger type "NO_RMLOCK" (locked)
+  "CHOWN e702445; CHGRP Global\aero.cc.sgn.wedgetail.rc"
+2012-05-22     e702445    protect trigger type "NO_RMTYPE" (locked)
+  "CHOWN e702445; CHGRP Global\aero.cc.sgn.wedgetail.rc"

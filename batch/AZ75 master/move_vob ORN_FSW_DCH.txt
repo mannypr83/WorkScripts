@@ -1,0 +1,116 @@
+Use find and replace for each keyword below.
+<<WIN2K3_NAME>>
+<<WIN2K8_NAME>> (use server name, not the alias)
+<<NT-DRIVE>>
+<<CCCQ-DRIVE>>
+<<VOB_NAME>>
+<<LID_CODE>>
+<<OWNER>> = global\vobadm_m
+<<GROUP>> = verify group on WIN2K3 server
+
+To be run on fl51nt1931:
+
+cleartool describe vob:\ORN_FSW_DCH
+cleartool umount \ORN_FSW_DCH
+cleartool lsvob \ORN_FSW_DCH
+
+=========if VOB replicated=============
+multitool lsreplica –invob vob:\ORN_FSW_DCH
+multitool chreplia –host fl51w1002.honeywell.com ORN_FSW_DCH_FL51@\ORN_FSW_DCH
+
+(for each replica run:)
+multitool syncreplica –export –fship ORN_FSW_DCH_FL51@\ORN_FSW_DCH
+
+=========endif VOB replicated=============
+
+cleartool lock vob:\ORN_FSW_DCH
+
+To be run on fl51w1002:
+
+runas /env /user:global\vobadm_m  (vobadm account we are using for new servers)
+robocopy /E /SEC /COPYALL \\fl51nt1931.honeywell.com\ccstg_f\VOBS\ORN_FSW_DCH.vbs \\fl51w1002.honeywell.com\ccstg_e\VOBs\ORN_FSW_DCH.vbs
+
+
+To be run on fl51nt1931:
+cleartool unregister –vob \\fl51nt1931\ccstg_f\VOBs\ORN_FSW_DCH.vbs
+cleartool rmtag –vob \ORN_FSW_DCH
+
+=========if VOB replicated=============
+
+Remove ORN_FSW_DCH entry from ms_replica_list
+
+=========endif VOB replicated=============
+
+To be run on fl51w1002:
+
+cleartool register –vob \\fl51w1002.honeywell.com\ccstg_e\VOBs\ORN_FSW_DCH.vbs
+
+====IF “FAILED TO RECORD HOSTNAME” ERROR IS RECEIVED: =======
+o	REMOVE .HOSTNAME file from .vbs folder
+====ENDIF “FAILED TO RECORD HOSTNAME” ERROR IS RECEIVED: =======
+
+cleartool mktag –vob –tag \ORN_FSW_DCH -public \\fl51w1002.honeywell.com\ccstg_e\VOBs\ORN_FSW_DCH.vbs
+cleartool mount ORN_FSW_DCH
+cleartool unlock vob:\ORN_FSW_DCH
+
+=========if VOB replicated=============
+
+Update ms_replica_list
+
+=========endif VOB replicated=============
+
+cd e
+cd \IBM\RationalSDLC\ClearCase\etc\utils
+cleartool protectvob –chown global\vobadm_m -chgrp namerica4\AES.DCW.CEV \\fl51w1002.honeywell.com\ccstg_e\VOBs\ORN_FSW_DCH.vbs
+
+========IF UNKNOWN STYLE SETTINGS ERROR IS RECEIVED:===============
+
+fix_prot -root –recurse -chown global\vobadm_m -chgrp namerica4\AES.DCW.CEV \\fl51w1002.honeywell.com\ccstg_e\vobs\ORN_FSW_DCH.vbs
+cleartool protectvob –chown global\vobadm_m -chgrp namerica4\AES.DCW.CEV \\fl51w1002.honeywell.com\ccstg_e\VOBs\\ORN_FSW_DCH.vbs
+
+========ENDIF UNKNOWN STYLE SETTINGS ERROR IS RECEIVED:===============
+
+vob_siddump –log c:\temp\ORN_FSW_DCH.log  \ORN_FSW_DCH c:\temp\ORN_FSW_DCH.csv
+notepad c:\temp\ORN_FSW_DCH.csv
+(replace the last item at end of 1st line with vobadm_m. At end of first line of second paragraph replace with VOB group. If paragraphs have more than one line, then enter “DELETED” for each other line.)
+
+vob_sidwalk -map c:\temp\ORN_FSW_DCH.csv \ORN_FSW_DCH c:\temp\ORN_FSW_DCH_map.log
+
+vob_sidwalk –exec -map c:\temp\ORN_FSW_DCH.csv \ORN_FSW_DCH c:\temp\ORN_FSW_DCH_exec.log
+vob_sidwalk –recover_filesystem \ORN_FSW_DCH c:\temp\ORN_FSW_DCH_recover.log
+cleartool describe vob:\ORN_FSW_DCH
+cleartool lstype –kind trytpe –long –invob vob:\ORN_FSW_DCH
+
+==============if VOB has triggers===================================
+
+cd M:\admin_view\ORN_FSW_DCH
+f:\ClearCase_Scripts\configurevob.bat
+
+Run cleartool unlock for each trigger
+
+f:\ClearCase_Scripts\configurevob.bat –replace 
+
+cleartool lstype -kind trtype -long -invob vob:\ORN_FSW_DCH | findstr "ClearCase_Scripts"
+o	Make sure all listed items point to new server
+
+	==============IF NEEDED:============================================
+	cleartool describe trtype:CheckIn
+	cleartool unlock trtype:CheckIn
+	cleartool mktrtype -replace -nc -element -all -postop checkin -exec "cmd /c (cd /D ""%CLEARCASE_PN%\.."") & (ccperl \\ORN_FSW_DCH\ClearCase_Scripts\CheckInOut.pl)" CheckIn
+	cleartool lock trtype:CheckIn
+	cleartool unlock trtype:CheckInOut
+	cleartool mktrtype -replace -nc -element -all -preop checkout,checkin -exec "cmd /c (cd /D ""%CLEARCASE_PN%\.."") & (ccperl \\ORN_FSW_DCH\ClearCase_Scripts\CheckInOut.pl)" CheckInOut
+	cleartool lock trtype:CheckInOut
+	cleartool unlock trtype:unco_rmbranch
+	cleartool rmtype -rmall trtype:unco_rmbranch
+	cleartool lstype -kind trtype -long -invob vob:\ORN_FSW_DCH | findstr "fl51w1002\ClearCase_Scripts"
+	
+	If NO_RMTRIGGER prohibits removing a trigger:
+	cleartool mktrtype -replace -nc -type -trtype -all –preop rmtype -nusers  e704548,e721877,e730056,e722159,e041467,TusVobAdm,e371166,e564406,e538625 -exec "\\fl51w1002\ClearCase_Scripts\false.bat" NO_RMTRIGGER
+	If NO_RMTYPE prohibits removing a trigger:
+	cleartool mktrtype -replace -type -att -all -brt -all -elt -all -hlt -all -lbt -all -trt -all -preop rmtype -nusers e704548,e721877,e730056,e722159,e041467,TusVobAdm,e371166,e564406,e538625 -execw “\\fl51w1002\ClearCase_Scripts\false.bat" NO_RMTYPE
+
+==============IF NEEDED:============================================
+
+==============endif VOB has triggers================================
+

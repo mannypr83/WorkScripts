@@ -1,0 +1,246 @@
+--06-30T10:45  clearcase_nm75 protect directory element "M:\admin_view\CCTS_RC\.@@"
+  "CHMOD 775"
+--06-19T17:43  clearcase_nm75 protect directory element "M:\admin_view\CCTS_RC\.@@"
+  "CHMOD 770"
+--06-19T17:43  clearcase_nm75 protect directory element "M:\admin_view\CCTS_RC\.@@"
+  "CHMOD 775"
+--06-19T17:20  clearcase_nm75 protect directory element "M:\admin_view\CCTS_RC\.@@"
+  "CHMOD 770"
+--06-19T17:20  clearcase_nm75 protect directory element "M:\admin_view\CCTS_RC\.@@"
+  "CHMOD 775"
+--06-19T17:20  clearcase_nm75 protect directory element "M:\admin_view\CCTS_RC\.@@"
+  "CHMOD 770"
+--06-19T17:20  clearcase_nm75 protect directory element "M:\admin_view\CCTS_RC\.@@"
+  "CHMOD 775"
+--12-04T18:08  e724573    make hyperlink "BaselineLbtype" on label type "CCTS_Int_2013-12-04"
+  "Attached hyperlink "BaselineLbtype@533@\CCTS_RC_PVOB"."
+--12-04T18:08  e724573    rename label type "CCTS_Int_2013-12-04"
+  "Changed name of label type from "CCTS_Int_2013-12-04_in_progress" to "CCTS_Int_2013-12-04".
+   Initial Baseline"
+--12-04T18:08  e724573    create label type "CCTS_Int_2013-12-04"
+  "Initial Baseline"
+--12-04T17:52  e724573    create directory version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+  "Added directory element "build".
+   Added directory element "source"."
+--12-04T17:52  e724573    create directory version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+  "Added file element "GPS_Utilities.adb".
+   Added file element "GPS_Utilities.ads".
+   Added file element "align_data.adb".
+   Added file element "align_data.ads".
+   Added file element "antenna_mgt.ada".
+   Added file element "atp_storage.adb".
+   Added file element "atp_storage.ads".
+   Added file element "base_types.ads".
+   Added file element "bcrt_1553.adb".
+   Added file element "bcrt_1553.ads".
+   Added file element "bit_engine.adb".
+   Added file element "bit_engine.ads".
+   Added file element "bit_tests.adb".
+   Added file element "bit_tests.ads".
+   Added file element "boresight.adb".
+   Added file element "boresight.ads".
+   Added file element "bus_utilities.adb".
+   Added file element "bus_utilities.ads".
+   Added file element "calibration_data.adb".
+   Added file element "calibration_data.ads".
+   Added file element "cd_1553.ada".
+   Added file element "cd_gem_io.ada".
+   Added file element "cd_gps_los.ada".
+   Added file element "cd_gram.ada".
+   Added file element "cd_io.ada".
+   Added file element "cd_kalman.ada".
+   Added file element "cd_vendor.ada".
+   Added file element "chi_square.adb".
+   Added file element "chi_square.ads".
+   Added file element "coarse_level.adb".
+   Added file element "coarse_level.ads".
+   Added file element "common_io_data.ads".
+   Added file element "compensation.asm".
+   Added file element "compute_1553.adb".
+   Added file element "compute_1553.ads".
+   Added file element "compute_common_io.adb".
+   Added file element "compute_common_io.ads".
+   Added file element "debug.adb".
+   Added file element "debug.ads".
+   Added file element "earth.ads".
+   Added file element "ecos.ada".
+   Added file element "ecos.adb".
+   Added file element "ecos.ads".
+   Added file element "ecos_processes.adb".
+   Added file element "ecos_processes.ads".
+   Added file element "ectos_base_types.ads".
+   Added file element "ectos_main.ada".
+   Added file element "eeprom_data_transfer.adb".
+   Added file element "eeprom_data_transfer.ads".
+   Added file element "fb_compensation.ads".
+   Added file element "float_utils.adb".
+   Added file element "float_utils.ads".
+   Added file element "gem_core.adb".
+   Added file element "gem_core.ads".
+   Added file element "gem_io.adb".
+   Added file element "gem_io.ads".
+   Added file element "gps.ads".
+   Added file element "gps_kalman.adb".
+   Added file element "gps_kalman.ads".
+   Added file element "gps_los.adb".
+   Added file element "gps_los.ads".
+   Added file element "history_data.ads".
+   Added file element "hw_inter.asm".
+   Added file element "hw_interface.ads".
+   Added file element "ibit.adb".
+   Added file element "ibit.ads".
+   Added file element "ie_data.ads".
+   Added file element "ie_mode_control.adb".
+   Added file element "ie_mode_control.ads".
+   Added file element "iglue.adb".
+   Added file element "iglue.ads".
+   Added file element "imm_data.ads".
+   Added file element "init_1553.adb".
+   Added file element "init_1553.ads".
+   Added file element "installation_data.ads".
+   Added file element "interrupt_handlers.adb".
+   Added file element "interrupt_handlers.ads".
+   Added file element "io_map.ads".
+   Added file element "io_utils.adb".
+   Added file element "io_utils.ads".
+   Added file element "kf_background.adb".
+   Added file element "kf_background.ads".
+   Added file element "kf_engine.adb".
+   Added file element "kf_engine.ads".
+   Added file element "kf_foreground.adb".
+   Added file element "kf_foreground.ads".
+   Added file element "kf_warnings.adb".
+   Added file element "kf_warnings.ads".
+   Added file element "level.adb".
+   Added file element "level.ads".
+   Added file element "ll_1553.ads".
+   Added file element "lowlev_1553.asm".
+   Added file element "math.adb".
+   Added file element "math.ads".
+   Added file element "matrix_math.adb".
+   Added file element "matrix_math.ads".
+   Added file element "misc_params.adb".
+   Added file element "misc_params.ads".
+   Added file element "mission_1553.ads".
+   Added file element "mission_io.adb".
+   Added file element "mission_io.ads".
+   Added file element "missionization_parameters.ads".
+   Added file element "mode_change_initiation.adb".
+   Added file element "mode_change_initiation.ads".
+   Added file element "modeing.adb".
+   Added file element "modeing.ads".
+   Added file element "nav1.adb".
+   Added file element "nav1.ads".
+   Added file element "nav2.adb".
+   Added file element "nav2.ads".
+   Added file element "nav_inertial.adb".
+   Added file element "nav_inertial.ads".
+   Added file element "nav_utilities.adb".
+   Added file element "nav_utilities.ads".
+   Added file element "numeric_types.ads".
+   Added file element "nvm.adb".
+   Added file element "nvm.ads".
+   Added file element "orient.adb".
+   Added file element "orient.ads".
+   Added file element "pass_data.adb".
+   Added file element "pass_data.ads".
+   Added file element "pass_ecos_data.adb".
+   Added file element "pass_ecos_data.ads".
+   Added file element "power_up_down.adb".
+   Added file element "power_up_down.ads".
+   Added file element "process_cd.adb".
+   Added file element "process_cd.ads".
+   Added file element "process_d01.ada".
+   Added file element "process_hcmd.ada".
+   Added file element "process_io.adb".
+   Added file element "process_io.ads".
+   Added file element "process_timing.adb".
+   Added file element "process_timing.ads".
+   Added file element "processes.adb".
+   Added file element "processes.ads".
+   Added file element "rate_monotonic.adb".
+   Added file element "rate_monotonic.ads".
+   Added file element "reference.adb".
+   Added file element "reference.ads".
+   Added file element "reg_1553.ads".
+   Added file element "registers_1553.ads".
+   Added file element "sensor_compensation.adb".
+   Added file element "sensor_compensation.ads".
+   Added file element "spec_1553.ads".
+   Added file element "subframe.ada".
+   Added file element "sys_parm.adb".
+   Added file element "sys_parm.ads".
+   Added file element "temp_compensation.adb".
+   Added file element "temp_compensation.ads".
+   Added file element "time_manager.adb".
+   Added file element "time_manager.ads".
+   Added file element "time_synch.adb".
+   Added file element "time_synch.ads".
+   Added file element "timers.adb".
+   Added file element "timers.ads".
+   Added file element "uart.adb".
+   Added file element "uart.ads".
+   Added file element "usc.adb".
+   Added file element "usc.ads".
+   Added file element "usc_data.ada".
+   Added file element "usc_init.ada".
+   Added file element "usc_isr.ada".
+   Added file element "usc_reg_io.ada".
+   Added file element "usc_registers.adb".
+   Added file element "usc_registers.ads".
+   Added file element "utilities.adb".
+   Added file element "utilities.ads".
+   Added file element "vendor_io.adb".
+   Added file element "vendor_io.ads".
+   Added file element "wgs.adb".
+   Added file element "wgs.ads"."
+--12-04T17:52  e724573    create directory version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\build@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+  "Added file element ".adalibrc".
+   Added file element "build.bat".
+   Added file element "build2.bat".
+   Added file element "build_link.bat".
+   Added file element "build_remake.bat".
+   Added file element "build_rest.bat".
+   Added file element "build_rest1.bat".
+   Added file element "build_vars.bat".
+   Added file element "clean.bat".
+   Added file element "compall.bat".
+   Added file element "compone.bat".
+   Added file element "sigi.lcf"."
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\cd_gram.ada@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\bit_tests.ads@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\lowlev_1553.asm@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\boresight.ads@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\vendor_io.adb@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\mode_change_initiation.adb@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\usc_registers.ads@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\usc_init.ada@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\matrix_math.ads@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\reference.adb@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\usc_registers.adb@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\ie_data.ads@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\bit_tests.adb@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\sensor_compensation.ads@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\ie_mode_control.ads@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\usc.ads@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\boresight.adb@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\registers_1553.ads@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\mode_change_initiation.ads@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\vendor_io.ads@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\interrupt_handlers.adb@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\ecos.adb@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\usc_reg_io.ada@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\ecos.ada@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\uart.adb@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\process_io.adb@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\power_up_down.adb@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\compute_1553.adb@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\time_synch.ads@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\rate_monotonic.adb@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\nav_inertial.ads@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\nav2.ads@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\bus_utilities.adb@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\init_1553.adb@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\ll_1553.ads@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\float_utils.ads@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)
+--12-04T17:52  e724573    create version "M:\admin_view\CCTS_RC\OFP@@\main\CCTS_rc_dev_callen\1\source\main\CCTS_rc_dev_callen\2\mission_1553.ads@@\main\CCTS_Int\1" (CCTS_Int_2013-12-04)

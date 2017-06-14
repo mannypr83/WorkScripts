@@ -1,0 +1,113 @@
+--06-30T10:43  clearcase_nm75 protect directory element "M:\admin_view\GNCOE_CM\.@@"
+  "CHMOD 775"
+--06-19T16:11  clearcase_nm75 protect directory element "M:\admin_view\GNCOE_CM\.@@"
+  "CHMOD 770"
+--06-19T16:11  clearcase_nm75 protect directory element "M:\admin_view\GNCOE_CM\.@@"
+  "CHMOD 775"
+--06-10T11:41  clearcase_nm75 export sync from replica "GNCOE_CM_FL51" to replica "GNCOE_CM_DCW"
+  "Exported synchronization information for replica "GNCOE_CM_DCW".
+   Row at export was: GNCOE_CM_MN51=0 GNCOE_CM_PR08.deleted=4 GNCOE_CM_MN17=6304 GNCOE_CM_FL51=0 GNCOE_CM_MN10=0 GNCOE_CM_AZ18.deleted=2 GNCOE_CM_DCW=0"
+--06-10T11:38  clearcase_nm75 import sync from replica "GNCOE_CM_MN51" to replica "GNCOE_CM_FL51"
+  "Imported synchronization information from replica "GNCOE_CM_MN51".
+   Row at import was: GNCOE_CM_MN17=6308 GNCOE_CM_AZ18.deleted=2 GNCOE_CM_MN10=0 GNCOE_CM_MN51=0 GNCOE_CM_PR08.deleted=4 GNCOE_CM_DCW=0 GNCOE_CM_FL51=0"
+--06-10T11:35  clearcase_nm75 import sync from replica "GNCOE_CM_DCW" to replica "GNCOE_CM_FL51"
+  "Imported synchronization information from replica "GNCOE_CM_DCW".
+   Row at import was: GNCOE_CM_MN17=6308 GNCOE_CM_AZ18.deleted=2 GNCOE_CM_MN10=0 GNCOE_CM_MN51=0 GNCOE_CM_PR08.deleted=4 GNCOE_CM_DCW=0 GNCOE_CM_FL51=0"
+--06-10T11:32  clearcase_nm75 import sync from replica "GNCOE_CM_MN17" to replica "GNCOE_CM_FL51"
+  "Imported synchronization information from replica "GNCOE_CM_MN17".
+   Row at import was: GNCOE_CM_MN17=6304 GNCOE_CM_AZ18.deleted=2 GNCOE_CM_MN10=0 GNCOE_CM_MN51=0 GNCOE_CM_PR08.deleted=4 GNCOE_CM_DCW=0 GNCOE_CM_FL51=0"
+--06-09T15:21  clearcase_nm75 export sync from replica "GNCOE_CM_FL51" to replica "GNCOE_CM_DCW"
+  "Exported synchronization information for replica "GNCOE_CM_DCW".
+   Row at export was: GNCOE_CM_MN51=0 GNCOE_CM_PR08.deleted=4 GNCOE_CM_MN17=6303 GNCOE_CM_FL51=0 GNCOE_CM_MN10=0 GNCOE_CM_AZ18.deleted=2 GNCOE_CM_DCW=0"
+--06-09T15:19  clearcase_nm75 import sync from replica "GNCOE_CM_MN51" to replica "GNCOE_CM_FL51"
+  "Imported synchronization information from replica "GNCOE_CM_MN51".
+   Row at import was: GNCOE_CM_MN17=6304 GNCOE_CM_AZ18.deleted=2 GNCOE_CM_MN10=0 GNCOE_CM_MN51=0 GNCOE_CM_PR08.deleted=4 GNCOE_CM_DCW=0 GNCOE_CM_FL51=0"
+--06-09T15:16  clearcase_nm75 import sync from replica "GNCOE_CM_DCW" to replica "GNCOE_CM_FL51"
+  "Imported synchronization information from replica "GNCOE_CM_DCW".
+   Row at import was: GNCOE_CM_MN17=6304 GNCOE_CM_AZ18.deleted=2 GNCOE_CM_MN10=0 GNCOE_CM_MN51=0 GNCOE_CM_PR08.deleted=4 GNCOE_CM_DCW=0 GNCOE_CM_FL51=0"
+--06-09T15:13  clearcase_nm75 import sync from replica "GNCOE_CM_MN17" to replica "GNCOE_CM_FL51"
+  "Imported synchronization information from replica "GNCOE_CM_MN17".
+   Row at import was: GNCOE_CM_MN17=6303 GNCOE_CM_AZ18.deleted=2 GNCOE_CM_MN10=0 GNCOE_CM_MN51=0 GNCOE_CM_PR08.deleted=4 GNCOE_CM_DCW=0 GNCOE_CM_FL51=0"
+--06-09T15:06  e730056    create version "M:\admin_view\GNCOE_CM\Training_Material@@\main\GNCOE_CM_Integration\59\AVT2_2 CCRC & CQWeb Client Integrated UCM Project.docx@@\main\GNCOE_CM_Integration\7"
+--05-02T07:41  clearcase_nm75 import sync from replica "GNCOE_CM_MN51" to replica "GNCOE_CM_FL51"
+  "Imported synchronization information from replica "GNCOE_CM_MN51".
+   Row at import was: GNCOE_CM_MN17=6303 GNCOE_CM_AZ18.deleted=2 GNCOE_CM_MN10=0 GNCOE_CM_MN51=0 GNCOE_CM_PR08.deleted=4 GNCOE_CM_DCW=0 GNCOE_CM_FL51=0"
+--04-29T14:25  clearcase_nm75 import sync from replica "GNCOE_CM_DCW" to replica "GNCOE_CM_FL51"
+  "Imported synchronization information from replica "GNCOE_CM_DCW".
+   Row at import was: GNCOE_CM_MN17=6303 GNCOE_CM_AZ18.deleted=2 GNCOE_CM_MN10=0 GNCOE_CM_MN51=0 GNCOE_CM_PR08.deleted=4 GNCOE_CM_DCW=0 GNCOE_CM_FL51=0"
+--04-29T14:21  clearcase_nm75 export sync from replica "GNCOE_CM_FL51" to replica "GNCOE_CM_DCW"
+  "Exported synchronization information for replica "GNCOE_CM_DCW".
+   Row at export was: GNCOE_CM_MN51=0 GNCOE_CM_PR08.deleted=4 GNCOE_CM_MN17=6298 GNCOE_CM_FL51=0 GNCOE_CM_MN10=0 GNCOE_CM_AZ18.deleted=2 GNCOE_CM_DCW=0"
+--04-29T14:15  clearcase_nm75 import sync from replica "GNCOE_CM_DCW" to replica "GNCOE_CM_FL51"
+  "Imported synchronization information from replica "GNCOE_CM_DCW".
+   Row at import was: GNCOE_CM_MN17=6303 GNCOE_CM_AZ18.deleted=2 GNCOE_CM_MN10=0 GNCOE_CM_MN51=0 GNCOE_CM_PR08.deleted=4 GNCOE_CM_DCW=0 GNCOE_CM_FL51=0"
+--04-29T14:12  clearcase_nm75 import sync from replica "GNCOE_CM_MN17" to replica "GNCOE_CM_FL51"
+  "Imported synchronization information from replica "GNCOE_CM_MN17".
+   Row at import was: GNCOE_CM_MN17=6302 GNCOE_CM_AZ18.deleted=2 GNCOE_CM_MN10=0 GNCOE_CM_MN51=0 GNCOE_CM_PR08.deleted=4 GNCOE_CM_DCW=0 GNCOE_CM_FL51=0"
+--04-29T14:12  e704548    change master to "GNCOE_CM_DCW" of replica "GNCOE_CM_DCW"
+  "Changed master replica from "GNCOE_CM_MN17" to "GNCOE_CM_DCW"."
+--04-29T14:12  clearcase_nm75 import sync from replica "GNCOE_CM_MN17" to replica "GNCOE_CM_FL51"
+  "Imported synchronization information from replica "GNCOE_CM_MN17".
+   Row at import was: GNCOE_CM_MN17=6298 GNCOE_CM_AZ18=2 GNCOE_CM_MN10=0 GNCOE_CM_MN51=0 GNCOE_CM_PR08.deleted=4 GNCOE_CM_DCW=0 GNCOE_CM_FL51=0"
+--04-29T14:11  e704548    rename replica "GNCOE_CM_AZ18.deleted"
+  "Changed name of replica from "GNCOE_CM_AZ18" to "GNCOE_CM_AZ18.deleted".
+   Destroyed replica "GNCOE_CM_AZ18"."
+--04-29T14:11  e704548    destroy replica in versioned object base "\GNCOE_CM"
+  "Destroyed replica "GNCOE_CM_AZ18"."
+--04-29T14:11  e704548    change master to "GNCOE_CM_MN17" of replica "GNCOE_CM_DCW"
+  "Changed master replica from "GNCOE_CM_AZ18" to "GNCOE_CM_MN17"."
+--04-29T14:11  e704548    change master to "GNCOE_CM_MN17" of replica "GNCOE_CM_PR08.deleted"
+  "Changed master replica from "GNCOE_CM_AZ18" to "GNCOE_CM_MN17"."
+--04-29T14:11  e704548    change master to "GNCOE_CM_MN17" of replica "GNCOE_CM_AZ18.deleted"
+  "Changed master replica from "GNCOE_CM_AZ18" to "GNCOE_CM_MN17"."
+--03-21T12:04  clearcase_nm75 export sync from replica "GNCOE_CM_FL51" to replica "GNCOE_CM_DCW"
+  "Exported synchronization information for replica "GNCOE_CM_DCW".
+   Row at export was: GNCOE_CM_MN51=0 GNCOE_CM_PR08.deleted=4 GNCOE_CM_MN17=6266 GNCOE_CM_FL51=0 GNCOE_CM_MN10=0 GNCOE_CM_AZ18=1 GNCOE_CM_DCW=0"
+--03-21T10:40  clearcase_nm75 import sync from replica "GNCOE_CM_MN51" to replica "GNCOE_CM_FL51"
+  "Imported synchronization information from replica "GNCOE_CM_MN51".
+   Row at import was: GNCOE_CM_MN17=6298 GNCOE_CM_AZ18=2 GNCOE_CM_MN10=0 GNCOE_CM_MN51=0 GNCOE_CM_PR08.deleted=4 GNCOE_CM_DCW=0 GNCOE_CM_FL51=0"
+--03-21T10:40  clearcase_nm75 import sync from replica "GNCOE_CM_MN10" to replica "GNCOE_CM_FL51"
+  "Imported synchronization information from replica "GNCOE_CM_MN10".
+   Row at import was: GNCOE_CM_MN17=6298 GNCOE_CM_AZ18=2 GNCOE_CM_MN10=0 GNCOE_CM_MN51=0 GNCOE_CM_PR08.deleted=4 GNCOE_CM_DCW=0 GNCOE_CM_FL51=0"
+--03-21T10:40  clearcase_nm75 import sync from replica "GNCOE_CM_DCW" to replica "GNCOE_CM_FL51"
+  "Imported synchronization information from replica "GNCOE_CM_DCW".
+   Row at import was: GNCOE_CM_MN17=6298 GNCOE_CM_AZ18=2 GNCOE_CM_MN10=0 GNCOE_CM_MN51=0 GNCOE_CM_PR08.deleted=4 GNCOE_CM_DCW=0 GNCOE_CM_FL51=0"
+--03-21T10:31  clearcase_nm75 export sync from replica "GNCOE_CM_FL51" to replica "GNCOE_CM_AZ18.deleted"
+  "Exported synchronization information for replica "GNCOE_CM_AZ18".
+   Row at export was: GNCOE_CM_MN51=0 GNCOE_CM_PR08.deleted=4 GNCOE_CM_MN17=6286 GNCOE_CM_FL51=0 GNCOE_CM_MN10=0 GNCOE_CM_AZ18=2 GNCOE_CM_DCW=0"
+--03-21T10:30  clearcase_nm75 import sync from replica "GNCOE_CM_MN17" to replica "GNCOE_CM_FL51"
+  "Imported synchronization information from replica "GNCOE_CM_MN17".
+   Row at import was: GNCOE_CM_MN17=6286 GNCOE_CM_AZ18=2 GNCOE_CM_MN10=0 GNCOE_CM_MN51=0 GNCOE_CM_PR08.deleted=4 GNCOE_CM_DCW=0 GNCOE_CM_FL51=0"
+--03-21T10:20  clearcase_nm75 import sync from replica "GNCOE_CM_MN51" to replica "GNCOE_CM_FL51"
+  "Imported synchronization information from replica "GNCOE_CM_MN51".
+   Row at import was: GNCOE_CM_MN17=6286 GNCOE_CM_AZ18=2 GNCOE_CM_MN10=0 GNCOE_CM_MN51=0 GNCOE_CM_PR08.deleted=4 GNCOE_CM_DCW=0 GNCOE_CM_FL51=0"
+--03-21T10:20  clearcase_nm75 import sync from replica "GNCOE_CM_MN10" to replica "GNCOE_CM_FL51"
+  "Imported synchronization information from replica "GNCOE_CM_MN10".
+   Row at import was: GNCOE_CM_MN17=6286 GNCOE_CM_AZ18=2 GNCOE_CM_MN10=0 GNCOE_CM_MN51=0 GNCOE_CM_PR08.deleted=4 GNCOE_CM_DCW=0 GNCOE_CM_FL51=0"
+--03-21T10:20  clearcase_nm75 import sync from replica "GNCOE_CM_DCW" to replica "GNCOE_CM_FL51"
+  "Imported synchronization information from replica "GNCOE_CM_DCW".
+   Row at import was: GNCOE_CM_MN17=6286 GNCOE_CM_AZ18=2 GNCOE_CM_MN10=0 GNCOE_CM_MN51=0 GNCOE_CM_PR08.deleted=4 GNCOE_CM_DCW=0 GNCOE_CM_FL51=0"
+--03-21T10:14  E702445    create directory version "M:\admin_view\GNCOE_CM\Training_Material@@\main\GNCOE_CM_Integration\68"
+  " 
+   Added directory element "Video_Training"."
+--03-21T10:14  E702445    add name to directory version "M:\admin_view\GNCOE_CM\Training_Material@@\main\GNCOE_CM_Integration\68"
+--03-21T10:14  clearcase_nm75 make hyperlink "Change" on directory version "M:\admin_view\GNCOE_CM\Training_Material@@\main\GNCOE_CM_Integration\68\Video_Training@@\main\GNCOE_CM_Integration\1"
+--03-21T10:14  E702445    create directory version "M:\admin_view\GNCOE_CM\Training_Material@@\main\GNCOE_CM_Integration\68\Video_Training@@\main\GNCOE_CM_Integration\1"
+--03-21T10:14  E702445    create directory version "M:\admin_view\GNCOE_CM\Training_Material@@\main\GNCOE_CM_Integration\68\Video_Training@@\main\GNCOE_CM_Integration\0"
+--03-21T10:14  E702445    create branch "M:\admin_view\GNCOE_CM\Training_Material@@\main\GNCOE_CM_Integration\68\Video_Training@@\main\GNCOE_CM_Integration"
+--03-21T10:14  E702445    create directory version "M:\admin_view\GNCOE_CM\Training_Material@@\main\GNCOE_CM_Integration\68\Video_Training@@\main\0"
+--03-21T10:14  E702445    create branch "M:\admin_view\GNCOE_CM\Training_Material@@\main\GNCOE_CM_Integration\68\Video_Training@@\main"
+--03-21T10:14  E702445    create directory element "M:\admin_view\GNCOE_CM\Training_Material@@\main\GNCOE_CM_Integration\68\Video_Training@@"
+--03-21T10:14  clearcase_nm75 make hyperlink "Change" on directory version "M:\admin_view\GNCOE_CM\Training_Material@@\main\GNCOE_CM_Integration\68"
+--03-21T10:13  E702445    create directory version "M:\admin_view\GNCOE_CM\Training_Material@@\main\GNCOE_CM_Integration\67"
+  " 
+   Added directory element "Video Training".
+   Added file element "SGN UCM CCRC CQWeb AeroCQ2_2 Integrated Project Training.pdf".
+   Uncataloged directory element "Video Training"."
+--03-21T10:13  E702445    make hyperlink "Merge" on directory version "M:\admin_view\GNCOE_CM\Training_Material@@\main\GNCOE_CM_Integration\67"
+--03-21T10:13  E702445    make hyperlink "Merge" on directory version "M:\admin_view\GNCOE_CM\Training_Material@@\main\GNCOE_CM_Integration\66"
+--03-21T10:13  E702445    create hyperlink "Merge@4202@\GNCOE_CM"
+--03-21T10:13  clearcase_nm75 remove name from directory version "M:\admin_view\GNCOE_CM\Training_Material@@\main\GNCOE_CM_Integration\67"
+--03-21T10:13  clearcase_nm75 add name to directory version "M:\admin_view\GNCOE_CM\Training_Material@@\main\GNCOE_CM_Integration\67"
+--03-21T10:13  clearcase_nm75 add name to directory version "M:\admin_view\GNCOE_CM\lost+found@@\main\0"
+  "Added directory element "Video Training.6dcecb2b8bdb49868031b9b4d559eedb"."

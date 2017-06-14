@@ -1,0 +1,134 @@
+--06-30T10:43  clearcase_nm75 protect directory element "M:\admin_view\MGEN_US\.@@"
+  "CHMOD 775"
+--06-19T16:18  clearcase_nm75 protect directory element "M:\admin_view\MGEN_US\.@@"
+  "CHMOD 770"
+--06-19T16:18  clearcase_nm75 protect directory element "M:\admin_view\MGEN_US\.@@"
+  "CHMOD 775"
+--05-01T14:15  clearcase_nm75 import sync from replica "MGEN_US_DCW" to replica "MGEN_US_FL51"
+  "Imported synchronization information from replica "MGEN_US_DCW".
+   Row at import was: MGEN_US_MN17=14 MGEN_US_AZ18.deleted=1 MGEN_US_MN10=0 MGEN_US_MN51=0 MGEN_US_PR08=4 MGEN_US_DCW=0 MGEN_US_FL51=0"
+--05-01T14:11  clearcase_nm75 import sync from replica "MGEN_US_PR08" to replica "MGEN_US_FL51"
+  "Imported synchronization information from replica "MGEN_US_PR08".
+   Row at import was: MGEN_US_MN17=14 MGEN_US_AZ18.deleted=1 MGEN_US_MN10=0 MGEN_US_MN51=0 MGEN_US_PR08=4 MGEN_US_DCW=0 MGEN_US_FL51=0"
+--05-01T14:10  clearcase_nm75 export sync from replica "MGEN_US_FL51" to replica "MGEN_US_DCW"
+  "Exported synchronization information for replica "MGEN_US_DCW".
+   Row at export was: MGEN_US_MN51=0 MGEN_US_AZ18.deleted=1 MGEN_US_FL51=0 MGEN_US_DCW=0 MGEN_US_PR08=4 MGEN_US_MN10=0 MGEN_US_MN17=10"
+--05-01T14:05  clearcase_nm75 import sync from replica "MGEN_US_DCW" to replica "MGEN_US_FL51"
+  "Imported synchronization information from replica "MGEN_US_DCW".
+   Row at import was: MGEN_US_MN17=14 MGEN_US_AZ18.deleted=1 MGEN_US_MN10=0 MGEN_US_MN51=0 MGEN_US_PR08=4 MGEN_US_DCW=0 MGEN_US_FL51=0"
+--05-01T14:03  clearcase_nm75 import sync from replica "MGEN_US_MN17" to replica "MGEN_US_FL51"
+  "Imported synchronization information from replica "MGEN_US_MN17".
+   Row at import was: MGEN_US_MN17=13 MGEN_US_AZ18.deleted=1 MGEN_US_MN10=0 MGEN_US_MN51=0 MGEN_US_PR08=4 MGEN_US_DCW=0 MGEN_US_FL51=0"
+--05-01T14:03  e704548    change master to "MGEN_US_DCW" of replica "MGEN_US_DCW"
+  "Changed master replica from "MGEN_US_MN17" to "MGEN_US_DCW"."
+--05-01T14:03  clearcase_nm75 import sync from replica "MGEN_US_MN17" to replica "MGEN_US_FL51"
+  "Imported synchronization information from replica "MGEN_US_MN17".
+   Row at import was: MGEN_US_MN17=10 MGEN_US_AZ18=1 MGEN_US_MN10=0 MGEN_US_MN51=0 MGEN_US_PR08=4 MGEN_US_DCW=0 MGEN_US_FL51=0"
+--05-01T14:02  e704548    rename replica "MGEN_US_AZ18.deleted"
+  "Changed name of replica from "MGEN_US_AZ18" to "MGEN_US_AZ18.deleted".
+   Destroyed replica "MGEN_US_AZ18"."
+--05-01T14:02  e704548    destroy replica in versioned object base "\MGEN_US"
+  "Destroyed replica "MGEN_US_AZ18"."
+--05-01T14:02  e704548    change master to "MGEN_US_MN17" of replica "MGEN_US_DCW"
+  "Changed master replica from "MGEN_US_AZ18" to "MGEN_US_MN17"."
+--05-01T14:02  e704548    change master to "MGEN_US_MN17" of replica "MGEN_US_AZ18.deleted"
+  "Changed master replica from "MGEN_US_AZ18" to "MGEN_US_MN17"."
+--03-25T11:52  clearcase_nm75 export sync from replica "MGEN_US_FL51" to replica "MGEN_US_DCW"
+  "Exported synchronization information for replica "MGEN_US_DCW".
+   Row at export was: MGEN_US_MN51=0 MGEN_US_AZ18=0 MGEN_US_FL51=0 MGEN_US_DCW=0 MGEN_US_PR08=4 MGEN_US_MN10=0 MGEN_US_MN17=10"
+--07-30T13:50  clearcase_nm75 import sync from replica "MGEN_US_DCW" to replica "MGEN_US_FL51"
+  "Imported synchronization information from replica "MGEN_US_DCW".
+   Row at import was: MGEN_US_MN17=10 MGEN_US_AZ18=1 MGEN_US_MN10=0 MGEN_US_MN51=0 MGEN_US_PR08=4 MGEN_US_DCW=0 MGEN_US_FL51=0"
+--07-29T13:40  clearcase_nm75 import sync from replica "MGEN_US_PR08" to replica "MGEN_US_FL51"
+  "Imported synchronization information from replica "MGEN_US_PR08".
+   Row at import was: MGEN_US_MN17=10 MGEN_US_AZ18=1 MGEN_US_MN10=0 MGEN_US_MN51=0 MGEN_US_PR08=4 MGEN_US_DCW=0 MGEN_US_FL51=0"
+--07-29T13:30  clearcase_nm75 import sync from replica "MGEN_US_AZ18.deleted" to replica "MGEN_US_FL51"
+  "Imported synchronization information from replica "MGEN_US_AZ18".
+   Row at import was: MGEN_US_MN17=10 MGEN_US_AZ18=0 MGEN_US_MN10=0 MGEN_US_MN51=0 MGEN_US_PR08=4 MGEN_US_FL51=0"
+--07-29T13:10  root       create replica "MGEN_US_DCW"
+2013-06-19     clearcase_nm75 import sync from replica "MGEN_US_PR08" to replica "MGEN_US_FL51"
+  "Imported synchronization information from replica "MGEN_US_PR08".
+   Row at import was: MGEN_US_MN17=10 MGEN_US_AZ18=0 MGEN_US_MN10=0 MGEN_US_MN51=0 MGEN_US_PR08=4 MGEN_US_FL51=0"
+2013-06-13     clearcase_nm75 import sync from replica "MGEN_US_AZ18.deleted" to replica "MGEN_US_FL51"
+  "Imported synchronization information from replica "MGEN_US_AZ18".
+   Row at import was: MGEN_US_MN17=10 MGEN_US_AZ18=0 MGEN_US_MN10=0 MGEN_US_MN51=0 MGEN_US_PR08=3 MGEN_US_FL51=0"
+2013-06-13     e721877    import sync to replica "MGEN_US_PR08"
+  "Changed information associated with replica."
+2013-04-12     clearcase_nm75 import sync from replica "MGEN_US_AZ18.deleted" to replica "MGEN_US_FL51"
+  "Imported synchronization information from replica "MGEN_US_AZ18".
+   Row at import was: MGEN_US_MN17=10 MGEN_US_AZ18=0 MGEN_US_MN10=0 MGEN_US_MN51=0 MGEN_US_PR08=2 MGEN_US_FL51=0"
+2013-04-12     sv-das_cc_albd import sync to replica "MGEN_US_PR08"
+  "Changed information associated with replica."
+2013-04-12     clearcase_nm75 import sync from replica "MGEN_US_AZ18.deleted" to replica "MGEN_US_FL51"
+  "Imported synchronization information from replica "MGEN_US_AZ18".
+   Row at import was: MGEN_US_MN17=10 MGEN_US_AZ18=0 MGEN_US_MN10=0 MGEN_US_MN51=0 MGEN_US_PR08=1 MGEN_US_FL51=0"
+2013-04-12     clearcase_nm75 import sync from replica "MGEN_US_AZ18.deleted" to replica "MGEN_US_FL51"
+  "Imported synchronization information from replica "MGEN_US_AZ18".
+   Row at import was: MGEN_US_MN17=10 MGEN_US_AZ18=0 MGEN_US_MN10=0 MGEN_US_MN51=0 MGEN_US_PR08=0 MGEN_US_FL51=0"
+2013-04-12     sv-das_cc_albd import sync to replica "MGEN_US_PR08"
+  "Changed information associated with replica."
+2013-04-12     sv-das_cc_albd import sync to replica "MGEN_US_PR08"
+  "Changed information associated with replica."
+2011-12-21     clearcase_nm75 import sync from replica "MGEN_US_AZ18.deleted" to replica "MGEN_US_FL51"
+  "Imported synchronization information from replica "MGEN_US_AZ18".
+   Row at import was: MGEN_US_MN17=4 MGEN_US_AZ18=0 MGEN_US_FL51=0"
+2011-12-20     clearcase_nm75 export sync from replica "MGEN_US_FL51" to replica "MGEN_US_AZ18.deleted"
+  "Exported synchronization information for replica "MGEN_US_AZ18".
+   Row at export was: MGEN_US_FL51=0 MGEN_US_MN17=2 MGEN_US_AZ18=0"
+2011-12-20     clearcase_nm75 import sync from replica "MGEN_US_MN17" to replica "MGEN_US_FL51"
+  "Imported synchronization information from replica "MGEN_US_MN17".
+   Row at import was: MGEN_US_MN17=3 MGEN_US_AZ18=0 MGEN_US_FL51=0"
+2011-12-20     e702445    modify replica "MGEN_US_FL51"
+  "Enable requests for mastership."
+2011-12-20     e702445    modify pool "cdft"
+  "Changed definition of pool."
+2011-12-20     e702445    modify pool "ddft"
+  "Changed definition of pool."
+2011-12-20     e702445    protect file element "M:\admin_view\MGEN_US\Version_A@@\main\CMADS_MGEN_US_dev\6\build\main\CMADS_MGEN_US_dev\2\mgen.suo@@"
+  "CHOWN NAMERICA4\e702445; CHGRP GLOBAL\aero.utils.us
+   Protection modified by replica creation"
+2011-12-20     e702445    protect file element "M:\admin_view\MGEN_US\Version_A@@\main\CMADS_MGEN_US_dev\6\build\main\CMADS_MGEN_US_dev\2\mgen.sln@@"
+  "CHOWN NAMERICA4\e702445; CHGRP GLOBAL\aero.utils.us
+   Protection modified by replica creation"
+2011-12-20     e702445    protect file element "M:\admin_view\MGEN_US\Version_A@@\main\CMADS_MGEN_US_dev\6\build\main\CMADS_MGEN_US_dev\2\mgen.ccscc@@"
+  "CHOWN NAMERICA4\e702445; CHGRP GLOBAL\aero.utils.us
+   Protection modified by replica creation"
+2011-12-20     e702445    protect file element "M:\admin_view\MGEN_US\Version_A@@\main\CMADS_MGEN_US_dev\6\build\main\CMADS_MGEN_US_dev\1\mgen\main\CMADS_MGEN_US_dev\3\mgen.vfproj.e701411.user@@"
+  "CHOWN NAMERICA4\e702445; CHGRP GLOBAL\aero.utils.us
+   Protection modified by replica creation"
+2011-12-20     e702445    protect file element "M:\admin_view\MGEN_US\Version_A@@\main\CMADS_MGEN_US_dev\6\build\main\CMADS_MGEN_US_dev\1\mgen\main\CMADS_MGEN_US_dev\3\mgen.vfproj@@"
+  "CHOWN NAMERICA4\e702445; CHGRP GLOBAL\aero.utils.us
+   Protection modified by replica creation"
+2011-12-20     e702445    protect file element "M:\admin_view\MGEN_US\Version_A@@\main\CMADS_MGEN_US_dev\6\build\main\CMADS_MGEN_US_dev\1\mgen\main\CMADS_MGEN_US_dev\3\mgen.u2d@@"
+  "CHOWN NAMERICA4\e702445; CHGRP GLOBAL\aero.utils.us
+   Protection modified by replica creation"
+2011-12-20     e702445    protect file element "M:\admin_view\MGEN_US\Version_A@@\main\CMADS_MGEN_US_dev\6\build\main\CMADS_MGEN_US_dev\1\mgen\main\CMADS_MGEN_US_dev\1\Release\main\CMADS_MGEN_US_dev\1\mgen.obj@@"
+  "CHOWN NAMERICA4\e702445; CHGRP GLOBAL\aero.utils.us
+   Protection modified by replica creation"
+2011-12-20     e702445    protect file element "M:\admin_view\MGEN_US\Version_A@@\main\CMADS_MGEN_US_dev\6\build\main\CMADS_MGEN_US_dev\1\mgen\main\CMADS_MGEN_US_dev\1\Release\main\CMADS_MGEN_US_dev\1\mgen.exe@@"
+  "CHOWN NAMERICA4\e702445; CHGRP GLOBAL\aero.utils.us
+   Protection modified by replica creation"
+2011-12-20     e702445    protect file element "M:\admin_view\MGEN_US\Version_A@@\main\CMADS_MGEN_US_dev\6\build\main\CMADS_MGEN_US_dev\1\mgen\main\CMADS_MGEN_US_dev\1\Release\main\CMADS_MGEN_US_dev\1\BuildLog.htm@@"
+  "CHOWN NAMERICA4\e702445; CHGRP GLOBAL\aero.utils.us
+   Protection modified by replica creation"
+2011-12-20     e702445    protect file element "M:\admin_view\MGEN_US\Version_A@@\main\CMADS_MGEN_US_dev\5\conversionPrograms\main\CMADS_MGEN_US_dev\2\cnvtNLOStoMGEN\main\CMADS_MGEN_US_dev\4\utility.h@@"
+  "CHOWN NAMERICA4\e702445; CHGRP GLOBAL\aero.utils.us
+   Protection modified by replica creation"
+2011-12-20     e702445    protect file element "M:\admin_view\MGEN_US\Version_A@@\main\CMADS_MGEN_US_dev\5\conversionPrograms\main\CMADS_MGEN_US_dev\2\cnvtNLOStoMGEN\main\CMADS_MGEN_US_dev\4\utility.c@@"
+  "CHOWN NAMERICA4\e702445; CHGRP GLOBAL\aero.utils.us
+   Protection modified by replica creation"
+2011-12-20     e702445    protect file element "M:\admin_view\MGEN_US\Version_A@@\main\CMADS_MGEN_US_dev\5\conversionPrograms\main\CMADS_MGEN_US_dev\2\cnvtNLOStoMGEN\main\CMADS_MGEN_US_dev\4\readln.h@@"
+  "CHOWN NAMERICA4\e702445; CHGRP GLOBAL\aero.utils.us
+   Protection modified by replica creation"
+2011-12-20     e702445    protect file element "M:\admin_view\MGEN_US\Version_A@@\main\CMADS_MGEN_US_dev\5\conversionPrograms\main\CMADS_MGEN_US_dev\2\cnvtNLOStoMGEN\main\CMADS_MGEN_US_dev\4\readln.c@@"
+  "CHOWN NAMERICA4\e702445; CHGRP GLOBAL\aero.utils.us
+   Protection modified by replica creation"
+2011-12-20     e702445    protect file element "M:\admin_view\MGEN_US\Version_A@@\main\CMADS_MGEN_US_dev\5\conversionPrograms\main\CMADS_MGEN_US_dev\2\cnvtNLOStoMGEN\main\CMADS_MGEN_US_dev\4\parseln.h@@"
+  "CHOWN NAMERICA4\e702445; CHGRP GLOBAL\aero.utils.us
+   Protection modified by replica creation"
+2011-12-20     e702445    protect file element "M:\admin_view\MGEN_US\Version_A@@\main\CMADS_MGEN_US_dev\5\conversionPrograms\main\CMADS_MGEN_US_dev\2\cnvtNLOStoMGEN\main\CMADS_MGEN_US_dev\4\parseln.c@@"
+  "CHOWN NAMERICA4\e702445; CHGRP GLOBAL\aero.utils.us
+   Protection modified by replica creation"
+2011-12-20     e702445    protect file element "M:\admin_view\MGEN_US\Version_A@@\main\CMADS_MGEN_US_dev\5\conversionPrograms\main\CMADS_MGEN_US_dev\2\cnvtNLOStoMGEN\main\CMADS_MGEN_US_dev\4\mutil.h@@"
+  "CHOWN NAMERICA4\e702445; CHGRP GLOBAL\aero.utils.us
+   Protection modified by replica creation"

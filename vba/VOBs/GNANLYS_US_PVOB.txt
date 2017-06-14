@@ -1,0 +1,117 @@
+--06-30T10:41  clearcase_nm75 protect directory element "M:\admin_view\GNANLYS_US_PVOB\.@@"
+  "CHMOD 775"
+--06-30T10:37  clearcase_nm75 protect directory element "M:\admin_view\GNANLYS_US_PVOB\.@@"
+  "CHMOD 770"
+--06-30T10:37  clearcase_nm75 protect directory element "M:\admin_view\GNANLYS_US_PVOB\.@@"
+  "CHMOD 775"
+--06-30T10:35  clearcase_nm75 protect directory element "M:\admin_view\GNANLYS_US_PVOB\.@@"
+  "CHMOD 770"
+--06-30T10:35  clearcase_nm75 protect directory element "M:\admin_view\GNANLYS_US_PVOB\.@@"
+  "CHMOD 775"
+--06-19T15:31  clearcase_nm75 protect directory element "M:\admin_view\GNANLYS_US_PVOB\.@@"
+  "CHMOD 770"
+--06-19T15:31  clearcase_nm75 protect directory element "M:\admin_view\GNANLYS_US_PVOB\.@@"
+  "CHMOD 775"
+--03-26T14:45  clearcase_nm75 import sync from replica "GNANLYS_US_PVOB_DCW" to replica "GNANLYS_US_PVOB_FL51"
+  "Imported synchronization information from replica "GNANLYS_US_PVOB_DCW".
+   Row at import was: GNANLYS_US_PVOB_AZ18.deleted=4 GNANLYS_US_PVOB_MN17=115 GNANLYS_US_PVOB_MN10=0 GNANLYS_US_PVOB_MN51=0 GNANLYS_US_PVOB_DCW=0 GNANLYS_US_PVOB_FL51=196"
+--03-26T14:42  clearcase_nm75 import sync from replica "GNANLYS_US_PVOB_MN10" to replica "GNANLYS_US_PVOB_FL51"
+  "Imported synchronization information from replica "GNANLYS_US_PVOB_MN10".
+   Row at import was: GNANLYS_US_PVOB_AZ18.deleted=4 GNANLYS_US_PVOB_MN17=115 GNANLYS_US_PVOB_MN10=0 GNANLYS_US_PVOB_MN51=0 GNANLYS_US_PVOB_DCW=0 GNANLYS_US_PVOB_FL51=196"
+--03-26T14:41  clearcase_nm75 export sync from replica "GNANLYS_US_PVOB_FL51" to replica "GNANLYS_US_PVOB_DCW"
+  "Exported synchronization information for replica "GNANLYS_US_PVOB_DCW".
+   Row at export was: GNANLYS_US_PVOB_MN10=0 GNANLYS_US_PVOB_MN17=110 GNANLYS_US_PVOB_AZ18.deleted=4 GNANLYS_US_PVOB_FL51=196 GNANLYS_US_PVOB_DCW=0 GNANLYS_US_PVOB_MN51=0"
+--03-26T14:38  clearcase_nm75 import sync from replica "GNANLYS_US_PVOB_MN51" to replica "GNANLYS_US_PVOB_FL51"
+  "Imported synchronization information from replica "GNANLYS_US_PVOB_MN51".
+   Row at import was: GNANLYS_US_PVOB_AZ18.deleted=4 GNANLYS_US_PVOB_MN17=115 GNANLYS_US_PVOB_MN10=0 GNANLYS_US_PVOB_MN51=0 GNANLYS_US_PVOB_DCW=0 GNANLYS_US_PVOB_FL51=196"
+--03-26T14:35  clearcase_nm75 import sync from replica "GNANLYS_US_PVOB_MN17" to replica "GNANLYS_US_PVOB_FL51"
+  "Imported synchronization information from replica "GNANLYS_US_PVOB_MN17".
+   Row at import was: GNANLYS_US_PVOB_AZ18=4 GNANLYS_US_PVOB_MN17=110 GNANLYS_US_PVOB_MN10=0 GNANLYS_US_PVOB_MN51=0 GNANLYS_US_PVOB_DCW=0 GNANLYS_US_PVOB_FL51=196"
+--03-26T14:24  e704548    rename replica "GNANLYS_US_PVOB_AZ18.deleted"
+  "Changed name of replica from "GNANLYS_US_PVOB_AZ18" to "GNANLYS_US_PVOB_AZ18.deleted".
+   Destroyed replica "GNANLYS_US_PVOB_AZ18"."
+--03-26T14:24  e704548    destroy replica in versioned object base "\GNANLYS_US_PVOB"
+  "Destroyed replica "GNANLYS_US_PVOB_AZ18"."
+--03-26T14:24  e704548    change master to "GNANLYS_US_PVOB_DCW" of replica "GNANLYS_US_PVOB_DCW"
+  "Changed master replica from "GNANLYS_US_PVOB_AZ18" to "GNANLYS_US_PVOB_DCW"."
+--03-26T14:24  e704548    change master to "GNANLYS_US_PVOB_DCW" of replica "GNANLYS_US_PVOB_FL51"
+  "Changed master replica from "GNANLYS_US_PVOB_AZ18" to "GNANLYS_US_PVOB_DCW"."
+--03-26T14:24  e704548    change master to "GNANLYS_US_PVOB_DCW" of replica "GNANLYS_US_PVOB_MN51"
+  "Changed master replica from "GNANLYS_US_PVOB_AZ18" to "GNANLYS_US_PVOB_DCW"."
+--03-26T14:24  e704548    change master to "GNANLYS_US_PVOB_DCW" of replica "GNANLYS_US_PVOB_MN10"
+  "Changed master replica from "GNANLYS_US_PVOB_AZ18" to "GNANLYS_US_PVOB_DCW"."
+--03-25T11:42  clearcase_nm75 export sync from replica "GNANLYS_US_PVOB_FL51" to replica "GNANLYS_US_PVOB_DCW"
+  "Exported synchronization information for replica "GNANLYS_US_PVOB_DCW".
+   Row at export was: GNANLYS_US_PVOB_MN10=0 GNANLYS_US_PVOB_MN17=110 GNANLYS_US_PVOB_AZ18=3 GNANLYS_US_PVOB_FL51=196 GNANLYS_US_PVOB_DCW=0 GNANLYS_US_PVOB_MN51=0"
+--02-13T13:10  clearcase_nm75 import sync from replica "GNANLYS_US_PVOB_MN10" to replica "GNANLYS_US_PVOB_FL51"
+  "Imported synchronization information from replica "GNANLYS_US_PVOB_MN10".
+   Row at import was: GNANLYS_US_PVOB_AZ18=4 GNANLYS_US_PVOB_MN17=110 GNANLYS_US_PVOB_MN10=0 GNANLYS_US_PVOB_MN51=0 GNANLYS_US_PVOB_DCW=0 GNANLYS_US_PVOB_FL51=196"
+--02-12T13:30  clearcase_nm75 import sync from replica "GNANLYS_US_PVOB_MN51" to replica "GNANLYS_US_PVOB_FL51"
+  "Imported synchronization information from replica "GNANLYS_US_PVOB_MN51".
+   Row at import was: GNANLYS_US_PVOB_AZ18=4 GNANLYS_US_PVOB_MN17=110 GNANLYS_US_PVOB_MN10=0 GNANLYS_US_PVOB_MN51=0 GNANLYS_US_PVOB_DCW=0 GNANLYS_US_PVOB_FL51=196"
+--02-12T13:20  clearcase_nm75 import sync from replica "GNANLYS_US_PVOB_MN17" to replica "GNANLYS_US_PVOB_FL51"
+  "Imported synchronization information from replica "GNANLYS_US_PVOB_MN17".
+   Row at import was: GNANLYS_US_PVOB_AZ18=4 GNANLYS_US_PVOB_MN17=110 GNANLYS_US_PVOB_MN10=0 GNANLYS_US_PVOB_MN51=0 GNANLYS_US_PVOB_DCW=0 GNANLYS_US_PVOB_FL51=196"
+--07-29T11:10  clearcase_nm75 import sync from replica "GNANLYS_US_PVOB_DCW" to replica "GNANLYS_US_PVOB_FL51"
+  "Imported synchronization information from replica "GNANLYS_US_PVOB_DCW".
+   Row at import was: GNANLYS_US_PVOB_AZ18=4 GNANLYS_US_PVOB_MN17=110 GNANLYS_US_PVOB_MN10=0 GNANLYS_US_PVOB_MN51=0 GNANLYS_US_PVOB_DCW=0 GNANLYS_US_PVOB_FL51=196"
+--07-26T15:30  clearcase_nm75 import sync from replica "GNANLYS_US_PVOB_AZ18.deleted" to replica "GNANLYS_US_PVOB_FL51"
+  "Imported synchronization information from replica "GNANLYS_US_PVOB_AZ18".
+   Row at import was: GNANLYS_US_PVOB_AZ18=3 GNANLYS_US_PVOB_MN17=110 GNANLYS_US_PVOB_MN10=0 GNANLYS_US_PVOB_MN51=0 GNANLYS_US_PVOB_FL51=196"
+--07-26T15:11  root       create replica "GNANLYS_US_PVOB_DCW"
+2010-05-25     clearcase_nm75 import sync from replica "GNANLYS_US_PVOB_AZ18.deleted" to replica "GNANLYS_US_PVOB_FL51"
+  "Imported synchronization information from replica "GNANLYS_US_PVOB_AZ18".
+   Row at import was: GNANLYS_US_PVOB_AZ18=3 GNANLYS_US_PVOB_MN17=110 GNANLYS_US_PVOB_MN10=0 GNANLYS_US_PVOB_MN51=0 GNANLYS_US_PVOB_FL51=196"
+2010-05-25     clearcase_nm75 export sync from replica "GNANLYS_US_PVOB_FL51" to replica "GNANLYS_US_PVOB_MN51"
+  "Exported synchronization information for replica "GNANLYS_US_PVOB_MN51".
+   Row at export was: GNANLYS_US_PVOB_MN10=0 GNANLYS_US_PVOB_MN17=108 GNANLYS_US_PVOB_AZ18=3 GNANLYS_US_PVOB_FL51=196 GNANLYS_US_PVOB_MN51=0"
+2010-05-25     clearcase_nm75 export sync from replica "GNANLYS_US_PVOB_FL51" to replica "GNANLYS_US_PVOB_MN10"
+  "Exported synchronization information for replica "GNANLYS_US_PVOB_MN10".
+   Row at export was: GNANLYS_US_PVOB_MN10=0 GNANLYS_US_PVOB_MN17=108 GNANLYS_US_PVOB_AZ18=3 GNANLYS_US_PVOB_FL51=196 GNANLYS_US_PVOB_MN51=0"
+2010-05-25     clearcase_nm75 export sync from replica "GNANLYS_US_PVOB_FL51" to replica "GNANLYS_US_PVOB_AZ18.deleted"
+  "Exported synchronization information for replica "GNANLYS_US_PVOB_AZ18".
+   Row at export was: GNANLYS_US_PVOB_MN10=0 GNANLYS_US_PVOB_MN17=108 GNANLYS_US_PVOB_AZ18=3 GNANLYS_US_PVOB_FL51=196 GNANLYS_US_PVOB_MN51=0"
+2010-05-25     clearcase_nm75 import sync from replica "GNANLYS_US_PVOB_MN51" to replica "GNANLYS_US_PVOB_FL51"
+  "Imported synchronization information from replica "GNANLYS_US_PVOB_MN51".
+   Row at import was: GNANLYS_US_PVOB_AZ18=3 GNANLYS_US_PVOB_MN17=110 GNANLYS_US_PVOB_MN10=0 GNANLYS_US_PVOB_MN51=0 GNANLYS_US_PVOB_FL51=196"
+2010-05-25     clearcase_nm75 import sync from replica "GNANLYS_US_PVOB_MN17" to replica "GNANLYS_US_PVOB_FL51"
+  "Imported synchronization information from replica "GNANLYS_US_PVOB_MN17".
+   Row at import was: GNANLYS_US_PVOB_AZ18=3 GNANLYS_US_PVOB_MN17=108 GNANLYS_US_PVOB_MN10=0 GNANLYS_US_PVOB_MN51=0 GNANLYS_US_PVOB_FL51=196"
+2010-05-25     clearcase_nm75 unset work for activity "e712432_ANLYS_CE_DEV"
+2010-05-25     clearcase_nm75 unset work for activity "ANLYS_CE_Integration"
+2010-03-08     clearcase_nm75 import sync from replica "GNANLYS_US_PVOB_AZ18.deleted" to replica "GNANLYS_US_PVOB_FL51"
+  "Imported synchronization information from replica "GNANLYS_US_PVOB_AZ18".
+   Row at import was: GNANLYS_US_PVOB_AZ18=3 GNANLYS_US_PVOB_MN17=108 GNANLYS_US_PVOB_MN10=0 GNANLYS_US_PVOB_MN51=0 GNANLYS_US_PVOB_FL51=196"
+2010-03-08     clearcase_nm75 export sync from replica "GNANLYS_US_PVOB_FL51" to replica "GNANLYS_US_PVOB_MN51"
+  "Exported synchronization information for replica "GNANLYS_US_PVOB_MN51".
+   Row at export was: GNANLYS_US_PVOB_MN10=0 GNANLYS_US_PVOB_MN17=94 GNANLYS_US_PVOB_AZ18=3 GNANLYS_US_PVOB_FL51=196 GNANLYS_US_PVOB_MN51=0"
+2010-03-08     clearcase_nm75 export sync from replica "GNANLYS_US_PVOB_FL51" to replica "GNANLYS_US_PVOB_MN10"
+  "Exported synchronization information for replica "GNANLYS_US_PVOB_MN10".
+   Row at export was: GNANLYS_US_PVOB_MN10=0 GNANLYS_US_PVOB_MN17=94 GNANLYS_US_PVOB_AZ18=3 GNANLYS_US_PVOB_FL51=196 GNANLYS_US_PVOB_MN51=0"
+2010-03-08     clearcase_nm75 export sync from replica "GNANLYS_US_PVOB_FL51" to replica "GNANLYS_US_PVOB_AZ18.deleted"
+  "Exported synchronization information for replica "GNANLYS_US_PVOB_AZ18".
+   Row at export was: GNANLYS_US_PVOB_MN10=0 GNANLYS_US_PVOB_MN17=94 GNANLYS_US_PVOB_AZ18=3 GNANLYS_US_PVOB_FL51=196 GNANLYS_US_PVOB_MN51=0"
+2010-03-08     clearcase_nm75 import sync from replica "GNANLYS_US_PVOB_MN51" to replica "GNANLYS_US_PVOB_FL51"
+  "Imported synchronization information from replica "GNANLYS_US_PVOB_MN51".
+   Row at import was: GNANLYS_US_PVOB_AZ18=3 GNANLYS_US_PVOB_MN17=108 GNANLYS_US_PVOB_MN10=0 GNANLYS_US_PVOB_MN51=0 GNANLYS_US_PVOB_FL51=196"
+2010-03-08     clearcase_nm75 import sync from replica "GNANLYS_US_PVOB_MN17" to replica "GNANLYS_US_PVOB_FL51"
+  "Imported synchronization information from replica "GNANLYS_US_PVOB_MN17".
+   Row at import was: GNANLYS_US_PVOB_AZ18=3 GNANLYS_US_PVOB_MN17=94 GNANLYS_US_PVOB_MN10=0 GNANLYS_US_PVOB_MN51=0 GNANLYS_US_PVOB_FL51=196"
+2010-03-08     e712432    set work for activity "ANLYS_CE_Integration"
+  "User "SVMap" in view "mn17nt1861:D:\Rational\ClearCase\var\ccweb\e712432.NAMERICA4\e712432_ANLYS_CE_intg\view.stg"."
+2010-03-08     e712432    set work for activity "e712432_ANLYS_CE_DEV"
+  "User "SVMap" in view "mn17nt1861:D:\Rational\ClearCase\var\ccweb\e712432.NAMERICA4\e712432_ANLYS_CE_DEV\view.stg"."
+2010-03-08     e712432    set process variable on activity "internal100308.112146.1"
+  "Set activity process variable named "SUM_Stream_special_folder_type"."
+2010-03-08     e712432    make folder "internal100308.112146.1"
+2010-03-08     e712432    set process variable on activity "internal100308.112146"
+  "Set activity process variable named "SUM_Stream_special_folder_type"."
+2010-03-08     e712432    make folder "internal100308.112146"
+2010-03-08     e712432    change stream "e712432_ANLYS_CE_DEV"
+  "Updated config_spec.
+   Regenerated config spec"
+2010-03-08     e712432    set process variable on activity "e712432_ANLYS_CE_DEV"
+  "Set activity process variable named "SUM_CSPEC_ID"."
+2010-03-08     e712432    make hyperlink "UseBaseline" on activity "e712432_ANLYS_CE_DEV"
+2010-03-08     e712432    make hyperlink "UseBaseline" on baseline "common_INITIAL"
+2010-03-08     e712432    create hyperlink "UseBaseline@211@\GNANLYS_US_PVOB"

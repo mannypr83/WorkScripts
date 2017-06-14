@@ -1,0 +1,8 @@
+cleartool describe bbp_channel.h
+cleartool lsco bbp_channel.h
+	If the User protection is set to: “VOBADM_M”  then continue.  If it isn’tb ping me.
+	Note the EID holding the checkout
+	
+cleartool protect -chown e051550 bbp_channel.h
+cleartool describe bbp_channel.h
+	Verify the User protection has been set to the EID holding the checkout.

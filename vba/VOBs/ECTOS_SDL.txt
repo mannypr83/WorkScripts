@@ -1,0 +1,114 @@
+--06-30T10:42  clearcase_nm75 protect directory element "M:\admin_view\ECTOS_SDL\.@@"
+  "CHMOD 775"
+--06-19T16:10  clearcase_nm75 protect directory element "M:\admin_view\ECTOS_SDL\.@@"
+  "CHMOD 770"
+--06-19T16:10  clearcase_nm75 protect directory element "M:\admin_view\ECTOS_SDL\.@@"
+  "CHMOD 775"
+--04-09T14:01  clearcase_nm75 import sync from replica "ECTOS_SDL_PR08" to replica "ECTOS_SDL_FL51"
+  "Imported synchronization information from replica "ECTOS_SDL_PR08".
+   Row at import was: ECTOS_SDL_MN17=28928 ECTOS_SDL_PR08=466 ECTOS_SDL_AZ18.deleted=1 ECTOS_SDL_MN10.deleted=0 ECTOS_SDL_MN10.deleted.1=0 ECTOS_SDL_MN10.deleted.2=0 ECTOS_SDL_MN10=0 ECTOS_SDL_DCW=0 ECTOS_SDL_FL51=0"
+--04-09T14:01  clearcase_nm75 export sync from replica "ECTOS_SDL_FL51" to replica "ECTOS_SDL_DCW"
+  "Exported synchronization information for replica "ECTOS_SDL_DCW".
+   Row at export was: ECTOS_SDL_MN10=0 ECTOS_SDL_MN10.deleted.1=0 ECTOS_SDL_MN17=28925 ECTOS_SDL_MN10.deleted.2=0 ECTOS_SDL_AZ18.deleted=1 ECTOS_SDL_PR08=466 ECTOS_SDL_DCW=0 ECTOS_SDL_FL51=0 ECTOS_SDL_MN10.deleted=0"
+--04-09T14:00  clearcase_nm75 import sync from replica "ECTOS_SDL_MN17" to replica "ECTOS_SDL_FL51"
+  "Imported synchronization information from replica "ECTOS_SDL_MN17".
+   Row at import was: ECTOS_SDL_MN17=28927 ECTOS_SDL_PR08=466 ECTOS_SDL_AZ18.deleted=1 ECTOS_SDL_MN10.deleted=0 ECTOS_SDL_MN10.deleted.1=0 ECTOS_SDL_MN10.deleted.2=0 ECTOS_SDL_MN10=0 ECTOS_SDL_DCW=0 ECTOS_SDL_FL51=0"
+--04-09T14:00  e704548    change master to "ECTOS_SDL_DCW" of replica "ECTOS_SDL_DCW"
+  "Changed master replica from "ECTOS_SDL_MN17" to "ECTOS_SDL_DCW"."
+--04-09T13:58  clearcase_nm75 import sync from replica "ECTOS_SDL_MN17" to replica "ECTOS_SDL_FL51"
+  "Imported synchronization information from replica "ECTOS_SDL_MN17".
+   Row at import was: ECTOS_SDL_MN17=28925 ECTOS_SDL_PR08=466 ECTOS_SDL_AZ18=1 ECTOS_SDL_MN10.deleted=0 ECTOS_SDL_MN10.deleted.1=0 ECTOS_SDL_MN10.deleted.2=0 ECTOS_SDL_MN10=0 ECTOS_SDL_DCW=0 ECTOS_SDL_FL51=0"
+--04-09T13:58  e704548    rename replica "ECTOS_SDL_AZ18.deleted"
+  "Changed name of replica from "ECTOS_SDL_AZ18" to "ECTOS_SDL_AZ18.deleted".
+   Destroyed replica "ECTOS_SDL_AZ18"."
+--04-09T13:58  e704548    destroy replica in versioned object base "\ECTOS_SDL"
+  "Destroyed replica "ECTOS_SDL_AZ18"."
+--04-09T13:58  e704548    change master to "ECTOS_SDL_MN17" of replica "ECTOS_SDL_DCW"
+  "Changed master replica from "ECTOS_SDL_AZ18" to "ECTOS_SDL_MN17"."
+--03-21T12:03  clearcase_nm75 export sync from replica "ECTOS_SDL_FL51" to replica "ECTOS_SDL_DCW"
+  "Exported synchronization information for replica "ECTOS_SDL_DCW".
+   Row at export was: ECTOS_SDL_MN10=0 ECTOS_SDL_MN10.deleted.1=0 ECTOS_SDL_MN17=28917 ECTOS_SDL_MN10.deleted.2=0 ECTOS_SDL_AZ18=0 ECTOS_SDL_PR08=466 ECTOS_SDL_DCW=0 ECTOS_SDL_FL51=0 ECTOS_SDL_MN10.deleted=0"
+--12-17T16:40  clearcase_nm75 import sync from replica "ECTOS_SDL_PR08" to replica "ECTOS_SDL_FL51"
+  "Imported synchronization information from replica "ECTOS_SDL_PR08".
+   Row at import was: ECTOS_SDL_MN17=28925 ECTOS_SDL_PR08=466 ECTOS_SDL_AZ18=1 ECTOS_SDL_MN10.deleted=0 ECTOS_SDL_MN10.deleted.1=0 ECTOS_SDL_MN10.deleted.2=0 ECTOS_SDL_MN10=0 ECTOS_SDL_DCW=0 ECTOS_SDL_FL51=0"
+--12-17T16:31  clearcase_nm75 export sync from replica "ECTOS_SDL_FL51" to replica "ECTOS_SDL_AZ18.deleted"
+  "Exported synchronization information for replica "ECTOS_SDL_AZ18".
+   Row at export was: ECTOS_SDL_MN10=0 ECTOS_SDL_MN10.deleted.1=0 ECTOS_SDL_MN17=28917 ECTOS_SDL_MN10.deleted.2=0 ECTOS_SDL_AZ18=1 ECTOS_SDL_PR08=466 ECTOS_SDL_DCW=0 ECTOS_SDL_FL51=0 ECTOS_SDL_MN10.deleted=0"
+--12-17T16:30  clearcase_nm75 import sync from replica "ECTOS_SDL_MN17" to replica "ECTOS_SDL_FL51"
+  "Imported synchronization information from replica "ECTOS_SDL_MN17".
+   Row at import was: ECTOS_SDL_MN17=28917 ECTOS_SDL_PR08=466 ECTOS_SDL_AZ18=1 ECTOS_SDL_MN10.deleted=0 ECTOS_SDL_MN10.deleted.1=0 ECTOS_SDL_MN10.deleted.2=0 ECTOS_SDL_MN10=0 ECTOS_SDL_DCW=0 ECTOS_SDL_FL51=0"
+--12-17T16:18  E427521    create directory version "M:\admin_view\ECTOS_SDL\09_SW_Production_and_Support@@\main\CRIIS_PMP_PII_Integration\4"
+  "Added file element "CRIIS_PMP_SoftwareCloseout.docx"."
+--12-17T16:18  clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\ECTOS_SDL\09_SW_Production_and_Support@@\main\CRIIS_PMP_PII_Integration\4\CRIIS_PMP_SoftwareCloseout.docx@@\main\CRIIS_PMP_PII_Integration\1"
+--12-17T16:18  E427521    add name to directory version "M:\admin_view\ECTOS_SDL\09_SW_Production_and_Support@@\main\CRIIS_PMP_PII_Integration\4"
+--12-17T16:18  clearcase_nm75 make hyperlink "Change" on directory version "M:\admin_view\ECTOS_SDL\09_SW_Production_and_Support@@\main\CRIIS_PMP_PII_Integration\4"
+--12-17T16:18  E427521    create version "M:\admin_view\ECTOS_SDL\09_SW_Production_and_Support@@\main\CRIIS_PMP_PII_Integration\4\CRIIS_PMP_SoftwareCloseout.docx@@\main\CRIIS_PMP_PII_Integration\1"
+--12-17T16:18  E427521    create version "M:\admin_view\ECTOS_SDL\09_SW_Production_and_Support@@\main\CRIIS_PMP_PII_Integration\4\CRIIS_PMP_SoftwareCloseout.docx@@\main\CRIIS_PMP_PII_Integration\0"
+--12-17T16:18  E427521    create branch "M:\admin_view\ECTOS_SDL\09_SW_Production_and_Support@@\main\CRIIS_PMP_PII_Integration\4\CRIIS_PMP_SoftwareCloseout.docx@@\main\CRIIS_PMP_PII_Integration"
+--12-17T16:18  E427521    create version "M:\admin_view\ECTOS_SDL\09_SW_Production_and_Support@@\main\CRIIS_PMP_PII_Integration\4\CRIIS_PMP_SoftwareCloseout.docx@@\main\0"
+--12-17T16:18  E427521    create branch "M:\admin_view\ECTOS_SDL\09_SW_Production_and_Support@@\main\CRIIS_PMP_PII_Integration\4\CRIIS_PMP_SoftwareCloseout.docx@@\main"
+--12-17T16:18  E427521    create file element "M:\admin_view\ECTOS_SDL\09_SW_Production_and_Support@@\main\CRIIS_PMP_PII_Integration\4\CRIIS_PMP_SoftwareCloseout.docx@@"
+--08-08T16:10  clearcase_nm75 import sync from replica "ECTOS_SDL_DCW" to replica "ECTOS_SDL_FL51"
+  "Imported synchronization information from replica "ECTOS_SDL_DCW".
+   Row at import was: ECTOS_SDL_MN17=28917 ECTOS_SDL_PR08=466 ECTOS_SDL_AZ18=1 ECTOS_SDL_MN10.deleted=0 ECTOS_SDL_MN10.deleted.1=0 ECTOS_SDL_MN10.deleted.2=0 ECTOS_SDL_MN10=0 ECTOS_SDL_DCW=0 ECTOS_SDL_FL51=0"
+--08-06T15:40  clearcase_nm75 import sync from replica "ECTOS_SDL_PR08" to replica "ECTOS_SDL_FL51"
+  "Imported synchronization information from replica "ECTOS_SDL_PR08".
+   Row at import was: ECTOS_SDL_MN17=28917 ECTOS_SDL_PR08=466 ECTOS_SDL_AZ18=1 ECTOS_SDL_MN10.deleted=0 ECTOS_SDL_MN10.deleted.1=0 ECTOS_SDL_MN10.deleted.2=0 ECTOS_SDL_MN10=0 ECTOS_SDL_DCW=0 ECTOS_SDL_FL51=0"
+--08-06T15:40  clearcase_nm75 import sync from replica "ECTOS_SDL_AZ18.deleted" to replica "ECTOS_SDL_FL51"
+  "Imported synchronization information from replica "ECTOS_SDL_AZ18".
+   Row at import was: ECTOS_SDL_MN17=28917 ECTOS_SDL_PR08=466 ECTOS_SDL_AZ18=1 ECTOS_SDL_MN10.deleted=0 ECTOS_SDL_MN10.deleted.1=0 ECTOS_SDL_MN10.deleted.2=0 ECTOS_SDL_MN10=0 ECTOS_SDL_DCW=0 ECTOS_SDL_FL51=0"
+--08-06T15:30  clearcase_nm75 import sync from replica "ECTOS_SDL_MN17" to replica "ECTOS_SDL_FL51"
+  "Imported synchronization information from replica "ECTOS_SDL_MN17".
+   Row at import was: ECTOS_SDL_MN17=28917 ECTOS_SDL_PR08=466 ECTOS_SDL_AZ18=1 ECTOS_SDL_MN10.deleted=0 ECTOS_SDL_MN10.deleted.1=0 ECTOS_SDL_MN10.deleted.2=0 ECTOS_SDL_MN10=0 ECTOS_SDL_DCW=0 ECTOS_SDL_FL51=0"
+--08-06T15:30  clearcase_nm75 import sync from replica "ECTOS_SDL_AZ18.deleted" to replica "ECTOS_SDL_FL51"
+  "Imported synchronization information from replica "ECTOS_SDL_AZ18".
+   Row at import was: ECTOS_SDL_MN17=28917 ECTOS_SDL_PR08=466 ECTOS_SDL_AZ18=0 ECTOS_SDL_MN10.deleted=0 ECTOS_SDL_MN10.deleted.1=0 ECTOS_SDL_MN10.deleted.2=0 ECTOS_SDL_MN10=0 ECTOS_SDL_FL51=0"
+--08-06T15:16  root       create replica "ECTOS_SDL_DCW"
+--07-10T16:50  clearcase_nm75 import sync from replica "ECTOS_SDL_PR08" to replica "ECTOS_SDL_FL51"
+  "Imported synchronization information from replica "ECTOS_SDL_PR08".
+   Row at import was: ECTOS_SDL_MN17=28917 ECTOS_SDL_PR08=466 ECTOS_SDL_AZ18=0 ECTOS_SDL_MN10.deleted=0 ECTOS_SDL_MN10.deleted.1=0 ECTOS_SDL_MN10.deleted.2=0 ECTOS_SDL_MN10=0 ECTOS_SDL_FL51=0"
+--07-10T16:40  clearcase_nm75 export sync from replica "ECTOS_SDL_FL51" to replica "ECTOS_SDL_AZ18.deleted"
+  "Exported synchronization information for replica "ECTOS_SDL_AZ18".
+   Row at export was: ECTOS_SDL_MN10=0 ECTOS_SDL_MN10.deleted.1=0 ECTOS_SDL_MN17=28916 ECTOS_SDL_MN10.deleted.2=0 ECTOS_SDL_AZ18=0 ECTOS_SDL_PR08=466 ECTOS_SDL_FL51=0 ECTOS_SDL_MN10.deleted=0"
+--07-10T16:40  clearcase_nm75 import sync from replica "ECTOS_SDL_PR08" to replica "ECTOS_SDL_FL51"
+  "Imported synchronization information from replica "ECTOS_SDL_PR08".
+   Row at import was: ECTOS_SDL_MN17=28917 ECTOS_SDL_PR08=466 ECTOS_SDL_AZ18=0 ECTOS_SDL_MN10.deleted=0 ECTOS_SDL_MN10.deleted.1=0 ECTOS_SDL_MN10.deleted.2=0 ECTOS_SDL_MN10=0 ECTOS_SDL_FL51=0"
+--07-10T16:40  clearcase_nm75 import sync from replica "ECTOS_SDL_MN17" to replica "ECTOS_SDL_FL51"
+  "Imported synchronization information from replica "ECTOS_SDL_MN17".
+   Row at import was: ECTOS_SDL_MN17=28916 ECTOS_SDL_PR08=466 ECTOS_SDL_AZ18=0 ECTOS_SDL_MN10.deleted=0 ECTOS_SDL_MN10.deleted.1=0 ECTOS_SDL_MN10.deleted.2=0 ECTOS_SDL_MN10=0 ECTOS_SDL_FL51=0"
+--07-10T16:30  clearcase_nm75 export sync from replica "ECTOS_SDL_FL51" to replica "ECTOS_SDL_AZ18.deleted"
+  "Exported synchronization information for replica "ECTOS_SDL_AZ18".
+   Row at export was: ECTOS_SDL_MN10=0 ECTOS_SDL_MN10.deleted.1=0 ECTOS_SDL_MN17=28914 ECTOS_SDL_MN10.deleted.2=0 ECTOS_SDL_AZ18=0 ECTOS_SDL_PR08=466 ECTOS_SDL_FL51=0 ECTOS_SDL_MN10.deleted=0"
+--07-10T16:30  clearcase_nm75 import sync from replica "ECTOS_SDL_MN17" to replica "ECTOS_SDL_FL51"
+  "Imported synchronization information from replica "ECTOS_SDL_MN17".
+   Row at import was: ECTOS_SDL_MN17=28914 ECTOS_SDL_PR08=466 ECTOS_SDL_AZ18=0 ECTOS_SDL_MN10.deleted=0 ECTOS_SDL_MN10.deleted.1=0 ECTOS_SDL_MN10.deleted.2=0 ECTOS_SDL_MN10=0 ECTOS_SDL_FL51=0"
+--07-10T16:24  e704149    create version "M:\admin_view\ECTOS_SDL\03_SW_Project_Data_Management@@\main\IGS_SDL_Integration\IGS_SDL_SS_Integration\2\Software Scorecard {IGS-200 SW}.xls@@\main\IGS_SDL_SS_Integration\2"
+--07-10T16:23  clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\ECTOS_SDL\03_SW_Project_Data_Management@@\main\IGS_SDL_Integration\IGS_SDL_SS_Integration\2\Software Scorecard {IGS-200 SW}.xls@@\main\IGS_SDL_SS_Integration\2"
+--07-10T16:20  clearcase_nm75 import sync from replica "ECTOS_SDL_PR08" to replica "ECTOS_SDL_FL51"
+  "Imported synchronization information from replica "ECTOS_SDL_PR08".
+   Row at import was: ECTOS_SDL_MN17=28914 ECTOS_SDL_PR08=466 ECTOS_SDL_AZ18=0 ECTOS_SDL_MN10.deleted=0 ECTOS_SDL_MN10.deleted.1=0 ECTOS_SDL_MN10.deleted.2=0 ECTOS_SDL_MN10=0 ECTOS_SDL_FL51=0"
+--07-10T16:10  clearcase_nm75 export sync from replica "ECTOS_SDL_FL51" to replica "ECTOS_SDL_AZ18.deleted"
+  "Exported synchronization information for replica "ECTOS_SDL_AZ18".
+   Row at export was: ECTOS_SDL_MN10=0 ECTOS_SDL_MN10.deleted.1=0 ECTOS_SDL_MN17=28847 ECTOS_SDL_MN10.deleted.2=0 ECTOS_SDL_AZ18=0 ECTOS_SDL_PR08=466 ECTOS_SDL_FL51=0 ECTOS_SDL_MN10.deleted=0"
+--07-10T16:10  clearcase_nm75 import sync from replica "ECTOS_SDL_MN17" to replica "ECTOS_SDL_FL51"
+  "Imported synchronization information from replica "ECTOS_SDL_MN17".
+   Row at import was: ECTOS_SDL_MN17=28847 ECTOS_SDL_PR08=466 ECTOS_SDL_AZ18=0 ECTOS_SDL_MN10.deleted=0 ECTOS_SDL_MN10.deleted.1=0 ECTOS_SDL_MN10.deleted.2=0 ECTOS_SDL_MN10=0 ECTOS_SDL_FL51=0"
+--07-10T15:56  e704149    create directory version "M:\admin_view\ECTOS_SDL\04_SW_Audits@@\main\IGS_SDL_Integration\IGS_SDL_SS_Integration\4"
+  "Added file element "BG1930G Audit 07162007.doc".
+   Added file element "BG1930G Audit 10032005.doc".
+   Added file element "IGS-200 (formerly BG1930G) Audit 10132008.doc".
+   Added file element "IGS-200 Audit 01042013.docx".
+   Added file element "IGS-200 Audit 01122011.docx".
+   Added file element "IGS-200 Audit 04062009.doc".
+   Added file element "IGS-200 Audit 04102013.docx".
+   Added file element "IGS-200 Audit 04112012.docx".
+   Added file element "IGS-200 Audit 07092012.docx".
+   Added file element "IGS-200 Audit 08032010.docx".
+   Added file element "IGS-200 Audit 11112011.docx"."
+--07-10T15:56  clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\ECTOS_SDL\04_SW_Audits@@\main\IGS_SDL_Integration\IGS_SDL_SS_Integration\4\IGS-200 Audit 11112011.docx@@\main\IGS_SDL_SS_Integration\1"
+--07-10T15:56  e704149    add name to directory version "M:\admin_view\ECTOS_SDL\04_SW_Audits@@\main\IGS_SDL_Integration\IGS_SDL_SS_Integration\4"
+--07-10T15:56  e704149    create version "M:\admin_view\ECTOS_SDL\04_SW_Audits@@\main\IGS_SDL_Integration\IGS_SDL_SS_Integration\4\IGS-200 Audit 11112011.docx@@\main\IGS_SDL_SS_Integration\1"
+--07-10T15:56  e704149    create version "M:\admin_view\ECTOS_SDL\04_SW_Audits@@\main\IGS_SDL_Integration\IGS_SDL_SS_Integration\4\IGS-200 Audit 11112011.docx@@\main\IGS_SDL_SS_Integration\0"
+--07-10T15:56  e704149    create branch "M:\admin_view\ECTOS_SDL\04_SW_Audits@@\main\IGS_SDL_Integration\IGS_SDL_SS_Integration\4\IGS-200 Audit 11112011.docx@@\main\IGS_SDL_SS_Integration"
+--07-10T15:56  e704149    create version "M:\admin_view\ECTOS_SDL\04_SW_Audits@@\main\IGS_SDL_Integration\IGS_SDL_SS_Integration\4\IGS-200 Audit 11112011.docx@@\main\0"
+--07-10T15:56  e704149    create branch "M:\admin_view\ECTOS_SDL\04_SW_Audits@@\main\IGS_SDL_Integration\IGS_SDL_SS_Integration\4\IGS-200 Audit 11112011.docx@@\main"

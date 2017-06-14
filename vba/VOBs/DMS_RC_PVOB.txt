@@ -1,0 +1,110 @@
+--06-30T10:45  clearcase_nm75 protect directory element "M:\admin_view\DMS_RC_PVOB\.@@"
+  "CHMOD 775"
+--06-19T22:12  clearcase_nm75 protect directory element "M:\admin_view\DMS_RC_PVOB\.@@"
+  "CHMOD 770"
+--06-19T22:12  clearcase_nm75 protect directory element "M:\admin_view\DMS_RC_PVOB\.@@"
+  "CHMOD 775"
+--03-27T11:21  clearcase_nm75 export sync from replica "DMS_RC_PVOB_FL51" to replica "DMS_RC_PVOB_DE08"
+  "Exported synchronization information for replica "DMS_RC_PVOB_DE08".
+   Row at export was: DMS_RC_PVOB_AZ75=215 DMS_RC_PVOB_DCW=0 DMS_RC_PVOB_DE08=0 DMS_RC_PVOB_FL51=3"
+--03-27T11:21  clearcase_nm75 export sync from replica "DMS_RC_PVOB_FL51" to replica "DMS_RC_PVOB_DCW"
+  "Exported synchronization information for replica "DMS_RC_PVOB_DCW".
+   Row at export was: DMS_RC_PVOB_AZ75=215 DMS_RC_PVOB_DCW=0 DMS_RC_PVOB_DE08=0 DMS_RC_PVOB_FL51=3"
+--03-27T11:21  clearcase_nm75 export sync from replica "DMS_RC_PVOB_FL51" to replica "DMS_RC_PVOB_AZ75"
+  "Exported synchronization information for replica "DMS_RC_PVOB_AZ75".
+   Row at export was: DMS_RC_PVOB_AZ75=215 DMS_RC_PVOB_DCW=0 DMS_RC_PVOB_DE08=0 DMS_RC_PVOB_FL51=3"
+--03-27T11:16  e538625    change master to "DMS_RC_PVOB_DE08" of replica "DMS_RC_PVOB_DE08"
+  "Changed master replica from "DMS_RC_PVOB_FL51" to "DMS_RC_PVOB_DE08"."
+--03-27T10:33  clearcase_nm75 export sync from replica "DMS_RC_PVOB_FL51" to replica "DMS_RC_PVOB_DE08"
+  "Exported synchronization information for replica "DMS_RC_PVOB_DE08".
+   Row at export was: DMS_RC_PVOB_AZ75=215 DMS_RC_PVOB_DCW=0 DMS_RC_PVOB_DE08=0 DMS_RC_PVOB_FL51=2"
+--03-27T10:33  clearcase_nm75 export sync from replica "DMS_RC_PVOB_FL51" to replica "DMS_RC_PVOB_DCW"
+  "Exported synchronization information for replica "DMS_RC_PVOB_DCW".
+   Row at export was: DMS_RC_PVOB_AZ75=215 DMS_RC_PVOB_DCW=0 DMS_RC_PVOB_DE08=0 DMS_RC_PVOB_FL51=2"
+--03-27T10:33  clearcase_nm75 export sync from replica "DMS_RC_PVOB_FL51" to replica "DMS_RC_PVOB_AZ75"
+  "Exported synchronization information for replica "DMS_RC_PVOB_AZ75".
+   Row at export was: DMS_RC_PVOB_AZ75=215 DMS_RC_PVOB_DCW=0 DMS_RC_PVOB_DE08=0 DMS_RC_PVOB_FL51=2"
+--03-27T10:22  e538625    unlock versioned object base "\DMS_RC_PVOB"
+  "Unlock after replica dump"
+--03-27T10:22  e538625    lock versioned object base "\DMS_RC_PVOB"
+  "Locked for all users.
+   Locked for replica dump"
+--03-27T10:22  e538625    create replica "DMS_RC_PVOB_DE08"
+--03-27T10:20  e538625    modify replica "DMS_RC_PVOB_FL51"
+  "Enable requests for mastership."
+--03-13T11:31  clearcase_nm75 export sync from replica "DMS_RC_PVOB_FL51" to replica "DMS_RC_PVOB_DCW"
+  "Exported synchronization information for replica "DMS_RC_PVOB_DCW".
+   Row at export was: DMS_RC_PVOB_AZ75=213 DMS_RC_PVOB_FL51=2 DMS_RC_PVOB_DCW=0"
+--03-13T11:30  clearcase_nm75 import sync from replica "DMS_RC_PVOB_DCW" to replica "DMS_RC_PVOB_FL51"
+  "Imported synchronization information from replica "DMS_RC_PVOB_DCW".
+   Row at import was: DMS_RC_PVOB_AZ75=215 DMS_RC_PVOB_DCW=0 DMS_RC_PVOB_FL51=2"
+--03-13T11:30  clearcase_nm75 import sync from replica "DMS_RC_PVOB_AZ75" to replica "DMS_RC_PVOB_FL51"
+  "Imported synchronization information from replica "DMS_RC_PVOB_AZ75".
+   Row at import was: DMS_RC_PVOB_AZ75=213 DMS_RC_PVOB_DCW=0 DMS_RC_PVOB_FL51=2"
+--03-13T11:17  clearcase_nm75 unset work for activity "DMS_Doc_Int"
+--03-13T11:16  clearcase_nm75 unset work for activity "DMS_Code_Int"
+--03-05T18:11  clearcase_nm75 export sync from replica "DMS_RC_PVOB_FL51" to replica "DMS_RC_PVOB_DCW"
+  "Exported synchronization information for replica "DMS_RC_PVOB_DCW".
+   Row at export was: DMS_RC_PVOB_AZ75=212 DMS_RC_PVOB_FL51=2 DMS_RC_PVOB_DCW=0"
+--03-05T18:10  clearcase_nm75 import sync from replica "DMS_RC_PVOB_DCW" to replica "DMS_RC_PVOB_FL51"
+  "Imported synchronization information from replica "DMS_RC_PVOB_DCW".
+   Row at import was: DMS_RC_PVOB_AZ75=213 DMS_RC_PVOB_DCW=0 DMS_RC_PVOB_FL51=2"
+--03-05T18:10  clearcase_nm75 import sync from replica "DMS_RC_PVOB_AZ75" to replica "DMS_RC_PVOB_FL51"
+  "Imported synchronization information from replica "DMS_RC_PVOB_AZ75".
+   Row at import was: DMS_RC_PVOB_AZ75=212 DMS_RC_PVOB_DCW=0 DMS_RC_PVOB_FL51=2"
+--03-05T18:01  clearcase_nm75 export sync from replica "DMS_RC_PVOB_FL51" to replica "DMS_RC_PVOB_DCW"
+  "Exported synchronization information for replica "DMS_RC_PVOB_DCW".
+   Row at export was: DMS_RC_PVOB_AZ75=210 DMS_RC_PVOB_FL51=2 DMS_RC_PVOB_DCW=0"
+--03-05T18:00  clearcase_nm75 import sync from replica "DMS_RC_PVOB_DCW" to replica "DMS_RC_PVOB_FL51"
+  "Imported synchronization information from replica "DMS_RC_PVOB_DCW".
+   Row at import was: DMS_RC_PVOB_AZ75=212 DMS_RC_PVOB_DCW=0 DMS_RC_PVOB_FL51=2"
+--03-05T18:00  clearcase_nm75 import sync from replica "DMS_RC_PVOB_AZ75" to replica "DMS_RC_PVOB_FL51"
+  "Imported synchronization information from replica "DMS_RC_PVOB_AZ75".
+   Row at import was: DMS_RC_PVOB_AZ75=210 DMS_RC_PVOB_DCW=0 DMS_RC_PVOB_FL51=2"
+--03-05T17:57  clearcase_nm75 unset work for activity "DMS_Code_Int"
+--03-05T17:48  e723464    set work for activity "DMS_Code_Int"
+  "User "SVMap" in view "AZ76DT5MKDTR1:C:\CCShared\DMS_BB_int_JM.vws"."
+--03-05T17:47  clearcase_nm75 unset work for activity "DMS_Code_Int"
+--03-05T17:41  clearcase_nm75 export sync from replica "DMS_RC_PVOB_FL51" to replica "DMS_RC_PVOB_DCW"
+  "Exported synchronization information for replica "DMS_RC_PVOB_DCW".
+   Row at export was: DMS_RC_PVOB_AZ75=200 DMS_RC_PVOB_FL51=2 DMS_RC_PVOB_DCW=0"
+--03-05T17:40  clearcase_nm75 import sync from replica "DMS_RC_PVOB_DCW" to replica "DMS_RC_PVOB_FL51"
+  "Imported synchronization information from replica "DMS_RC_PVOB_DCW".
+   Row at import was: DMS_RC_PVOB_AZ75=210 DMS_RC_PVOB_DCW=0 DMS_RC_PVOB_FL51=2"
+--03-05T17:40  clearcase_nm75 import sync from replica "DMS_RC_PVOB_AZ75" to replica "DMS_RC_PVOB_FL51"
+  "Imported synchronization information from replica "DMS_RC_PVOB_AZ75".
+   Row at import was: DMS_RC_PVOB_AZ75=200 DMS_RC_PVOB_DCW=0 DMS_RC_PVOB_FL51=2"
+--03-05T17:31  e723464    set work for activity "DMS_Code_Int"
+  "User "SVMap" in view "AZ76DT5MKDTR1:C:\CCShared\DMS_BB_int_JM.vws"."
+--03-05T17:31  e723464    set work for activity "DMS_BB"
+  "User "SVMap" in view "AZ76DT5MKDTR1:C:\CCShared\DMS_BB_JM.vws"."
+--03-05T17:30  clearcase_nm75 unset work for activity "DMS_Code_Int"
+--03-05T17:29  clearcase_nm75 unset work for activity "DMS_BB"
+--03-05T17:28  e723464    set work for activity "DMS_Code_Int"
+  "User "SVMap" in view "AZ76DT5MKDTR1:C:\CCShared\DMS_BB_int_JM.vws"."
+--03-05T17:28  e723464    set work for activity "DMS_BB"
+  "User "SVMap" in view "AZ76DT5MKDTR1:C:\CCShared\DMS_BB_JM.vws"."
+--03-05T17:27  clearcase_nm75 unset work for activity "DMS_Code_Int"
+--03-05T17:27  clearcase_nm75 unset work for activity "DMS_BB"
+--03-05T17:24  e723464    set work for activity "DMS_BB"
+  "User "SVMap" in view "AZ76DT5MKDTR1:C:\CCShared\DMS_BB_JM.vws"."
+--03-05T17:24  clearcase_nm75 unset work for activity "DMS_BB"
+--03-05T17:21  clearcase_nm75 export sync from replica "DMS_RC_PVOB_FL51" to replica "DMS_RC_PVOB_DCW"
+  "Exported synchronization information for replica "DMS_RC_PVOB_DCW".
+   Row at export was: DMS_RC_PVOB_AZ75=186 DMS_RC_PVOB_FL51=2 DMS_RC_PVOB_DCW=0"
+--03-05T17:20  clearcase_nm75 import sync from replica "DMS_RC_PVOB_DCW" to replica "DMS_RC_PVOB_FL51"
+  "Imported synchronization information from replica "DMS_RC_PVOB_DCW".
+   Row at import was: DMS_RC_PVOB_AZ75=200 DMS_RC_PVOB_DCW=0 DMS_RC_PVOB_FL51=2"
+--03-05T17:20  clearcase_nm75 import sync from replica "DMS_RC_PVOB_AZ75" to replica "DMS_RC_PVOB_FL51"
+  "Imported synchronization information from replica "DMS_RC_PVOB_AZ75".
+   Row at import was: DMS_RC_PVOB_AZ75=186 DMS_RC_PVOB_DCW=0 DMS_RC_PVOB_FL51=2"
+--03-05T17:09  e723464    set work for activity "DMS_Code_Int"
+  "User "SVMap" in view "AZ76DT5MKDTR1:C:\CCShared\DMS_Code_int_JM.vws"."
+--03-05T17:09  e723464    set work for activity "DMS_BB"
+  "User "SVMap" in view "AZ76DT5MKDTR1:C:\CCShared\DMS_BB_JM.vws"."
+--03-05T17:09  e723464    set process variable on activity "internal140305.150928.1"
+  "Set activity process variable named "SUM_Stream_special_folder_type"."
+--03-05T17:09  e723464    make folder "internal140305.150928.1"
+--03-05T17:09  e723464    set process variable on activity "internal140305.150928"
+  "Set activity process variable named "SUM_Stream_special_folder_type"."
+--03-05T17:09  e723464    make folder "internal140305.150928"

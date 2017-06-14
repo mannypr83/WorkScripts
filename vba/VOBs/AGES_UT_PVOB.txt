@@ -1,0 +1,116 @@
+--06-30T10:44  clearcase_nm75 protect directory element "M:\admin_view\AGES_UT_PVOB\.@@"
+  "CHMOD 775"
+--06-19T17:28  clearcase_nm75 protect directory element "M:\admin_view\AGES_UT_PVOB\.@@"
+  "CHMOD 770"
+--06-19T17:28  clearcase_nm75 protect directory element "M:\admin_view\AGES_UT_PVOB\.@@"
+  "CHMOD 775"
+--06-19T17:14  clearcase_nm75 protect directory element "M:\admin_view\AGES_UT_PVOB\.@@"
+  "CHMOD 770"
+--06-19T17:14  clearcase_nm75 protect directory element "M:\admin_view\AGES_UT_PVOB\.@@"
+  "CHMOD 775"
+--03-27T12:32  e704548    export sync from replica "AGES_UT_PVOB_FL51" to replica "AGES_UT_PVOB_MN17"
+  "Exported synchronization information for replica "AGES_UT_PVOB_MN17".
+   Row at export was: AGES_UT_PVOB_PR08.deleted=4 AGES_UT_PVOB_FL51=5 AGES_UT_PVOB_MN17=306 AGES_UT_PVOB_DCW=0 AGES_UT_PVOB_AZ18.deleted=4"
+--03-27T12:32  e704548    export sync from replica "AGES_UT_PVOB_FL51" to replica "AGES_UT_PVOB_DCW"
+  "Exported synchronization information for replica "AGES_UT_PVOB_DCW".
+   Row at export was: AGES_UT_PVOB_PR08.deleted=4 AGES_UT_PVOB_FL51=5 AGES_UT_PVOB_MN17=306 AGES_UT_PVOB_DCW=0 AGES_UT_PVOB_AZ18.deleted=4"
+--03-27T12:31  e704548    change master to "AGES_UT_PVOB_DCW" of replica "AGES_UT_PVOB_DCW"
+  "Changed master replica from "AGES_UT_PVOB_FL51" to "AGES_UT_PVOB_DCW"."
+--03-27T12:31  e704548    change master to "AGES_UT_PVOB_MN17" of replica "AGES_UT_PVOB_MN17"
+  "Changed master replica from "AGES_UT_PVOB_FL51" to "AGES_UT_PVOB_MN17"."
+--03-27T12:21  e704548    export sync from replica "AGES_UT_PVOB_FL51" to replica "AGES_UT_PVOB_MN17"
+  "Exported synchronization information for replica "AGES_UT_PVOB_MN17".
+   Row at export was: AGES_UT_PVOB_PR08.deleted=0 AGES_UT_PVOB_FL51=0 AGES_UT_PVOB_MN17=306 AGES_UT_PVOB_DCW=0 AGES_UT_PVOB_AZ18.deleted=0"
+--03-27T12:21  e704548    export sync from replica "AGES_UT_PVOB_FL51" to replica "AGES_UT_PVOB_DCW"
+  "Exported synchronization information for replica "AGES_UT_PVOB_DCW".
+   Row at export was: AGES_UT_PVOB_PR08.deleted=0 AGES_UT_PVOB_FL51=0 AGES_UT_PVOB_MN17=306 AGES_UT_PVOB_DCW=0 AGES_UT_PVOB_AZ18.deleted=0"
+--03-27T12:21  e704548    rename replica "AGES_UT_PVOB_AZ18.deleted"
+  "Changed name of replica from "AGES_UT_PVOB_AZ18" to "AGES_UT_PVOB_AZ18.deleted"."
+--03-27T12:21  e704548    destroy replica in versioned object base "\AGES_UT_PVOB"
+  "Destroyed replica "AGES_UT_PVOB_AZ18"."
+--03-27T12:21  e704548    change master to "AGES_UT_PVOB_FL51" of replica "AGES_UT_PVOB_DCW"
+  "Changed master replica from "AGES_UT_PVOB_AZ18" to "AGES_UT_PVOB_FL51"."
+--03-27T12:21  e704548    change master to "AGES_UT_PVOB_FL51" of replica "AGES_UT_PVOB_PR08.deleted"
+  "Changed master replica from "AGES_UT_PVOB_AZ18" to "AGES_UT_PVOB_FL51"."
+--03-27T12:21  e704548    change master to "AGES_UT_PVOB_FL51" of replica "AGES_UT_PVOB_AZ18.deleted"
+  "Changed master replica from "AGES_UT_PVOB_AZ18" to "AGES_UT_PVOB_FL51"."
+--03-27T12:21  e704548    change master to "AGES_UT_PVOB_FL51" of replica "AGES_UT_PVOB_MN17"
+  "Changed master replica from "AGES_UT_PVOB_AZ18" to "AGES_UT_PVOB_FL51"."
+--03-27T12:21  e704548    modify replica "AGES_UT_PVOB_AZ18.deleted"
+  "Marked replica "AGES_UT_PVOB_AZ18" for deletion."
+--03-26T09:10  clearcase_nm75 import sync from replica "AGES_UT_PVOB_DCW" to replica "AGES_UT_PVOB_FL51"
+  "Imported synchronization information from replica "AGES_UT_PVOB_DCW".
+   Row at import was: AGES_UT_PVOB_MN17=306 AGES_UT_PVOB_AZ18=4 AGES_UT_PVOB_PR08.deleted=4 AGES_UT_PVOB_DCW=0 AGES_UT_PVOB_FL51=0"
+--03-26T09:00  clearcase_nm75 export sync from replica "AGES_UT_PVOB_FL51" to replica "AGES_UT_PVOB_DCW"
+  "Exported synchronization information for replica "AGES_UT_PVOB_DCW".
+   Row at export was: AGES_UT_PVOB_PR08.deleted=4 AGES_UT_PVOB_FL51=0 AGES_UT_PVOB_MN17=305 AGES_UT_PVOB_DCW=0 AGES_UT_PVOB_AZ18=4"
+--03-26T09:00  clearcase_nm75 import sync from replica "AGES_UT_PVOB_MN17" to replica "AGES_UT_PVOB_FL51"
+  "Imported synchronization information from replica "AGES_UT_PVOB_MN17".
+   Row at import was: AGES_UT_PVOB_MN17=305 AGES_UT_PVOB_AZ18=4 AGES_UT_PVOB_PR08.deleted=4 AGES_UT_PVOB_DCW=0 AGES_UT_PVOB_FL51=0"
+--03-26T08:48  e704548    change master to "AGES_UT_PVOB_AZ18.deleted" of replica "AGES_UT_PVOB_MN17"
+  "Changed master replica from "AGES_UT_PVOB_MN17" to "AGES_UT_PVOB_AZ18"."
+--03-25T11:35  clearcase_nm75 export sync from replica "AGES_UT_PVOB_FL51" to replica "AGES_UT_PVOB_DCW"
+  "Exported synchronization information for replica "AGES_UT_PVOB_DCW".
+   Row at export was: AGES_UT_PVOB_PR08.deleted=4 AGES_UT_PVOB_FL51=0 AGES_UT_PVOB_MN17=305 AGES_UT_PVOB_DCW=0 AGES_UT_PVOB_AZ18=3"
+--07-29T11:10  clearcase_nm75 import sync from replica "AGES_UT_PVOB_DCW" to replica "AGES_UT_PVOB_FL51"
+  "Imported synchronization information from replica "AGES_UT_PVOB_DCW".
+   Row at import was: AGES_UT_PVOB_MN17=305 AGES_UT_PVOB_AZ18=4 AGES_UT_PVOB_PR08.deleted=4 AGES_UT_PVOB_DCW=0 AGES_UT_PVOB_FL51=0"
+--07-26T15:30  clearcase_nm75 import sync from replica "AGES_UT_PVOB_MN17" to replica "AGES_UT_PVOB_FL51"
+  "Imported synchronization information from replica "AGES_UT_PVOB_MN17".
+   Row at import was: AGES_UT_PVOB_MN17=305 AGES_UT_PVOB_AZ18=4 AGES_UT_PVOB_PR08.deleted=4 AGES_UT_PVOB_DCW=0 AGES_UT_PVOB_FL51=0"
+--07-26T15:30  clearcase_nm75 import sync from replica "AGES_UT_PVOB_AZ18.deleted" to replica "AGES_UT_PVOB_FL51"
+  "Imported synchronization information from replica "AGES_UT_PVOB_AZ18".
+   Row at import was: AGES_UT_PVOB_MN17=305 AGES_UT_PVOB_AZ18=3 AGES_UT_PVOB_PR08.deleted=4 AGES_UT_PVOB_FL51=0"
+--07-26T15:11  root       create replica "AGES_UT_PVOB_DCW"
+2013-06-11     clearcase_nm75 import sync from replica "AGES_UT_PVOB_MN17" to replica "AGES_UT_PVOB_FL51"
+  "Imported synchronization information from replica "AGES_UT_PVOB_MN17".
+   Row at import was: AGES_UT_PVOB_MN17=305 AGES_UT_PVOB_AZ18=3 AGES_UT_PVOB_PR08.deleted=4 AGES_UT_PVOB_FL51=0"
+2013-06-11     clearcase_nm75 import sync from replica "AGES_UT_PVOB_AZ18.deleted" to replica "AGES_UT_PVOB_FL51"
+  "Imported synchronization information from replica "AGES_UT_PVOB_AZ18".
+   Row at import was: AGES_UT_PVOB_MN17=305 AGES_UT_PVOB_AZ18=2 AGES_UT_PVOB_PR08=0 AGES_UT_PVOB_FL51=0"
+2013-06-11     root       rename replica "AGES_UT_PVOB_PR08.deleted"
+  "Changed name of replica from "AGES_UT_PVOB_PR08" to "AGES_UT_PVOB_PR08.deleted".
+   Destroyed replica "AGES_UT_PVOB_PR08"."
+2013-06-11     root       destroy replica in versioned object base "\AGES_UT_PVOB"
+  "Destroyed replica "AGES_UT_PVOB_PR08"."
+2013-06-11     e721877    change master to "AGES_UT_PVOB_AZ18.deleted" of replica "AGES_UT_PVOB_PR08.deleted"
+  "Changed master replica from "AGES_UT_PVOB_PR08" to "AGES_UT_PVOB_AZ18"."
+2013-06-03     e564406    lock trigger type "NO_RMTYPE" (locked)
+  "Locked for all users."
+2013-06-03     e564406    destroy type in versioned object base "\AGES_UT_PVOB"
+  "Destroyed trigger type "NO_RMTRIGGER"."
+2013-06-03     e564406    modify trigger type "NO_RMTYPE" (locked)
+  "Changed definition of type.
+   Disallow removal of types"
+2013-06-03     e564406    unlock trigger type "NO_RMTYPE" (locked)
+2013-04-12     sv-das_cc_albd import sync to replica "AGES_UT_PVOB_PR08.deleted"
+  "Changed information associated with replica."
+2013-04-12     sv-das_cc_albd import sync to replica "AGES_UT_PVOB_PR08.deleted"
+  "Changed information associated with replica."
+2013-04-12     clearcase_nm75 import sync from replica "AGES_UT_PVOB_MN17" to replica "AGES_UT_PVOB_FL51"
+  "Imported synchronization information from replica "AGES_UT_PVOB_MN17".
+   Row at import was: AGES_UT_PVOB_MN17=305 AGES_UT_PVOB_AZ18=2 AGES_UT_PVOB_PR08=0 AGES_UT_PVOB_FL51=0"
+2013-04-12     sv-das_cc_albd import sync to replica "AGES_UT_PVOB_PR08.deleted"
+  "Changed information associated with replica."
+2013-04-12     clearcase_nm75 import sync from replica "AGES_UT_PVOB_AZ18.deleted" to replica "AGES_UT_PVOB_FL51"
+  "Imported synchronization information from replica "AGES_UT_PVOB_AZ18".
+   Row at import was: AGES_UT_PVOB_MN17=305 AGES_UT_PVOB_AZ18=1 AGES_UT_PVOB_PR08=0 AGES_UT_PVOB_FL51=0"
+2013-04-12     root       change master to "AGES_UT_PVOB_PR08.deleted" of replica "AGES_UT_PVOB_PR08.deleted"
+  "Changed master replica from "AGES_UT_PVOB_AZ18" to "AGES_UT_PVOB_PR08"."
+2012-11-20     clearcase_nm75 import sync from replica "AGES_UT_PVOB_MN17" to replica "AGES_UT_PVOB_FL51"
+  "Imported synchronization information from replica "AGES_UT_PVOB_MN17".
+   Row at import was: AGES_UT_PVOB_MN17=305 AGES_UT_PVOB_AZ18=1 AGES_UT_PVOB_PR08=0 AGES_UT_PVOB_FL51=0"
+2012-08-28     clearcase_nm75 import sync from replica "AGES_UT_PVOB_AZ18.deleted" to replica "AGES_UT_PVOB_FL51"
+  "Imported synchronization information from replica "AGES_UT_PVOB_AZ18".
+   Row at import was: AGES_UT_PVOB_MN17=282 AGES_UT_PVOB_AZ18=1 AGES_UT_PVOB_PR08=0 AGES_UT_PVOB_FL51=0"
+2012-08-28     e704149    destroy activity in versioned object base "\AGES_UT_PVOB"
+  "Destroyed activity "activity:rebase.DJB_AGES_UT_SDL.20120828.101600@\AGES_UT_PVOB"."
+2012-08-28     e704149    set process variable on activity "DJB_AGES_UT_SDL"
+  "Set activity process variable named "UCM_REBASE"."
+2012-08-28     e704149    change stream "DJB_AGES_UT_SDL"
+  "Updated config_spec.
+   Regenerated config spec"
+2012-08-28     e704149    set process variable on activity "DJB_AGES_UT_SDL"
+  "Set activity process variable named "SUM_CSPEC_ID"."
+2012-08-28     e704149    make hyperlink "UseBaseline" on activity "DJB_AGES_UT_SDL"
+2012-08-28     e704149    make hyperlink "UseBaseline" on baseline "AGES_UT_SDL_3_16_2012"

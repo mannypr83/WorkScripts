@@ -1,0 +1,116 @@
+--06-30T10:44  clearcase_nm75 protect directory element "M:\admin_view\M_WSL_RC_PVOB\.@@"
+  "CHMOD 775"
+--06-19T17:41  clearcase_nm75 export sync from replica "M_WSL_RC_PVOB_FL51" to replica "M_WSL_RC_PVOB_DCW"
+  "Exported synchronization information for replica "M_WSL_RC_PVOB_DCW".
+   Row at export was: M_WSL_RC_PVOB_MN17=20 M_WSL_RC_PVOB_DCW=0 M_WSL_RC_PVOB_FL51=36 M_WSL_RC_PVOB_PR08=36 M_WSL_RC_PVOB_AZ18.deleted=1"
+--06-19T17:39  clearcase_nm75 protect directory element "M:\admin_view\M_WSL_RC_PVOB\.@@"
+  "CHMOD 770"
+--06-19T17:39  clearcase_nm75 protect directory element "M:\admin_view\M_WSL_RC_PVOB\.@@"
+  "CHMOD 775"
+--06-19T17:21  clearcase_nm75 export sync from replica "M_WSL_RC_PVOB_FL51" to replica "M_WSL_RC_PVOB_DCW"
+  "Exported synchronization information for replica "M_WSL_RC_PVOB_DCW".
+   Row at export was: M_WSL_RC_PVOB_MN17=20 M_WSL_RC_PVOB_DCW=0 M_WSL_RC_PVOB_FL51=34 M_WSL_RC_PVOB_PR08=36 M_WSL_RC_PVOB_AZ18.deleted=1"
+--06-19T17:16  clearcase_nm75 protect directory element "M:\admin_view\M_WSL_RC_PVOB\.@@"
+  "CHMOD 770"
+--06-19T17:16  clearcase_nm75 protect directory element "M:\admin_view\M_WSL_RC_PVOB\.@@"
+  "CHMOD 775"
+--05-01T13:51  clearcase_nm75 import sync from replica "M_WSL_RC_PVOB_PR08" to replica "M_WSL_RC_PVOB_FL51"
+  "Imported synchronization information from replica "M_WSL_RC_PVOB_PR08".
+   Row at import was: M_WSL_RC_PVOB_AZ18.deleted=1 M_WSL_RC_PVOB_MN17=20 M_WSL_RC_PVOB_PR08=36 M_WSL_RC_PVOB_DCW=0 M_WSL_RC_PVOB_FL51=34"
+--05-01T13:51  clearcase_nm75 export sync from replica "M_WSL_RC_PVOB_FL51" to replica "M_WSL_RC_PVOB_DCW"
+  "Exported synchronization information for replica "M_WSL_RC_PVOB_DCW".
+   Row at export was: M_WSL_RC_PVOB_MN17=16 M_WSL_RC_PVOB_DCW=0 M_WSL_RC_PVOB_FL51=34 M_WSL_RC_PVOB_PR08=36 M_WSL_RC_PVOB_AZ18.deleted=1"
+--05-01T13:50  clearcase_nm75 import sync from replica "M_WSL_RC_PVOB_MN17" to replica "M_WSL_RC_PVOB_FL51"
+  "Imported synchronization information from replica "M_WSL_RC_PVOB_MN17".
+   Row at import was: M_WSL_RC_PVOB_AZ18.deleted=1 M_WSL_RC_PVOB_MN17=19 M_WSL_RC_PVOB_PR08=36 M_WSL_RC_PVOB_DCW=0 M_WSL_RC_PVOB_FL51=34"
+--05-01T13:46  clearcase_nm75 import sync from replica "M_WSL_RC_PVOB_DCW" to replica "M_WSL_RC_PVOB_FL51"
+  "Imported synchronization information from replica "M_WSL_RC_PVOB_DCW".
+   Row at import was: M_WSL_RC_PVOB_AZ18.deleted=1 M_WSL_RC_PVOB_MN17=19 M_WSL_RC_PVOB_PR08=36 M_WSL_RC_PVOB_DCW=0 M_WSL_RC_PVOB_FL51=34"
+--05-01T13:43  clearcase_nm75 import sync from replica "M_WSL_RC_PVOB_MN17" to replica "M_WSL_RC_PVOB_FL51"
+  "Imported synchronization information from replica "M_WSL_RC_PVOB_MN17".
+   Row at import was: M_WSL_RC_PVOB_AZ18=1 M_WSL_RC_PVOB_MN17=16 M_WSL_RC_PVOB_PR08=36 M_WSL_RC_PVOB_DCW=0 M_WSL_RC_PVOB_FL51=34"
+--05-01T13:43  e704548    change master to "M_WSL_RC_PVOB_DCW" of replica "M_WSL_RC_PVOB_DCW"
+  "Changed master replica from "M_WSL_RC_PVOB_MN17" to "M_WSL_RC_PVOB_DCW"."
+--05-01T13:42  e704548    rename replica "M_WSL_RC_PVOB_AZ18.deleted"
+  "Changed name of replica from "M_WSL_RC_PVOB_AZ18" to "M_WSL_RC_PVOB_AZ18.deleted".
+   Destroyed replica "M_WSL_RC_PVOB_AZ18"."
+--05-01T13:42  e704548    destroy replica in versioned object base "\M_WSL_RC_PVOB"
+  "Destroyed replica "M_WSL_RC_PVOB_AZ18"."
+--05-01T13:42  e704548    change master to "M_WSL_RC_PVOB_MN17" of replica "M_WSL_RC_PVOB_DCW"
+  "Changed master replica from "M_WSL_RC_PVOB_AZ18" to "M_WSL_RC_PVOB_MN17"."
+--05-01T13:42  e704548    change master to "M_WSL_RC_PVOB_MN17" of replica "M_WSL_RC_PVOB_AZ18.deleted"
+  "Changed master replica from "M_WSL_RC_PVOB_AZ18" to "M_WSL_RC_PVOB_MN17"."
+--03-25T11:52  clearcase_nm75 export sync from replica "M_WSL_RC_PVOB_FL51" to replica "M_WSL_RC_PVOB_DCW"
+  "Exported synchronization information for replica "M_WSL_RC_PVOB_DCW".
+   Row at export was: M_WSL_RC_PVOB_MN17=16 M_WSL_RC_PVOB_DCW=0 M_WSL_RC_PVOB_FL51=34 M_WSL_RC_PVOB_PR08=36 M_WSL_RC_PVOB_AZ18=0"
+--07-23T11:30  clearcase_nm75 import sync from replica "M_WSL_RC_PVOB_DCW" to replica "M_WSL_RC_PVOB_FL51"
+  "Imported synchronization information from replica "M_WSL_RC_PVOB_DCW".
+   Row at import was: M_WSL_RC_PVOB_AZ18=1 M_WSL_RC_PVOB_MN17=16 M_WSL_RC_PVOB_PR08=36 M_WSL_RC_PVOB_DCW=0 M_WSL_RC_PVOB_FL51=34"
+--07-22T15:20  clearcase_nm75 import sync from replica "M_WSL_RC_PVOB_PR08" to replica "M_WSL_RC_PVOB_FL51"
+  "Imported synchronization information from replica "M_WSL_RC_PVOB_PR08".
+   Row at import was: M_WSL_RC_PVOB_AZ18=1 M_WSL_RC_PVOB_MN17=16 M_WSL_RC_PVOB_PR08=36 M_WSL_RC_PVOB_DCW=0 M_WSL_RC_PVOB_FL51=34"
+--07-22T15:10  clearcase_nm75 import sync from replica "M_WSL_RC_PVOB_AZ18.deleted" to replica "M_WSL_RC_PVOB_FL51"
+  "Imported synchronization information from replica "M_WSL_RC_PVOB_AZ18".
+   Row at import was: M_WSL_RC_PVOB_AZ18=0 M_WSL_RC_PVOB_MN17=16 M_WSL_RC_PVOB_PR08=36 M_WSL_RC_PVOB_FL51=34"
+--07-22T14:54  root       create replica "M_WSL_RC_PVOB_DCW"
+2013-06-24     clearcase_nm75 export sync from replica "M_WSL_RC_PVOB_FL51" to replica "M_WSL_RC_PVOB_AZ18.deleted"
+  "Exported synchronization information for replica "M_WSL_RC_PVOB_AZ18".
+   Row at export was: M_WSL_RC_PVOB_MN17=16 M_WSL_RC_PVOB_FL51=32 M_WSL_RC_PVOB_PR08=36 M_WSL_RC_PVOB_AZ18=0"
+2013-06-24     E721579    remove folder "\M_WSL_RC_PVOB"
+  "Destroyed activity "folder:New_Folder@\M_WSL_RC_PVOB"."
+2013-06-19     clearcase_nm75 import sync from replica "M_WSL_RC_PVOB_PR08" to replica "M_WSL_RC_PVOB_FL51"
+  "Imported synchronization information from replica "M_WSL_RC_PVOB_PR08".
+   Row at import was: M_WSL_RC_PVOB_AZ18=0 M_WSL_RC_PVOB_MN17=16 M_WSL_RC_PVOB_PR08=36 M_WSL_RC_PVOB_FL51=32"
+2013-06-13     clearcase_nm75 import sync from replica "M_WSL_RC_PVOB_AZ18.deleted" to replica "M_WSL_RC_PVOB_FL51"
+  "Imported synchronization information from replica "M_WSL_RC_PVOB_AZ18".
+   Row at import was: M_WSL_RC_PVOB_AZ18=0 M_WSL_RC_PVOB_MN17=16 M_WSL_RC_PVOB_PR08=35 M_WSL_RC_PVOB_FL51=32"
+2013-06-13     E704548    import sync to replica "M_WSL_RC_PVOB_PR08"
+  "Changed information associated with replica."
+2013-06-10     e564406    lock trigger type "CHOWN" (locked)
+  "Locked except for users: e702445"
+2013-06-10     e564406    modify trigger type "CHOWN" (locked)
+  "Changed definition of type."
+2013-06-10     e564406    unlock trigger type "CHOWN" (locked)
+2013-06-03     e564406    lock trigger type "NO_RMTYPE" (locked)
+  "Locked for all users."
+2013-06-03     e564406    destroy type in versioned object base "\M_WSL_RC_PVOB"
+  "Destroyed trigger type "NO_RMTRIGGER"."
+2013-06-03     e564406    modify trigger type "NO_RMTYPE" (locked)
+  "Changed definition of type.
+   Disallow removal of types"
+2013-06-03     e564406    unlock trigger type "NO_RMTYPE" (locked)
+2013-04-12     clearcase_nm75 import sync from replica "M_WSL_RC_PVOB_AZ18.deleted" to replica "M_WSL_RC_PVOB_FL51"
+  "Imported synchronization information from replica "M_WSL_RC_PVOB_AZ18".
+   Row at import was: M_WSL_RC_PVOB_AZ18=0 M_WSL_RC_PVOB_MN17=16 M_WSL_RC_PVOB_PR08=34 M_WSL_RC_PVOB_FL51=32"
+2013-04-12     sv-das_cc_albd import sync to replica "M_WSL_RC_PVOB_PR08"
+  "Changed information associated with replica."
+2013-04-12     clearcase_nm75 import sync from replica "M_WSL_RC_PVOB_AZ18.deleted" to replica "M_WSL_RC_PVOB_FL51"
+  "Imported synchronization information from replica "M_WSL_RC_PVOB_AZ18".
+   Row at import was: M_WSL_RC_PVOB_AZ18=0 M_WSL_RC_PVOB_MN17=16 M_WSL_RC_PVOB_PR08=33 M_WSL_RC_PVOB_FL51=32"
+2013-04-12     clearcase_nm75 import sync from replica "M_WSL_RC_PVOB_AZ18.deleted" to replica "M_WSL_RC_PVOB_FL51"
+  "Imported synchronization information from replica "M_WSL_RC_PVOB_AZ18".
+   Row at import was: M_WSL_RC_PVOB_AZ18=0 M_WSL_RC_PVOB_MN17=16 M_WSL_RC_PVOB_PR08=32 M_WSL_RC_PVOB_FL51=32"
+2013-04-12     sv-das_cc_albd import sync to replica "M_WSL_RC_PVOB_PR08"
+  "Changed information associated with replica."
+2013-04-12     sv-das_cc_albd import sync to replica "M_WSL_RC_PVOB_PR08"
+  "Changed information associated with replica."
+2013-03-13     clearcase_nm75 export sync from replica "M_WSL_RC_PVOB_FL51" to replica "M_WSL_RC_PVOB_AZ18.deleted"
+  "Exported synchronization information for replica "M_WSL_RC_PVOB_AZ18".
+   Row at export was: M_WSL_RC_PVOB_MN17=16 M_WSL_RC_PVOB_FL51=30 M_WSL_RC_PVOB_PR08=32 M_WSL_RC_PVOB_AZ18=0"
+2013-03-13     e730056    set process variable on activity "M_WSL"
+  "Set activity process variable named "SQUID_ENTDEF_NAME_LIST"."
+2013-03-13     e730056    set process variable on activity "M_WSL"
+  "Set activity process variable named "SQUID_ALLOW_SUBMIT_FROM_CLEARCASE"."
+2012-10-09     clearcase_nm75 import sync from replica "M_WSL_RC_PVOB_AZ18.deleted" to replica "M_WSL_RC_PVOB_FL51"
+  "Imported synchronization information from replica "M_WSL_RC_PVOB_AZ18".
+   Row at import was: M_WSL_RC_PVOB_AZ18=0 M_WSL_RC_PVOB_MN17=16 M_WSL_RC_PVOB_PR08=16 M_WSL_RC_PVOB_FL51=30"
+2012-10-09     e428575    set work for activity "M_WSL_Integration"
+  "User "SVMap" in view "pr08nt004:e:\ClearCase_Storage\views\NAMERICA4\e428575\e428575_M_WSL_int.vws"."
+2012-10-09     e428575    set work for activity "e428575_M_WSL"
+  "User "SVMap" in view "pr08nt004:e:\ClearCase_Storage\views\NAMERICA4\e428575\e428575_M_WSL.vws"."
+2012-10-09     e428575    set process variable on activity "internal121009.074634.1"
+  "Set activity process variable named "SUM_Stream_special_folder_type"."
+2012-10-09     e428575    make folder "internal121009.074634.1"
+2012-10-09     e428575    set process variable on activity "internal121009.074634"
+  "Set activity process variable named "SUM_Stream_special_folder_type"."
+2012-10-09     e428575    make folder "internal121009.074634"

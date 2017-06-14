@@ -1,0 +1,128 @@
+--06-30T10:41  clearcase_nm75 protect directory element "M:\admin_view\PCSIM_EAR_VOB\.@@"
+  "CHMOD 775"
+--06-30T10:37  clearcase_nm75 protect directory element "M:\admin_view\PCSIM_EAR_VOB\.@@"
+  "CHMOD 770"
+--06-30T10:37  clearcase_nm75 protect directory element "M:\admin_view\PCSIM_EAR_VOB\.@@"
+  "CHMOD 775"
+--06-30T10:35  clearcase_nm75 protect directory element "M:\admin_view\PCSIM_EAR_VOB\.@@"
+  "CHMOD 770"
+--06-30T10:35  clearcase_nm75 protect directory element "M:\admin_view\PCSIM_EAR_VOB\.@@"
+  "CHMOD 775"
+--06-19T15:33  clearcase_nm75 protect directory element "M:\admin_view\PCSIM_EAR_VOB\.@@"
+  "CHMOD 770"
+--06-19T15:33  clearcase_nm75 protect directory element "M:\admin_view\PCSIM_EAR_VOB\.@@"
+  "CHMOD 775"
+--05-02T14:46  e704548    change epoch of replica "PCSIM_EAR_VOB_MN65"
+  "Changed epoch row for replica
+   Old row was: PCSIM_EAR_VOB_AZ18.deleted=15 PCSIM_EAR_VOB_MN17=5 PCSIM_EAR_VOB_MN51.deleted=0 PCSIM_EAR_VOB_FL51.deleted=0 PCSIM_EAR_VOB_FL51B.deleted=1 PCSIM_EAR_VOB_MN65=0 PCSIM_EAR_VOB_MN51_new=0 PCSIM_EAR_VOB_FL51_new=0 PCSIM_EAR_VOB_DCW=0
+   New row is: PCSIM_EAR_VOB_AZ18.deleted=16 PCSIM_EAR_VOB_MN17=14 PCSIM_EAR_VOB_MN51.deleted=0 PCSIM_EAR_VOB_FL51.deleted=0 PCSIM_EAR_VOB_FL51B.deleted=1 PCSIM_EAR_VOB_MN65=0 PCSIM_EAR_VOB_MN51_new=0 PCSIM_EAR_VOB_FL51_new=0 PCSIM_EAR_VOB_DCW=0"
+--05-02T14:45  e704548    change epoch of replica "PCSIM_EAR_VOB_MN51_new"
+  "Changed epoch row for replica
+   Old row was: PCSIM_EAR_VOB_AZ18.deleted=15 PCSIM_EAR_VOB_MN17=5 PCSIM_EAR_VOB_MN51.deleted=0 PCSIM_EAR_VOB_FL51.deleted=0 PCSIM_EAR_VOB_FL51B.deleted=1 PCSIM_EAR_VOB_MN65=0 PCSIM_EAR_VOB_MN51_new=0 PCSIM_EAR_VOB_FL51_new=0 PCSIM_EAR_VOB_DCW=0
+   New row is: PCSIM_EAR_VOB_AZ18.deleted=16 PCSIM_EAR_VOB_MN17=14 PCSIM_EAR_VOB_MN51.deleted=0 PCSIM_EAR_VOB_FL51.deleted=0 PCSIM_EAR_VOB_FL51B.deleted=1 PCSIM_EAR_VOB_MN65=0 PCSIM_EAR_VOB_MN51_new=0 PCSIM_EAR_VOB_FL51_new=0 PCSIM_EAR_VOB_DCW=0"
+--05-02T14:45  e704548    change epoch of replica "PCSIM_EAR_VOB_MN17"
+  "Changed epoch row for replica
+   Old row was: PCSIM_EAR_VOB_AZ18.deleted=15 PCSIM_EAR_VOB_MN17=14 PCSIM_EAR_VOB_MN51.deleted=0 PCSIM_EAR_VOB_FL51.deleted=0 PCSIM_EAR_VOB_FL51B.deleted=1 PCSIM_EAR_VOB_MN65=0 PCSIM_EAR_VOB_MN51_new=0 PCSIM_EAR_VOB_FL51_new=0 PCSIM_EAR_VOB_DCW=0
+   New row is: PCSIM_EAR_VOB_AZ18.deleted=16 PCSIM_EAR_VOB_MN17=14 PCSIM_EAR_VOB_MN51.deleted=0 PCSIM_EAR_VOB_FL51.deleted=0 PCSIM_EAR_VOB_FL51B.deleted=1 PCSIM_EAR_VOB_MN65=0 PCSIM_EAR_VOB_MN51_new=0 PCSIM_EAR_VOB_FL51_new=0 PCSIM_EAR_VOB_DCW=0"
+--05-01T14:55  clearcase_nm75 import sync from replica "PCSIM_EAR_VOB_DCW" to replica "PCSIM_EAR_VOB_FL51_new"
+  "Imported synchronization information from replica "PCSIM_EAR_VOB_DCW".
+   Row at import was: PCSIM_EAR_VOB_AZ18.deleted=16 PCSIM_EAR_VOB_MN17=14 PCSIM_EAR_VOB_MN51.deleted=0 PCSIM_EAR_VOB_FL51.deleted=0 PCSIM_EAR_VOB_FL51B.deleted=1 PCSIM_EAR_VOB_MN65=0 PCSIM_EAR_VOB_MN51_new=0 PCSIM_EAR_VOB_DCW=0 PCSIM_EAR_VOB_FL51_new=0"
+--05-01T14:50  clearcase_nm75 export sync from replica "PCSIM_EAR_VOB_FL51_new" to replica "PCSIM_EAR_VOB_DCW"
+  "Exported synchronization information for replica "PCSIM_EAR_VOB_DCW".
+   Row at export was: PCSIM_EAR_VOB_MN17=5 PCSIM_EAR_VOB_FL51_new=0 PCSIM_EAR_VOB_FL51B.deleted=1 PCSIM_EAR_VOB_FL51.deleted=0 PCSIM_EAR_VOB_DCW=0 PCSIM_EAR_VOB_MN51.deleted=0 PCSIM_EAR_VOB_AZ18.deleted=16 PCSIM_EAR_VOB_MN65=0 PCSIM_EAR_VOB_MN51_new=0"
+--05-01T14:47  clearcase_nm75 import sync from replica "PCSIM_EAR_VOB_MN17" to replica "PCSIM_EAR_VOB_FL51_new"
+  "Imported synchronization information from replica "PCSIM_EAR_VOB_MN17".
+   Row at import was: PCSIM_EAR_VOB_AZ18.deleted=16 PCSIM_EAR_VOB_MN17=13 PCSIM_EAR_VOB_MN51.deleted=0 PCSIM_EAR_VOB_FL51.deleted=0 PCSIM_EAR_VOB_FL51B.deleted=1 PCSIM_EAR_VOB_MN65=0 PCSIM_EAR_VOB_MN51_new=0 PCSIM_EAR_VOB_DCW=0 PCSIM_EAR_VOB_FL51_new=0"
+--05-01T14:47  e704548    change master to "PCSIM_EAR_VOB_DCW" of replica "PCSIM_EAR_VOB_DCW"
+  "Changed master replica from "PCSIM_EAR_VOB_MN17" to "PCSIM_EAR_VOB_DCW"."
+--05-01T14:47  clearcase_nm75 import sync from replica "PCSIM_EAR_VOB_MN17" to replica "PCSIM_EAR_VOB_FL51_new"
+  "Imported synchronization information from replica "PCSIM_EAR_VOB_MN17".
+   Row at import was: PCSIM_EAR_VOB_AZ18=16 PCSIM_EAR_VOB_MN17=5 PCSIM_EAR_VOB_MN51.deleted=0 PCSIM_EAR_VOB_FL51.deleted=0 PCSIM_EAR_VOB_FL51B.deleted=1 PCSIM_EAR_VOB_MN65=0 PCSIM_EAR_VOB_MN51_new=0 PCSIM_EAR_VOB_DCW=0 PCSIM_EAR_VOB_FL51_new=0"
+--05-01T14:46  e704548    rename replica "PCSIM_EAR_VOB_AZ18.deleted"
+  "Changed name of replica from "PCSIM_EAR_VOB_AZ18" to "PCSIM_EAR_VOB_AZ18.deleted".
+   Destroyed replica "PCSIM_EAR_VOB_AZ18"."
+--05-01T14:46  e704548    destroy replica in versioned object base "\PCSIM_EAR_VOB"
+  "Destroyed replica "PCSIM_EAR_VOB_AZ18"."
+--05-01T14:46  e704548    change master to "PCSIM_EAR_VOB_MN17" of replica "PCSIM_EAR_VOB_DCW"
+  "Changed master replica from "PCSIM_EAR_VOB_AZ18" to "PCSIM_EAR_VOB_MN17"."
+--05-01T14:46  e704548    change master to "PCSIM_EAR_VOB_MN17" of replica "PCSIM_EAR_VOB_FL51_new"
+  "Changed master replica from "PCSIM_EAR_VOB_AZ18" to "PCSIM_EAR_VOB_MN17"."
+--05-01T14:46  e704548    change master to "PCSIM_EAR_VOB_MN17" of replica "PCSIM_EAR_VOB_MN51_new"
+  "Changed master replica from "PCSIM_EAR_VOB_AZ18" to "PCSIM_EAR_VOB_MN17"."
+--05-01T14:46  e704548    change master to "PCSIM_EAR_VOB_MN17" of replica "PCSIM_EAR_VOB_MN65"
+  "Changed master replica from "PCSIM_EAR_VOB_AZ18" to "PCSIM_EAR_VOB_MN17"."
+--05-01T14:46  e704548    change master to "PCSIM_EAR_VOB_MN17" of replica "PCSIM_EAR_VOB_FL51B.deleted"
+  "Changed master replica from "PCSIM_EAR_VOB_AZ18" to "PCSIM_EAR_VOB_MN17"."
+--05-01T14:46  e704548    change master to "PCSIM_EAR_VOB_MN17" of replica "PCSIM_EAR_VOB_FL51.deleted"
+  "Changed master replica from "PCSIM_EAR_VOB_AZ18" to "PCSIM_EAR_VOB_MN17"."
+--05-01T14:46  e704548    change master to "PCSIM_EAR_VOB_MN17" of replica "PCSIM_EAR_VOB_MN51.deleted"
+  "Changed master replica from "PCSIM_EAR_VOB_AZ18" to "PCSIM_EAR_VOB_MN17"."
+--03-25T11:50  clearcase_nm75 export sync from replica "PCSIM_EAR_VOB_FL51_new" to replica "PCSIM_EAR_VOB_DCW"
+  "Exported synchronization information for replica "PCSIM_EAR_VOB_DCW".
+   Row at export was: PCSIM_EAR_VOB_MN17=5 PCSIM_EAR_VOB_FL51_new=0 PCSIM_EAR_VOB_FL51B.deleted=1 PCSIM_EAR_VOB_FL51.deleted=0 PCSIM_EAR_VOB_DCW=0 PCSIM_EAR_VOB_MN51.deleted=0 PCSIM_EAR_VOB_AZ18=15 PCSIM_EAR_VOB_MN65=0 PCSIM_EAR_VOB_MN51_new=0"
+--07-25T15:03  clearcase_nm75 import sync from replica "PCSIM_EAR_VOB_DCW" to replica "PCSIM_EAR_VOB_FL51_new"
+  "Imported synchronization information from replica "PCSIM_EAR_VOB_DCW".
+   Row at import was: PCSIM_EAR_VOB_AZ18=16 PCSIM_EAR_VOB_MN17=5 PCSIM_EAR_VOB_MN51.deleted=0 PCSIM_EAR_VOB_FL51.deleted=0 PCSIM_EAR_VOB_FL51B.deleted=1 PCSIM_EAR_VOB_MN65=0 PCSIM_EAR_VOB_MN51_new=0 PCSIM_EAR_VOB_DCW=0 PCSIM_EAR_VOB_FL51_new=0"
+--07-23T11:40  clearcase_nm75 import sync from replica "PCSIM_EAR_VOB_AZ18.deleted" to replica "PCSIM_EAR_VOB_FL51_new"
+  "Imported synchronization information from replica "PCSIM_EAR_VOB_AZ18".
+   Row at import was: PCSIM_EAR_VOB_AZ18=15 PCSIM_EAR_VOB_MN17=5 PCSIM_EAR_VOB_MN51.deleted=0 PCSIM_EAR_VOB_FL51.deleted=0 PCSIM_EAR_VOB_FL51B.deleted=1 PCSIM_EAR_VOB_MN65=0 PCSIM_EAR_VOB_MN51_new=0 PCSIM_EAR_VOB_FL51_new=0"
+--07-23T11:28  root       create replica "PCSIM_EAR_VOB_DCW"
+2009-07-13     clearcase_nm75 export sync from replica "PCSIM_EAR_VOB_FL51_new" to replica "PCSIM_EAR_VOB_MN65"
+  "Exported synchronization information for replica "PCSIM_EAR_VOB_MN65".
+   Row at export was: PCSIM_EAR_VOB_MN17=5 PCSIM_EAR_VOB_FL51_new=0 PCSIM_EAR_VOB_FL51B.deleted=1 PCSIM_EAR_VOB_FL51.deleted=0 PCSIM_EAR_VOB_MN51.deleted=0 PCSIM_EAR_VOB_AZ18=14 PCSIM_EAR_VOB_MN65=0 PCSIM_EAR_VOB_MN51_new=0"
+2009-07-13     clearcase_nm75 export sync from replica "PCSIM_EAR_VOB_FL51_new" to replica "PCSIM_EAR_VOB_MN51_new"
+  "Exported synchronization information for replica "PCSIM_EAR_VOB_MN51_new".
+   Row at export was: PCSIM_EAR_VOB_MN17=5 PCSIM_EAR_VOB_FL51_new=0 PCSIM_EAR_VOB_FL51B.deleted=1 PCSIM_EAR_VOB_FL51.deleted=0 PCSIM_EAR_VOB_MN51.deleted=0 PCSIM_EAR_VOB_AZ18=14 PCSIM_EAR_VOB_MN65=0 PCSIM_EAR_VOB_MN51_new=0"
+2009-07-13     clearcase_nm75 export sync from replica "PCSIM_EAR_VOB_FL51_new" to replica "PCSIM_EAR_VOB_MN17"
+  "Exported synchronization information for replica "PCSIM_EAR_VOB_MN17".
+   Row at export was: PCSIM_EAR_VOB_MN17=5 PCSIM_EAR_VOB_FL51_new=0 PCSIM_EAR_VOB_FL51B.deleted=1 PCSIM_EAR_VOB_FL51.deleted=0 PCSIM_EAR_VOB_MN51.deleted=0 PCSIM_EAR_VOB_AZ18=14 PCSIM_EAR_VOB_MN65=0 PCSIM_EAR_VOB_MN51_new=0"
+2009-07-13     clearcase_nm75 import sync from replica "PCSIM_EAR_VOB_MN51_new" to replica "PCSIM_EAR_VOB_FL51_new"
+  "Imported synchronization information from replica "PCSIM_EAR_VOB_MN51_new".
+   Row at import was: PCSIM_EAR_VOB_AZ18=15 PCSIM_EAR_VOB_MN17=5 PCSIM_EAR_VOB_MN51.deleted=0 PCSIM_EAR_VOB_FL51.deleted=0 PCSIM_EAR_VOB_FL51B.deleted=1 PCSIM_EAR_VOB_MN65=0 PCSIM_EAR_VOB_MN51_new=0 PCSIM_EAR_VOB_FL51_new=0"
+2009-07-13     clearcase_nm75 import sync from replica "PCSIM_EAR_VOB_MN17" to replica "PCSIM_EAR_VOB_FL51_new"
+  "Imported synchronization information from replica "PCSIM_EAR_VOB_MN17".
+   Row at import was: PCSIM_EAR_VOB_AZ18=15 PCSIM_EAR_VOB_MN17=5 PCSIM_EAR_VOB_MN51.deleted=0 PCSIM_EAR_VOB_FL51.deleted=0 PCSIM_EAR_VOB_FL51B.deleted=1 PCSIM_EAR_VOB_MN65=0 PCSIM_EAR_VOB_MN51_new=0 PCSIM_EAR_VOB_FL51_new=0"
+2009-07-13     clearcase_nm75 import sync from replica "PCSIM_EAR_VOB_AZ18.deleted" to replica "PCSIM_EAR_VOB_FL51_new"
+  "Imported synchronization information from replica "PCSIM_EAR_VOB_AZ18".
+   Row at import was: PCSIM_EAR_VOB_AZ18=14 PCSIM_EAR_VOB_MN17=5 PCSIM_EAR_VOB_MN51.deleted=0 PCSIM_EAR_VOB_FL51=0 PCSIM_EAR_VOB_FL51B.deleted=1 PCSIM_EAR_VOB_MN65=0 PCSIM_EAR_VOB_MN51_new=0 PCSIM_EAR_VOB_FL51_new=0"
+2009-07-13     root       rename replica "PCSIM_EAR_VOB_FL51.deleted"
+  "Changed name of replica from "PCSIM_EAR_VOB_FL51" to "PCSIM_EAR_VOB_FL51.deleted".
+   Destroyed replica "PCSIM_EAR_VOB_FL51"."
+2009-07-13     root       destroy replica in versioned object base "\PCSIM_EAR_VOB"
+  "Destroyed replica "PCSIM_EAR_VOB_FL51"."
+2009-03-18     clearcase_nm75 import sync from replica "PCSIM_EAR_VOB_MN51_new" to replica "PCSIM_EAR_VOB_FL51_new"
+  "Imported synchronization information from replica "PCSIM_EAR_VOB_MN51_new".
+   Row at import was: PCSIM_EAR_VOB_AZ18=14 PCSIM_EAR_VOB_MN17=5 PCSIM_EAR_VOB_MN51.deleted=0 PCSIM_EAR_VOB_FL51=0 PCSIM_EAR_VOB_FL51B.deleted=1 PCSIM_EAR_VOB_MN65=0 PCSIM_EAR_VOB_MN51_new=0 PCSIM_EAR_VOB_FL51_new=0"
+2009-03-18     clearcase_nm75 import sync from replica "PCSIM_EAR_VOB_MN17" to replica "PCSIM_EAR_VOB_FL51_new"
+  "Imported synchronization information from replica "PCSIM_EAR_VOB_MN17".
+   Row at import was: PCSIM_EAR_VOB_AZ18=14 PCSIM_EAR_VOB_MN17=5 PCSIM_EAR_VOB_MN51.deleted=0 PCSIM_EAR_VOB_FL51=0 PCSIM_EAR_VOB_FL51B.deleted=1 PCSIM_EAR_VOB_MN65=0 PCSIM_EAR_VOB_MN51_new=0 PCSIM_EAR_VOB_FL51_new=0"
+2009-03-18     clearcase_nm75 import sync from replica "PCSIM_EAR_VOB_AZ18.deleted" to replica "PCSIM_EAR_VOB_FL51_new"
+  "Imported synchronization information from replica "PCSIM_EAR_VOB_AZ18".
+   Row at import was: PCSIM_EAR_VOB_AZ18=14 PCSIM_EAR_VOB_MN17=5 PCSIM_EAR_VOB_MN51.deleted=0 PCSIM_EAR_VOB_FL51=0 PCSIM_EAR_VOB_FL51B.deleted=1 PCSIM_EAR_VOB_MN65=0 PCSIM_EAR_VOB_MN51_new=0 PCSIM_EAR_VOB_FL51_new=0"
+2009-03-18     e704548    modify replica "PCSIM_EAR_VOB_FL51_new"
+  "Enable requests for mastership."
+2009-03-18     e704548    protect directory element "M:\admin_view\PCSIM_EAR_VOB\lost+found@@"
+  "CHMOD 770; CHOWN e730056; CHGRP namerica4\aero.ecoe.ies.pcsim.ear"
+2009-03-18     e704548    protect directory element "M:\admin_view\PCSIM_EAR_VOB\.@@"
+  "CHMOD 770; CHOWN e730056; CHGRP namerica4\aero.ecoe.ies.pcsim.ear"
+2009-03-18     clearcase_nm75 export sync from replica "PCSIM_EAR_VOB_FL51_new" to replica "PCSIM_EAR_VOB_MN65"
+  "Exported synchronization information for replica "PCSIM_EAR_VOB_MN65".
+   Row at export was: PCSIM_EAR_VOB_MN17=5 PCSIM_EAR_VOB_FL51_new=0 PCSIM_EAR_VOB_FL51B.deleted=1 PCSIM_EAR_VOB_FL51=0 PCSIM_EAR_VOB_MN51.deleted=0 PCSIM_EAR_VOB_AZ18=13 PCSIM_EAR_VOB_MN65=0 PCSIM_EAR_VOB_MN51_new=0"
+2009-03-18     clearcase_nm75 export sync from replica "PCSIM_EAR_VOB_FL51_new" to replica "PCSIM_EAR_VOB_MN51_new"
+  "Exported synchronization information for replica "PCSIM_EAR_VOB_MN51_new".
+   Row at export was: PCSIM_EAR_VOB_MN17=5 PCSIM_EAR_VOB_FL51_new=0 PCSIM_EAR_VOB_FL51B.deleted=1 PCSIM_EAR_VOB_FL51=0 PCSIM_EAR_VOB_MN51.deleted=0 PCSIM_EAR_VOB_AZ18=13 PCSIM_EAR_VOB_MN65=0 PCSIM_EAR_VOB_MN51_new=0"
+2009-03-18     clearcase_nm75 export sync from replica "PCSIM_EAR_VOB_FL51_new" to replica "PCSIM_EAR_VOB_MN17"
+  "Exported synchronization information for replica "PCSIM_EAR_VOB_MN17".
+   Row at export was: PCSIM_EAR_VOB_MN17=5 PCSIM_EAR_VOB_FL51_new=0 PCSIM_EAR_VOB_FL51B.deleted=1 PCSIM_EAR_VOB_FL51=0 PCSIM_EAR_VOB_MN51.deleted=0 PCSIM_EAR_VOB_AZ18=13 PCSIM_EAR_VOB_MN65=0 PCSIM_EAR_VOB_MN51_new=0"
+2009-03-18     clearcase_nm75 export sync from replica "PCSIM_EAR_VOB_FL51_new" to replica "PCSIM_EAR_VOB_FL51.deleted"
+  "Exported synchronization information for replica "PCSIM_EAR_VOB_FL51".
+   Row at export was: PCSIM_EAR_VOB_MN17=5 PCSIM_EAR_VOB_FL51_new=0 PCSIM_EAR_VOB_FL51B.deleted=1 PCSIM_EAR_VOB_FL51=0 PCSIM_EAR_VOB_MN51.deleted=0 PCSIM_EAR_VOB_AZ18=13 PCSIM_EAR_VOB_MN65=0 PCSIM_EAR_VOB_MN51_new=0"
+2009-03-18     e704548    modify pool "cdft"
+  "Changed definition of pool."
+2009-03-18     e704548    modify pool "ddft"
+  "Changed definition of pool."
+2009-03-18     e704548    unlock versioned object base "\PCSIM_EAR_VOB"
+  "Unlock after replica creation"
+2009-03-18     root       lock versioned object base "\PCSIM_EAR_VOB"
+  "Locked for all users.
+   Locked for replica dump"

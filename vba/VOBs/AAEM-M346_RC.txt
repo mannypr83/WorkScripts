@@ -1,0 +1,113 @@
+--06-30T10:45  clearcase_nm75 protect directory element "M:\admin_view\AAEM-M346_RC\.@@"
+  "CHMOD 775"
+--06-19T17:50  clearcase_nm75 export sync from replica "AAEM-M346_RC_FL51" to replica "AAEM-M346_RC_PR08"
+  "Exported synchronization information for replica "AAEM-M346_RC_PR08".
+   Row at export was: AAEM-M346_RC_PR08=589 AAEM-M346_RC_DCW=0 AAEM-M346_RC_AZ18.deleted=1 AAEM-M346_RC_FL51=657"
+--06-19T17:50  clearcase_nm75 export sync from replica "AAEM-M346_RC_FL51" to replica "AAEM-M346_RC_DCW"
+  "Exported synchronization information for replica "AAEM-M346_RC_DCW".
+   Row at export was: AAEM-M346_RC_PR08=589 AAEM-M346_RC_DCW=0 AAEM-M346_RC_AZ18.deleted=1 AAEM-M346_RC_FL51=657"
+--06-19T17:42  clearcase_nm75 protect directory element "M:\admin_view\AAEM-M346_RC\.@@"
+  "CHMOD 770"
+--06-19T17:42  clearcase_nm75 protect directory element "M:\admin_view\AAEM-M346_RC\.@@"
+  "CHMOD 775"
+--06-19T17:20  clearcase_nm75 export sync from replica "AAEM-M346_RC_FL51" to replica "AAEM-M346_RC_PR08"
+  "Exported synchronization information for replica "AAEM-M346_RC_PR08".
+   Row at export was: AAEM-M346_RC_PR08=589 AAEM-M346_RC_DCW=0 AAEM-M346_RC_AZ18.deleted=1 AAEM-M346_RC_FL51=655"
+--06-19T17:20  clearcase_nm75 export sync from replica "AAEM-M346_RC_FL51" to replica "AAEM-M346_RC_DCW"
+  "Exported synchronization information for replica "AAEM-M346_RC_DCW".
+   Row at export was: AAEM-M346_RC_PR08=589 AAEM-M346_RC_DCW=0 AAEM-M346_RC_AZ18.deleted=1 AAEM-M346_RC_FL51=655"
+--06-19T17:19  clearcase_nm75 protect directory element "M:\admin_view\AAEM-M346_RC\.@@"
+  "CHMOD 770"
+--06-19T17:19  clearcase_nm75 protect directory element "M:\admin_view\AAEM-M346_RC\.@@"
+  "CHMOD 775"
+--04-09T15:10  clearcase_nm75 import sync from replica "AAEM-M346_RC_DCW" to replica "AAEM-M346_RC_FL51"
+  "Imported synchronization information from replica "AAEM-M346_RC_DCW".
+   Row at import was: AAEM-M346_RC_AZ18.deleted=1 AAEM-M346_RC_PR08=589 AAEM-M346_RC_DCW=0 AAEM-M346_RC_FL51=655"
+--04-09T15:10  clearcase_nm75 export sync from replica "AAEM-M346_RC_FL51" to replica "AAEM-M346_RC_DCW"
+  "Exported synchronization information for replica "AAEM-M346_RC_DCW".
+   Row at export was: AAEM-M346_RC_PR08=588 AAEM-M346_RC_DCW=0 AAEM-M346_RC_AZ18.deleted=1 AAEM-M346_RC_FL51=655"
+--04-09T15:02  clearcase_nm75 import sync from replica "AAEM-M346_RC_PR08" to replica "AAEM-M346_RC_FL51"
+  "Imported synchronization information from replica "AAEM-M346_RC_PR08".
+   Row at import was: AAEM-M346_RC_AZ18.deleted=1 AAEM-M346_RC_PR08=588 AAEM-M346_RC_DCW=0 AAEM-M346_RC_FL51=655"
+--04-09T15:01  e704548    change master to "AAEM-M346_RC_DCW" of replica "AAEM-M346_RC_DCW"
+  "Changed master replica from "AAEM-M346_RC_PR08" to "AAEM-M346_RC_DCW"."
+--04-09T15:00  clearcase_nm75 export sync from replica "AAEM-M346_RC_FL51" to replica "AAEM-M346_RC_DCW"
+  "Exported synchronization information for replica "AAEM-M346_RC_DCW".
+   Row at export was: AAEM-M346_RC_PR08=585 AAEM-M346_RC_DCW=0 AAEM-M346_RC_AZ18.deleted=1 AAEM-M346_RC_FL51=655"
+--04-09T15:00  clearcase_nm75 import sync from replica "AAEM-M346_RC_PR08" to replica "AAEM-M346_RC_FL51"
+  "Imported synchronization information from replica "AAEM-M346_RC_PR08".
+   Row at import was: AAEM-M346_RC_AZ18=1 AAEM-M346_RC_PR08=585 AAEM-M346_RC_DCW=0 AAEM-M346_RC_FL51=655"
+--04-09T15:00  e704548    rename replica "AAEM-M346_RC_AZ18.deleted"
+  "Changed name of replica from "AAEM-M346_RC_AZ18" to "AAEM-M346_RC_AZ18.deleted".
+   Destroyed replica "AAEM-M346_RC_AZ18"."
+--04-09T15:00  e704548    destroy replica in versioned object base "\AAEM-M346_RC"
+  "Destroyed replica "AAEM-M346_RC_AZ18"."
+--04-09T15:00  e704548    change master to "AAEM-M346_RC_PR08" of replica "AAEM-M346_RC_DCW"
+  "Changed master replica from "AAEM-M346_RC_AZ18" to "AAEM-M346_RC_PR08"."
+--04-09T15:00  e704548    change master to "AAEM-M346_RC_PR08" of replica "AAEM-M346_RC_AZ18.deleted"
+  "Changed master replica from "AAEM-M346_RC_AZ18" to "AAEM-M346_RC_PR08"."
+--02-02T06:01  clearcase_nm75 export sync from replica "AAEM-M346_RC_FL51" to replica "AAEM-M346_RC_PR08"
+  "Exported synchronization information for replica "AAEM-M346_RC_PR08".
+   Row at export was: AAEM-M346_RC_PR08=585 AAEM-M346_RC_DCW=0 AAEM-M346_RC_AZ18=1 AAEM-M346_RC_FL51=636"
+--02-02T06:01  clearcase_nm75 export sync from replica "AAEM-M346_RC_FL51" to replica "AAEM-M346_RC_DCW"
+  "Exported synchronization information for replica "AAEM-M346_RC_DCW".
+   Row at export was: AAEM-M346_RC_PR08=585 AAEM-M346_RC_DCW=0 AAEM-M346_RC_AZ18=1 AAEM-M346_RC_FL51=636"
+--02-02T06:01  clearcase_nm75 export sync from replica "AAEM-M346_RC_FL51" to replica "AAEM-M346_RC_AZ18.deleted"
+  "Exported synchronization information for replica "AAEM-M346_RC_AZ18".
+   Row at export was: AAEM-M346_RC_PR08=585 AAEM-M346_RC_DCW=0 AAEM-M346_RC_AZ18=1 AAEM-M346_RC_FL51=636"
+--01-31T11:34  e711975    make hyperlink "BaselineLbtype" on label type "M346004"
+  "Attached hyperlink "BaselineLbtype@494@\AAEM-M346_RC_PVOB"."
+--01-31T11:34  e711975    rename label type "M346004"
+  "Changed name of label type from "M346004_in_progress" to "M346004".
+   Baseline 2014-01-31"
+--01-31T11:34  e711975    make hyperlink "IncrementalLbtype" on label type "M346003"
+  "Attached hyperlink "IncrementalLbtype@613@\AAEM-M346_RC".
+   Baseline 2014-01-31"
+--01-31T11:34  e711975    make hyperlink "IncrementalLbtype" on label type "M346004"
+  "Attached hyperlink "IncrementalLbtype@613@\AAEM-M346_RC".
+   Baseline 2014-01-31"
+--01-31T11:34  e711975    create hyperlink "IncrementalLbtype@613@\AAEM-M346_RC"
+  "Baseline 2014-01-31"
+--01-31T11:34  e711975    create label type "M346004"
+  "Baseline 2014-01-31"
+--01-31T11:22  e711975    create version "M:\admin_view\AAEM-M346_RC\OFP@@\main\AAEM-M346_DEV_SGN_PR\2\Mission_Files\main\AAEM-M346_DEV_SGN_PR\2\MISSIONIZATION_PARAMETERS.ADS@@\main\AAEM-M346_Int\4" (M346004)
+--01-31T11:22  e711975    create version "M:\admin_view\AAEM-M346_RC\OFP@@\main\AAEM-M346_DEV_SGN_PR\2\Mission_Files\main\AAEM-M346_DEV_SGN_PR\5\RAS.ADB@@\main\AAEM-M346_Int\3" (M346004)
+--01-31T11:22  e711975    create version "M:\admin_view\AAEM-M346_RC\OFP@@\main\AAEM-M346_DEV_SGN_PR\2\Mission_Files\main\AAEM-M346_DEV_SGN_PR\6\Mode_Control.adb@@\main\AAEM-M346_Int\2" (M346004)
+--01-31T11:10  e711975    make hyperlink "Merge" on version "M:\admin_view\AAEM-M346_RC\OFP@@\main\AAEM-M346_DEV_SGN_PR\2\Mission_Files\main\AAEM-M346_DEV_SGN_PR\6\Mode_Control.adb@@\main\AAEM-M346_Int\2" (M346004)
+  "Attached hyperlink "Merge@611@\AAEM-M346_RC"."
+--01-31T11:10  e711975    make hyperlink "Merge" on version "M:\admin_view\AAEM-M346_RC\OFP@@\main\AAEM-M346_DEV_SGN_PR\2\Mission_Files\main\AAEM-M346_DEV_SGN_PR\6\Mode_Control.adb@@\main\AAEM-M346_DEV_SGN_PR\3" (AAEM-M346_DEV_SGN_PR_2014-01-29)
+  "Attached hyperlink "Merge@611@\AAEM-M346_RC"."
+--01-31T11:10  e711975    create hyperlink "Merge@611@\AAEM-M346_RC"
+--01-31T11:10  e711975    make hyperlink "Merge" on version "M:\admin_view\AAEM-M346_RC\OFP@@\main\AAEM-M346_DEV_SGN_PR\2\Mission_Files\main\AAEM-M346_DEV_SGN_PR\2\MISSIONIZATION_PARAMETERS.ADS@@\main\AAEM-M346_Int\4" (M346004)
+  "Attached hyperlink "Merge@609@\AAEM-M346_RC"."
+--01-31T11:10  e711975    make hyperlink "Merge" on version "M:\admin_view\AAEM-M346_RC\OFP@@\main\AAEM-M346_DEV_SGN_PR\2\Mission_Files\main\AAEM-M346_DEV_SGN_PR\5\RAS.ADB@@\main\AAEM-M346_Int\3" (M346004)
+  "Attached hyperlink "Merge@610@\AAEM-M346_RC"."
+--01-31T11:10  e711975    make hyperlink "Merge" on version "M:\admin_view\AAEM-M346_RC\OFP@@\main\AAEM-M346_DEV_SGN_PR\2\Mission_Files\main\AAEM-M346_DEV_SGN_PR\5\RAS.ADB@@\main\AAEM-M346_DEV_SGN_PR\6" (AAEM-M346_DEV_SGN_PR_2014-01-29)
+  "Attached hyperlink "Merge@610@\AAEM-M346_RC"."
+--01-31T11:10  e711975    create hyperlink "Merge@610@\AAEM-M346_RC"
+--01-31T11:10  e711975    make hyperlink "Merge" on version "M:\admin_view\AAEM-M346_RC\OFP@@\main\AAEM-M346_DEV_SGN_PR\2\Mission_Files\main\AAEM-M346_DEV_SGN_PR\2\MISSIONIZATION_PARAMETERS.ADS@@\main\AAEM-M346_DEV_SGN_PR\9" (AAEM-M346_DEV_SGN_PR_2014-01-29)
+  "Attached hyperlink "Merge@609@\AAEM-M346_RC"."
+--01-31T11:10  e711975    create hyperlink "Merge@609@\AAEM-M346_RC"
+--01-31T11:10  e711975    make hyperlink "Change" on version "M:\admin_view\AAEM-M346_RC\OFP@@\main\AAEM-M346_DEV_SGN_PR\2\Mission_Files\main\AAEM-M346_DEV_SGN_PR\6\Mode_Control.adb@@\main\AAEM-M346_Int\2" (M346004)
+  "Attached hyperlink "Change@491@\AAEM-M346_RC_PVOB"."
+--01-31T11:10  e711975    make hyperlink "Change" on version "M:\admin_view\AAEM-M346_RC\OFP@@\main\AAEM-M346_DEV_SGN_PR\2\Mission_Files\main\AAEM-M346_DEV_SGN_PR\5\RAS.ADB@@\main\AAEM-M346_Int\3" (M346004)
+  "Attached hyperlink "Change@490@\AAEM-M346_RC_PVOB"."
+--01-31T11:10  e711975    make hyperlink "Change" on version "M:\admin_view\AAEM-M346_RC\OFP@@\main\AAEM-M346_DEV_SGN_PR\2\Mission_Files\main\AAEM-M346_DEV_SGN_PR\2\MISSIONIZATION_PARAMETERS.ADS@@\main\AAEM-M346_Int\4" (M346004)
+  "Attached hyperlink "Change@489@\AAEM-M346_RC_PVOB"."
+--01-29T10:20  clearcase_nm75 import sync from replica "AAEM-M346_RC_AZ18.deleted" to replica "AAEM-M346_RC_FL51"
+  "Imported synchronization information from replica "AAEM-M346_RC_AZ18".
+   Row at import was: AAEM-M346_RC_AZ18=1 AAEM-M346_RC_PR08=585 AAEM-M346_RC_DCW=0 AAEM-M346_RC_FL51=636"
+--01-29T10:10  clearcase_nm75 export sync from replica "AAEM-M346_RC_FL51" to replica "AAEM-M346_RC_AZ18.deleted"
+  "Exported synchronization information for replica "AAEM-M346_RC_AZ18".
+   Row at export was: AAEM-M346_RC_PR08=579 AAEM-M346_RC_DCW=0 AAEM-M346_RC_AZ18=1 AAEM-M346_RC_FL51=636"
+--01-29T10:10  clearcase_nm75 import sync from replica "AAEM-M346_RC_PR08" to replica "AAEM-M346_RC_FL51"
+  "Imported synchronization information from replica "AAEM-M346_RC_PR08".
+   Row at import was: AAEM-M346_RC_AZ18=1 AAEM-M346_RC_PR08=585 AAEM-M346_RC_DCW=0 AAEM-M346_RC_FL51=636"
+--01-29T10:10  clearcase_nm75 import sync from replica "AAEM-M346_RC_DCW" to replica "AAEM-M346_RC_FL51"
+  "Imported synchronization information from replica "AAEM-M346_RC_DCW".
+   Row at import was: AAEM-M346_RC_AZ18=1 AAEM-M346_RC_PR08=579 AAEM-M346_RC_DCW=0 AAEM-M346_RC_FL51=636"
+--01-29T10:00  clearcase_nm75 make hyperlink "BaselineLbtype" on label type "AAEM-M346_DEV_SGN_PR_2014-01-29"
+--01-29T10:00  clearcase_nm75 rename label type "AAEM-M346_DEV_SGN_PR_2014-01-29"
+  "Changed name of label type from "AAEM-M346_DEV_SGN_PR_2014-01-29_in_progress" to "AAEM-M346_DEV_SGN_PR_2014-01-29"."
+--01-29T10:00  e433435    make hyperlink "IncrementalLbtype" on label type "AAEM-M346_DEV_SGN_PR_2014-01-29"
+  "M346004 baseline for the SGN PR Dev stream"

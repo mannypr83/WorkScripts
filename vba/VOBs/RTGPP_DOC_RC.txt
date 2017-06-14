@@ -1,0 +1,111 @@
+--06-30T10:46  clearcase_nm75 protect directory element "M:\admin_view\RTGPP_DOC_RC\.@@"
+  "CHMOD 775"
+--06-30T10:40  clearcase_nm75 export sync from replica "RTGPP_DOC_RC_FL51" to replica "RTGPP_DOC_RC_AZ18"
+  "Exported synchronization information for replica "RTGPP_DOC_RC_AZ18".
+   Row at export was: RTGPP_DOC_RC_FL51=0 RTGPP_DOC_RC_AZ18=0 RTGPP_DOC_RC_PR08=1002"
+--06-30T10:36  clearcase_nm75 import sync from replica "RTGPP_DOC_RC_AZ18" to replica "RTGPP_DOC_RC_FL51"
+  "Imported synchronization information from replica "RTGPP_DOC_RC_AZ18".
+   Row at import was: RTGPP_DOC_RC_PR08=1011 RTGPP_DOC_RC_AZ18=0 RTGPP_DOC_RC_FL51=0"
+--06-30T10:30  clearcase_nm75 import sync from replica "RTGPP_DOC_RC_PR08" to replica "RTGPP_DOC_RC_FL51"
+  "Imported synchronization information from replica "RTGPP_DOC_RC_PR08".
+   Row at import was: RTGPP_DOC_RC_PR08=1002 RTGPP_DOC_RC_AZ18=0 RTGPP_DOC_RC_FL51=0"
+--06-30T10:29  E428360    create directory version "M:\admin_view\RTGPP_DOC_RC\Docs@@\main\RTGPP_Doc_Int\1\Technical\main\RTGPP_Doc_Int\3\340_Work_Cycle_Evaluation@@\main\RTGPP_Doc_Int\3"
+  " 
+   Added file element "RTGPP_Phase 1 (Inception & Elaboration).zip"."
+--06-30T10:29  clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\RTGPP_DOC_RC\Docs@@\main\RTGPP_Doc_Int\1\Technical\main\RTGPP_Doc_Int\3\340_Work_Cycle_Evaluation\main\RTGPP_Doc_Int\3\RTGPP_Phase 1 (Inception & Elaboration).zip@@\main\RTGPP_Doc_Int\1"
+--06-30T10:29  E428360    add name to directory version "M:\admin_view\RTGPP_DOC_RC\Docs@@\main\RTGPP_Doc_Int\1\Technical\main\RTGPP_Doc_Int\3\340_Work_Cycle_Evaluation@@\main\RTGPP_Doc_Int\3"
+--06-30T10:29  E428360    create version "M:\admin_view\RTGPP_DOC_RC\Docs@@\main\RTGPP_Doc_Int\1\Technical\main\RTGPP_Doc_Int\3\340_Work_Cycle_Evaluation\main\RTGPP_Doc_Int\3\RTGPP_Phase 1 (Inception & Elaboration).zip@@\main\RTGPP_Doc_Int\1"
+--06-30T10:29  E428360    create version "M:\admin_view\RTGPP_DOC_RC\Docs@@\main\RTGPP_Doc_Int\1\Technical\main\RTGPP_Doc_Int\3\340_Work_Cycle_Evaluation\main\RTGPP_Doc_Int\3\RTGPP_Phase 1 (Inception & Elaboration).zip@@\main\RTGPP_Doc_Int\0"
+--06-30T10:29  E428360    create branch "M:\admin_view\RTGPP_DOC_RC\Docs@@\main\RTGPP_Doc_Int\1\Technical\main\RTGPP_Doc_Int\3\340_Work_Cycle_Evaluation\main\RTGPP_Doc_Int\3\RTGPP_Phase 1 (Inception & Elaboration).zip@@\main\RTGPP_Doc_Int"
+--06-30T10:29  E428360    create version "M:\admin_view\RTGPP_DOC_RC\Docs@@\main\RTGPP_Doc_Int\1\Technical\main\RTGPP_Doc_Int\3\340_Work_Cycle_Evaluation\main\RTGPP_Doc_Int\3\RTGPP_Phase 1 (Inception & Elaboration).zip@@\main\0"
+--06-30T10:29  E428360    create branch "M:\admin_view\RTGPP_DOC_RC\Docs@@\main\RTGPP_Doc_Int\1\Technical\main\RTGPP_Doc_Int\3\340_Work_Cycle_Evaluation\main\RTGPP_Doc_Int\3\RTGPP_Phase 1 (Inception & Elaboration).zip@@\main"
+--06-30T10:29  E428360    create file element "M:\admin_view\RTGPP_DOC_RC\Docs@@\main\RTGPP_Doc_Int\1\Technical\main\RTGPP_Doc_Int\3\340_Work_Cycle_Evaluation\main\RTGPP_Doc_Int\3\RTGPP_Phase 1 (Inception & Elaboration).zip@@"
+--06-19T22:13  clearcase_nm75 protect directory element "M:\admin_view\RTGPP_DOC_RC\.@@"
+  "CHMOD 770"
+--06-19T22:13  clearcase_nm75 protect directory element "M:\admin_view\RTGPP_DOC_RC\.@@"
+  "CHMOD 775"
+--06-17T13:06  clearcase_nm75 import sync from replica "RTGPP_DOC_RC_AZ18" to replica "RTGPP_DOC_RC_FL51"
+  "Imported synchronization information from replica "RTGPP_DOC_RC_AZ18".
+   Row at import was: RTGPP_DOC_RC_PR08=1002 RTGPP_DOC_RC_AZ18=0 RTGPP_DOC_RC_FL51=0"
+--06-17T13:01  clearcase_nm75 export sync from replica "RTGPP_DOC_RC_FL51" to replica "RTGPP_DOC_RC_AZ18"
+  "Exported synchronization information for replica "RTGPP_DOC_RC_AZ18".
+   Row at export was: RTGPP_DOC_RC_FL51=0 RTGPP_DOC_RC_AZ18=0 RTGPP_DOC_RC_PR08=1001"
+--06-17T13:00  clearcase_nm75 import sync from replica "RTGPP_DOC_RC_PR08" to replica "RTGPP_DOC_RC_FL51"
+  "Imported synchronization information from replica "RTGPP_DOC_RC_PR08".
+   Row at import was: RTGPP_DOC_RC_PR08=1001 RTGPP_DOC_RC_AZ18=0 RTGPP_DOC_RC_FL51=0"
+--06-17T12:50  E428360    create version "M:\admin_view\RTGPP_DOC_RC\Docs@@\main\RTGPP_Doc_Int\1\Technical\main\RTGPP_Doc_Int\3\340_Work_Cycle_Evaluation\main\RTGPP_Doc_Int\2\RTGPP_SPM_Quality_SPQ_Assessment_20140616.xls@@\main\RTGPP_Doc_Int\2"
+  "Completed updates to SPQ evaluation as part of Phase 1 closeout activities."
+--06-17T11:16  clearcase_nm75 import sync from replica "RTGPP_DOC_RC_AZ18" to replica "RTGPP_DOC_RC_FL51"
+  "Imported synchronization information from replica "RTGPP_DOC_RC_AZ18".
+   Row at import was: RTGPP_DOC_RC_PR08=1001 RTGPP_DOC_RC_AZ18=0 RTGPP_DOC_RC_FL51=0"
+--06-17T11:11  clearcase_nm75 export sync from replica "RTGPP_DOC_RC_FL51" to replica "RTGPP_DOC_RC_AZ18"
+  "Exported synchronization information for replica "RTGPP_DOC_RC_AZ18".
+   Row at export was: RTGPP_DOC_RC_FL51=0 RTGPP_DOC_RC_AZ18=0 RTGPP_DOC_RC_PR08=999"
+--06-17T11:10  clearcase_nm75 import sync from replica "RTGPP_DOC_RC_PR08" to replica "RTGPP_DOC_RC_FL51"
+  "Imported synchronization information from replica "RTGPP_DOC_RC_PR08".
+   Row at import was: RTGPP_DOC_RC_PR08=999 RTGPP_DOC_RC_AZ18=0 RTGPP_DOC_RC_FL51=0"
+--06-17T11:05  clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\RTGPP_DOC_RC\Docs@@\main\RTGPP_Doc_Int\1\Technical\main\RTGPP_Doc_Int\3\340_Work_Cycle_Evaluation\main\RTGPP_Doc_Int\2\RTGPP_SPM_Quality_SPQ_Assessment_20140616.xls@@\main\RTGPP_Doc_Int\2"
+--06-16T17:10  clearcase_nm75 export sync from replica "RTGPP_DOC_RC_FL51" to replica "RTGPP_DOC_RC_AZ18"
+  "Exported synchronization information for replica "RTGPP_DOC_RC_AZ18".
+   Row at export was: RTGPP_DOC_RC_FL51=0 RTGPP_DOC_RC_AZ18=0 RTGPP_DOC_RC_PR08=990"
+--06-16T17:06  clearcase_nm75 import sync from replica "RTGPP_DOC_RC_AZ18" to replica "RTGPP_DOC_RC_FL51"
+  "Imported synchronization information from replica "RTGPP_DOC_RC_AZ18".
+   Row at import was: RTGPP_DOC_RC_PR08=999 RTGPP_DOC_RC_AZ18=0 RTGPP_DOC_RC_FL51=0"
+--06-16T17:01  clearcase_nm75 import sync from replica "RTGPP_DOC_RC_PR08" to replica "RTGPP_DOC_RC_FL51"
+  "Imported synchronization information from replica "RTGPP_DOC_RC_PR08".
+   Row at import was: RTGPP_DOC_RC_PR08=990 RTGPP_DOC_RC_AZ18=0 RTGPP_DOC_RC_FL51=0"
+--06-16T16:57  E428360    create directory version "M:\admin_view\RTGPP_DOC_RC\Docs@@\main\RTGPP_Doc_Int\1\Technical\main\RTGPP_Doc_Int\3\340_Work_Cycle_Evaluation@@\main\RTGPP_Doc_Int\2"
+  "Add to the documentation baseline as part of the close-out activities of Phase 1.
+    
+   Added file element "RTGPP_SPM_Quality_SPQ_Assessment_20140616.xls"."
+--06-16T16:57  E428360    add name to directory version "M:\admin_view\RTGPP_DOC_RC\Docs@@\main\RTGPP_Doc_Int\1\Technical\main\RTGPP_Doc_Int\3\340_Work_Cycle_Evaluation@@\main\RTGPP_Doc_Int\2"
+  "Add to the documentation baseline as part of the close-out activities of Phase 1."
+--06-16T16:57  E428360    create version "M:\admin_view\RTGPP_DOC_RC\Docs@@\main\RTGPP_Doc_Int\1\Technical\main\RTGPP_Doc_Int\3\340_Work_Cycle_Evaluation\main\RTGPP_Doc_Int\2\RTGPP_SPM_Quality_SPQ_Assessment_20140616.xls@@\main\RTGPP_Doc_Int\1"
+  "Add to the documentation baseline as part of the close-out activities of Phase 1."
+--06-16T16:57  E428360    create version "M:\admin_view\RTGPP_DOC_RC\Docs@@\main\RTGPP_Doc_Int\1\Technical\main\RTGPP_Doc_Int\3\340_Work_Cycle_Evaluation\main\RTGPP_Doc_Int\2\RTGPP_SPM_Quality_SPQ_Assessment_20140616.xls@@\main\RTGPP_Doc_Int\0"
+--06-16T16:57  E428360    create branch "M:\admin_view\RTGPP_DOC_RC\Docs@@\main\RTGPP_Doc_Int\1\Technical\main\RTGPP_Doc_Int\3\340_Work_Cycle_Evaluation\main\RTGPP_Doc_Int\2\RTGPP_SPM_Quality_SPQ_Assessment_20140616.xls@@\main\RTGPP_Doc_Int"
+  "Add to the documentation baseline as part of the close-out activities of Phase 1."
+--06-16T16:57  E428360    create version "M:\admin_view\RTGPP_DOC_RC\Docs@@\main\RTGPP_Doc_Int\1\Technical\main\RTGPP_Doc_Int\3\340_Work_Cycle_Evaluation\main\RTGPP_Doc_Int\2\RTGPP_SPM_Quality_SPQ_Assessment_20140616.xls@@\main\0"
+--06-16T16:57  E428360    create branch "M:\admin_view\RTGPP_DOC_RC\Docs@@\main\RTGPP_Doc_Int\1\Technical\main\RTGPP_Doc_Int\3\340_Work_Cycle_Evaluation\main\RTGPP_Doc_Int\2\RTGPP_SPM_Quality_SPQ_Assessment_20140616.xls@@\main"
+--06-16T16:57  E428360    create file element "M:\admin_view\RTGPP_DOC_RC\Docs@@\main\RTGPP_Doc_Int\1\Technical\main\RTGPP_Doc_Int\3\340_Work_Cycle_Evaluation\main\RTGPP_Doc_Int\2\RTGPP_SPM_Quality_SPQ_Assessment_20140616.xls@@"
+  "Add to the documentation baseline as part of the close-out activities of Phase 1."
+--06-16T15:10  clearcase_nm75 export sync from replica "RTGPP_DOC_RC_FL51" to replica "RTGPP_DOC_RC_AZ18"
+  "Exported synchronization information for replica "RTGPP_DOC_RC_AZ18".
+   Row at export was: RTGPP_DOC_RC_FL51=0 RTGPP_DOC_RC_AZ18=0 RTGPP_DOC_RC_PR08=988"
+--06-16T15:06  clearcase_nm75 import sync from replica "RTGPP_DOC_RC_AZ18" to replica "RTGPP_DOC_RC_FL51"
+  "Imported synchronization information from replica "RTGPP_DOC_RC_AZ18".
+   Row at import was: RTGPP_DOC_RC_PR08=990 RTGPP_DOC_RC_AZ18=0 RTGPP_DOC_RC_FL51=0"
+--06-16T15:01  clearcase_nm75 import sync from replica "RTGPP_DOC_RC_PR08" to replica "RTGPP_DOC_RC_FL51"
+  "Imported synchronization information from replica "RTGPP_DOC_RC_PR08".
+   Row at import was: RTGPP_DOC_RC_PR08=988 RTGPP_DOC_RC_AZ18=0 RTGPP_DOC_RC_FL51=0"
+--06-16T14:50  clearcase_nm75 export sync from replica "RTGPP_DOC_RC_FL51" to replica "RTGPP_DOC_RC_AZ18"
+  "Exported synchronization information for replica "RTGPP_DOC_RC_AZ18".
+   Row at export was: RTGPP_DOC_RC_FL51=0 RTGPP_DOC_RC_AZ18=0 RTGPP_DOC_RC_PR08=958"
+--06-16T14:46  clearcase_nm75 import sync from replica "RTGPP_DOC_RC_AZ18" to replica "RTGPP_DOC_RC_FL51"
+  "Imported synchronization information from replica "RTGPP_DOC_RC_AZ18".
+   Row at import was: RTGPP_DOC_RC_PR08=988 RTGPP_DOC_RC_AZ18=0 RTGPP_DOC_RC_FL51=0"
+--06-16T14:41  clearcase_nm75 import sync from replica "RTGPP_DOC_RC_PR08" to replica "RTGPP_DOC_RC_FL51"
+  "Imported synchronization information from replica "RTGPP_DOC_RC_PR08".
+   Row at import was: RTGPP_DOC_RC_PR08=958 RTGPP_DOC_RC_AZ18=0 RTGPP_DOC_RC_FL51=0"
+--06-16T14:40  clearcase_nm75 export sync from replica "RTGPP_DOC_RC_FL51" to replica "RTGPP_DOC_RC_AZ18"
+  "Exported synchronization information for replica "RTGPP_DOC_RC_AZ18".
+   Row at export was: RTGPP_DOC_RC_FL51=0 RTGPP_DOC_RC_AZ18=0 RTGPP_DOC_RC_PR08=937"
+--06-16T14:37  E428360    create version "M:\admin_view\RTGPP_DOC_RC\Docs@@\main\RTGPP_Doc_Int\1\Technical\main\RTGPP_Doc_Int\2\RT_GPP_Software_Standard_Peer_Review_Checklists.xls@@\main\RTGPP_Doc_Int\2"
+  "Perform updates to the documentation baseline as part of the close-out activities of Phase 1."
+--06-16T14:37  E428360    create version "M:\admin_view\RTGPP_DOC_RC\Docs@@\main\RTGPP_Doc_Int\1\Technical\main\RTGPP_Doc_Int\2\RT_GPP_Software_Project_Peer_Review_Log.xls@@\main\RTGPP_Doc_Int\2"
+  "Perform updates to the documentation baseline as part of the close-out activities of Phase 1."
+--06-16T14:37  clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\RTGPP_DOC_RC\Docs@@\main\RTGPP_Doc_Int\1\Technical\main\RTGPP_Doc_Int\2\RT_GPP_Software_Project_Peer_Review_Log.xls@@\main\RTGPP_Doc_Int\2"
+--06-16T14:36  clearcase_nm75 import sync from replica "RTGPP_DOC_RC_AZ18" to replica "RTGPP_DOC_RC_FL51"
+  "Imported synchronization information from replica "RTGPP_DOC_RC_AZ18".
+   Row at import was: RTGPP_DOC_RC_PR08=958 RTGPP_DOC_RC_AZ18=0 RTGPP_DOC_RC_FL51=0"
+--06-16T14:35  E428360    create directory version "M:\admin_view\RTGPP_DOC_RC\Docs@@\main\RTGPP_Doc_Int\1\Technical\main\RTGPP_Doc_Int\3\320_Implementation@@\main\RTGPP_Doc_Int\2"
+  "Add to the documentation baseline as part of the close-out activities of Phase 1.
+    
+   Added file element "Suggested_Coding_Standard-C.pdf"."
+--06-16T14:35  E428360    add name to directory version "M:\admin_view\RTGPP_DOC_RC\Docs@@\main\RTGPP_Doc_Int\1\Technical\main\RTGPP_Doc_Int\3\320_Implementation@@\main\RTGPP_Doc_Int\2"
+  "Add to the documentation baseline as part of the close-out activities of Phase 1."
+--06-16T14:35  E428360    create version "M:\admin_view\RTGPP_DOC_RC\Docs@@\main\RTGPP_Doc_Int\1\Technical\main\RTGPP_Doc_Int\3\320_Implementation\main\RTGPP_Doc_Int\2\Suggested_Coding_Standard-C.pdf@@\main\RTGPP_Doc_Int\1"
+  "Add to the documentation baseline as part of the close-out activities of Phase 1."
+--06-16T14:35  E428360    create version "M:\admin_view\RTGPP_DOC_RC\Docs@@\main\RTGPP_Doc_Int\1\Technical\main\RTGPP_Doc_Int\3\320_Implementation\main\RTGPP_Doc_Int\2\Suggested_Coding_Standard-C.pdf@@\main\RTGPP_Doc_Int\0"
+--06-16T14:35  E428360    create branch "M:\admin_view\RTGPP_DOC_RC\Docs@@\main\RTGPP_Doc_Int\1\Technical\main\RTGPP_Doc_Int\3\320_Implementation\main\RTGPP_Doc_Int\2\Suggested_Coding_Standard-C.pdf@@\main\RTGPP_Doc_Int"
+  "Add to the documentation baseline as part of the close-out activities of Phase 1."

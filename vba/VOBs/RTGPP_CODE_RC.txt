@@ -1,0 +1,103 @@
+--06-30T10:46  clearcase_nm75 protect directory element "M:\admin_view\RTGPP_CODE_RC\.@@"
+  "CHMOD 775"
+--06-19T22:13  clearcase_nm75 protect directory element "M:\admin_view\RTGPP_CODE_RC\.@@"
+  "CHMOD 770"
+--06-19T22:13  clearcase_nm75 protect directory element "M:\admin_view\RTGPP_CODE_RC\.@@"
+  "CHMOD 775"
+--02-26T11:00  clearcase_nm75 import sync from replica "RTGPP_CODE_RC_AZ18" to replica "RTGPP_CODE_RC_FL51"
+  "Imported synchronization information from replica "RTGPP_CODE_RC_AZ18".
+   Row at import was: RTGPP_CODE_RC_PR08=4 RTGPP_CODE_RC_AZ18=0 RTGPP_CODE_RC_FL51=0"
+--02-25T14:00  clearcase_nm75 export sync from replica "RTGPP_CODE_RC_FL51" to replica "RTGPP_CODE_RC_AZ18"
+  "Exported synchronization information for replica "RTGPP_CODE_RC_AZ18".
+   Row at export was: RTGPP_CODE_RC_FL51=0 RTGPP_CODE_RC_PR08=2 RTGPP_CODE_RC_AZ18=0"
+--02-25T12:57  e730056    protect directory element "M:\admin_view\RTGPP_CODE_RC\Boot@@"
+  "CHMOD 770; CHOWN E582601; CHGRP aero.cc.clwspc.rtgpp.rc"
+--02-25T12:57  e730056    protect directory element "M:\admin_view\RTGPP_CODE_RC\lost+found@@"
+  "CHMOD 770; CHOWN E582601; CHGRP aero.cc.clwspc.rtgpp.rc"
+--02-25T12:57  e730056    protect directory element "M:\admin_view\RTGPP_CODE_RC\.@@"
+  "CHMOD 770; CHOWN E582601; CHGRP aero.cc.clwspc.rtgpp.rc"
+--02-25T12:50  clearcase_nm75 import sync from replica "RTGPP_CODE_RC_PR08" to replica "RTGPP_CODE_RC_FL51"
+  "Imported synchronization information from replica "RTGPP_CODE_RC_PR08".
+   Row at import was: RTGPP_CODE_RC_PR08=3 RTGPP_CODE_RC_AZ18=0 RTGPP_CODE_RC_FL51=0"
+--02-25T12:45  e730056    lock trigger type "CHECK_AR_STATE" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--02-25T12:45  e730056    protect trigger type "CHECK_AR_STATE" (locked)
+  "CHOWN E582601; CHGRP aero.cc.clwspc.rtgpp.rc"
+--02-25T12:45  e730056    lock trigger type "NO_UNRES_CO" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--02-25T12:45  e730056    protect trigger type "NO_UNRES_CO" (locked)
+  "CHOWN E582601; CHGRP aero.cc.clwspc.rtgpp.rc"
+--02-25T12:45  e730056    lock trigger type "NO_MKTRIGGER" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--02-25T12:45  e730056    lock trigger type "NO_RMNAME" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--02-25T12:45  e730056    lock trigger type "NO_RMLOCK" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--02-25T12:45  e730056    lock trigger type "NO_RMTYPE" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--02-25T12:45  e730056    lock trigger type "NO_EVIL_TWIN_MKELEM" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--02-25T12:45  e730056    lock trigger type "NO_RMVER" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--02-25T12:45  e730056    lock trigger type "NO_RMELEM" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--02-25T12:45  e730056    lock trigger type "ChangeLbtypeOwner" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--02-25T12:45  e730056    lock trigger type "CHOWN" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--02-25T12:45  e730056    lock trigger type "ChangeHltypeOwner" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--02-25T12:45  e730056    lock trigger type "ChangeAttypeOwner" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--02-25T12:45  e730056    lock trigger type "ChangeTrtypeOwner" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--02-25T12:45  e730056    protect trigger type "NO_MKTRIGGER" (locked)
+  "CHOWN E582601; CHGRP aero.cc.clwspc.rtgpp.rc"
+--02-25T12:45  e730056    protect trigger type "NO_RMNAME" (locked)
+  "CHOWN E582601; CHGRP aero.cc.clwspc.rtgpp.rc"
+--02-25T12:45  e730056    protect trigger type "NO_RMLOCK" (locked)
+  "CHOWN E582601; CHGRP aero.cc.clwspc.rtgpp.rc"
+--02-25T12:45  e730056    protect trigger type "NO_RMTYPE" (locked)
+  "CHOWN E582601; CHGRP aero.cc.clwspc.rtgpp.rc"
+--02-25T12:45  e730056    protect trigger type "NO_EVIL_TWIN_MKELEM" (locked)
+  "CHOWN E582601; CHGRP aero.cc.clwspc.rtgpp.rc"
+--02-25T12:45  e730056    protect trigger type "NO_RMVER" (locked)
+  "CHOWN E582601; CHGRP aero.cc.clwspc.rtgpp.rc"
+--02-25T12:45  e730056    protect trigger type "NO_RMELEM" (locked)
+  "CHOWN E582601; CHGRP aero.cc.clwspc.rtgpp.rc"
+--02-25T12:45  e730056    protect trigger type "ChangeLbtypeOwner" (locked)
+  "CHOWN E582601; CHGRP aero.cc.clwspc.rtgpp.rc"
+--02-25T12:45  e730056    protect trigger type "CHOWN" (locked)
+  "CHOWN E582601; CHGRP aero.cc.clwspc.rtgpp.rc"
+--02-25T12:45  e730056    protect trigger type "ChangeHltypeOwner" (locked)
+  "CHOWN E582601; CHGRP aero.cc.clwspc.rtgpp.rc"
+--02-25T12:45  e730056    protect trigger type "ChangeAttypeOwner" (locked)
+  "CHOWN E582601; CHGRP aero.cc.clwspc.rtgpp.rc"
+--02-25T12:45  e730056    protect trigger type "ChangeTrtypeOwner" (locked)
+  "CHOWN E582601; CHGRP aero.cc.clwspc.rtgpp.rc"
+--02-25T12:45  e730056    protect trigger type "CHECK_AR_STATE" (locked)
+  "CHOWN E582601; CHGRP aero.cc.clwspc.rtgpp.rc"
+--02-25T12:45  e730056    create trigger type "CHECK_AR_STATE" (locked)
+  "Prevent checkout of element with AR in a finished state."
+--02-25T12:45  e730056    protect trigger type "NO_UNRES_CO" (locked)
+  "CHOWN E582601; CHGRP aero.cc.clwspc.rtgpp.rc"
+--02-25T12:45  e730056    create trigger type "NO_UNRES_CO" (locked)
+  "Unreserved Checkouts not permitted"
+--02-25T12:45  e730056    protect trigger type "NO_MKTRIGGER" (locked)
+  "CHOWN E582601; CHGRP aero.cc.clwspc.rtgpp.rc"
+--02-25T12:45  e730056    create trigger type "NO_MKTRIGGER" (locked)
+  "Disallow creation of new trigger types"
+--02-25T12:45  e730056    protect trigger type "NO_RMNAME" (locked)
+  "CHOWN E582601; CHGRP aero.cc.clwspc.rtgpp.rc"
+--02-25T12:45  e730056    create trigger type "NO_RMNAME" (locked)
+  "Disallow removal of element names"
+--02-25T12:45  e730056    protect trigger type "NO_RMLOCK" (locked)
+  "CHOWN E582601; CHGRP aero.cc.clwspc.rtgpp.rc"
+--02-25T12:45  e730056    create trigger type "NO_RMLOCK" (locked)
+  "Disallow unlocking of elements"
+--02-25T12:45  e730056    protect trigger type "NO_RMTYPE" (locked)
+  "CHOWN E582601; CHGRP aero.cc.clwspc.rtgpp.rc"
+--02-25T12:45  e730056    create trigger type "NO_RMTYPE" (locked)
+  "Disallow removal of types"
+--02-25T12:45  e730056    protect trigger type "NO_EVIL_TWIN_MKELEM" (locked)
+  "CHOWN E582601; CHGRP aero.cc.clwspc.rtgpp.rc"

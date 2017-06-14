@@ -1,0 +1,101 @@
+--06-30T10:46  clearcase_nm75 protect directory element "M:\admin_view\SRM1A_RC\.@@"
+  "CHMOD 775"
+--06-19T22:22  clearcase_nm75 export sync from replica "SRM1A_RC_FL51" to replica "SRM1A_RC_DCW"
+  "Exported synchronization information for replica "SRM1A_RC_DCW".
+   Row at export was: SRM1A_RC_FL51=2 SRM1A_RC_DCW=0"
+--06-19T22:17  clearcase_nm75 protect directory element "M:\admin_view\SRM1A_RC\.@@"
+  "CHMOD 770"
+--06-19T22:16  clearcase_nm75 protect directory element "M:\admin_view\SRM1A_RC\.@@"
+  "CHMOD 775"
+--06-12T13:43  e730056    export sync from replica "SRM1A_RC_FL51" to replica "SRM1A_RC_DCW"
+  "Exported synchronization information for replica "SRM1A_RC_DCW".
+   Row at export was: SRM1A_RC_FL51=0 SRM1A_RC_DCW=0"
+--06-12T13:43  e730056    change master to "SRM1A_RC_DCW" of replica "SRM1A_RC_DCW"
+  "Changed master replica from "SRM1A_RC_FL51" to "SRM1A_RC_DCW"."
+--06-12T13:43  e730056    unlock versioned object base "\SRM1A_RC"
+  "Unlock after replica dump"
+--06-12T13:43  e730056    lock versioned object base "\SRM1A_RC"
+  "Locked for all users.
+   Locked for replica dump"
+--06-12T13:43  e730056    create replica "SRM1A_RC_DCW"
+--06-12T13:43  e730056    rename replica "SRM1A_RC_FL51"
+  "Changed name of replica from "original" to "SRM1A_RC_FL51"."
+--04-30T07:29  e730056    make hyperlink "BaselineLbtype" on label type "Imported_04292014_SRM1A_SRFF_IMPORT"
+  "Attached hyperlink "BaselineLbtype@169@\SRIMU_RC_PVOB"."
+--04-30T07:29  e730056    rename label type "Imported_04292014_SRM1A_SRFF_IMPORT"
+  "Changed name of label type from "Imported_04292014_SRM1A_SRFF_IMPORT_in_progress" to "Imported_04292014_SRM1A_SRFF_IMPORT"."
+--04-30T07:29  e730056    create label type "Imported_04292014_SRM1A_SRFF_IMPORT"
+--04-29T13:54  e730056    lock trigger type "CHECK_AR_STATE" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--04-29T13:54  e730056    protect trigger type "CHECK_AR_STATE" (locked)
+  "CHOWN E730056; CHGRP aero.cc.sgn.srimu.rc"
+--04-29T13:54  e730056    lock trigger type "NO_UNRES_CO" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--04-29T13:54  e730056    protect trigger type "NO_UNRES_CO" (locked)
+  "CHOWN E730056; CHGRP aero.cc.sgn.srimu.rc"
+--04-29T13:54  e730056    lock trigger type "NO_MKTRIGGER" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--04-29T13:54  e730056    lock trigger type "NO_RMNAME" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--04-29T13:54  e730056    lock trigger type "NO_RMLOCK" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--04-29T13:54  e730056    lock trigger type "NO_RMTYPE" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--04-29T13:54  e730056    lock trigger type "NO_EVIL_TWIN_MKELEM" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--04-29T13:54  e730056    lock trigger type "NO_RMVER" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--04-29T13:54  e730056    lock trigger type "NO_RMELEM" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--04-29T13:54  e730056    lock trigger type "ChangeLbtypeOwner" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--04-29T13:54  e730056    lock trigger type "CHOWN" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--04-29T13:54  e730056    lock trigger type "ChangeHltypeOwner" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--04-29T13:54  e730056    lock trigger type "ChangeAttypeOwner" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--04-29T13:54  e730056    lock trigger type "ChangeTrtypeOwner" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--04-29T13:54  e730056    protect trigger type "NO_MKTRIGGER" (locked)
+  "CHOWN E730056; CHGRP aero.cc.sgn.srimu.rc"
+--04-29T13:54  e730056    protect trigger type "NO_RMNAME" (locked)
+  "CHOWN E730056; CHGRP aero.cc.sgn.srimu.rc"
+--04-29T13:54  e730056    protect trigger type "NO_RMLOCK" (locked)
+  "CHOWN E730056; CHGRP aero.cc.sgn.srimu.rc"
+--04-29T13:54  e730056    protect trigger type "NO_RMTYPE" (locked)
+  "CHOWN E730056; CHGRP aero.cc.sgn.srimu.rc"
+--04-29T13:54  e730056    protect trigger type "NO_EVIL_TWIN_MKELEM" (locked)
+  "CHOWN E730056; CHGRP aero.cc.sgn.srimu.rc"
+--04-29T13:54  e730056    protect trigger type "NO_RMVER" (locked)
+  "CHOWN E730056; CHGRP aero.cc.sgn.srimu.rc"
+--04-29T13:54  e730056    protect trigger type "NO_RMELEM" (locked)
+  "CHOWN E730056; CHGRP aero.cc.sgn.srimu.rc"
+--04-29T13:54  e730056    protect trigger type "ChangeLbtypeOwner" (locked)
+  "CHOWN E730056; CHGRP aero.cc.sgn.srimu.rc"
+--04-29T13:54  e730056    protect trigger type "CHOWN" (locked)
+  "CHOWN E730056; CHGRP aero.cc.sgn.srimu.rc"
+--04-29T13:54  e730056    protect trigger type "ChangeHltypeOwner" (locked)
+  "CHOWN E730056; CHGRP aero.cc.sgn.srimu.rc"
+--04-29T13:54  e730056    protect trigger type "ChangeAttypeOwner" (locked)
+  "CHOWN E730056; CHGRP aero.cc.sgn.srimu.rc"
+--04-29T13:54  e730056    protect trigger type "ChangeTrtypeOwner" (locked)
+  "CHOWN E730056; CHGRP aero.cc.sgn.srimu.rc"
+--04-29T13:54  e730056    protect trigger type "CHECK_AR_STATE" (locked)
+  "CHOWN E730056; CHGRP aero.cc.sgn.srimu.rc"
+--04-29T13:54  e730056    create trigger type "CHECK_AR_STATE" (locked)
+  "Prevent checkout of element with AR in a finished state."
+--04-29T13:54  e730056    protect trigger type "NO_UNRES_CO" (locked)
+  "CHOWN E730056; CHGRP aero.cc.sgn.srimu.rc"
+--04-29T13:54  e730056    create trigger type "NO_UNRES_CO" (locked)
+  "Unreserved Checkouts not permitted"
+--04-29T13:54  e730056    protect trigger type "NO_MKTRIGGER" (locked)
+  "CHOWN E730056; CHGRP aero.cc.sgn.srimu.rc"
+--04-29T13:54  e730056    create trigger type "NO_MKTRIGGER" (locked)
+  "Disallow creation of new trigger types"
+--04-29T13:54  e730056    protect trigger type "NO_RMNAME" (locked)
+  "CHOWN E730056; CHGRP aero.cc.sgn.srimu.rc"
+--04-29T13:54  e730056    create trigger type "NO_RMNAME" (locked)
+  "Disallow removal of element names"
+--04-29T13:54  e730056    protect trigger type "NO_RMLOCK" (locked)
+  "CHOWN E730056; CHGRP aero.cc.sgn.srimu.rc"

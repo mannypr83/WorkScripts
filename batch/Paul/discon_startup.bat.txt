@@ -1,0 +1,3 @@
+REM START /B CMD /C CALL "C:\Users\e597674\Desktop\discon_service.bat" >NUL 2>&1
+
+setx PCMS_STARTUP "1" /M

@@ -1,0 +1,111 @@
+--06-30T10:44  clearcase_nm75 protect directory element "M:\admin_view\WEDGETAIL_PVOB\.@@"
+  "CHMOD 775"
+--06-19T17:41  clearcase_nm75 export sync from replica "WEDGETAIL_PVOB_FL51" to replica "WEDGETAIL_PVOB_DCW"
+  "Exported synchronization information for replica "WEDGETAIL_PVOB_DCW".
+   Row at export was: WEDGETAIL_PVOB_FL51=17 WEDGETAIL_PVOB_DCW=0 WEDGETAIL_PVOB_AZ18.deleted=1"
+--06-19T17:38  clearcase_nm75 protect directory element "M:\admin_view\WEDGETAIL_PVOB\.@@"
+  "CHMOD 770"
+--06-19T17:38  clearcase_nm75 protect directory element "M:\admin_view\WEDGETAIL_PVOB\.@@"
+  "CHMOD 775"
+--06-19T17:21  clearcase_nm75 export sync from replica "WEDGETAIL_PVOB_FL51" to replica "WEDGETAIL_PVOB_DCW"
+  "Exported synchronization information for replica "WEDGETAIL_PVOB_DCW".
+   Row at export was: WEDGETAIL_PVOB_FL51=15 WEDGETAIL_PVOB_DCW=0 WEDGETAIL_PVOB_AZ18.deleted=1"
+--06-19T17:15  clearcase_nm75 protect directory element "M:\admin_view\WEDGETAIL_PVOB\.@@"
+  "CHMOD 770"
+--06-19T17:15  clearcase_nm75 protect directory element "M:\admin_view\WEDGETAIL_PVOB\.@@"
+  "CHMOD 775"
+--05-06T11:26  e704548    export sync from replica "WEDGETAIL_PVOB_FL51" to replica "WEDGETAIL_PVOB_DCW"
+  "Exported synchronization information for replica "WEDGETAIL_PVOB_DCW".
+   Row at export was: WEDGETAIL_PVOB_FL51=14 WEDGETAIL_PVOB_DCW=0 WEDGETAIL_PVOB_AZ18.deleted=1"
+--05-06T11:26  e704548    change master to "WEDGETAIL_PVOB_DCW" of replica "WEDGETAIL_PVOB_DCW"
+  "Changed master replica from "WEDGETAIL_PVOB_FL51" to "WEDGETAIL_PVOB_DCW"."
+--05-06T11:26  e704548    export sync from replica "WEDGETAIL_PVOB_FL51" to replica "WEDGETAIL_PVOB_DCW"
+  "Exported synchronization information for replica "WEDGETAIL_PVOB_DCW".
+   Row at export was: WEDGETAIL_PVOB_FL51=11 WEDGETAIL_PVOB_DCW=0 WEDGETAIL_PVOB_AZ18.deleted=1"
+--05-06T11:25  e704548    rename replica "WEDGETAIL_PVOB_AZ18.deleted"
+  "Changed name of replica from "WEDGETAIL_PVOB_AZ18" to "WEDGETAIL_PVOB_AZ18.deleted"."
+--05-06T11:25  e704548    destroy replica in versioned object base "\WEDGETAIL_PVOB"
+  "Destroyed replica "WEDGETAIL_PVOB_AZ18"."
+--05-06T11:25  e704548    change master to "WEDGETAIL_PVOB_FL51" of replica "WEDGETAIL_PVOB_DCW"
+  "Changed master replica from "WEDGETAIL_PVOB_AZ18" to "WEDGETAIL_PVOB_FL51"."
+--05-06T11:25  e704548    change master to "WEDGETAIL_PVOB_FL51" of replica "WEDGETAIL_PVOB_AZ18.deleted"
+  "Changed master replica from "WEDGETAIL_PVOB_AZ18" to "WEDGETAIL_PVOB_FL51"."
+--05-06T11:25  e704548    modify replica "WEDGETAIL_PVOB_AZ18.deleted"
+  "Marked replica "WEDGETAIL_PVOB_AZ18" for deletion."
+--03-25T12:22  clearcase_nm75 export sync from replica "WEDGETAIL_PVOB_FL51" to replica "WEDGETAIL_PVOB_DCW"
+  "Exported synchronization information for replica "WEDGETAIL_PVOB_DCW".
+   Row at export was: WEDGETAIL_PVOB_FL51=11 WEDGETAIL_PVOB_DCW=0 WEDGETAIL_PVOB_AZ18=0"
+--07-25T15:03  clearcase_nm75 import sync from replica "WEDGETAIL_PVOB_DCW" to replica "WEDGETAIL_PVOB_FL51"
+  "Imported synchronization information from replica "WEDGETAIL_PVOB_DCW".
+   Row at import was: WEDGETAIL_PVOB_AZ18=1 WEDGETAIL_PVOB_DCW=0 WEDGETAIL_PVOB_FL51=11"
+--07-23T11:40  clearcase_nm75 import sync from replica "WEDGETAIL_PVOB_AZ18.deleted" to replica "WEDGETAIL_PVOB_FL51"
+  "Imported synchronization information from replica "WEDGETAIL_PVOB_AZ18".
+   Row at import was: WEDGETAIL_PVOB_AZ18=0 WEDGETAIL_PVOB_FL51=11"
+--07-23T11:28  root       create replica "WEDGETAIL_PVOB_DCW"
+2013-06-10     e564406    lock trigger type "CHOWN" (locked)
+  "Locked except for users: e702445"
+2013-06-10     e564406    modify trigger type "CHOWN" (locked)
+  "Changed definition of type."
+2013-06-10     e564406    unlock trigger type "CHOWN" (locked)
+2013-06-03     e564406    lock trigger type "NO_RMTYPE" (locked)
+  "Locked for all users."
+2013-06-03     e564406    destroy type in versioned object base "\WEDGETAIL_PVOB"
+  "Destroyed trigger type "NO_RMTRIGGER"."
+2013-06-03     e564406    modify trigger type "NO_RMTYPE" (locked)
+  "Changed definition of type.
+   Disallow removal of types"
+2013-06-03     e564406    unlock trigger type "NO_RMTYPE" (locked)
+2012-07-30     clearcase_nm75 export sync from replica "WEDGETAIL_PVOB_FL51" to replica "WEDGETAIL_PVOB_AZ18.deleted"
+  "Exported synchronization information for replica "WEDGETAIL_PVOB_AZ18".
+   Row at export was: WEDGETAIL_PVOB_FL51=10 WEDGETAIL_PVOB_AZ18=0"
+2012-07-30     e287800    make folder "New_Folder"
+2012-07-30     clearcase_nm75 export sync from replica "WEDGETAIL_PVOB_FL51" to replica "WEDGETAIL_PVOB_AZ18.deleted"
+  "Exported synchronization information for replica "WEDGETAIL_PVOB_AZ18".
+   Row at export was: WEDGETAIL_PVOB_FL51=9 WEDGETAIL_PVOB_AZ18=0"
+2012-07-30     e287800    modify activity "Wedgetail_Integration"
+  "Updated config_spec."
+2012-07-02     e730056    lock project "Wedgetail" (locked)
+  "Locked for all users."
+2012-07-02     e538625    export sync from replica "WEDGETAIL_PVOB_FL51" to replica "WEDGETAIL_PVOB_AZ18.deleted"
+  "Exported synchronization information for replica "WEDGETAIL_PVOB_AZ18".
+   Row at export was: WEDGETAIL_PVOB_FL51=7 WEDGETAIL_PVOB_AZ18=0"
+2012-07-02     e538625    unlock versioned object base "\WEDGETAIL_PVOB"
+2012-07-02     e730056    lock versioned object base "\WEDGETAIL_PVOB"
+  "Locked for all users (obsolete)."
+2012-07-02     clearcase_nm75 export sync from replica "WEDGETAIL_PVOB_FL51" to replica "WEDGETAIL_PVOB_AZ18.deleted"
+  "Exported synchronization information for replica "WEDGETAIL_PVOB_AZ18".
+   Row at export was: WEDGETAIL_PVOB_FL51=4 WEDGETAIL_PVOB_AZ18=0"
+2012-07-02     e730056    modify activity "CMADS_Wedgetail"
+  "Updated config_spec."
+2012-07-02     e730056    modify activity "CMADS_Wedgetail"
+  "Updated config_spec."
+2012-06-18     clearcase_nm75 export sync from replica "WEDGETAIL_PVOB_FL51" to replica "WEDGETAIL_PVOB_AZ18.deleted"
+  "Exported synchronization information for replica "WEDGETAIL_PVOB_AZ18".
+   Row at export was: WEDGETAIL_PVOB_FL51=2 WEDGETAIL_PVOB_AZ18=0"
+2012-06-18     e287800    change stream "Wedgetail_Integration"
+  "Updated config_spec.
+   Regenerated config spec"
+2012-06-18     e287800    set work for activity "Wedgetail_Integration"
+  "User "SVMap" in view "fl51nt1931:f:\ClearCase_Storage\views\NAMERICA4\e287800\jkurz_Wedgetail_2_int.vws"."
+2012-06-18     e287800    change stream "CMADS_Wedgetail"
+  "Updated config_spec.
+   Regenerated config spec"
+2012-06-18     e287800    set work for activity "CMADS_Wedgetail"
+  "User "SVMap" in view "fl51nt1931:f:\ClearCase_Storage\views\NAMERICA4\e287800\jkurz_Wedgetail_2.vws"."
+2012-05-22     e702445    export sync from replica "WEDGETAIL_PVOB_FL51" to replica "WEDGETAIL_PVOB_AZ18.deleted"
+  "Exported synchronization information for replica "WEDGETAIL_PVOB_AZ18".
+   Row at export was: WEDGETAIL_PVOB_FL51=0 WEDGETAIL_PVOB_AZ18=0"
+2012-05-22     e702445    change master to "WEDGETAIL_PVOB_AZ18.deleted" of replica "WEDGETAIL_PVOB_AZ18.deleted"
+  "Changed master replica from "WEDGETAIL_PVOB_FL51" to "WEDGETAIL_PVOB_AZ18"."
+2012-05-22     e702445    unlock versioned object base "\WEDGETAIL_PVOB"
+  "Unlock after replica dump"
+2012-05-22     e702445    lock versioned object base "\WEDGETAIL_PVOB"
+  "Locked for all users.
+   Locked for replica dump"
+2012-05-22     e702445    create replica "WEDGETAIL_PVOB_AZ18.deleted"
+2012-05-22     e702445    rename replica "WEDGETAIL_PVOB_FL51"
+  "Changed name of replica from "original" to "WEDGETAIL_PVOB_FL51"."
+2012-05-22     e702445    lock trigger type "NO_RMNAME" (locked)
+  "Locked except for users: e702445 e704548 e721877 e730056 e722159 e041467"
+2012-05-22     e702445    lock trigger type "NO_RMLOCK" (locked)
+  "Locked except for users: e702445 e704548 e721877 e730056 e722159 e041467"

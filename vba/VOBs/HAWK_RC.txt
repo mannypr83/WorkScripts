@@ -1,0 +1,103 @@
+--06-30T10:44  clearcase_nm75 protect directory element "M:\admin_view\HAWK_RC\.@@"
+  "CHMOD 775"
+--06-19T17:50  clearcase_nm75 export sync from replica "HAWK_RC_FL51" to replica "HAWK_RC_PR08"
+  "Exported synchronization information for replica "HAWK_RC_PR08".
+   Row at export was: HAWK_RC_PR08=319 HAWK_RC_FL51=394 HAWK_RC_DCW=0 HAWK_RC_AZ18.deleted=1"
+--06-19T17:50  clearcase_nm75 export sync from replica "HAWK_RC_FL51" to replica "HAWK_RC_DCW"
+  "Exported synchronization information for replica "HAWK_RC_DCW".
+   Row at export was: HAWK_RC_PR08=319 HAWK_RC_FL51=394 HAWK_RC_DCW=0 HAWK_RC_AZ18.deleted=1"
+--06-19T17:41  clearcase_nm75 protect directory element "M:\admin_view\HAWK_RC\.@@"
+  "CHMOD 770"
+--06-19T17:41  clearcase_nm75 protect directory element "M:\admin_view\HAWK_RC\.@@"
+  "CHMOD 775"
+--06-19T17:20  clearcase_nm75 export sync from replica "HAWK_RC_FL51" to replica "HAWK_RC_PR08"
+  "Exported synchronization information for replica "HAWK_RC_PR08".
+   Row at export was: HAWK_RC_PR08=319 HAWK_RC_FL51=392 HAWK_RC_DCW=0 HAWK_RC_AZ18.deleted=1"
+--06-19T17:20  clearcase_nm75 export sync from replica "HAWK_RC_FL51" to replica "HAWK_RC_DCW"
+  "Exported synchronization information for replica "HAWK_RC_DCW".
+   Row at export was: HAWK_RC_PR08=319 HAWK_RC_FL51=392 HAWK_RC_DCW=0 HAWK_RC_AZ18.deleted=1"
+--06-19T17:17  clearcase_nm75 protect directory element "M:\admin_view\HAWK_RC\.@@"
+  "CHMOD 770"
+--06-19T17:17  clearcase_nm75 protect directory element "M:\admin_view\HAWK_RC\.@@"
+  "CHMOD 775"
+--05-02T12:08  e704548    export sync from replica "HAWK_RC_FL51" to replica "HAWK_RC_PR08"
+  "Exported synchronization information for replica "HAWK_RC_PR08".
+   Row at export was: HAWK_RC_PR08=319 HAWK_RC_FL51=391 HAWK_RC_DCW=0 HAWK_RC_AZ18.deleted=1"
+--05-02T12:08  e704548    export sync from replica "HAWK_RC_FL51" to replica "HAWK_RC_DCW"
+  "Exported synchronization information for replica "HAWK_RC_DCW".
+   Row at export was: HAWK_RC_PR08=319 HAWK_RC_FL51=391 HAWK_RC_DCW=0 HAWK_RC_AZ18.deleted=1"
+--05-02T12:08  e704548    change master to "HAWK_RC_DCW" of replica "HAWK_RC_DCW"
+  "Changed master replica from "HAWK_RC_FL51" to "HAWK_RC_DCW"."
+--05-02T12:08  e704548    export sync from replica "HAWK_RC_FL51" to replica "HAWK_RC_PR08"
+  "Exported synchronization information for replica "HAWK_RC_PR08".
+   Row at export was: HAWK_RC_PR08=319 HAWK_RC_FL51=388 HAWK_RC_DCW=0 HAWK_RC_AZ18.deleted=1"
+--05-02T12:08  e704548    export sync from replica "HAWK_RC_FL51" to replica "HAWK_RC_DCW"
+  "Exported synchronization information for replica "HAWK_RC_DCW".
+   Row at export was: HAWK_RC_PR08=319 HAWK_RC_FL51=388 HAWK_RC_DCW=0 HAWK_RC_AZ18.deleted=1"
+--05-02T12:08  e704548    rename replica "HAWK_RC_AZ18.deleted"
+  "Changed name of replica from "HAWK_RC_AZ18" to "HAWK_RC_AZ18.deleted"."
+--05-02T12:08  e704548    destroy replica in versioned object base "\HAWK_RC"
+  "Destroyed replica "HAWK_RC_AZ18"."
+--05-02T12:08  e704548    change master to "HAWK_RC_FL51" of replica "HAWK_RC_DCW"
+  "Changed master replica from "HAWK_RC_AZ18" to "HAWK_RC_FL51"."
+--05-02T12:08  e704548    change master to "HAWK_RC_FL51" of replica "HAWK_RC_AZ18.deleted"
+  "Changed master replica from "HAWK_RC_AZ18" to "HAWK_RC_FL51"."
+--05-02T12:08  e704548    modify replica "HAWK_RC_AZ18.deleted"
+  "Marked replica "HAWK_RC_AZ18" for deletion."
+--03-10T12:30  clearcase_nm75 export sync from replica "HAWK_RC_FL51" to replica "HAWK_RC_PR08"
+  "Exported synchronization information for replica "HAWK_RC_PR08".
+   Row at export was: HAWK_RC_PR08=319 HAWK_RC_FL51=384 HAWK_RC_DCW=0 HAWK_RC_AZ18=1"
+--03-10T12:30  clearcase_nm75 export sync from replica "HAWK_RC_FL51" to replica "HAWK_RC_DCW"
+  "Exported synchronization information for replica "HAWK_RC_DCW".
+   Row at export was: HAWK_RC_PR08=319 HAWK_RC_FL51=384 HAWK_RC_DCW=0 HAWK_RC_AZ18=1"
+--03-10T12:30  clearcase_nm75 export sync from replica "HAWK_RC_FL51" to replica "HAWK_RC_AZ18.deleted"
+  "Exported synchronization information for replica "HAWK_RC_AZ18".
+   Row at export was: HAWK_RC_PR08=319 HAWK_RC_FL51=384 HAWK_RC_DCW=0 HAWK_RC_AZ18=1"
+--03-10T12:25  e711819    make hyperlink "BaselineLbtype" on label type "HAWK_bld-scripts_011.2294"
+  "Attached hyperlink "BaselineLbtype@371@\HAWK_RC_PVOB"."
+--03-10T12:25  e711819    rename label type "HAWK_bld-scripts_011.2294"
+  "Changed name of label type from "HAWK_bld-scripts_011.2294_in_progress" to "HAWK_bld-scripts_011.2294"."
+--03-10T12:25  e711819    create label type "HAWK_bld-scripts_011.2294"
+--03-10T12:10  clearcase_nm75 export sync from replica "HAWK_RC_FL51" to replica "HAWK_RC_PR08"
+  "Exported synchronization information for replica "HAWK_RC_PR08".
+   Row at export was: HAWK_RC_PR08=319 HAWK_RC_FL51=361 HAWK_RC_DCW=0 HAWK_RC_AZ18=1"
+--03-10T12:10  clearcase_nm75 export sync from replica "HAWK_RC_FL51" to replica "HAWK_RC_DCW"
+  "Exported synchronization information for replica "HAWK_RC_DCW".
+   Row at export was: HAWK_RC_PR08=319 HAWK_RC_FL51=361 HAWK_RC_DCW=0 HAWK_RC_AZ18=1"
+--03-10T12:10  clearcase_nm75 export sync from replica "HAWK_RC_FL51" to replica "HAWK_RC_AZ18.deleted"
+  "Exported synchronization information for replica "HAWK_RC_AZ18".
+   Row at export was: HAWK_RC_PR08=319 HAWK_RC_FL51=361 HAWK_RC_DCW=0 HAWK_RC_AZ18=1"
+--03-10T12:02  e711819    create directory version "M:\admin_view\HAWK_RC\Build_Scripts@@\main\HAWK_Integration\1" (HAWK_bld-scripts_011.2294)
+  "Added file element "BUILD.BAT".
+   Added file element "BUILD_HAWK.BAT".
+   Added file element "LINK51.LCF"."
+--03-10T12:02  e711819    create version "M:\admin_view\HAWK_RC\Build_Scripts@@\main\e433435_HAWK\1\BUILD.BAT@@\main\HAWK_Integration\1" (HAWK_bld-scripts_011.2294)
+--03-10T12:02  e711819    create version "M:\admin_view\HAWK_RC\Build_Scripts@@\main\e433435_HAWK\1\LINK51.LCF@@\main\HAWK_Integration\1" (HAWK_bld-scripts_011.2294)
+--03-10T12:02  e711819    create version "M:\admin_view\HAWK_RC\Build_Scripts@@\main\e433435_HAWK\1\BUILD_HAWK.BAT@@\main\HAWK_Integration\1" (HAWK_bld-scripts_011.2294)
+--03-10T12:02  e711819    make hyperlink "Merge" on version "M:\admin_view\HAWK_RC\Build_Scripts@@\main\e433435_HAWK\1\BUILD_HAWK.BAT@@\main\HAWK_Integration\1" (HAWK_bld-scripts_011.2294)
+  "Attached hyperlink "Merge@633@\HAWK_RC"."
+--03-10T12:02  e711819    make hyperlink "Merge" on version "M:\admin_view\HAWK_RC\Build_Scripts@@\main\e433435_HAWK\1\BUILD_HAWK.BAT@@\main\e433435_HAWK\1"
+  "Attached hyperlink "Merge@633@\HAWK_RC"."
+--03-10T12:02  e711819    create hyperlink "Merge@633@\HAWK_RC"
+--03-10T12:02  e711819    make hyperlink "Merge" on version "M:\admin_view\HAWK_RC\Build_Scripts@@\main\e433435_HAWK\1\LINK51.LCF@@\main\HAWK_Integration\1" (HAWK_bld-scripts_011.2294)
+  "Attached hyperlink "Merge@632@\HAWK_RC"."
+--03-10T12:02  e711819    make hyperlink "Merge" on version "M:\admin_view\HAWK_RC\Build_Scripts@@\main\e433435_HAWK\1\LINK51.LCF@@\main\e433435_HAWK\1"
+  "Attached hyperlink "Merge@632@\HAWK_RC"."
+--03-10T12:02  e711819    create hyperlink "Merge@632@\HAWK_RC"
+--03-10T12:02  e711819    make hyperlink "Merge" on version "M:\admin_view\HAWK_RC\Build_Scripts@@\main\e433435_HAWK\1\BUILD.BAT@@\main\HAWK_Integration\1" (HAWK_bld-scripts_011.2294)
+  "Attached hyperlink "Merge@631@\HAWK_RC"."
+--03-10T12:02  e711819    make hyperlink "Merge" on version "M:\admin_view\HAWK_RC\Build_Scripts@@\main\e433435_HAWK\1\BUILD.BAT@@\main\e433435_HAWK\1"
+  "Attached hyperlink "Merge@631@\HAWK_RC"."
+--03-10T12:02  e711819    create hyperlink "Merge@631@\HAWK_RC"
+--03-10T12:02  e711819    make hyperlink "Change" on version "M:\admin_view\HAWK_RC\Build_Scripts@@\main\e433435_HAWK\1\BUILD_HAWK.BAT@@\main\HAWK_Integration\1" (HAWK_bld-scripts_011.2294)
+  "Attached hyperlink "Change@366@\HAWK_RC_PVOB"."
+--03-10T12:02  e711819    create version "M:\admin_view\HAWK_RC\Build_Scripts@@\main\e433435_HAWK\1\BUILD_HAWK.BAT@@\main\HAWK_Integration\0"
+--03-10T12:02  e711819    create branch "M:\admin_view\HAWK_RC\Build_Scripts@@\main\e433435_HAWK\1\BUILD_HAWK.BAT@@\main\HAWK_Integration"
+--03-10T12:01  e711819    make hyperlink "Change" on version "M:\admin_view\HAWK_RC\Build_Scripts@@\main\e433435_HAWK\1\LINK51.LCF@@\main\HAWK_Integration\1" (HAWK_bld-scripts_011.2294)
+  "Attached hyperlink "Change@365@\HAWK_RC_PVOB"."
+--03-10T12:01  e711819    create version "M:\admin_view\HAWK_RC\Build_Scripts@@\main\e433435_HAWK\1\LINK51.LCF@@\main\HAWK_Integration\0"
+--03-10T12:01  e711819    create branch "M:\admin_view\HAWK_RC\Build_Scripts@@\main\e433435_HAWK\1\LINK51.LCF@@\main\HAWK_Integration"
+--03-10T12:01  e711819    make hyperlink "Change" on version "M:\admin_view\HAWK_RC\Build_Scripts@@\main\e433435_HAWK\1\BUILD.BAT@@\main\HAWK_Integration\1" (HAWK_bld-scripts_011.2294)
+  "Attached hyperlink "Change@364@\HAWK_RC_PVOB"."
+--03-10T12:01  e711819    create version "M:\admin_view\HAWK_RC\Build_Scripts@@\main\e433435_HAWK\1\BUILD.BAT@@\main\HAWK_Integration\0"
+--03-10T12:01  e711819    create branch "M:\admin_view\HAWK_RC\Build_Scripts@@\main\e433435_HAWK\1\BUILD.BAT@@\main\HAWK_Integration"

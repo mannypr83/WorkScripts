@@ -1,0 +1,109 @@
+--06-30T10:43  clearcase_nm75 protect directory element "M:\admin_view\TSPI_US_PVOB\.@@"
+  "CHMOD 775"
+--06-19T16:21  clearcase_nm75 export sync from replica "TSPI_US_PVOB_FL51" to replica "TSPI_US_PVOB_DCW"
+  "Exported synchronization information for replica "TSPI_US_PVOB_DCW".
+   Row at export was: TSPI_US_PVOB_DCW=0 TSPI_US_PVOB_FL51=1657 TSPI_US_PVOB_AZ18.deleted=1"
+--06-19T16:15  clearcase_nm75 protect directory element "M:\admin_view\TSPI_US_PVOB\.@@"
+  "CHMOD 770"
+--06-19T16:15  clearcase_nm75 protect directory element "M:\admin_view\TSPI_US_PVOB\.@@"
+  "CHMOD 775"
+--05-02T14:34  e704548    export sync from replica "TSPI_US_PVOB_FL51" to replica "TSPI_US_PVOB_DCW"
+  "Exported synchronization information for replica "TSPI_US_PVOB_DCW".
+   Row at export was: TSPI_US_PVOB_DCW=0 TSPI_US_PVOB_FL51=1656 TSPI_US_PVOB_AZ18.deleted=1"
+--05-02T14:34  e704548    change master to "TSPI_US_PVOB_DCW" of replica "TSPI_US_PVOB_DCW"
+  "Changed master replica from "TSPI_US_PVOB_FL51" to "TSPI_US_PVOB_DCW"."
+--05-02T14:34  e704548    export sync from replica "TSPI_US_PVOB_FL51" to replica "TSPI_US_PVOB_DCW"
+  "Exported synchronization information for replica "TSPI_US_PVOB_DCW".
+   Row at export was: TSPI_US_PVOB_DCW=0 TSPI_US_PVOB_FL51=1653 TSPI_US_PVOB_AZ18.deleted=1"
+--05-02T14:34  e704548    rename replica "TSPI_US_PVOB_AZ18.deleted"
+  "Changed name of replica from "TSPI_US_PVOB_AZ18" to "TSPI_US_PVOB_AZ18.deleted"."
+--05-02T14:34  e704548    destroy replica in versioned object base "\TSPI_US_PVOB"
+  "Destroyed replica "TSPI_US_PVOB_AZ18"."
+--05-02T14:34  e704548    change master to "TSPI_US_PVOB_FL51" of replica "TSPI_US_PVOB_DCW"
+  "Changed master replica from "TSPI_US_PVOB_AZ18" to "TSPI_US_PVOB_FL51"."
+--05-02T14:34  e704548    change master to "TSPI_US_PVOB_FL51" of replica "TSPI_US_PVOB_AZ18.deleted"
+  "Changed master replica from "TSPI_US_PVOB_AZ18" to "TSPI_US_PVOB_FL51"."
+--05-02T14:34  e704548    modify replica "TSPI_US_PVOB_AZ18.deleted"
+  "Marked replica "TSPI_US_PVOB_AZ18" for deletion."
+--03-25T12:22  clearcase_nm75 export sync from replica "TSPI_US_PVOB_FL51" to replica "TSPI_US_PVOB_DCW"
+  "Exported synchronization information for replica "TSPI_US_PVOB_DCW".
+   Row at export was: TSPI_US_PVOB_DCW=0 TSPI_US_PVOB_FL51=1653 TSPI_US_PVOB_AZ18=0"
+2013-06-19     clearcase_nm75 import sync from replica "TSPI_US_PVOB_DCW" to replica "TSPI_US_PVOB_FL51"
+  "Imported synchronization information from replica "TSPI_US_PVOB_DCW".
+   Row at import was: TSPI_US_PVOB_AZ18=1 TSPI_US_PVOB_DCW=0 TSPI_US_PVOB_FL51=1653"
+2013-06-14     clearcase_nm75 import sync from replica "TSPI_US_PVOB_AZ18.deleted" to replica "TSPI_US_PVOB_FL51"
+  "Imported synchronization information from replica "TSPI_US_PVOB_AZ18".
+   Row at import was: TSPI_US_PVOB_AZ18=0 TSPI_US_PVOB_FL51=1653"
+2013-06-14     root       create replica "TSPI_US_PVOB_DCW"
+2013-06-10     e564406    destroy type in versioned object base "\TSPI_US_PVOB"
+  "Destroyed trigger type "ChangeBrtypeOwner"."
+2013-06-10     e564406    lock trigger type "NO_RMTYPE" (locked)
+  "Locked except for users: e564406 e730056 e702445 e704548 e721877 e041467 e711819 e721598 e712432"
+2013-06-10     e564406    modify trigger type "NO_RMTYPE" (locked)
+  "Changed definition of type."
+2013-06-10     e564406    unlock trigger type "NO_RMTYPE" (locked)
+2013-06-10     e564406    lock trigger type "CHOWN" (locked)
+  "Locked except for users: e712432"
+2013-06-10     e564406    modify trigger type "CHOWN" (locked)
+  "Changed definition of type."
+2013-06-10     e564406    unlock trigger type "CHOWN" (locked)
+2013-06-10     e564406    lock trigger type "NO_MKTRIGGER" (locked)
+  "Locked except for users: 12"
+2013-06-10     e564406    lock trigger type "NO_RMTYPE" (locked)
+  "Locked except for users: 12"
+2013-06-10     e564406    create trigger type "NO_RMTYPE" (locked)
+  "Disallow removal of types"
+2013-06-10     e564406    modify trigger type "NO_MKTRIGGER" (locked)
+  "Changed definition of type."
+2013-06-10     e564406    unlock trigger type "NO_MKTRIGGER" (locked)
+2013-06-03     e564406    destroy type in versioned object base "\TSPI_US_PVOB"
+  "Destroyed trigger type "NO_RMTRIGGER"."
+2013-03-22     clearcase_nm75 export sync from replica "TSPI_US_PVOB_FL51" to replica "TSPI_US_PVOB_AZ18.deleted"
+  "Exported synchronization information for replica "TSPI_US_PVOB_AZ18".
+   Row at export was: TSPI_US_PVOB_FL51=1651 TSPI_US_PVOB_AZ18=0"
+2013-03-22     e724953    set work for activity "TSPI_US_OFP_Integration"
+  "User "SVMap" in view "fl51nt1931:E:\IBM\RationalSDLC\ClearCase\var\ccweb\e724953.NAMERICA4\TSPI_US_OFP_int_cholm\view.stg"."
+2013-03-13     clearcase_nm75 export sync from replica "TSPI_US_PVOB_FL51" to replica "TSPI_US_PVOB_AZ18.deleted"
+  "Exported synchronization information for replica "TSPI_US_PVOB_AZ18".
+   Row at export was: TSPI_US_PVOB_FL51=1649 TSPI_US_PVOB_AZ18=0"
+2013-03-13     e730056    set process variable on activity "TSPI_US_OFP"
+  "Set activity process variable named "SQUID_ENTDEF_NAME_LIST"."
+2013-03-13     e730056    set process variable on activity "TSPI_US_OFP"
+  "Set activity process variable named "SQUID_ALLOW_SUBMIT_FROM_CLEARCASE"."
+2012-11-13     clearcase_nm75 export sync from replica "TSPI_US_PVOB_FL51" to replica "TSPI_US_PVOB_AZ18.deleted"
+  "Exported synchronization information for replica "TSPI_US_PVOB_AZ18".
+   Row at export was: TSPI_US_PVOB_FL51=1552 TSPI_US_PVOB_AZ18=0"
+2012-11-13     e711819    rename activity "TSPI00004134"
+  "Changed name of activity from "Update_revision_histories" to "TSPI00004134"."
+2012-11-13     e711819    modify activity "TSPI00004134"
+  "Updated title to "Update revision histories".
+   CSquid_CQActivity::Pvt_DoSUMActivityBind"
+2012-11-13     e711819    set process variable on activity "TSPI00004134"
+  "Set activity process variable named "SQUID_ACT_DISPLAY_NAME"."
+2012-11-13     e711819    set process variable on activity "TSPI00004134"
+  "Set activity process variable named "SQUID_ACT_ENTITYDEF_NAME"."
+2012-11-13     e711819    rename activity "TSPI00004133"
+  "Changed name of activity from "SCR_TSPI00000010" to "TSPI00004133"."
+2012-11-13     e711819    modify activity "TSPI00004133"
+  "Updated title to "SCR TSPI00000010".
+   CSquid_CQActivity::Pvt_DoSUMActivityBind"
+2012-11-13     e711819    set process variable on activity "TSPI00004133"
+  "Set activity process variable named "SQUID_ACT_DISPLAY_NAME"."
+2012-11-13     e711819    set process variable on activity "TSPI00004133"
+  "Set activity process variable named "SQUID_ACT_ENTITYDEF_NAME"."
+2012-11-13     e711819    rename activity "TSPI00004132"
+  "Changed name of activity from "SCR_TSPI00000009" to "TSPI00004132"."
+2012-11-13     e711819    modify activity "TSPI00004132"
+  "Updated title to "SCR TSPI00000009".
+   CSquid_CQActivity::Pvt_DoSUMActivityBind"
+2012-11-13     e711819    set process variable on activity "TSPI00004132"
+  "Set activity process variable named "SQUID_ACT_DISPLAY_NAME"."
+2012-11-13     e711819    set process variable on activity "TSPI00004132"
+  "Set activity process variable named "SQUID_ACT_ENTITYDEF_NAME"."
+2012-11-13     e711819    rename activity "TSPI00004131"
+  "Changed name of activity from "SCR_TSPI00000014" to "TSPI00004131"."
+2012-11-13     e711819    modify activity "TSPI00004131"
+  "Updated title to "SCR TSPI00000014".
+   CSquid_CQActivity::Pvt_DoSUMActivityBind"
+2012-11-13     e711819    set process variable on activity "TSPI00004131"
+  "Set activity process variable named "SQUID_ACT_DISPLAY_NAME"."

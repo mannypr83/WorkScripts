@@ -1,0 +1,180 @@
+--06-30T12:04  clearcase_nm75 protect directory element "M:\admin_view\GNAV_GLOBAL\.@@"
+  "CHMOD 775"
+--06-30T10:41  clearcase_nm75 protect directory element "M:\admin_view\GNAV_GLOBAL\.@@"
+  "CHMOD 770"
+--06-30T10:41  clearcase_nm75 protect directory element "M:\admin_view\GNAV_GLOBAL\.@@"
+  "CHMOD 775"
+--06-30T10:37  clearcase_nm75 protect directory element "M:\admin_view\GNAV_GLOBAL\.@@"
+  "CHMOD 770"
+--06-30T10:37  clearcase_nm75 protect directory element "M:\admin_view\GNAV_GLOBAL\.@@"
+  "CHMOD 775"
+--06-30T10:35  clearcase_nm75 protect directory element "M:\admin_view\GNAV_GLOBAL\.@@"
+  "CHMOD 770"
+--06-30T10:35  clearcase_nm75 protect directory element "M:\admin_view\GNAV_GLOBAL\.@@"
+  "CHMOD 775"
+--06-17T17:23  clearcase_nm75 protect directory element "M:\admin_view\GNAV_GLOBAL\.@@"
+  "CHMOD 770"
+--06-17T17:23  clearcase_nm75 protect directory element "M:\admin_view\GNAV_GLOBAL\.@@"
+  "CHMOD 775"
+--03-26T14:45  clearcase_nm75 import sync from replica "GNAV_GLOBAL_DCW" to replica "GNAV_GLOBAL_FL51"
+  "Imported synchronization information from replica "GNAV_GLOBAL_DCW".
+   Row at import was: GNAV_GLOBAL_AZ18.deleted=14 GNAV_GLOBAL_MN17=29 GNAV_GLOBAL_PR08.deleted=4 GNAV_GLOBAL_MN10=50 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_CZ21=1 GNAV_GLOBAL_DCW=0 GNAV_GLOBAL_FL51=0"
+--03-26T14:38  clearcase_nm75 import sync from replica "GNAV_GLOBAL_CZ21" to replica "GNAV_GLOBAL_FL51"
+  "Imported synchronization information from replica "GNAV_GLOBAL_CZ21".
+   Row at import was: GNAV_GLOBAL_AZ18.deleted=14 GNAV_GLOBAL_MN17=29 GNAV_GLOBAL_PR08.deleted=4 GNAV_GLOBAL_MN10=50 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_CZ21=1 GNAV_GLOBAL_DCW=0 GNAV_GLOBAL_FL51=0"
+--03-26T14:38  clearcase_nm75 import sync from replica "GNAV_GLOBAL_MN17" to replica "GNAV_GLOBAL_FL51"
+  "Imported synchronization information from replica "GNAV_GLOBAL_MN17".
+   Row at import was: GNAV_GLOBAL_AZ18=14 GNAV_GLOBAL_MN17=20 GNAV_GLOBAL_PR08.deleted=4 GNAV_GLOBAL_MN10=50 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_CZ21=1 GNAV_GLOBAL_DCW=0 GNAV_GLOBAL_FL51=0"
+--03-26T14:37  e704548    rename replica "GNAV_GLOBAL_AZ18.deleted"
+  "Changed name of replica from "GNAV_GLOBAL_AZ18" to "GNAV_GLOBAL_AZ18.deleted".
+   Destroyed replica "GNAV_GLOBAL_AZ18"."
+--03-26T14:37  e704548    destroy replica in versioned object base "\GNAV_GLOBAL"
+  "Destroyed replica "GNAV_GLOBAL_AZ18"."
+--03-26T14:37  e704548    change master to "GNAV_GLOBAL_DCW" of replica "GNAV_GLOBAL_DCW"
+  "Changed master replica from "GNAV_GLOBAL_AZ18" to "GNAV_GLOBAL_DCW"."
+--03-26T14:37  e704548    change master to "GNAV_GLOBAL_DCW" of replica "GNAV_GLOBAL_CZ21.deleted.1"
+  "Changed master replica from "GNAV_GLOBAL_AZ18" to "GNAV_GLOBAL_DCW"."
+--03-26T14:37  e704548    change master to "GNAV_GLOBAL_DCW" of replica "GNAV_GLOBAL_MN51"
+  "Changed master replica from "GNAV_GLOBAL_AZ18" to "GNAV_GLOBAL_DCW"."
+--03-26T14:37  e704548    change master to "GNAV_GLOBAL_DCW" of replica "GNAV_GLOBAL_CZ21.deleted"
+  "Changed master replica from "GNAV_GLOBAL_AZ18" to "GNAV_GLOBAL_DCW"."
+--03-26T14:37  e704548    change master to "GNAV_GLOBAL_DCW" of replica "GNAV_GLOBAL_IE10"
+  "Changed master replica from "GNAV_GLOBAL_AZ18" to "GNAV_GLOBAL_DCW"."
+--03-26T14:37  e704548    change master to "GNAV_GLOBAL_DCW" of replica "GNAV_GLOBAL_MN10"
+  "Changed master replica from "GNAV_GLOBAL_AZ18" to "GNAV_GLOBAL_DCW"."
+--03-26T14:37  e704548    change master to "GNAV_GLOBAL_DCW" of replica "GNAV_GLOBAL_PR08.deleted"
+  "Changed master replica from "GNAV_GLOBAL_AZ18" to "GNAV_GLOBAL_DCW"."
+--03-26T14:37  e704548    change master to "GNAV_GLOBAL_DCW" of replica "GNAV_GLOBAL_FL51"
+  "Changed master replica from "GNAV_GLOBAL_AZ18" to "GNAV_GLOBAL_DCW"."
+--02-21T09:10  clearcase_nm75 import sync from replica "GNAV_GLOBAL_MN51" to replica "GNAV_GLOBAL_FL51"
+  "Imported synchronization information from replica "GNAV_GLOBAL_MN51".
+   Row at import was: GNAV_GLOBAL_AZ18=14 GNAV_GLOBAL_MN17=20 GNAV_GLOBAL_PR08.deleted=4 GNAV_GLOBAL_MN10=50 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_CZ21=1 GNAV_GLOBAL_DCW=0 GNAV_GLOBAL_FL51=0"
+--12-17T11:30  clearcase_nm75 import sync from replica "GNAV_GLOBAL_CZ21" to replica "GNAV_GLOBAL_FL51"
+  "Imported synchronization information from replica "GNAV_GLOBAL_CZ21".
+   Row at import was: GNAV_GLOBAL_AZ18=14 GNAV_GLOBAL_MN17=20 GNAV_GLOBAL_PR08.deleted=4 GNAV_GLOBAL_MN10=50 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_CZ21=1 GNAV_GLOBAL_DCW=0 GNAV_GLOBAL_FL51=0"
+--07-22T15:00  clearcase_nm75 import sync from replica "GNAV_GLOBAL_DCW" to replica "GNAV_GLOBAL_FL51"
+  "Imported synchronization information from replica "GNAV_GLOBAL_DCW".
+   Row at import was: GNAV_GLOBAL_AZ18=14 GNAV_GLOBAL_MN17=20 GNAV_GLOBAL_PR08.deleted=4 GNAV_GLOBAL_MN10=50 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_CZ21=1 GNAV_GLOBAL_DCW=0 GNAV_GLOBAL_FL51=0"
+--07-22T14:20  clearcase_nm75 import sync from replica "GNAV_GLOBAL_AZ18.deleted" to replica "GNAV_GLOBAL_FL51"
+  "Imported synchronization information from replica "GNAV_GLOBAL_AZ18".
+   Row at import was: GNAV_GLOBAL_AZ18=13 GNAV_GLOBAL_MN17=20 GNAV_GLOBAL_PR08.deleted=4 GNAV_GLOBAL_MN10=50 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_CZ21=1 GNAV_GLOBAL_FL51=0"
+--07-22T14:01  root       create replica "GNAV_GLOBAL_DCW"
+2013-06-15     clearcase_nm75 import sync from replica "GNAV_GLOBAL_AZ18.deleted" to replica "GNAV_GLOBAL_FL51"
+  "Imported synchronization information from replica "GNAV_GLOBAL_AZ18".
+   Row at import was: GNAV_GLOBAL_AZ18=12 GNAV_GLOBAL_MN17=20 GNAV_GLOBAL_PR08=3 GNAV_GLOBAL_MN10=50 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_CZ21=1 GNAV_GLOBAL_FL51=0"
+2013-06-15     root       rename replica "GNAV_GLOBAL_PR08.deleted"
+  "Changed name of replica from "GNAV_GLOBAL_PR08" to "GNAV_GLOBAL_PR08.deleted".
+   Destroyed replica "GNAV_GLOBAL_PR08"."
+2013-06-15     root       destroy replica in versioned object base "\GNAV_GLOBAL"
+  "Destroyed replica "GNAV_GLOBAL_PR08"."
+2013-06-15     e721877    change master to "GNAV_GLOBAL_AZ18.deleted" of replica "GNAV_GLOBAL_PR08.deleted"
+  "Changed master replica from "GNAV_GLOBAL_PR08" to "GNAV_GLOBAL_AZ18"."
+2013-04-12     clearcase_nm75 import sync from replica "GNAV_GLOBAL_AZ18.deleted" to replica "GNAV_GLOBAL_FL51"
+  "Imported synchronization information from replica "GNAV_GLOBAL_AZ18".
+   Row at import was: GNAV_GLOBAL_AZ18=12 GNAV_GLOBAL_MN17=20 GNAV_GLOBAL_PR08=2 GNAV_GLOBAL_MN10=50 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_CZ21=1 GNAV_GLOBAL_FL51=0"
+2013-04-12     sv-das_cc_albd import sync to replica "GNAV_GLOBAL_PR08.deleted"
+  "Changed information associated with replica."
+2013-04-12     clearcase_nm75 import sync from replica "GNAV_GLOBAL_AZ18.deleted" to replica "GNAV_GLOBAL_FL51"
+  "Imported synchronization information from replica "GNAV_GLOBAL_AZ18".
+   Row at import was: GNAV_GLOBAL_AZ18=12 GNAV_GLOBAL_MN17=20 GNAV_GLOBAL_PR08=0 GNAV_GLOBAL_MN10=50 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_CZ21=1 GNAV_GLOBAL_FL51=0"
+2013-04-12     sv-das_cc_albd import sync to replica "GNAV_GLOBAL_PR08.deleted"
+  "Changed information associated with replica."
+2013-04-12     clearcase_nm75 import sync from replica "GNAV_GLOBAL_AZ18.deleted" to replica "GNAV_GLOBAL_FL51"
+  "Imported synchronization information from replica "GNAV_GLOBAL_AZ18".
+   Row at import was: GNAV_GLOBAL_AZ18=11 GNAV_GLOBAL_MN17=20 GNAV_GLOBAL_PR08=0 GNAV_GLOBAL_MN10=50 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_CZ21=1 GNAV_GLOBAL_FL51=0"
+2013-04-12     sv-das_cc_albd import sync to replica "GNAV_GLOBAL_PR08.deleted"
+  "Changed information associated with replica."
+2013-04-12     root       change master to "GNAV_GLOBAL_PR08.deleted" of replica "GNAV_GLOBAL_PR08.deleted"
+  "Changed master replica from "GNAV_GLOBAL_AZ18" to "GNAV_GLOBAL_PR08"."
+2011-12-12     clearcase_nm75 import sync from replica "GNAV_GLOBAL_AZ18.deleted" to replica "GNAV_GLOBAL_FL51"
+  "Imported synchronization information from replica "GNAV_GLOBAL_AZ18".
+   Row at import was: GNAV_GLOBAL_AZ18=11 GNAV_GLOBAL_MN17=18 GNAV_GLOBAL_PR08=0 GNAV_GLOBAL_MN10=50 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_CZ21=1 GNAV_GLOBAL_FL51=0"
+2011-12-12     E164053    destroy type in versioned object base "\GNAV_GLOBAL"
+  "Destroyed branch type "jwilmot_GNAV_GLOBAL"."
+2011-12-12     E164053    destroy hyperlink "GlobalDefinition" in versioned object base "\GNAV_GLOBAL"
+  "Destroyed hyperlink "GlobalDefinition@115@\GNAV_GLOBAL"."
+2011-12-09     clearcase_nm75 import sync from replica "GNAV_GLOBAL_AZ18.deleted" to replica "GNAV_GLOBAL_FL51"
+  "Imported synchronization information from replica "GNAV_GLOBAL_AZ18".
+   Row at import was: GNAV_GLOBAL_AZ18=11 GNAV_GLOBAL_MN17=16 GNAV_GLOBAL_PR08=0 GNAV_GLOBAL_MN10=50 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_CZ21=1 GNAV_GLOBAL_FL51=0"
+2010-03-25     clearcase_nm75 export sync from replica "GNAV_GLOBAL_FL51" to replica "GNAV_GLOBAL_PR08.deleted"
+  "Exported synchronization information for replica "GNAV_GLOBAL_PR08".
+   Row at export was: GNAV_GLOBAL_AZ18=11 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_FL51=0 GNAV_GLOBAL_MN10=50 GNAV_GLOBAL_PR08=0 GNAV_GLOBAL_CZ21=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_MN17=16"
+2010-03-25     clearcase_nm75 export sync from replica "GNAV_GLOBAL_FL51" to replica "GNAV_GLOBAL_MN51"
+  "Exported synchronization information for replica "GNAV_GLOBAL_MN51".
+   Row at export was: GNAV_GLOBAL_AZ18=11 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_FL51=0 GNAV_GLOBAL_MN10=50 GNAV_GLOBAL_PR08=0 GNAV_GLOBAL_CZ21=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_MN17=16"
+2010-03-25     clearcase_nm75 export sync from replica "GNAV_GLOBAL_FL51" to replica "GNAV_GLOBAL_MN17"
+  "Exported synchronization information for replica "GNAV_GLOBAL_MN17".
+   Row at export was: GNAV_GLOBAL_AZ18=11 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_FL51=0 GNAV_GLOBAL_MN10=50 GNAV_GLOBAL_PR08=0 GNAV_GLOBAL_CZ21=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_MN17=16"
+2010-03-25     clearcase_nm75 export sync from replica "GNAV_GLOBAL_FL51" to replica "GNAV_GLOBAL_MN10"
+  "Exported synchronization information for replica "GNAV_GLOBAL_MN10".
+   Row at export was: GNAV_GLOBAL_AZ18=11 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_FL51=0 GNAV_GLOBAL_MN10=50 GNAV_GLOBAL_PR08=0 GNAV_GLOBAL_CZ21=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_MN17=16"
+2010-03-25     clearcase_nm75 export sync from replica "GNAV_GLOBAL_FL51" to replica "GNAV_GLOBAL_IE10"
+  "Exported synchronization information for replica "GNAV_GLOBAL_IE10".
+   Row at export was: GNAV_GLOBAL_AZ18=11 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_FL51=0 GNAV_GLOBAL_MN10=50 GNAV_GLOBAL_PR08=0 GNAV_GLOBAL_CZ21=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_MN17=16"
+2010-03-25     clearcase_nm75 import sync from replica "GNAV_GLOBAL_MN51" to replica "GNAV_GLOBAL_FL51"
+  "Imported synchronization information from replica "GNAV_GLOBAL_MN51".
+   Row at import was: GNAV_GLOBAL_AZ18=11 GNAV_GLOBAL_MN17=16 GNAV_GLOBAL_PR08=0 GNAV_GLOBAL_MN10=50 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_CZ21=1 GNAV_GLOBAL_FL51=0"
+2010-03-25     clearcase_nm75 import sync from replica "GNAV_GLOBAL_MN17" to replica "GNAV_GLOBAL_FL51"
+  "Imported synchronization information from replica "GNAV_GLOBAL_MN17".
+   Row at import was: GNAV_GLOBAL_AZ18=11 GNAV_GLOBAL_MN17=16 GNAV_GLOBAL_PR08=0 GNAV_GLOBAL_MN10=50 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_CZ21=1 GNAV_GLOBAL_FL51=0"
+2010-03-25     clearcase_nm75 import sync from replica "GNAV_GLOBAL_AZ18.deleted" to replica "GNAV_GLOBAL_FL51"
+  "Imported synchronization information from replica "GNAV_GLOBAL_AZ18".
+   Row at import was: GNAV_GLOBAL_AZ18=11 GNAV_GLOBAL_MN17=16 GNAV_GLOBAL_PR08=0 GNAV_GLOBAL_MN10=50 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_CZ21=0 GNAV_GLOBAL_FL51=0"
+2010-03-15     CZ09-VobAdm import sync to replica "GNAV_GLOBAL_CZ21"
+  "Changed information associated with replica."
+2010-03-11     clearcase_nm75 import sync from replica "GNAV_GLOBAL_MN51" to replica "GNAV_GLOBAL_FL51"
+  "Imported synchronization information from replica "GNAV_GLOBAL_MN51".
+   Row at import was: GNAV_GLOBAL_AZ18=11 GNAV_GLOBAL_MN17=16 GNAV_GLOBAL_PR08=0 GNAV_GLOBAL_MN10=50 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_CZ21=0 GNAV_GLOBAL_FL51=0"
+2010-03-11     clearcase_nm75 import sync from replica "GNAV_GLOBAL_MN17" to replica "GNAV_GLOBAL_FL51"
+  "Imported synchronization information from replica "GNAV_GLOBAL_MN17".
+   Row at import was: GNAV_GLOBAL_AZ18=11 GNAV_GLOBAL_MN17=16 GNAV_GLOBAL_PR08=0 GNAV_GLOBAL_MN10=50 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_CZ21=0 GNAV_GLOBAL_FL51=0"
+2010-03-11     clearcase_nm75 export sync from replica "GNAV_GLOBAL_FL51" to replica "GNAV_GLOBAL_PR08.deleted"
+  "Exported synchronization information for replica "GNAV_GLOBAL_PR08".
+   Row at export was: GNAV_GLOBAL_AZ18=10 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_FL51=0 GNAV_GLOBAL_MN10=50 GNAV_GLOBAL_PR08=0 GNAV_GLOBAL_CZ21=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_MN17=16"
+2010-03-11     clearcase_nm75 export sync from replica "GNAV_GLOBAL_FL51" to replica "GNAV_GLOBAL_MN51"
+  "Exported synchronization information for replica "GNAV_GLOBAL_MN51".
+   Row at export was: GNAV_GLOBAL_AZ18=10 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_FL51=0 GNAV_GLOBAL_MN10=50 GNAV_GLOBAL_PR08=0 GNAV_GLOBAL_CZ21=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_MN17=16"
+2010-03-11     clearcase_nm75 export sync from replica "GNAV_GLOBAL_FL51" to replica "GNAV_GLOBAL_MN17"
+  "Exported synchronization information for replica "GNAV_GLOBAL_MN17".
+   Row at export was: GNAV_GLOBAL_AZ18=10 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_FL51=0 GNAV_GLOBAL_MN10=50 GNAV_GLOBAL_PR08=0 GNAV_GLOBAL_CZ21=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_MN17=16"
+2010-03-11     clearcase_nm75 export sync from replica "GNAV_GLOBAL_FL51" to replica "GNAV_GLOBAL_MN10"
+  "Exported synchronization information for replica "GNAV_GLOBAL_MN10".
+   Row at export was: GNAV_GLOBAL_AZ18=10 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_FL51=0 GNAV_GLOBAL_MN10=50 GNAV_GLOBAL_PR08=0 GNAV_GLOBAL_CZ21=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_MN17=16"
+2010-03-11     clearcase_nm75 export sync from replica "GNAV_GLOBAL_FL51" to replica "GNAV_GLOBAL_IE10"
+  "Exported synchronization information for replica "GNAV_GLOBAL_IE10".
+   Row at export was: GNAV_GLOBAL_AZ18=10 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_FL51=0 GNAV_GLOBAL_MN10=50 GNAV_GLOBAL_PR08=0 GNAV_GLOBAL_CZ21=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_MN17=16"
+2010-03-11     clearcase_nm75 export sync from replica "GNAV_GLOBAL_FL51" to replica "GNAV_GLOBAL_CZ21"
+  "Exported synchronization information for replica "GNAV_GLOBAL_CZ21".
+   Row at export was: GNAV_GLOBAL_AZ18=10 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_FL51=0 GNAV_GLOBAL_MN10=50 GNAV_GLOBAL_PR08=0 GNAV_GLOBAL_CZ21=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_MN17=16"
+2010-03-11     clearcase_nm75 import sync from replica "GNAV_GLOBAL_AZ18.deleted" to replica "GNAV_GLOBAL_FL51"
+  "Imported synchronization information from replica "GNAV_GLOBAL_AZ18".
+   Row at import was: GNAV_GLOBAL_AZ18=10 GNAV_GLOBAL_MN17=16 GNAV_GLOBAL_PR08=0 GNAV_GLOBAL_MN10=50 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_CZ21=0 GNAV_GLOBAL_FL51=0"
+2010-03-11     root       change master to "GNAV_GLOBAL_CZ21" of replica "GNAV_GLOBAL_CZ21"
+  "Changed master replica from "GNAV_GLOBAL_AZ18" to "GNAV_GLOBAL_CZ21"."
+2009-09-20     clearcase_nm75 import sync from replica "GNAV_GLOBAL_MN51" to replica "GNAV_GLOBAL_FL51"
+  "Imported synchronization information from replica "GNAV_GLOBAL_MN51".
+   Row at import was: GNAV_GLOBAL_AZ18=10 GNAV_GLOBAL_MN17=16 GNAV_GLOBAL_PR08=0 GNAV_GLOBAL_MN10=50 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_CZ21=0 GNAV_GLOBAL_FL51=0"
+2009-09-15     clearcase_nm75 export sync from replica "GNAV_GLOBAL_FL51" to replica "GNAV_GLOBAL_CZ21"
+  "Exported synchronization information for replica "GNAV_GLOBAL_CZ21".
+   Row at export was: GNAV_GLOBAL_AZ18=10 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_FL51=0 GNAV_GLOBAL_MN10=36 GNAV_GLOBAL_PR08=0 GNAV_GLOBAL_CZ21=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_MN17=16"
+2009-09-15     clearcase_nm75 import sync from replica "GNAV_GLOBAL_MN17" to replica "GNAV_GLOBAL_FL51"
+  "Imported synchronization information from replica "GNAV_GLOBAL_MN17".
+   Row at import was: GNAV_GLOBAL_AZ18=10 GNAV_GLOBAL_MN17=16 GNAV_GLOBAL_PR08=0 GNAV_GLOBAL_MN10=50 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_CZ21=0 GNAV_GLOBAL_FL51=0"
+2009-09-15     clearcase_nm75 export sync from replica "GNAV_GLOBAL_FL51" to replica "GNAV_GLOBAL_PR08.deleted"
+  "Exported synchronization information for replica "GNAV_GLOBAL_PR08".
+   Row at export was: GNAV_GLOBAL_AZ18=10 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_FL51=0 GNAV_GLOBAL_MN10=36 GNAV_GLOBAL_PR08=0 GNAV_GLOBAL_CZ21=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_MN17=16"
+2009-09-15     clearcase_nm75 export sync from replica "GNAV_GLOBAL_FL51" to replica "GNAV_GLOBAL_MN51"
+  "Exported synchronization information for replica "GNAV_GLOBAL_MN51".
+   Row at export was: GNAV_GLOBAL_AZ18=10 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_FL51=0 GNAV_GLOBAL_MN10=36 GNAV_GLOBAL_PR08=0 GNAV_GLOBAL_CZ21=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_MN17=16"
+2009-09-15     clearcase_nm75 export sync from replica "GNAV_GLOBAL_FL51" to replica "GNAV_GLOBAL_MN17"
+  "Exported synchronization information for replica "GNAV_GLOBAL_MN17".
+   Row at export was: GNAV_GLOBAL_AZ18=10 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_FL51=0 GNAV_GLOBAL_MN10=36 GNAV_GLOBAL_PR08=0 GNAV_GLOBAL_CZ21=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_MN17=16"
+2009-09-15     clearcase_nm75 export sync from replica "GNAV_GLOBAL_FL51" to replica "GNAV_GLOBAL_IE10"
+  "Exported synchronization information for replica "GNAV_GLOBAL_IE10".
+   Row at export was: GNAV_GLOBAL_AZ18=10 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_FL51=0 GNAV_GLOBAL_MN10=36 GNAV_GLOBAL_PR08=0 GNAV_GLOBAL_CZ21=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_MN17=16"
+2009-09-15     clearcase_nm75 export sync from replica "GNAV_GLOBAL_FL51" to replica "GNAV_GLOBAL_CZ21"
+  "Exported synchronization information for replica "GNAV_GLOBAL_CZ21".
+   Row at export was: GNAV_GLOBAL_AZ18=10 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_FL51=0 GNAV_GLOBAL_MN10=11 GNAV_GLOBAL_PR08=0 GNAV_GLOBAL_CZ21=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_MN17=16"
+2009-09-15     clearcase_nm75 import sync from replica "GNAV_GLOBAL_AZ18.deleted" to replica "GNAV_GLOBAL_FL51"
+  "Imported synchronization information from replica "GNAV_GLOBAL_AZ18".
+   Row at import was: GNAV_GLOBAL_AZ18=10 GNAV_GLOBAL_MN17=16 GNAV_GLOBAL_PR08=0 GNAV_GLOBAL_MN10=36 GNAV_GLOBAL_IE10=0 GNAV_GLOBAL_CZ21.deleted=0 GNAV_GLOBAL_MN51=0 GNAV_GLOBAL_CZ21.deleted.1=0 GNAV_GLOBAL_CZ21=0 GNAV_GLOBAL_FL51=0"

@@ -1,0 +1,127 @@
+--06-30T10:43  clearcase_nm75 protect directory element "M:\admin_view\GOLDTEST_ECTOS_IGS\.@@"
+  "CHMOD 775"
+--04-30T12:37  clearcase_nm75 import sync from replica "GOLDTEST_ECTOS_IGS_MN51" to replica "GOLDTEST_ECTOS_IGS_FL51"
+  "Imported synchronization information from replica "GOLDTEST_ECTOS_IGS_MN51".
+   Row at import was: GOLDTEST_ECTOS_IGS_MN17=14 GOLDTEST_ECTOS_IGS_PR08=4 GOLDTEST_ECTOS_IGS_MN10=0 GOLDTEST_ECTOS_IGS_MN51=0 GOLDTEST_ECTOS_IGS_AZ18.deleted=1 GOLDTEST_ECTOS_IGS_DCW=0 GOLDTEST_ECTOS_IGS_FL51=0"
+--04-30T12:36  clearcase_nm75 import sync from replica "GOLDTEST_ECTOS_IGS_DCW" to replica "GOLDTEST_ECTOS_IGS_FL51"
+  "Imported synchronization information from replica "GOLDTEST_ECTOS_IGS_DCW".
+   Row at import was: GOLDTEST_ECTOS_IGS_MN17=14 GOLDTEST_ECTOS_IGS_PR08=4 GOLDTEST_ECTOS_IGS_MN10=0 GOLDTEST_ECTOS_IGS_MN51=0 GOLDTEST_ECTOS_IGS_AZ18.deleted=1 GOLDTEST_ECTOS_IGS_DCW=0 GOLDTEST_ECTOS_IGS_FL51=0"
+--04-30T12:32  clearcase_nm75 export sync from replica "GOLDTEST_ECTOS_IGS_FL51" to replica "GOLDTEST_ECTOS_IGS_DCW"
+  "Exported synchronization information for replica "GOLDTEST_ECTOS_IGS_DCW".
+   Row at export was: GOLDTEST_ECTOS_IGS_AZ18.deleted=1 GOLDTEST_ECTOS_IGS_MN10=0 GOLDTEST_ECTOS_IGS_MN17=10 GOLDTEST_ECTOS_IGS_DCW=0 GOLDTEST_ECTOS_IGS_FL51=0 GOLDTEST_ECTOS_IGS_MN51=0 GOLDTEST_ECTOS_IGS_PR08=4"
+--04-30T12:32  clearcase_nm75 import sync from replica "GOLDTEST_ECTOS_IGS_MN10" to replica "GOLDTEST_ECTOS_IGS_FL51"
+  "Imported synchronization information from replica "GOLDTEST_ECTOS_IGS_MN10".
+   Row at import was: GOLDTEST_ECTOS_IGS_MN17=14 GOLDTEST_ECTOS_IGS_PR08=4 GOLDTEST_ECTOS_IGS_MN10=0 GOLDTEST_ECTOS_IGS_MN51=0 GOLDTEST_ECTOS_IGS_AZ18.deleted=1 GOLDTEST_ECTOS_IGS_DCW=0 GOLDTEST_ECTOS_IGS_FL51=0"
+--04-30T12:30  clearcase_nm75 import sync from replica "GOLDTEST_ECTOS_IGS_PR08" to replica "GOLDTEST_ECTOS_IGS_FL51"
+  "Imported synchronization information from replica "GOLDTEST_ECTOS_IGS_PR08".
+   Row at import was: GOLDTEST_ECTOS_IGS_MN17=14 GOLDTEST_ECTOS_IGS_PR08=4 GOLDTEST_ECTOS_IGS_MN10=0 GOLDTEST_ECTOS_IGS_MN51=0 GOLDTEST_ECTOS_IGS_AZ18.deleted=1 GOLDTEST_ECTOS_IGS_DCW=0 GOLDTEST_ECTOS_IGS_FL51=0"
+--04-30T12:29  clearcase_nm75 import sync from replica "GOLDTEST_ECTOS_IGS_MN17" to replica "GOLDTEST_ECTOS_IGS_FL51"
+  "Imported synchronization information from replica "GOLDTEST_ECTOS_IGS_MN17".
+   Row at import was: GOLDTEST_ECTOS_IGS_MN17=13 GOLDTEST_ECTOS_IGS_PR08=4 GOLDTEST_ECTOS_IGS_MN10=0 GOLDTEST_ECTOS_IGS_MN51=0 GOLDTEST_ECTOS_IGS_AZ18.deleted=1 GOLDTEST_ECTOS_IGS_DCW=0 GOLDTEST_ECTOS_IGS_FL51=0"
+--04-30T12:29  e704548    change master to "GOLDTEST_ECTOS_IGS_DCW" of replica "GOLDTEST_ECTOS_IGS_DCW"
+  "Changed master replica from "GOLDTEST_ECTOS_IGS_MN17" to "GOLDTEST_ECTOS_IGS_DCW"."
+--04-30T12:28  clearcase_nm75 import sync from replica "GOLDTEST_ECTOS_IGS_MN17" to replica "GOLDTEST_ECTOS_IGS_FL51"
+  "Imported synchronization information from replica "GOLDTEST_ECTOS_IGS_MN17".
+   Row at import was: GOLDTEST_ECTOS_IGS_MN17=10 GOLDTEST_ECTOS_IGS_PR08=4 GOLDTEST_ECTOS_IGS_MN10=0 GOLDTEST_ECTOS_IGS_MN51=0 GOLDTEST_ECTOS_IGS_AZ18=1 GOLDTEST_ECTOS_IGS_DCW=0 GOLDTEST_ECTOS_IGS_FL51=0"
+--04-30T12:28  e704548    rename replica "GOLDTEST_ECTOS_IGS_AZ18.deleted"
+  "Changed name of replica from "GOLDTEST_ECTOS_IGS_AZ18" to "GOLDTEST_ECTOS_IGS_AZ18.deleted".
+   Destroyed replica "GOLDTEST_ECTOS_IGS_AZ18"."
+--04-30T12:28  e704548    destroy replica in versioned object base "\GOLDTEST_ECTOS_IGS"
+  "Destroyed replica "GOLDTEST_ECTOS_IGS_AZ18"."
+--04-30T12:28  e704548    change master to "GOLDTEST_ECTOS_IGS_MN17" of replica "GOLDTEST_ECTOS_IGS_DCW"
+  "Changed master replica from "GOLDTEST_ECTOS_IGS_AZ18" to "GOLDTEST_ECTOS_IGS_MN17"."
+--04-30T12:28  e704548    change master to "GOLDTEST_ECTOS_IGS_MN17" of replica "GOLDTEST_ECTOS_IGS_AZ18.deleted"
+  "Changed master replica from "GOLDTEST_ECTOS_IGS_AZ18" to "GOLDTEST_ECTOS_IGS_MN17"."
+--03-25T12:12  clearcase_nm75 export sync from replica "GOLDTEST_ECTOS_IGS_FL51" to replica "GOLDTEST_ECTOS_IGS_DCW"
+  "Exported synchronization information for replica "GOLDTEST_ECTOS_IGS_DCW".
+   Row at export was: GOLDTEST_ECTOS_IGS_AZ18=0 GOLDTEST_ECTOS_IGS_MN10=0 GOLDTEST_ECTOS_IGS_MN17=10 GOLDTEST_ECTOS_IGS_DCW=0 GOLDTEST_ECTOS_IGS_FL51=0 GOLDTEST_ECTOS_IGS_MN51=0 GOLDTEST_ECTOS_IGS_PR08=4"
+--02-13T14:00  clearcase_nm75 import sync from replica "GOLDTEST_ECTOS_IGS_MN10" to replica "GOLDTEST_ECTOS_IGS_FL51"
+  "Imported synchronization information from replica "GOLDTEST_ECTOS_IGS_MN10".
+   Row at import was: GOLDTEST_ECTOS_IGS_MN17=10 GOLDTEST_ECTOS_IGS_PR08=4 GOLDTEST_ECTOS_IGS_MN10=0 GOLDTEST_ECTOS_IGS_MN51=0 GOLDTEST_ECTOS_IGS_AZ18=1 GOLDTEST_ECTOS_IGS_DCW=0 GOLDTEST_ECTOS_IGS_FL51=0"
+--02-13T09:30  clearcase_nm75 import sync from replica "GOLDTEST_ECTOS_IGS_MN51" to replica "GOLDTEST_ECTOS_IGS_FL51"
+  "Imported synchronization information from replica "GOLDTEST_ECTOS_IGS_MN51".
+   Row at import was: GOLDTEST_ECTOS_IGS_MN17=10 GOLDTEST_ECTOS_IGS_PR08=4 GOLDTEST_ECTOS_IGS_MN10=0 GOLDTEST_ECTOS_IGS_MN51=0 GOLDTEST_ECTOS_IGS_AZ18=1 GOLDTEST_ECTOS_IGS_DCW=0 GOLDTEST_ECTOS_IGS_FL51=0"
+--02-13T09:20  clearcase_nm75 import sync from replica "GOLDTEST_ECTOS_IGS_MN17" to replica "GOLDTEST_ECTOS_IGS_FL51"
+  "Imported synchronization information from replica "GOLDTEST_ECTOS_IGS_MN17".
+   Row at import was: GOLDTEST_ECTOS_IGS_MN17=10 GOLDTEST_ECTOS_IGS_PR08=4 GOLDTEST_ECTOS_IGS_MN10=0 GOLDTEST_ECTOS_IGS_MN51=0 GOLDTEST_ECTOS_IGS_AZ18=1 GOLDTEST_ECTOS_IGS_DCW=0 GOLDTEST_ECTOS_IGS_FL51=0"
+2013-06-27     clearcase_nm75 import sync from replica "GOLDTEST_ECTOS_IGS_PR08" to replica "GOLDTEST_ECTOS_IGS_FL51"
+  "Imported synchronization information from replica "GOLDTEST_ECTOS_IGS_PR08".
+   Row at import was: GOLDTEST_ECTOS_IGS_MN17=10 GOLDTEST_ECTOS_IGS_PR08=4 GOLDTEST_ECTOS_IGS_MN10=0 GOLDTEST_ECTOS_IGS_MN51=0 GOLDTEST_ECTOS_IGS_AZ18=1 GOLDTEST_ECTOS_IGS_DCW=0 GOLDTEST_ECTOS_IGS_FL51=0"
+2013-06-19     clearcase_nm75 import sync from replica "GOLDTEST_ECTOS_IGS_PR08" to replica "GOLDTEST_ECTOS_IGS_FL51"
+  "Imported synchronization information from replica "GOLDTEST_ECTOS_IGS_PR08".
+   Row at import was: GOLDTEST_ECTOS_IGS_MN17=10 GOLDTEST_ECTOS_IGS_PR08=4 GOLDTEST_ECTOS_IGS_MN10=0 GOLDTEST_ECTOS_IGS_MN51=0 GOLDTEST_ECTOS_IGS_AZ18=1 GOLDTEST_ECTOS_IGS_DCW=0 GOLDTEST_ECTOS_IGS_FL51=0"
+2013-06-13     clearcase_nm75 import sync from replica "GOLDTEST_ECTOS_IGS_DCW" to replica "GOLDTEST_ECTOS_IGS_FL51"
+  "Imported synchronization information from replica "GOLDTEST_ECTOS_IGS_DCW".
+   Row at import was: GOLDTEST_ECTOS_IGS_MN17=10 GOLDTEST_ECTOS_IGS_PR08=4 GOLDTEST_ECTOS_IGS_MN10=0 GOLDTEST_ECTOS_IGS_MN51=0 GOLDTEST_ECTOS_IGS_AZ18=1 GOLDTEST_ECTOS_IGS_DCW=0 GOLDTEST_ECTOS_IGS_FL51=0"
+2013-06-13     clearcase_nm75 import sync from replica "GOLDTEST_ECTOS_IGS_AZ18.deleted" to replica "GOLDTEST_ECTOS_IGS_FL51"
+  "Imported synchronization information from replica "GOLDTEST_ECTOS_IGS_AZ18".
+   Row at import was: GOLDTEST_ECTOS_IGS_MN17=10 GOLDTEST_ECTOS_IGS_PR08=4 GOLDTEST_ECTOS_IGS_MN10=0 GOLDTEST_ECTOS_IGS_MN51=0 GOLDTEST_ECTOS_IGS_AZ18=0 GOLDTEST_ECTOS_IGS_FL51=0"
+2013-06-13     root       create replica "GOLDTEST_ECTOS_IGS_DCW"
+2013-06-12     clearcase_nm75 import sync from replica "GOLDTEST_ECTOS_IGS_AZ18.deleted" to replica "GOLDTEST_ECTOS_IGS_FL51"
+  "Imported synchronization information from replica "GOLDTEST_ECTOS_IGS_AZ18".
+   Row at import was: GOLDTEST_ECTOS_IGS_MN17=10 GOLDTEST_ECTOS_IGS_PR08=3 GOLDTEST_ECTOS_IGS_MN10=0 GOLDTEST_ECTOS_IGS_MN51=0 GOLDTEST_ECTOS_IGS_AZ18=0 GOLDTEST_ECTOS_IGS_FL51=0"
+2013-06-12     e721877    import sync to replica "GOLDTEST_ECTOS_IGS_PR08"
+  "Changed information associated with replica."
+2013-04-12     clearcase_nm75 import sync from replica "GOLDTEST_ECTOS_IGS_AZ18.deleted" to replica "GOLDTEST_ECTOS_IGS_FL51"
+  "Imported synchronization information from replica "GOLDTEST_ECTOS_IGS_AZ18".
+   Row at import was: GOLDTEST_ECTOS_IGS_MN17=10 GOLDTEST_ECTOS_IGS_PR08=2 GOLDTEST_ECTOS_IGS_MN10=0 GOLDTEST_ECTOS_IGS_MN51=0 GOLDTEST_ECTOS_IGS_AZ18=0 GOLDTEST_ECTOS_IGS_FL51=0"
+2013-04-12     sv-das_cc_albd import sync to replica "GOLDTEST_ECTOS_IGS_PR08"
+  "Changed information associated with replica."
+2013-04-12     clearcase_nm75 import sync from replica "GOLDTEST_ECTOS_IGS_AZ18.deleted" to replica "GOLDTEST_ECTOS_IGS_FL51"
+  "Imported synchronization information from replica "GOLDTEST_ECTOS_IGS_AZ18".
+   Row at import was: GOLDTEST_ECTOS_IGS_MN17=10 GOLDTEST_ECTOS_IGS_PR08=1 GOLDTEST_ECTOS_IGS_MN10=0 GOLDTEST_ECTOS_IGS_MN51=0 GOLDTEST_ECTOS_IGS_AZ18=0 GOLDTEST_ECTOS_IGS_FL51=0"
+2013-04-12     clearcase_nm75 import sync from replica "GOLDTEST_ECTOS_IGS_AZ18.deleted" to replica "GOLDTEST_ECTOS_IGS_FL51"
+  "Imported synchronization information from replica "GOLDTEST_ECTOS_IGS_AZ18".
+   Row at import was: GOLDTEST_ECTOS_IGS_MN17=10 GOLDTEST_ECTOS_IGS_PR08=0 GOLDTEST_ECTOS_IGS_MN10=0 GOLDTEST_ECTOS_IGS_MN51=0 GOLDTEST_ECTOS_IGS_AZ18=0 GOLDTEST_ECTOS_IGS_FL51=0"
+2013-04-12     sv-das_cc_albd import sync to replica "GOLDTEST_ECTOS_IGS_PR08"
+  "Changed information associated with replica."
+2013-04-12     sv-das_cc_albd import sync to replica "GOLDTEST_ECTOS_IGS_PR08"
+  "Changed information associated with replica."
+2010-07-30     clearcase_nm75 import sync from replica "GOLDTEST_ECTOS_IGS_AZ18.deleted" to replica "GOLDTEST_ECTOS_IGS_FL51"
+  "Imported synchronization information from replica "GOLDTEST_ECTOS_IGS_AZ18".
+   Row at import was: GOLDTEST_ECTOS_IGS_MN17=10 GOLDTEST_ECTOS_IGS_PR08=0 GOLDTEST_ECTOS_IGS_MN10=0 GOLDTEST_ECTOS_IGS_MN51=0 GOLDTEST_ECTOS_IGS_AZ18=0 GOLDTEST_ECTOS_IGS_FL51=0"
+2010-07-30     clearcase_nm75 import sync from replica "GOLDTEST_ECTOS_IGS_MN51" to replica "GOLDTEST_ECTOS_IGS_FL51"
+  "Imported synchronization information from replica "GOLDTEST_ECTOS_IGS_MN51".
+   Row at import was: GOLDTEST_ECTOS_IGS_MN17=10 GOLDTEST_ECTOS_IGS_PR08=0 GOLDTEST_ECTOS_IGS_MN10=0 GOLDTEST_ECTOS_IGS_MN51=0 GOLDTEST_ECTOS_IGS_AZ18=0 GOLDTEST_ECTOS_IGS_FL51=0"
+2010-07-30     clearcase_nm75 export sync from replica "GOLDTEST_ECTOS_IGS_FL51" to replica "GOLDTEST_ECTOS_IGS_PR08"
+  "Exported synchronization information for replica "GOLDTEST_ECTOS_IGS_PR08".
+   Row at export was: GOLDTEST_ECTOS_IGS_AZ18=0 GOLDTEST_ECTOS_IGS_MN10=0 GOLDTEST_ECTOS_IGS_MN17=2 GOLDTEST_ECTOS_IGS_FL51=0 GOLDTEST_ECTOS_IGS_MN51=0 GOLDTEST_ECTOS_IGS_PR08=0"
+2010-07-30     clearcase_nm75 export sync from replica "GOLDTEST_ECTOS_IGS_FL51" to replica "GOLDTEST_ECTOS_IGS_MN51"
+  "Exported synchronization information for replica "GOLDTEST_ECTOS_IGS_MN51".
+   Row at export was: GOLDTEST_ECTOS_IGS_AZ18=0 GOLDTEST_ECTOS_IGS_MN10=0 GOLDTEST_ECTOS_IGS_MN17=6 GOLDTEST_ECTOS_IGS_FL51=0 GOLDTEST_ECTOS_IGS_MN51=0 GOLDTEST_ECTOS_IGS_PR08=0"
+2010-07-30     clearcase_nm75 export sync from replica "GOLDTEST_ECTOS_IGS_FL51" to replica "GOLDTEST_ECTOS_IGS_MN10"
+  "Exported synchronization information for replica "GOLDTEST_ECTOS_IGS_MN10".
+   Row at export was: GOLDTEST_ECTOS_IGS_AZ18=0 GOLDTEST_ECTOS_IGS_MN10=0 GOLDTEST_ECTOS_IGS_MN17=4 GOLDTEST_ECTOS_IGS_FL51=0 GOLDTEST_ECTOS_IGS_MN51=0 GOLDTEST_ECTOS_IGS_PR08=0"
+2010-07-30     clearcase_nm75 export sync from replica "GOLDTEST_ECTOS_IGS_FL51" to replica "GOLDTEST_ECTOS_IGS_AZ18.deleted"
+  "Exported synchronization information for replica "GOLDTEST_ECTOS_IGS_AZ18".
+   Row at export was: GOLDTEST_ECTOS_IGS_AZ18=0 GOLDTEST_ECTOS_IGS_MN10=0 GOLDTEST_ECTOS_IGS_MN17=8 GOLDTEST_ECTOS_IGS_FL51=0 GOLDTEST_ECTOS_IGS_MN51=0 GOLDTEST_ECTOS_IGS_PR08=0"
+2010-07-30     clearcase_nm75 import sync from replica "GOLDTEST_ECTOS_IGS_MN17" to replica "GOLDTEST_ECTOS_IGS_FL51"
+  "Imported synchronization information from replica "GOLDTEST_ECTOS_IGS_MN17".
+   Row at import was: GOLDTEST_ECTOS_IGS_MN17=8 GOLDTEST_ECTOS_IGS_PR08=0 GOLDTEST_ECTOS_IGS_MN10=0 GOLDTEST_ECTOS_IGS_MN51=0 GOLDTEST_ECTOS_IGS_FL51=0"
+2010-07-30     clearcase_nm75 import sync from replica "GOLDTEST_ECTOS_IGS_MN17" to replica "GOLDTEST_ECTOS_IGS_FL51"
+  "Imported synchronization information from replica "GOLDTEST_ECTOS_IGS_MN17".
+   Row at import was: GOLDTEST_ECTOS_IGS_MN17=7 GOLDTEST_ECTOS_IGS_PR08=0 GOLDTEST_ECTOS_IGS_MN10=0 GOLDTEST_ECTOS_IGS_MN51=0 GOLDTEST_ECTOS_IGS_FL51=0"
+2010-07-30     e702445    modify replica "GOLDTEST_ECTOS_IGS_FL51"
+  "Enable requests for mastership."
+2010-07-30     e702445    modify pool "cdft"
+  "Changed definition of pool."
+2010-07-30     e702445    modify pool "ddft"
+  "Changed definition of pool."
+2010-07-30     e702445    unlock versioned object base "\GOLDTEST_ECTOS_IGS"
+  "Unlock after replica creation"
+2010-07-30     e702445    change master to "GOLDTEST_ECTOS_IGS_AZ18.deleted" of replica "GOLDTEST_ECTOS_IGS_AZ18.deleted"
+  "Changed master replica from "GOLDTEST_ECTOS_IGS_MN17" to "GOLDTEST_ECTOS_IGS_AZ18"."
+2010-07-30     e702445    create replica "GOLDTEST_ECTOS_IGS_AZ18.deleted"
+2010-07-30     e702445    change master to "GOLDTEST_ECTOS_IGS_FL51" of replica "GOLDTEST_ECTOS_IGS_FL51"
+  "Changed master replica from "GOLDTEST_ECTOS_IGS_MN17" to "GOLDTEST_ECTOS_IGS_FL51"."
+2010-07-30     e702445    lock versioned object base "\GOLDTEST_ECTOS_IGS"
+  "Locked for all users.
+   Locked for replica dump"
+2010-07-30     e702445    create replica "GOLDTEST_ECTOS_IGS_FL51"
+2010-07-30     e702445    export sync from replica "GOLDTEST_ECTOS_IGS_MN17" to replica "GOLDTEST_ECTOS_IGS_MN51"
+  "Exported synchronization information for replica "GOLDTEST_ECTOS_IGS_MN51".
+   Row at export was: GOLDTEST_ECTOS_IGS_MN17=4 GOLDTEST_ECTOS_IGS_MN10=0 GOLDTEST_ECTOS_IGS_MN51=0 GOLDTEST_ECTOS_IGS_PR08=0"
+2010-07-30     e702445    change master to "GOLDTEST_ECTOS_IGS_MN51" of replica "GOLDTEST_ECTOS_IGS_MN51"
+  "Changed master replica from "GOLDTEST_ECTOS_IGS_MN17" to "GOLDTEST_ECTOS_IGS_MN51"."
+2010-07-30     e702445    unlock versioned object base "\GOLDTEST_ECTOS_IGS"
+  "Unlock after replica dump"

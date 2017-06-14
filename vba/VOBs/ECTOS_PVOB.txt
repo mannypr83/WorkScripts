@@ -1,0 +1,116 @@
+--06-30T10:42  clearcase_nm75 protect directory element "M:\admin_view\ECTOS_PVOB\.@@"
+  "CHMOD 775"
+--06-26T15:43  clearcase_nm75 import sync from replica "ECTOS_PVOB_DCW" to replica "ECTOS_PVOB_FL51_new"
+  "Imported synchronization information from replica "ECTOS_PVOB_DCW".
+   Row at import was: ECTOS_PVOB_AZ18.deleted=27 ECTOS_PVOB_MN17=739843 ECTOS_PVOB_MN65=165870 ECTOS_PVOB_MN51.deleted=1800 ECTOS_PVOB_FL51.deleted=60 ECTOS_PVOB_PR08=210341 ECTOS_PVOB_MN51_new=1065 ECTOS_PVOB_DCW=0 ECTOS_PVOB_FL51_new=6970"
+--06-26T15:21  clearcase_nm75 export sync from replica "ECTOS_PVOB_FL51_new" to replica "ECTOS_PVOB_DCW"
+  "Exported synchronization information for replica "ECTOS_PVOB_DCW".
+   Row at export was: ECTOS_PVOB_DCW=0 ECTOS_PVOB_PR08=210341 ECTOS_PVOB_MN65=165870 ECTOS_PVOB_MN51_new=1065 ECTOS_PVOB_MN51.deleted=1800 ECTOS_PVOB_AZ18.deleted=27 ECTOS_PVOB_FL51_new=6970 ECTOS_PVOB_FL51.deleted=60 ECTOS_PVOB_MN17=739827"
+--06-26T15:20  clearcase_nm75 import sync from replica "ECTOS_PVOB_MN51_new" to replica "ECTOS_PVOB_FL51_new"
+  "Imported synchronization information from replica "ECTOS_PVOB_MN51_new".
+   Row at import was: ECTOS_PVOB_AZ18.deleted=27 ECTOS_PVOB_MN17=739843 ECTOS_PVOB_MN65=165870 ECTOS_PVOB_MN51.deleted=1800 ECTOS_PVOB_FL51.deleted=60 ECTOS_PVOB_PR08=210341 ECTOS_PVOB_MN51_new=1065 ECTOS_PVOB_DCW=0 ECTOS_PVOB_FL51_new=6970"
+--06-26T15:14  clearcase_nm75 import sync from replica "ECTOS_PVOB_MN17" to replica "ECTOS_PVOB_FL51_new"
+  "Imported synchronization information from replica "ECTOS_PVOB_MN17".
+   Row at import was: ECTOS_PVOB_AZ18.deleted=27 ECTOS_PVOB_MN17=739827 ECTOS_PVOB_MN65=165870 ECTOS_PVOB_MN51.deleted=1800 ECTOS_PVOB_FL51.deleted=60 ECTOS_PVOB_PR08=210341 ECTOS_PVOB_MN51_new=1065 ECTOS_PVOB_DCW=0 ECTOS_PVOB_FL51_new=6970"
+--06-26T15:14  E144999    modify activity "ESPL200034131"
+  "State transitioned from "Ready" to "Active".
+   CSquid_CA_HookEntry::StartWork"
+--06-26T15:14  E144999    set work for activity "ESPL200034131"
+  "User "EveryUser" in view "mn17nt1861:e:\ClearCase_Storage\views\NAMERICA4\e144999\nly_ECTOS_AGS.1.vws".
+   CSquid_CA_HookEntry::StartWork"
+--06-26T15:14  E144999    unset work for activity "ESPL200034129"
+  "User "EveryUser" in view "mn17nt1861:e:\ClearCase_Storage\views\NAMERICA4\e144999\nly_ECTOS_AGS.1.vws".
+   CSquid_CA_HookEntry::StartWork"
+--06-26T15:14  E144999    rename activity "ESPL200034131"
+  "Changed name of activity from "activity140626.141412" to "ESPL200034131"."
+--06-26T15:14  E144999    modify activity "ESPL200034131"
+  "Updated title to "ESPL200034126 - Disable console port in the IGS rom.wpj for dev_project (AGS)".
+   CSquid_CQActivity::Pvt_DoSUMActivityBind"
+--06-26T15:14  E144999    set process variable on activity "ESPL200034131"
+  "Set activity process variable named "SQUID_ACT_DISPLAY_NAME"."
+--06-26T15:14  E144999    set process variable on activity "ESPL200034131"
+  "Set activity process variable named "SQUID_ACT_ENTITYDEF_NAME"."
+--06-26T15:14  E144999    create activity "ESPL200034131"
+  "Created automatically as a result of 'Work On' action in ClearQuest"
+--06-26T15:13  E144999    modify activity "ESPL200034130"
+  "State transitioned from "Ready" to "Active".
+   CSquid_CA_HookEntry::StartWork"
+--06-26T15:13  E144999    set work for activity "ESPL200034130"
+  "User "EveryUser" in view "mn17nt1861:e:\ClearCase_Storage\views\NAMERICA4\E144999\nly_ECTOS_IGS_LRIP.1.vws".
+   CSquid_CA_HookEntry::StartWork"
+--06-26T15:13  E144999    unset work for activity "ESPL200034128"
+  "User "EveryUser" in view "mn17nt1861:e:\ClearCase_Storage\views\NAMERICA4\E144999\nly_ECTOS_IGS_LRIP.1.vws".
+   CSquid_CA_HookEntry::StartWork"
+--06-26T15:13  E144999    rename activity "ESPL200034130"
+  "Changed name of activity from "activity140626.141349" to "ESPL200034130"."
+--06-26T15:13  E144999    modify activity "ESPL200034130"
+  "Updated title to "ESPL200034126 - Disable console port in the IGS rom.wpj for dev_project (LRIP)".
+   CSquid_CQActivity::Pvt_DoSUMActivityBind"
+--06-26T15:13  E144999    set process variable on activity "ESPL200034130"
+  "Set activity process variable named "SQUID_ACT_DISPLAY_NAME"."
+--06-26T15:13  E144999    set process variable on activity "ESPL200034130"
+  "Set activity process variable named "SQUID_ACT_ENTITYDEF_NAME"."
+--06-26T15:13  E144999    create activity "ESPL200034130"
+  "Created automatically as a result of 'Work On' action in ClearQuest"
+--06-26T14:41  clearcase_nm75 export sync from replica "ECTOS_PVOB_FL51_new" to replica "ECTOS_PVOB_DCW"
+  "Exported synchronization information for replica "ECTOS_PVOB_DCW".
+   Row at export was: ECTOS_PVOB_DCW=0 ECTOS_PVOB_PR08=210341 ECTOS_PVOB_MN65=165870 ECTOS_PVOB_MN51_new=1065 ECTOS_PVOB_MN51.deleted=1800 ECTOS_PVOB_AZ18.deleted=27 ECTOS_PVOB_FL51_new=6970 ECTOS_PVOB_FL51.deleted=60 ECTOS_PVOB_MN17=739815"
+--06-26T14:41  clearcase_nm75 import sync from replica "ECTOS_PVOB_DCW" to replica "ECTOS_PVOB_FL51_new"
+  "Imported synchronization information from replica "ECTOS_PVOB_DCW".
+   Row at import was: ECTOS_PVOB_AZ18.deleted=27 ECTOS_PVOB_MN17=739827 ECTOS_PVOB_MN65=165870 ECTOS_PVOB_MN51.deleted=1800 ECTOS_PVOB_FL51.deleted=60 ECTOS_PVOB_PR08=210341 ECTOS_PVOB_MN51_new=1065 ECTOS_PVOB_DCW=0 ECTOS_PVOB_FL51_new=6970"
+--06-26T14:40  clearcase_nm75 import sync from replica "ECTOS_PVOB_MN51_new" to replica "ECTOS_PVOB_FL51_new"
+  "Imported synchronization information from replica "ECTOS_PVOB_MN51_new".
+   Row at import was: ECTOS_PVOB_AZ18.deleted=27 ECTOS_PVOB_MN17=739827 ECTOS_PVOB_MN65=165870 ECTOS_PVOB_MN51.deleted=1800 ECTOS_PVOB_FL51.deleted=60 ECTOS_PVOB_PR08=210341 ECTOS_PVOB_MN51_new=1065 ECTOS_PVOB_DCW=0 ECTOS_PVOB_FL51_new=6970"
+--06-26T14:34  clearcase_nm75 import sync from replica "ECTOS_PVOB_MN17" to replica "ECTOS_PVOB_FL51_new"
+  "Imported synchronization information from replica "ECTOS_PVOB_MN17".
+   Row at import was: ECTOS_PVOB_AZ18.deleted=27 ECTOS_PVOB_MN17=739815 ECTOS_PVOB_MN65=165870 ECTOS_PVOB_MN51.deleted=1800 ECTOS_PVOB_FL51.deleted=60 ECTOS_PVOB_PR08=210341 ECTOS_PVOB_MN51_new=1065 ECTOS_PVOB_DCW=0 ECTOS_PVOB_FL51_new=6970"
+--06-26T14:34  clearcase_nm75 set process variable on activity "ESPL200034129"
+  "Set activity process variable named "ACT_VOB_MODCNT"."
+--06-26T14:34  clearcase_nm75 modify activity "ESPL200034129"
+  "Change set modification count set to 2."
+--06-26T14:34  clearcase_nm75 set process variable on activity "ESPL200034129"
+  "Set activity process variable named "ACT_VOB_MODCNT"."
+--06-26T14:34  clearcase_nm75 modify activity "ESPL200034129"
+  "Change set modification count set to 1."
+--06-26T14:32  E144999    make hyperlink "Change" on activity "ESPL200034129"
+--06-26T14:32  E144999    create hyperlink "Change@371268@\ECTOS_PVOB"
+--06-26T14:32  E144999    make hyperlink "Change" on activity "ESPL200034129"
+--06-26T14:32  E144999    create hyperlink "Change@371267@\ECTOS_PVOB"
+--06-26T14:32  clearcase_nm75 export sync from replica "ECTOS_PVOB_FL51_new" to replica "ECTOS_PVOB_DCW"
+  "Exported synchronization information for replica "ECTOS_PVOB_DCW".
+   Row at export was: ECTOS_PVOB_DCW=0 ECTOS_PVOB_PR08=210341 ECTOS_PVOB_MN65=165870 ECTOS_PVOB_MN51_new=1065 ECTOS_PVOB_MN51.deleted=1800 ECTOS_PVOB_AZ18.deleted=27 ECTOS_PVOB_FL51_new=6970 ECTOS_PVOB_FL51.deleted=60 ECTOS_PVOB_MN17=739808"
+--06-26T14:31  clearcase_nm75 import sync from replica "ECTOS_PVOB_DCW" to replica "ECTOS_PVOB_FL51_new"
+  "Imported synchronization information from replica "ECTOS_PVOB_DCW".
+   Row at import was: ECTOS_PVOB_AZ18.deleted=27 ECTOS_PVOB_MN17=739815 ECTOS_PVOB_MN65=165870 ECTOS_PVOB_MN51.deleted=1800 ECTOS_PVOB_FL51.deleted=60 ECTOS_PVOB_PR08=210341 ECTOS_PVOB_MN51_new=1065 ECTOS_PVOB_DCW=0 ECTOS_PVOB_FL51_new=6970"
+--06-26T14:31  clearcase_nm75 set process variable on activity "ESPL200034128"
+  "Set activity process variable named "ACT_VOB_MODCNT"."
+--06-26T14:31  clearcase_nm75 modify activity "ESPL200034128"
+  "Change set modification count set to 2."
+--06-26T14:30  clearcase_nm75 set process variable on activity "ESPL200034128"
+  "Set activity process variable named "ACT_VOB_MODCNT"."
+--06-26T14:30  clearcase_nm75 modify activity "ESPL200034128"
+  "Change set modification count set to 1."
+--06-26T14:29  clearcase_nm75 import sync from replica "ECTOS_PVOB_MN51_new" to replica "ECTOS_PVOB_FL51_new"
+  "Imported synchronization information from replica "ECTOS_PVOB_MN51_new".
+   Row at import was: ECTOS_PVOB_AZ18.deleted=27 ECTOS_PVOB_MN17=739815 ECTOS_PVOB_MN65=165870 ECTOS_PVOB_MN51.deleted=1800 ECTOS_PVOB_FL51.deleted=60 ECTOS_PVOB_PR08=210341 ECTOS_PVOB_MN51_new=1065 ECTOS_PVOB_DCW=0 ECTOS_PVOB_FL51_new=6970"
+--06-26T14:28  E144999    make hyperlink "Change" on activity "ESPL200034128"
+--06-26T14:28  E144999    create hyperlink "Change@371266@\ECTOS_PVOB"
+--06-26T14:28  E144999    make hyperlink "Change" on activity "ESPL200034128"
+--06-26T14:28  E144999    create hyperlink "Change@371265@\ECTOS_PVOB"
+--06-26T14:24  clearcase_nm75 import sync from replica "ECTOS_PVOB_MN17" to replica "ECTOS_PVOB_FL51_new"
+  "Imported synchronization information from replica "ECTOS_PVOB_MN17".
+   Row at import was: ECTOS_PVOB_AZ18.deleted=27 ECTOS_PVOB_MN17=739808 ECTOS_PVOB_MN65=165870 ECTOS_PVOB_MN51.deleted=1800 ECTOS_PVOB_FL51.deleted=60 ECTOS_PVOB_PR08=210341 ECTOS_PVOB_MN51_new=1065 ECTOS_PVOB_DCW=0 ECTOS_PVOB_FL51_new=6970"
+--06-26T14:21  clearcase_nm75 import sync from replica "ECTOS_PVOB_DCW" to replica "ECTOS_PVOB_FL51_new"
+  "Imported synchronization information from replica "ECTOS_PVOB_DCW".
+   Row at import was: ECTOS_PVOB_AZ18.deleted=27 ECTOS_PVOB_MN17=739808 ECTOS_PVOB_MN65=165870 ECTOS_PVOB_MN51.deleted=1800 ECTOS_PVOB_FL51.deleted=60 ECTOS_PVOB_PR08=210341 ECTOS_PVOB_MN51_new=1065 ECTOS_PVOB_DCW=0 ECTOS_PVOB_FL51_new=6970"
+--06-26T14:19  clearcase_nm75 import sync from replica "ECTOS_PVOB_MN51_new" to replica "ECTOS_PVOB_FL51_new"
+  "Imported synchronization information from replica "ECTOS_PVOB_MN51_new".
+   Row at import was: ECTOS_PVOB_AZ18.deleted=27 ECTOS_PVOB_MN17=739808 ECTOS_PVOB_MN65=165870 ECTOS_PVOB_MN51.deleted=1800 ECTOS_PVOB_FL51.deleted=60 ECTOS_PVOB_PR08=210341 ECTOS_PVOB_MN51_new=1065 ECTOS_PVOB_DCW=0 ECTOS_PVOB_FL51_new=6970"
+--06-26T14:12  E144999    set work for activity "ESPL200034129"
+  "User "EveryUser" in view "mn17nt1861:e:\ClearCase_Storage\views\NAMERICA4\e144999\nly_ECTOS_AGS.1.vws".
+   CSquid_CA_HookEntry::StartWork"
+--06-26T14:12  E144999    modify activity "ESPL200034129"
+  "State transitioned from "Ready" to "Active".
+   CSquid_CA_HookEntry::StartWork"
+--06-26T14:12  E144999    rename activity "ESPL200034129"
+  "Changed name of activity from "activity140626.131238" to "ESPL200034129"."

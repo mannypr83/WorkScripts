@@ -1,0 +1,93 @@
+--06-30T10:46  clearcase_nm75 protect directory element "M:\admin_view\SIMU_RC\.@@"
+  "CHMOD 775"
+--06-20T13:51  clearcase_nm75 export sync from replica "SIMU_RC_FL51" to replica "SIMU_RC_PR08"
+  "Exported synchronization information for replica "SIMU_RC_PR08".
+   Row at export was: SIMU_RC_PR08=0 SIMU_RC_DCW=0 SIMU_RC_FL51=1185"
+--06-20T13:51  clearcase_nm75 export sync from replica "SIMU_RC_FL51" to replica "SIMU_RC_DCW"
+  "Exported synchronization information for replica "SIMU_RC_DCW".
+   Row at export was: SIMU_RC_PR08=0 SIMU_RC_DCW=0 SIMU_RC_FL51=1185"
+--06-20T13:50  e730056    remove label "VSS_IMPORT" from directory version "M:\admin_view\SIMU_RC\.@@\main\8"
+  "Moved label "VSS_IMPORT" to version "\main\11"."
+--06-20T13:50  e730056    make label "VSS_IMPORT" on directory version "M:\admin_view\SIMU_RC\.@@\main\11" (VSS_IMPORT)
+  "Moved label "VSS_IMPORT" from version "\main\8"."
+--06-20T13:46  e730056    make hyperlink "BaselineLbtype" on label type "VSS_IMPORT_COFF_Converter_IMPORT"
+  "Attached hyperlink "BaselineLbtype@332@\SIMU_RC_PVOB"."
+--06-20T13:46  e730056    rename label type "VSS_IMPORT_COFF_Converter_IMPORT"
+  "Changed name of label type from "VSS_IMPORT_COFF_Converter_IMPORT_in_progress" to "VSS_IMPORT_COFF_Converter_IMPORT"."
+--06-20T13:46  e730056    create label type "VSS_IMPORT_COFF_Converter_IMPORT"
+--06-20T13:46  e730056    make hyperlink "BaselineLbtype" on label type "VSS_IMPORT_OFS_IMPORT"
+  "Attached hyperlink "BaselineLbtype@330@\SIMU_RC_PVOB"."
+--06-20T13:46  e730056    rename label type "VSS_IMPORT_OFS_IMPORT"
+  "Changed name of label type from "VSS_IMPORT_OFS_IMPORT_in_progress" to "VSS_IMPORT_OFS_IMPORT"."
+--06-20T13:46  e730056    create label type "VSS_IMPORT_OFS_IMPORT"
+--06-20T13:46  e730056    make hyperlink "BaselineLbtype" on label type "VSS_IMPORT_Programmer_IMPORT"
+  "Attached hyperlink "BaselineLbtype@328@\SIMU_RC_PVOB"."
+--06-20T13:46  e730056    rename label type "VSS_IMPORT_Programmer_IMPORT"
+  "Changed name of label type from "VSS_IMPORT_Programmer_IMPORT_in_progress" to "VSS_IMPORT_Programmer_IMPORT"."
+--06-20T13:46  e730056    create label type "VSS_IMPORT_Programmer_IMPORT"
+--06-20T13:46  e730056    make hyperlink "BaselineLbtype" on label type "VSS_IMPORT_Shared_IMPORT"
+  "Attached hyperlink "BaselineLbtype@326@\SIMU_RC_PVOB"."
+--06-20T13:46  e730056    rename label type "VSS_IMPORT_Shared_IMPORT"
+  "Changed name of label type from "VSS_IMPORT_Shared_IMPORT_in_progress" to "VSS_IMPORT_Shared_IMPORT"."
+--06-20T13:46  e730056    create label type "VSS_IMPORT_Shared_IMPORT"
+--06-20T13:46  e730056    make hyperlink "BaselineLbtype" on label type "VSS_IMPORT_Tools_IMPORT"
+  "Attached hyperlink "BaselineLbtype@324@\SIMU_RC_PVOB"."
+--06-20T13:46  e730056    rename label type "VSS_IMPORT_Tools_IMPORT"
+  "Changed name of label type from "VSS_IMPORT_Tools_IMPORT_in_progress" to "VSS_IMPORT_Tools_IMPORT"."
+--06-20T13:46  e730056    create label type "VSS_IMPORT_Tools_IMPORT"
+--06-20T13:45  e730056    make hyperlink "ComponentRootDir" on directory element "M:\admin_view\SIMU_RC\.@@\main\0\Tools@@"
+  "Attached hyperlink "ComponentRootDir@322@\SIMU_RC_PVOB".
+   Link component "Tools" with its root directory element"
+--06-20T13:45  e730056    create directory version "M:\admin_view\SIMU_RC\.@@\main\0\Tools@@\main\0"
+--06-20T13:45  e730056    create branch "M:\admin_view\SIMU_RC\.@@\main\0\Tools@@\main"
+--06-20T13:45  e730056    add name to directory version "M:\admin_view\SIMU_RC\.@@\main\0"
+  "Added directory element "Tools".
+   Create component "Tools" root directory in VOB root"
+--06-20T13:45  e730056    create directory element "M:\admin_view\SIMU_RC\.@@\main\0\Tools@@"
+  "Create component "Tools" root directory in VOB root"
+--06-20T13:45  e730056    add name to directory version "M:\admin_view\SIMU_RC\.@@\main\0"
+  "Added directory element "COFF Converter".
+   Catalogue component "COFF_Converter" root directory in VOB root"
+--06-20T13:45  e730056    make hyperlink "ComponentRootDir" on directory element "M:\admin_view\SIMU_RC\COFF Converter@@"
+  "Attached hyperlink "ComponentRootDir@319@\SIMU_RC_PVOB".
+   Link component "COFF_Converter" with its root directory element"
+--06-20T13:43  e730056    destroy element in versioned object base "\SIMU_RC"
+  "Destroyed element "M:\e730056_view\SIMU_RC\Tools"."
+--06-20T13:43  e730056    remove name from directory version "M:\admin_view\SIMU_RC\.@@\main\11" (VSS_IMPORT)
+  "Uncataloged directory element "Tools"."
+--06-20T13:43  e730056    remove name from directory version "M:\admin_view\SIMU_RC\.@@\main\10"
+  "Uncataloged directory element "Tools"."
+--06-20T13:43  e730056    remove name from directory version "M:\admin_view\SIMU_RC\.@@\main\9"
+  "Uncataloged directory element "Tools"."
+--06-20T13:43  e730056    remove name from directory version "M:\admin_view\SIMU_RC\.@@\main\8"
+  "Uncataloged directory element "Tools"."
+--06-20T13:41  clearcase_nm75 export sync from replica "SIMU_RC_FL51" to replica "SIMU_RC_PR08"
+  "Exported synchronization information for replica "SIMU_RC_PR08".
+   Row at export was: SIMU_RC_PR08=0 SIMU_RC_DCW=0 SIMU_RC_FL51=1130"
+--06-20T13:41  clearcase_nm75 export sync from replica "SIMU_RC_FL51" to replica "SIMU_RC_DCW"
+  "Exported synchronization information for replica "SIMU_RC_DCW".
+   Row at export was: SIMU_RC_PR08=0 SIMU_RC_DCW=0 SIMU_RC_FL51=1130"
+--06-20T13:41  e730056    make label "VSS_IMPORT" on version "M:\admin_view\SIMU_RC\COFF Converter\COFF_Convert.frm@@\main\6" (VSS_IMPORT_COFF_Converter_IMPORT, VSS_IMPORT)
+--06-20T13:41  e730056    make label "VSS_IMPORT" on version "M:\admin_view\SIMU_RC\COFF Converter\COFF_Convert.exe@@\main\1" (VSS_IMPORT_COFF_Converter_IMPORT, VSS_IMPORT)
+--06-20T13:41  e730056    make label "VSS_IMPORT" on directory version "M:\admin_view\SIMU_RC\COFF Converter@@\main\1" (VSS_IMPORT_COFF_Converter_IMPORT, VSS_IMPORT)
+--06-20T13:40  e730056    destroy type in versioned object base "\SIMU_RC"
+  "Destroyed label type "VSSIMPORT"."
+--06-20T13:40  e730056    remove label from directory version "M:\admin_view\SIMU_RC\lost+found@@\main\0" (VSS_IMPORT)
+--06-20T13:40  e730056    remove label from directory version "M:\admin_view\SIMU_RC\.@@\main\1"
+--06-20T13:39  e730056    create directory version "M:\admin_view\SIMU_RC\.@@\main\11" (VSS_IMPORT)
+  "Created by importer"
+--06-20T13:39  e730056    create directory version "M:\admin_view\SIMU_RC\COFF Converter@@\main\1" (VSS_IMPORT_COFF_Converter_IMPORT, VSS_IMPORT)
+  "Created by importer"
+--06-20T13:39  e730056    import file element "M:\admin_view\SIMU_RC\COFF Converter\COFF_Convert.frm@@"
+--06-20T13:39  e730056    import file element "M:\admin_view\SIMU_RC\COFF Converter\COFF_Convert.exe@@"
+--06-20T13:39  e730056    add name to directory version "M:\admin_view\SIMU_RC\.@@\main\11" (VSS_IMPORT)
+  "Added directory element "COFF Converter".
+   Created by importer"
+--06-20T13:39  e730056    create directory version "M:\admin_view\SIMU_RC\COFF Converter@@\main\0"
+--06-20T13:39  e730056    create branch "M:\admin_view\SIMU_RC\COFF Converter@@\main"
+--06-20T13:39  e730056    create directory element "M:\admin_view\SIMU_RC\COFF Converter@@"
+  "Created by importer"
+--06-20T13:34  e730056    destroy element in versioned object base "\SIMU_RC"
+  "Destroyed element "M:\e730056_view\SIMU_RC\Tools\COFF Converter"."
+--06-20T13:34  e730056    remove name from directory version "M:\admin_view\SIMU_RC\.@@\main\8"
+  "Uncataloged directory element "COFF Converter"."

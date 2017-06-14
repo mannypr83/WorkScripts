@@ -1,0 +1,97 @@
+--06-30T10:44  clearcase_nm75 protect directory element "M:\admin_view\JPALS-MPA_RC\.@@"
+  "CHMOD 775"
+--06-19T17:50  clearcase_nm75 export sync from replica "JPALS-MPA_RC_FL51" to replica "JPALS-MPA_RC_PR08"
+  "Exported synchronization information for replica "JPALS-MPA_RC_PR08".
+   Row at export was: JPALS-MPA_RC_FL51=48765 JPALS-MPA_RC_DCW=0 JPALS-MPA_RC_AZ18.deleted=1 JPALS-MPA_RC_PR08=4"
+--06-19T17:50  clearcase_nm75 export sync from replica "JPALS-MPA_RC_FL51" to replica "JPALS-MPA_RC_DCW"
+  "Exported synchronization information for replica "JPALS-MPA_RC_DCW".
+   Row at export was: JPALS-MPA_RC_FL51=48765 JPALS-MPA_RC_DCW=0 JPALS-MPA_RC_AZ18.deleted=1 JPALS-MPA_RC_PR08=4"
+--06-19T17:40  clearcase_nm75 protect directory element "M:\admin_view\JPALS-MPA_RC\.@@"
+  "CHMOD 770"
+--06-19T17:40  clearcase_nm75 protect directory element "M:\admin_view\JPALS-MPA_RC\.@@"
+  "CHMOD 775"
+--06-19T17:20  clearcase_nm75 export sync from replica "JPALS-MPA_RC_FL51" to replica "JPALS-MPA_RC_PR08"
+  "Exported synchronization information for replica "JPALS-MPA_RC_PR08".
+   Row at export was: JPALS-MPA_RC_FL51=48763 JPALS-MPA_RC_DCW=0 JPALS-MPA_RC_AZ18.deleted=1 JPALS-MPA_RC_PR08=4"
+--06-19T17:20  clearcase_nm75 export sync from replica "JPALS-MPA_RC_FL51" to replica "JPALS-MPA_RC_DCW"
+  "Exported synchronization information for replica "JPALS-MPA_RC_DCW".
+   Row at export was: JPALS-MPA_RC_FL51=48763 JPALS-MPA_RC_DCW=0 JPALS-MPA_RC_AZ18.deleted=1 JPALS-MPA_RC_PR08=4"
+--06-19T17:17  clearcase_nm75 protect directory element "M:\admin_view\JPALS-MPA_RC\.@@"
+  "CHMOD 770"
+--06-19T17:17  clearcase_nm75 protect directory element "M:\admin_view\JPALS-MPA_RC\.@@"
+  "CHMOD 775"
+--04-16T10:12  e704548    export sync from replica "JPALS-MPA_RC_FL51" to replica "JPALS-MPA_RC_PR08"
+  "Exported synchronization information for replica "JPALS-MPA_RC_PR08".
+   Row at export was: JPALS-MPA_RC_FL51=48762 JPALS-MPA_RC_DCW=0 JPALS-MPA_RC_AZ18.deleted=1 JPALS-MPA_RC_PR08=4"
+--04-16T10:12  e704548    export sync from replica "JPALS-MPA_RC_FL51" to replica "JPALS-MPA_RC_DCW"
+  "Exported synchronization information for replica "JPALS-MPA_RC_DCW".
+   Row at export was: JPALS-MPA_RC_FL51=48762 JPALS-MPA_RC_DCW=0 JPALS-MPA_RC_AZ18.deleted=1 JPALS-MPA_RC_PR08=4"
+--04-16T10:12  e704548    change master to "JPALS-MPA_RC_DCW" of replica "JPALS-MPA_RC_DCW"
+  "Changed master replica from "JPALS-MPA_RC_FL51" to "JPALS-MPA_RC_DCW"."
+--04-16T10:11  e704548    export sync from replica "JPALS-MPA_RC_FL51" to replica "JPALS-MPA_RC_PR08"
+  "Exported synchronization information for replica "JPALS-MPA_RC_PR08".
+   Row at export was: JPALS-MPA_RC_FL51=48759 JPALS-MPA_RC_DCW=0 JPALS-MPA_RC_AZ18.deleted=1 JPALS-MPA_RC_PR08=4"
+--04-16T10:11  e704548    export sync from replica "JPALS-MPA_RC_FL51" to replica "JPALS-MPA_RC_DCW"
+  "Exported synchronization information for replica "JPALS-MPA_RC_DCW".
+   Row at export was: JPALS-MPA_RC_FL51=48759 JPALS-MPA_RC_DCW=0 JPALS-MPA_RC_AZ18.deleted=1 JPALS-MPA_RC_PR08=4"
+--04-16T10:11  e704548    rename replica "JPALS-MPA_RC_AZ18.deleted"
+  "Changed name of replica from "JPALS-MPA_RC_AZ18" to "JPALS-MPA_RC_AZ18.deleted"."
+--04-16T10:11  e704548    destroy replica in versioned object base "\JPALS-MPA_RC"
+  "Destroyed replica "JPALS-MPA_RC_AZ18"."
+--04-16T10:11  e704548    change master to "JPALS-MPA_RC_FL51" of replica "JPALS-MPA_RC_DCW"
+  "Changed master replica from "JPALS-MPA_RC_AZ18" to "JPALS-MPA_RC_FL51"."
+--04-16T10:11  e704548    change master to "JPALS-MPA_RC_FL51" of replica "JPALS-MPA_RC_AZ18.deleted"
+  "Changed master replica from "JPALS-MPA_RC_AZ18" to "JPALS-MPA_RC_FL51"."
+--04-16T10:11  e704548    modify replica "JPALS-MPA_RC_AZ18.deleted"
+  "Marked replica "JPALS-MPA_RC_AZ18" for deletion."
+--04-16T09:51  clearcase_nm75 export sync from replica "JPALS-MPA_RC_FL51" to replica "JPALS-MPA_RC_PR08"
+  "Exported synchronization information for replica "JPALS-MPA_RC_PR08".
+   Row at export was: JPALS-MPA_RC_FL51=48731 JPALS-MPA_RC_DCW=0 JPALS-MPA_RC_AZ18=1 JPALS-MPA_RC_PR08=4"
+--04-16T09:51  clearcase_nm75 export sync from replica "JPALS-MPA_RC_FL51" to replica "JPALS-MPA_RC_DCW"
+  "Exported synchronization information for replica "JPALS-MPA_RC_DCW".
+   Row at export was: JPALS-MPA_RC_FL51=48731 JPALS-MPA_RC_DCW=0 JPALS-MPA_RC_AZ18=1 JPALS-MPA_RC_PR08=4"
+--04-16T09:50  clearcase_nm75 export sync from replica "JPALS-MPA_RC_FL51" to replica "JPALS-MPA_RC_AZ18.deleted"
+  "Exported synchronization information for replica "JPALS-MPA_RC_AZ18".
+   Row at export was: JPALS-MPA_RC_FL51=48731 JPALS-MPA_RC_DCW=0 JPALS-MPA_RC_AZ18=1 JPALS-MPA_RC_PR08=4"
+--04-16T09:45  e362656    create version "M:\admin_view\JPALS-MPA_RC\OFP@@\main\jwest_JPALS-MPA_dev\1\Code\main\jwest_JPALS-MPA_dev\2\P2\main\jwest_JPALS-MPA_dev\2\Core_Files\main\jwest_JPALS-MPA_dev\2\Initialization.adb@@\main\JPALS-MPA_Int\e362656_JPALS-MPA_2\2"
+--04-16T09:45  e362656    create version "M:\admin_view\JPALS-MPA_RC\OFP@@\main\jwest_JPALS-MPA_dev\1\Code\main\jwest_JPALS-MPA_dev\2\P2\main\jwest_JPALS-MPA_dev\3\Mission_Files\main\jwest_JPALS-MPA_dev\1\Process_IO.adb@@\main\JPALS-MPA_Int\e362656_JPALS-MPA_2\4"
+--04-16T09:45  e362656    create version "M:\admin_view\JPALS-MPA_RC\OFP@@\main\jwest_JPALS-MPA_dev\1\Code\main\jwest_JPALS-MPA_dev\2\P2\main\jwest_JPALS-MPA_dev\3\Mission_Files\main\jwest_JPALS-MPA_dev\1\Rate_100Hz.adb@@\main\JPALS-MPA_Int\e362656_JPALS-MPA_2\4"
+--04-16T09:45  e362656    create version "M:\admin_view\JPALS-MPA_RC\OFP@@\main\jwest_JPALS-MPA_dev\1\Code\main\jwest_JPALS-MPA_dev\2\P2\main\jwest_JPALS-MPA_dev\3\Mission_Files\main\jwest_JPALS-MPA_dev\4\Qp_IF.c@@\main\JPALS-MPA_Int\e362656_JPALS-MPA_2\2"
+--04-16T09:45  e362656    create version "M:\admin_view\JPALS-MPA_RC\OFP@@\main\jwest_JPALS-MPA_dev\1\Code\main\jwest_JPALS-MPA_dev\2\P2\main\jwest_JPALS-MPA_dev\3\Mission_Files\main\jwest_JPALS-MPA_dev\5\Application_Comm.adb@@\main\JPALS-MPA_Int\e362656_JPALS-MPA_2\4"
+--04-16T09:45  e362656    create version "M:\admin_view\JPALS-MPA_RC\OFP@@\main\jwest_JPALS-MPA_dev\1\Code\main\jwest_JPALS-MPA_dev\2\P2\main\jwest_JPALS-MPA_dev\3\Mission_Files\main\jwest_JPALS-MPA_dev\5\Application_Comm.ads@@\main\JPALS-MPA_Int\e362656_JPALS-MPA_2\4"
+--04-16T09:45  e362656    create version "M:\admin_view\JPALS-MPA_RC\OFP@@\main\jwest_JPALS-MPA_dev\2\Projects\main\jwest_JPALS-MPA_dev\3\P2\main\jwest_JPALS-MPA_dev\1\gpj\main\JPALS-MPA_Int\e362656_JPALS-MPA_2\1\posix_sys_server_main.c@@\main\e362656_JPALS-MPA_2\2"
+--04-16T09:45  e362656    make hyperlink "Merge" on version "M:\admin_view\JPALS-MPA_RC\OFP@@\main\jwest_JPALS-MPA_dev\1\Code\main\jwest_JPALS-MPA_dev\2\P2\main\jwest_JPALS-MPA_dev\3\Mission_Files\main\jwest_JPALS-MPA_dev\5\Application_Comm.adb@@\main\JPALS-MPA_Int\e362656_JPALS-MPA_2\4"
+  "Attached hyperlink "Merge@24761@\JPALS-MPA_RC"."
+--04-16T09:45  e362656    make hyperlink "Merge" on version "M:\admin_view\JPALS-MPA_RC\OFP@@\main\jwest_JPALS-MPA_dev\1\Code\main\jwest_JPALS-MPA_dev\2\P2\main\jwest_JPALS-MPA_dev\3\Mission_Files\main\jwest_JPALS-MPA_dev\5\Application_Comm.ads@@\main\JPALS-MPA_Int\e362656_JPALS-MPA_2\4"
+  "Attached hyperlink "Merge@24762@\JPALS-MPA_RC"."
+--04-16T09:45  e362656    make hyperlink "Merge" on version "M:\admin_view\JPALS-MPA_RC\OFP@@\main\jwest_JPALS-MPA_dev\2\Projects\main\jwest_JPALS-MPA_dev\3\P2\main\jwest_JPALS-MPA_dev\1\gpj\main\JPALS-MPA_Int\e362656_JPALS-MPA_2\1\posix_sys_server_main.c@@\main\e362656_JPALS-MPA_2\2"
+  "Attached hyperlink "Merge@24763@\JPALS-MPA_RC"."
+--04-16T09:45  e362656    make hyperlink "Merge" on version "M:\admin_view\JPALS-MPA_RC\OFP@@\main\jwest_JPALS-MPA_dev\2\Projects\main\jwest_JPALS-MPA_dev\3\P2\main\jwest_JPALS-MPA_dev\1\gpj\main\JPALS-MPA_Int\e362656_JPALS-MPA_2\1\posix_sys_server_main.c@@\main\JPALS-MPA_Int\2" (JPALS-MPA_Int_2013-11-05, JPALS-MPA_Int_2013-09-27)
+  "Attached hyperlink "Merge@24763@\JPALS-MPA_RC"."
+--04-16T09:45  e362656    create hyperlink "Merge@24763@\JPALS-MPA_RC"
+--04-16T09:45  e362656    make hyperlink "Merge" on version "M:\admin_view\JPALS-MPA_RC\OFP@@\main\jwest_JPALS-MPA_dev\1\Code\main\jwest_JPALS-MPA_dev\2\P2\main\jwest_JPALS-MPA_dev\3\Mission_Files\main\jwest_JPALS-MPA_dev\5\Application_Comm.ads@@\main\JPALS-MPA_Int\5" (JPALS-MPA_Int_2013-11-05, JPALS-MPA_Int_2013-09-27)
+  "Attached hyperlink "Merge@24762@\JPALS-MPA_RC"."
+--04-16T09:45  e362656    create hyperlink "Merge@24762@\JPALS-MPA_RC"
+--04-16T09:45  e362656    make hyperlink "Merge" on version "M:\admin_view\JPALS-MPA_RC\OFP@@\main\jwest_JPALS-MPA_dev\1\Code\main\jwest_JPALS-MPA_dev\2\P2\main\jwest_JPALS-MPA_dev\3\Mission_Files\main\jwest_JPALS-MPA_dev\5\Application_Comm.adb@@\main\JPALS-MPA_Int\5" (JPALS-MPA_Int_2013-11-05, JPALS-MPA_Int_2013-09-27)
+  "Attached hyperlink "Merge@24761@\JPALS-MPA_RC"."
+--04-16T09:45  e362656    create hyperlink "Merge@24761@\JPALS-MPA_RC"
+--04-16T09:45  e362656    make hyperlink "Merge" on version "M:\admin_view\JPALS-MPA_RC\OFP@@\main\jwest_JPALS-MPA_dev\1\Code\main\jwest_JPALS-MPA_dev\2\P2\main\jwest_JPALS-MPA_dev\3\Mission_Files\main\jwest_JPALS-MPA_dev\1\Process_IO.adb@@\main\JPALS-MPA_Int\e362656_JPALS-MPA_2\4"
+  "Attached hyperlink "Merge@24758@\JPALS-MPA_RC"."
+--04-16T09:45  e362656    make hyperlink "Merge" on version "M:\admin_view\JPALS-MPA_RC\OFP@@\main\jwest_JPALS-MPA_dev\1\Code\main\jwest_JPALS-MPA_dev\2\P2\main\jwest_JPALS-MPA_dev\3\Mission_Files\main\jwest_JPALS-MPA_dev\1\Rate_100Hz.adb@@\main\JPALS-MPA_Int\e362656_JPALS-MPA_2\4"
+  "Attached hyperlink "Merge@24759@\JPALS-MPA_RC"."
+--04-16T09:45  e362656    make hyperlink "Merge" on version "M:\admin_view\JPALS-MPA_RC\OFP@@\main\jwest_JPALS-MPA_dev\1\Code\main\jwest_JPALS-MPA_dev\2\P2\main\jwest_JPALS-MPA_dev\3\Mission_Files\main\jwest_JPALS-MPA_dev\4\Qp_IF.c@@\main\JPALS-MPA_Int\e362656_JPALS-MPA_2\2"
+  "Attached hyperlink "Merge@24760@\JPALS-MPA_RC"."
+--04-16T09:45  e362656    make hyperlink "Merge" on version "M:\admin_view\JPALS-MPA_RC\OFP@@\main\jwest_JPALS-MPA_dev\1\Code\main\jwest_JPALS-MPA_dev\2\P2\main\jwest_JPALS-MPA_dev\3\Mission_Files\main\jwest_JPALS-MPA_dev\4\Qp_IF.c@@\main\JPALS-MPA_Int\4" (JPALS-MPA_Int_2013-11-05)
+  "Attached hyperlink "Merge@24760@\JPALS-MPA_RC"."
+--04-16T09:45  e362656    create hyperlink "Merge@24760@\JPALS-MPA_RC"
+--04-16T09:45  e362656    make hyperlink "Merge" on version "M:\admin_view\JPALS-MPA_RC\OFP@@\main\jwest_JPALS-MPA_dev\1\Code\main\jwest_JPALS-MPA_dev\2\P2\main\jwest_JPALS-MPA_dev\3\Mission_Files\main\jwest_JPALS-MPA_dev\1\Rate_100Hz.adb@@\main\JPALS-MPA_Int\16" (JPALS-MPA_Int_2013-11-05, JPALS-MPA_Int_2013-09-27)
+  "Attached hyperlink "Merge@24759@\JPALS-MPA_RC"."
+--04-16T09:45  e362656    create hyperlink "Merge@24759@\JPALS-MPA_RC"
+--04-16T09:45  e362656    make hyperlink "Merge" on version "M:\admin_view\JPALS-MPA_RC\OFP@@\main\jwest_JPALS-MPA_dev\1\Code\main\jwest_JPALS-MPA_dev\2\P2\main\jwest_JPALS-MPA_dev\3\Mission_Files\main\jwest_JPALS-MPA_dev\1\Process_IO.adb@@\main\JPALS-MPA_Int\25" (JPALS-MPA_Int_2013-11-05)
+  "Attached hyperlink "Merge@24758@\JPALS-MPA_RC"."
+--04-16T09:45  e362656    create hyperlink "Merge@24758@\JPALS-MPA_RC"
+--04-16T09:45  e362656    make hyperlink "Merge" on version "M:\admin_view\JPALS-MPA_RC\OFP@@\main\jwest_JPALS-MPA_dev\1\Code\main\jwest_JPALS-MPA_dev\2\P2\main\jwest_JPALS-MPA_dev\2\Core_Files\main\jwest_JPALS-MPA_dev\2\Initialization.adb@@\main\JPALS-MPA_Int\e362656_JPALS-MPA_2\2"
+  "Attached hyperlink "Merge@24757@\JPALS-MPA_RC"."
+--04-16T09:45  e362656    make hyperlink "Merge" on version "M:\admin_view\JPALS-MPA_RC\OFP@@\main\jwest_JPALS-MPA_dev\1\Code\main\jwest_JPALS-MPA_dev\2\P2\main\jwest_JPALS-MPA_dev\2\Core_Files\main\jwest_JPALS-MPA_dev\2\Initialization.adb@@\main\JPALS-MPA_Int\3" (JPALS-MPA_Int_2013-11-05, JPALS-MPA_Int_2013-09-27)
+  "Attached hyperlink "Merge@24757@\JPALS-MPA_RC"."
+--04-16T09:45  e362656    create hyperlink "Merge@24757@\JPALS-MPA_RC"

@@ -1,0 +1,105 @@
+--06-30T10:45  clearcase_nm75 protect directory element "M:\admin_view\DMS_DOC_RC\.@@"
+  "CHMOD 775"
+--03-27T11:21  clearcase_nm75 export sync from replica "DMS_DOC_RC_FL51" to replica "DMS_DOC_RC_DE08"
+  "Exported synchronization information for replica "DMS_DOC_RC_DE08".
+   Row at export was: DMS_DOC_RC_DE08=0 DMS_DOC_RC_DCW=0 DMS_DOC_RC_FL51=1 DMS_DOC_RC_AZ75=13"
+--03-27T11:21  clearcase_nm75 export sync from replica "DMS_DOC_RC_FL51" to replica "DMS_DOC_RC_DCW"
+  "Exported synchronization information for replica "DMS_DOC_RC_DCW".
+   Row at export was: DMS_DOC_RC_DE08=0 DMS_DOC_RC_DCW=0 DMS_DOC_RC_FL51=1 DMS_DOC_RC_AZ75=13"
+--03-27T11:21  clearcase_nm75 export sync from replica "DMS_DOC_RC_FL51" to replica "DMS_DOC_RC_AZ75"
+  "Exported synchronization information for replica "DMS_DOC_RC_AZ75".
+   Row at export was: DMS_DOC_RC_DE08=0 DMS_DOC_RC_DCW=0 DMS_DOC_RC_FL51=1 DMS_DOC_RC_AZ75=13"
+--03-27T11:15  e538625    change master to "DMS_DOC_RC_DE08" of replica "DMS_DOC_RC_DE08"
+  "Changed master replica from "DMS_DOC_RC_FL51" to "DMS_DOC_RC_DE08"."
+--03-27T10:41  clearcase_nm75 export sync from replica "DMS_DOC_RC_FL51" to replica "DMS_DOC_RC_DE08"
+  "Exported synchronization information for replica "DMS_DOC_RC_DE08".
+   Row at export was: DMS_DOC_RC_DE08=0 DMS_DOC_RC_DCW=0 DMS_DOC_RC_FL51=0 DMS_DOC_RC_AZ75=13"
+--03-27T10:41  clearcase_nm75 export sync from replica "DMS_DOC_RC_FL51" to replica "DMS_DOC_RC_DCW"
+  "Exported synchronization information for replica "DMS_DOC_RC_DCW".
+   Row at export was: DMS_DOC_RC_DE08=0 DMS_DOC_RC_DCW=0 DMS_DOC_RC_FL51=0 DMS_DOC_RC_AZ75=13"
+--03-27T10:41  clearcase_nm75 export sync from replica "DMS_DOC_RC_FL51" to replica "DMS_DOC_RC_AZ75"
+  "Exported synchronization information for replica "DMS_DOC_RC_AZ75".
+   Row at export was: DMS_DOC_RC_DE08=0 DMS_DOC_RC_DCW=0 DMS_DOC_RC_FL51=0 DMS_DOC_RC_AZ75=13"
+--03-27T10:35  e538625    unlock versioned object base "\DMS_DOC_RC"
+  "Unlock after replica dump"
+--03-27T10:35  e538625    lock versioned object base "\DMS_DOC_RC"
+  "Locked for all users.
+   Locked for replica dump"
+--03-27T10:35  e538625    create replica "DMS_DOC_RC_DE08"
+--03-27T10:24  e538625    modify replica "DMS_DOC_RC_FL51"
+  "Enable requests for mastership."
+--02-28T12:23  e350975    lock trigger type "NO_MKTRIGGER" (locked)
+  "Locked except for users: e704548 e721877 e730056 e722159 e041467 e564406 e350975"
+--02-28T12:23  e350975    lock trigger type "NO_RMNAME" (locked)
+  "Locked except for users: e704548 e721877 e730056 e722159 e041467 e564406 e350975"
+--02-28T12:23  e350975    lock trigger type "NO_RMLOCK" (locked)
+  "Locked except for users: e704548 e721877 e730056 e722159 e041467 e564406 e350975"
+--02-28T12:23  e350975    lock trigger type "NO_RMTYPE" (locked)
+  "Locked except for users: e704548 e721877 e730056 e722159 e041467 e564406 e350975"
+--02-28T12:22  e350975    lock trigger type "NO_EVIL_TWIN_MKELEM" (locked)
+  "Locked except for users: e704548 e721877 e730056 e722159 e041467 e564406 e350975"
+--02-28T12:22  e350975    lock trigger type "NO_RMVER" (locked)
+  "Locked except for users: e704548 e721877 e730056 e722159 e041467 e564406 e350975"
+--02-28T12:22  e350975    lock trigger type "NO_RMELEM" (locked)
+  "Locked except for users: e704548 e721877 e730056 e722159 e041467 e564406 e350975"
+--02-28T12:22  e350975    lock trigger type "ChangeLbtypeOwner" (locked)
+  "Locked except for users: e704548 e721877 e730056 e722159 e041467 e564406 e350975"
+--02-28T12:22  e350975    lock trigger type "CHOWN" (locked)
+  "Locked except for users: e704548 e721877 e730056 e722159 e041467 e564406 e350975"
+--02-28T12:22  e350975    lock trigger type "ChangeHltypeOwner" (locked)
+  "Locked except for users: e704548 e721877 e730056 e722159 e041467 e564406 e350975"
+--02-28T12:22  e350975    lock trigger type "ChangeAttypeOwner" (locked)
+  "Locked except for users: e704548 e721877 e730056 e722159 e041467 e564406 e350975"
+--02-28T12:22  e350975    lock trigger type "ChangeTrtypeOwner" (locked)
+  "Locked except for users: e704548 e721877 e730056 e722159 e041467 e564406 e350975"
+--02-28T12:22  e350975    protect trigger type "NO_MKTRIGGER" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:22  e350975    protect trigger type "NO_RMNAME" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:22  e350975    protect trigger type "NO_RMLOCK" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:22  e350975    protect trigger type "NO_RMTYPE" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:22  e350975    protect trigger type "NO_EVIL_TWIN_MKELEM" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:22  e350975    protect trigger type "NO_RMVER" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:22  e350975    protect trigger type "NO_RMELEM" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:22  e350975    protect trigger type "ChangeLbtypeOwner" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:22  e350975    protect trigger type "CHOWN" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:21  e350975    protect trigger type "ChangeHltypeOwner" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:21  e350975    protect trigger type "ChangeAttypeOwner" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:21  e350975    protect trigger type "ChangeTrtypeOwner" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:21  e350975    protect trigger type "NO_MKTRIGGER" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:21  e350975    create trigger type "NO_MKTRIGGER" (locked)
+  "Disallow creation of new trigger types"
+--02-28T12:21  e350975    protect trigger type "NO_RMNAME" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:21  e350975    create trigger type "NO_RMNAME" (locked)
+  "Disallow removal of element names"
+--02-28T12:21  e350975    protect trigger type "NO_RMLOCK" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:21  e350975    create trigger type "NO_RMLOCK" (locked)
+  "Disallow unlocking of elements"
+--02-28T12:21  e350975    protect trigger type "NO_RMTYPE" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:21  e350975    create trigger type "NO_RMTYPE" (locked)
+  "Disallow removal of types"
+--02-28T12:21  e350975    protect trigger type "NO_EVIL_TWIN_MKELEM" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:21  e350975    create trigger type "NO_EVIL_TWIN_MKELEM" (locked)
+--02-28T12:21  e350975    protect trigger type "NO_RMVER" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:20  e350975    create trigger type "NO_RMVER" (locked)
+  "Disallow removal of versions"
+--02-28T12:20  e350975    protect trigger type "NO_RMELEM" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:20  e350975    create trigger type "NO_RMELEM" (locked)
+  "Disallow removal of elements"

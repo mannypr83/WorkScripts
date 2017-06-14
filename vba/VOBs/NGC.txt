@@ -1,0 +1,121 @@
+--06-30T10:44  clearcase_nm75 protect directory element "M:\admin_view\NGC\.@@"
+  "CHMOD 775"
+--06-19T17:41  clearcase_nm75 protect directory element "M:\admin_view\NGC\.@@"
+  "CHMOD 770"
+--06-19T17:41  clearcase_nm75 protect directory element "M:\admin_view\NGC\.@@"
+  "CHMOD 775"
+--06-19T17:18  clearcase_nm75 protect directory element "M:\admin_view\NGC\.@@"
+  "CHMOD 770"
+--06-19T17:18  clearcase_nm75 protect directory element "M:\admin_view\NGC\.@@"
+  "CHMOD 775"
+--06-08T05:10  clearcase_nm75 import sync from replica "NGC_IE1F" to replica "NGC_FL51"
+  "Imported synchronization information from replica "NGC_IE1F".
+   Row at import was: NGC_AZ18.deleted=5 NGC_TUS.deleted=240906 hiso_ngc=5253 tes_ngc.deleted=12 htsl_mdr_NGC.deleted=1 BRNO_NGC.deleted=0 NGC_BRNO=14 NGC_AZ10=9033 NGC_WA05=0 NGC_PR08=4 NGC_IE1F=12 NGC_AZ75=8 NGC_NJ06.deleted=0 NGC_NJ06=0 NGC_DCW=0 NGC_FL51=0"
+--05-29T01:31  clearcase_nm75 import sync from replica "NGC_AZ75" to replica "NGC_FL51"
+  "Imported synchronization information from replica "NGC_AZ75".
+   Row at import was: NGC_AZ18.deleted=5 NGC_TUS.deleted=240906 hiso_ngc=5253 tes_ngc.deleted=12 htsl_mdr_NGC.deleted=1 BRNO_NGC.deleted=0 NGC_BRNO=14 NGC_AZ10=9033 NGC_WA05=0 NGC_PR08=4 NGC_IE1F=12 NGC_AZ75=8 NGC_NJ06.deleted=0 NGC_NJ06=0 NGC_DCW=0 NGC_FL51=0"
+--05-29T01:16  clearcase_nm75 import sync from replica "NGC_DCW" to replica "NGC_FL51"
+  "Imported synchronization information from replica "NGC_DCW".
+   Row at import was: NGC_AZ18.deleted=5 NGC_TUS.deleted=240906 hiso_ngc=5253 tes_ngc.deleted=12 htsl_mdr_NGC.deleted=1 BRNO_NGC.deleted=0 NGC_BRNO=14 NGC_AZ10=9033 NGC_WA05=0 NGC_PR08=4 NGC_IE1F=12 NGC_AZ75=8 NGC_NJ06.deleted=0 NGC_NJ06=0 NGC_DCW=0 NGC_FL51=0"
+--05-29T01:10  clearcase_nm75 import sync from replica "NGC_AZ10" to replica "NGC_FL51"
+  "Imported synchronization information from replica "NGC_AZ10".
+   Row at import was: NGC_AZ18.deleted=5 NGC_TUS.deleted=240906 hiso_ngc=5253 tes_ngc.deleted=12 htsl_mdr_NGC.deleted=1 BRNO_NGC.deleted=0 NGC_BRNO=14 NGC_AZ10=9028 NGC_WA05=0 NGC_PR08=4 NGC_IE1F=12 NGC_AZ75=8 NGC_NJ06.deleted=0 NGC_NJ06=0 NGC_DCW=0 NGC_FL51=0"
+--05-29T01:02  e371166    create directory version "M:\admin_view\NGC\tpu\3.41H\VDD@@\main\13"
+  "AeroPDM release
+   Added file element "SW4208694-1001_B_MASTER.PDF"."
+--05-29T01:02  e371166    add name to directory version "M:\admin_view\NGC\tpu\3.41H\VDD@@\main\13"
+  "AeroPDM release"
+--05-29T01:02  e371166    create version "M:\admin_view\NGC\tpu\3.41H\VDD\SW4208694-1001_B_MASTER.PDF@@\main\1"
+  "AeroPDM release"
+--05-29T01:02  e371166    create version "M:\admin_view\NGC\tpu\3.41H\VDD\SW4208694-1001_B_MASTER.PDF@@\main\0"
+--05-29T01:02  e371166    create branch "M:\admin_view\NGC\tpu\3.41H\VDD\SW4208694-1001_B_MASTER.PDF@@\main"
+--05-29T01:02  e371166    create file element "M:\admin_view\NGC\tpu\3.41H\VDD\SW4208694-1001_B_MASTER.PDF@@"
+  "AeroPDM release"
+--05-28T21:31  clearcase_nm75 import sync from replica "NGC_AZ75" to replica "NGC_FL51"
+  "Imported synchronization information from replica "NGC_AZ75".
+   Row at import was: NGC_AZ18.deleted=5 NGC_TUS.deleted=240906 hiso_ngc=5253 tes_ngc.deleted=12 htsl_mdr_NGC.deleted=1 BRNO_NGC.deleted=0 NGC_BRNO=14 NGC_AZ10=9028 NGC_WA05=0 NGC_PR08=4 NGC_IE1F=12 NGC_AZ75=8 NGC_NJ06.deleted=0 NGC_NJ06=0 NGC_DCW=0 NGC_FL51=0"
+--05-28T21:26  clearcase_nm75 import sync from replica "NGC_DCW" to replica "NGC_FL51"
+  "Imported synchronization information from replica "NGC_DCW".
+   Row at import was: NGC_AZ18.deleted=5 NGC_TUS.deleted=240906 hiso_ngc=5253 tes_ngc.deleted=12 htsl_mdr_NGC.deleted=1 BRNO_NGC.deleted=0 NGC_BRNO=14 NGC_AZ10=9028 NGC_WA05=0 NGC_PR08=4 NGC_IE1F=12 NGC_AZ75=8 NGC_NJ06.deleted=0 NGC_NJ06=0 NGC_DCW=0 NGC_FL51=0"
+--05-28T21:20  clearcase_nm75 import sync from replica "NGC_AZ10" to replica "NGC_FL51"
+  "Imported synchronization information from replica "NGC_AZ10".
+   Row at import was: NGC_AZ18.deleted=5 NGC_TUS.deleted=240906 hiso_ngc=5253 tes_ngc.deleted=12 htsl_mdr_NGC.deleted=1 BRNO_NGC.deleted=0 NGC_BRNO=14 NGC_AZ10=9027 NGC_WA05=0 NGC_PR08=4 NGC_IE1F=12 NGC_AZ75=8 NGC_NJ06.deleted=0 NGC_NJ06=0 NGC_DCW=0 NGC_FL51=0"
+--05-28T21:18  e048597    checkout version "M:\admin_view\NGC\332IODevices\code\Cpu32ArincTx.cpp" from \main\33 (unreserved)
+--05-27T19:05  clearcase_nm75 import sync from replica "NGC_AZ10" to replica "NGC_FL51"
+  "Imported synchronization information from replica "NGC_AZ10".
+   Row at import was: NGC_AZ18.deleted=5 NGC_TUS.deleted=240906 hiso_ngc=5253 tes_ngc.deleted=12 htsl_mdr_NGC.deleted=1 BRNO_NGC.deleted=0 NGC_BRNO=14 NGC_AZ10=9027 NGC_WA05=0 NGC_PR08=4 NGC_IE1F=12 NGC_AZ75=8 NGC_NJ06.deleted=0 NGC_NJ06=0 NGC_DCW=0 NGC_FL51=0"
+--05-27T18:01  clearcase_nm75 import sync from replica "NGC_AZ75" to replica "NGC_FL51"
+  "Imported synchronization information from replica "NGC_AZ75".
+   Row at import was: NGC_AZ18.deleted=5 NGC_TUS.deleted=240906 hiso_ngc=5253 tes_ngc.deleted=12 htsl_mdr_NGC.deleted=1 BRNO_NGC.deleted=0 NGC_BRNO=14 NGC_AZ10=9027 NGC_WA05=0 NGC_PR08=4 NGC_IE1F=12 NGC_AZ75=8 NGC_NJ06.deleted=0 NGC_NJ06=0 NGC_DCW=0 NGC_FL51=0"
+--05-27T17:56  clearcase_nm75 import sync from replica "NGC_DCW" to replica "NGC_FL51"
+  "Imported synchronization information from replica "NGC_DCW".
+   Row at import was: NGC_AZ18.deleted=5 NGC_TUS.deleted=240906 hiso_ngc=5253 tes_ngc.deleted=12 htsl_mdr_NGC.deleted=1 BRNO_NGC.deleted=0 NGC_BRNO=14 NGC_AZ10=9025 NGC_WA05=0 NGC_PR08=4 NGC_IE1F=12 NGC_AZ75=8 NGC_NJ06.deleted=0 NGC_NJ06=0 NGC_DCW=0 NGC_FL51=0"
+--05-22T10:42  clearcase_nm75 import sync from replica "NGC_AZ75" to replica "NGC_FL51"
+  "Imported synchronization information from replica "NGC_AZ75".
+   Row at import was: NGC_AZ18.deleted=5 NGC_TUS.deleted=240906 hiso_ngc=5253 tes_ngc.deleted=12 htsl_mdr_NGC.deleted=1 BRNO_NGC.deleted=0 NGC_BRNO=14 NGC_AZ10=9025 NGC_WA05=0 NGC_PR08=4 NGC_IE1F=12 NGC_AZ75=8 NGC_NJ06.deleted=0 NGC_NJ06=0 NGC_DCW=0 NGC_FL51=0"
+--05-22T10:36  clearcase_nm75 import sync from replica "NGC_DCW" to replica "NGC_FL51"
+  "Imported synchronization information from replica "NGC_DCW".
+   Row at import was: NGC_AZ18.deleted=5 NGC_TUS.deleted=240906 hiso_ngc=5253 tes_ngc.deleted=12 htsl_mdr_NGC.deleted=1 BRNO_NGC.deleted=0 NGC_BRNO=14 NGC_AZ10=9025 NGC_WA05=0 NGC_PR08=4 NGC_IE1F=12 NGC_AZ75=8 NGC_NJ06.deleted=0 NGC_NJ06=0 NGC_DCW=0 NGC_FL51=0"
+--05-22T10:30  clearcase_nm75 import sync from replica "NGC_AZ10" to replica "NGC_FL51"
+  "Imported synchronization information from replica "NGC_AZ10".
+   Row at import was: NGC_AZ18.deleted=5 NGC_TUS.deleted=240906 hiso_ngc=5240 tes_ngc.deleted=12 htsl_mdr_NGC.deleted=1 BRNO_NGC.deleted=0 NGC_BRNO=14 NGC_AZ10=9012 NGC_WA05=0 NGC_PR08=4 NGC_IE1F=12 NGC_AZ75=8 NGC_NJ06.deleted=0 NGC_NJ06=0 NGC_DCW=0 NGC_FL51=0"
+--05-22T10:26  e061544    remove attribute "Review_Number" from version "M:\admin_view\NGC\SDF\WorkInstructions\ngc_workinstructions.doc@@\main\2"
+--05-22T10:26  ie10-clearcase_albd change master to "NGC_AZ10" of branch "M:\admin_view\NGC\SDF\WorkInstructions\ngc_workinstructions.doc@@\main"
+  "Reqmaster changed master replica from "hiso_ngc" to "NGC_AZ10".
+   Requester: user "NAMERICA3\e061544" in domain "NAMERICA3" on host "AZ10LT238YXV1""
+--05-22T10:25  e061544    remove attribute "Review_Number" from version "M:\admin_view\NGC\SDF\Environment\ToolUsage.doc@@\main\9"
+--05-22T10:25  e061544    make attribute "Review_Number" on version "M:\admin_view\NGC\tpu\3.41H\VDD\SW4208694-1001_ECO.doc@@\main\13" (SW4208694-1001_RevB)
+  "Added attribute "Review_Number" with value 27923."
+--05-22T10:25  ie10-clearcase_albd change master to "NGC_AZ10" of branch "M:\admin_view\NGC\tpu\3.41H\VDD\SW4208694-1001_ECO.doc@@\main"
+  "Reqmaster changed master replica from "hiso_ngc" to "NGC_AZ10".
+   Requester: user "NAMERICA3\e061544" in domain "NAMERICA3" on host "AZ10LT238YXV1""
+--05-22T10:25  e061544    make attribute "Review_Number" on version "M:\admin_view\NGC\tpu\3.41H\test\Win_7_log\Pin_pass.log@@\main\1" (ASHWARE_3_4_REVB_RESULT)
+  "Added attribute "Review_Number" with value 27923."
+--05-22T10:25  ie10-clearcase_albd change master to "NGC_AZ10" of branch "M:\admin_view\NGC\tpu\3.41H\test\Win_7_log\Pin_pass.log@@\main"
+  "Reqmaster changed master replica from "hiso_ngc" to "NGC_AZ10".
+   Requester: user "NAMERICA3\e061544" in domain "NAMERICA3" on host "AZ10LT238YXV1""
+--05-22T10:25  e061544    make attribute "Review_Number" on version "M:\admin_view\NGC\tpu\3.41H\test\Win_7_log\Pin_fail.log@@\main\1" (ASHWARE_3_4_REVB_RESULT)
+  "Added attribute "Review_Number" with value 27923."
+--05-22T10:25  ie10-clearcase_albd change master to "NGC_AZ10" of branch "M:\admin_view\NGC\tpu\3.41H\test\Win_7_log\Pin_fail.log@@\main"
+  "Reqmaster changed master replica from "hiso_ngc" to "NGC_AZ10".
+   Requester: user "NAMERICA3\e061544" in domain "NAMERICA3" on host "AZ10LT238YXV1""
+--05-22T10:25  e061544    make attribute "Review_Number" on version "M:\admin_view\NGC\tpu\3.41H\test\Win_7_log\Param_pass.log@@\main\1" (ASHWARE_3_4_REVB_RESULT)
+  "Added attribute "Review_Number" with value 27923."
+--05-22T10:25  ie10-clearcase_albd change master to "NGC_AZ10" of branch "M:\admin_view\NGC\tpu\3.41H\test\Win_7_log\Param_pass.log@@\main"
+  "Reqmaster changed master replica from "hiso_ngc" to "NGC_AZ10".
+   Requester: user "NAMERICA3\e061544" in domain "NAMERICA3" on host "AZ10LT238YXV1""
+--05-22T10:24  ie10-clearcase_albd change master to "NGC_AZ10" of branch "M:\admin_view\NGC\SDF\Environment\ToolUsage.doc@@\main"
+  "Reqmaster changed master replica from "hiso_ngc" to "NGC_AZ10".
+   Requester: user "NAMERICA3\e061544" in domain "NAMERICA3" on host "AZ10LT238YXV1""
+--05-22T10:24  e061544    make attribute "Review_Number" on version "M:\admin_view\NGC\tpu\3.41H\test\Win_7_log\Param_fail.log@@\main\1" (ASHWARE_3_4_REVB_RESULT)
+  "Added attribute "Review_Number" with value 27923."
+--05-22T10:24  ie10-clearcase_albd change master to "NGC_AZ10" of branch "M:\admin_view\NGC\tpu\3.41H\test\Win_7_log\Param_fail.log@@\main"
+  "Reqmaster changed master replica from "hiso_ngc" to "NGC_AZ10".
+   Requester: user "NAMERICA3\e061544" in domain "NAMERICA3" on host "AZ10LT238YXV1""
+--05-22T10:24  e061544    make attribute "Review_Number" on version "M:\admin_view\NGC\tpu\3.41H\test\Win_7_log\Coverage_pass.log@@\main\1" (ASHWARE_3_4_REVB_RESULT)
+  "Added attribute "Review_Number" with value 27923."
+--05-22T10:24  ie10-clearcase_albd change master to "NGC_AZ10" of branch "M:\admin_view\NGC\tpu\3.41H\test\Win_7_log\Coverage_pass.log@@\main"
+  "Reqmaster changed master replica from "hiso_ngc" to "NGC_AZ10".
+   Requester: user "NAMERICA3\e061544" in domain "NAMERICA3" on host "AZ10LT238YXV1""
+--05-22T10:24  e061544    make attribute "Review_Number" on version "M:\admin_view\NGC\tpu\3.41H\test\Win_7_log\Coverage_fail.log@@\main\1" (ASHWARE_3_4_REVB_RESULT)
+  "Added attribute "Review_Number" with value 27923."
+--05-22T10:24  ie10-clearcase_albd change master to "NGC_AZ10" of branch "M:\admin_view\NGC\tpu\3.41H\test\Win_7_log\Coverage_fail.log@@\main"
+  "Reqmaster changed master replica from "hiso_ngc" to "NGC_AZ10".
+   Requester: user "NAMERICA3\e061544" in domain "NAMERICA3" on host "AZ10LT238YXV1""
+--05-22T10:24  e061544    make attribute "Review_Number" on version "M:\admin_view\NGC\tpu\3.41H\test\Win_7_log\Behavior_Fail.log@@\main\1" (ASHWARE_3_4_REVB_RESULT)
+  "Added attribute "Review_Number" with value 27923."
+--05-22T10:24  ie10-clearcase_albd change master to "NGC_AZ10" of branch "M:\admin_view\NGC\tpu\3.41H\test\Win_7_log\Behavior_Fail.log@@\main"
+  "Reqmaster changed master replica from "hiso_ngc" to "NGC_AZ10".
+   Requester: user "NAMERICA3\e061544" in domain "NAMERICA3" on host "AZ10LT238YXV1""
+--05-22T10:24  e061544    make attribute "Review_Number" on version "M:\admin_view\NGC\tpu\3.41H\test\Win_7_log\Behavior_All_Pulses.log@@\main\1" (ASHWARE_3_4_REVB_RESULT)
+  "Added attribute "Review_Number" with value 27923."
+--05-22T10:24  ie10-clearcase_albd change master to "NGC_AZ10" of branch "M:\admin_view\NGC\tpu\3.41H\test\Win_7_log\Behavior_All_Pulses.log@@\main"
+  "Reqmaster changed master replica from "hiso_ngc" to "NGC_AZ10".
+   Requester: user "NAMERICA3\e061544" in domain "NAMERICA3" on host "AZ10LT238YXV1""
+--05-22T10:24  e061544    make attribute "Review_Number" on version "M:\admin_view\NGC\tpu\3.41H\test\testfunc.bat@@\main\2" (ASHWARE_3_4_REVB)
+  "Added attribute "Review_Number" with value 27923."
+--05-22T10:23  ie10-clearcase_albd change master to "NGC_AZ10" of branch "M:\admin_view\NGC\tpu\3.41H\test\testfunc.bat@@\main"
+  "Reqmaster changed master replica from "hiso_ngc" to "NGC_AZ10".
+   Requester: user "NAMERICA3\e061544" in domain "NAMERICA3" on host "AZ10LT238YXV1""
+--05-22T10:23  e061544    make attribute "Review_Number" on version "M:\admin_view\NGC\tpu\3.41H\VDD\SW4208694-1001.doc@@\main\24" (SW4208694-1001_RevB)
+  "Added attribute "Review_Number" with value 27923."

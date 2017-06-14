@@ -1,0 +1,131 @@
+--06-30T10:46  clearcase_nm75 protect directory element "M:\admin_view\GNSS_MIO_NC\.@@"
+  "CHMOD 775"
+--06-25T11:13  clearcase_nm75 import sync from replica "GNSS_MIO_NC_AZ75" to replica "GNSS_MIO_NC_FL51"
+  "Imported synchronization information from replica "GNSS_MIO_NC_AZ75".
+   Row at import was: GNSS_MIO_NC_AZ10=718 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_AZ75=0 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_FL51=0"
+--06-25T11:05  clearcase_nm75 import sync from replica "GNSS_MIO_NC_AZ18" to replica "GNSS_MIO_NC_FL51"
+  "Imported synchronization information from replica "GNSS_MIO_NC_AZ18".
+   Row at import was: GNSS_MIO_NC_AZ10=718 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_AZ75=0 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_FL51=0"
+--06-25T11:04  clearcase_nm75 import sync from replica "GNSS_MIO_NC_WA05" to replica "GNSS_MIO_NC_FL51"
+  "Imported synchronization information from replica "GNSS_MIO_NC_WA05".
+   Row at import was: GNSS_MIO_NC_AZ10=718 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_AZ75=0 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_FL51=0"
+--06-25T11:02  clearcase_nm75 import sync from replica "GNSS_MIO_NC_AZ75" to replica "GNSS_MIO_NC_FL51"
+  "Imported synchronization information from replica "GNSS_MIO_NC_AZ75".
+   Row at import was: GNSS_MIO_NC_AZ10=718 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_AZ75=0 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_FL51=0"
+--06-25T11:01  clearcase_nm75 export sync from replica "GNSS_MIO_NC_FL51" to replica "GNSS_MIO_NC_WA05"
+  "Exported synchronization information for replica "GNSS_MIO_NC_WA05".
+   Row at export was: GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_AZ10=717 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_FL51=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_AZ75=0"
+--06-25T11:01  clearcase_nm75 export sync from replica "GNSS_MIO_NC_FL51" to replica "GNSS_MIO_NC_KS07"
+  "Exported synchronization information for replica "GNSS_MIO_NC_KS07".
+   Row at export was: GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_AZ10=717 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_FL51=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_AZ75=0"
+--06-25T11:01  clearcase_nm75 export sync from replica "GNSS_MIO_NC_FL51" to replica "GNSS_MIO_NC_IE1A"
+  "Exported synchronization information for replica "GNSS_MIO_NC_IE1A".
+   Row at export was: GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_AZ10=717 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_FL51=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_AZ75=0"
+--06-25T11:01  clearcase_nm75 export sync from replica "GNSS_MIO_NC_FL51" to replica "GNSS_MIO_NC_AZ75"
+  "Exported synchronization information for replica "GNSS_MIO_NC_AZ75".
+   Row at export was: GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_AZ10=717 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_FL51=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_AZ75=0"
+--06-25T11:01  clearcase_nm75 export sync from replica "GNSS_MIO_NC_FL51" to replica "GNSS_MIO_NC_AZ18"
+  "Exported synchronization information for replica "GNSS_MIO_NC_AZ18".
+   Row at export was: GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_AZ10=717 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_FL51=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_AZ75=0"
+--06-25T11:01  clearcase_nm75 import sync from replica "GNSS_MIO_NC_KS07" to replica "GNSS_MIO_NC_FL51"
+  "Imported synchronization information from replica "GNSS_MIO_NC_KS07".
+   Row at import was: GNSS_MIO_NC_AZ10=718 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_AZ75=0 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_FL51=0"
+--06-25T11:00  clearcase_nm75 import sync from replica "GNSS_MIO_NC_AZ10" to replica "GNSS_MIO_NC_FL51"
+  "Imported synchronization information from replica "GNSS_MIO_NC_AZ10".
+   Row at import was: GNSS_MIO_NC_AZ10=717 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_AZ75=0 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_FL51=0"
+--06-25T10:55  clearcase_nm75 import sync from replica "GNSS_MIO_NC_AZ18" to replica "GNSS_MIO_NC_FL51"
+  "Imported synchronization information from replica "GNSS_MIO_NC_AZ18".
+   Row at import was: GNSS_MIO_NC_AZ10=717 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_AZ75=0 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_FL51=0"
+--06-25T10:53  E820459    checkout directory version "M:\admin_view\GNSS_MIO_NC\Software\design" from \main\1 (reserved)
+--06-25T10:51  clearcase_nm75 export sync from replica "GNSS_MIO_NC_FL51" to replica "GNSS_MIO_NC_WA05"
+  "Exported synchronization information for replica "GNSS_MIO_NC_WA05".
+   Row at export was: GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_AZ10=716 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_FL51=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_AZ75=0"
+--06-25T10:51  clearcase_nm75 export sync from replica "GNSS_MIO_NC_FL51" to replica "GNSS_MIO_NC_KS07"
+  "Exported synchronization information for replica "GNSS_MIO_NC_KS07".
+   Row at export was: GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_AZ10=716 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_FL51=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_AZ75=0"
+--06-25T10:51  clearcase_nm75 export sync from replica "GNSS_MIO_NC_FL51" to replica "GNSS_MIO_NC_IE1A"
+  "Exported synchronization information for replica "GNSS_MIO_NC_IE1A".
+   Row at export was: GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_AZ10=716 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_FL51=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_AZ75=0"
+--06-25T10:51  clearcase_nm75 export sync from replica "GNSS_MIO_NC_FL51" to replica "GNSS_MIO_NC_AZ75"
+  "Exported synchronization information for replica "GNSS_MIO_NC_AZ75".
+   Row at export was: GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_AZ10=716 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_FL51=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_AZ75=0"
+--06-25T10:51  clearcase_nm75 export sync from replica "GNSS_MIO_NC_FL51" to replica "GNSS_MIO_NC_AZ18"
+  "Exported synchronization information for replica "GNSS_MIO_NC_AZ18".
+   Row at export was: GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_AZ10=716 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_FL51=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_AZ75=0"
+--06-25T10:51  clearcase_nm75 import sync from replica "GNSS_MIO_NC_KS07" to replica "GNSS_MIO_NC_FL51"
+  "Imported synchronization information from replica "GNSS_MIO_NC_KS07".
+   Row at import was: GNSS_MIO_NC_AZ10=717 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_AZ75=0 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_FL51=0"
+--06-25T10:50  clearcase_nm75 import sync from replica "GNSS_MIO_NC_AZ10" to replica "GNSS_MIO_NC_FL51"
+  "Imported synchronization information from replica "GNSS_MIO_NC_AZ10".
+   Row at import was: GNSS_MIO_NC_AZ10=716 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_AZ75=0 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_FL51=0"
+--06-25T10:41  E820459    checkout version "M:\admin_view\GNSS_MIO_NC\Software\design\gnss.mdl" from \main\1 (reserved)
+--06-19T22:13  clearcase_nm75 protect directory element "M:\admin_view\GNSS_MIO_NC\.@@"
+  "CHMOD 770"
+--06-19T22:13  clearcase_nm75 protect directory element "M:\admin_view\GNSS_MIO_NC\.@@"
+  "CHMOD 775"
+--06-17T15:13  clearcase_nm75 import sync from replica "GNSS_MIO_NC_AZ75" to replica "GNSS_MIO_NC_FL51"
+  "Imported synchronization information from replica "GNSS_MIO_NC_AZ75".
+   Row at import was: GNSS_MIO_NC_AZ10=716 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_AZ75=0 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_FL51=0"
+--06-17T15:05  clearcase_nm75 import sync from replica "GNSS_MIO_NC_AZ18" to replica "GNSS_MIO_NC_FL51"
+  "Imported synchronization information from replica "GNSS_MIO_NC_AZ18".
+   Row at import was: GNSS_MIO_NC_AZ10=716 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_AZ75=0 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_FL51=0"
+--06-17T15:04  clearcase_nm75 import sync from replica "GNSS_MIO_NC_WA05" to replica "GNSS_MIO_NC_FL51"
+  "Imported synchronization information from replica "GNSS_MIO_NC_WA05".
+   Row at import was: GNSS_MIO_NC_AZ10=716 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_AZ75=0 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_FL51=0"
+--06-17T15:03  clearcase_nm75 export sync from replica "GNSS_MIO_NC_FL51" to replica "GNSS_MIO_NC_WA05"
+  "Exported synchronization information for replica "GNSS_MIO_NC_WA05".
+   Row at export was: GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_AZ10=715 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_FL51=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_AZ75=0"
+--06-17T15:03  clearcase_nm75 export sync from replica "GNSS_MIO_NC_FL51" to replica "GNSS_MIO_NC_KS07"
+  "Exported synchronization information for replica "GNSS_MIO_NC_KS07".
+   Row at export was: GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_AZ10=715 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_FL51=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_AZ75=0"
+--06-17T15:02  clearcase_nm75 export sync from replica "GNSS_MIO_NC_FL51" to replica "GNSS_MIO_NC_IE1A"
+  "Exported synchronization information for replica "GNSS_MIO_NC_IE1A".
+   Row at export was: GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_AZ10=715 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_FL51=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_AZ75=0"
+--06-17T15:02  clearcase_nm75 export sync from replica "GNSS_MIO_NC_FL51" to replica "GNSS_MIO_NC_AZ75"
+  "Exported synchronization information for replica "GNSS_MIO_NC_AZ75".
+   Row at export was: GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_AZ10=715 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_FL51=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_AZ75=0"
+--06-17T15:02  clearcase_nm75 export sync from replica "GNSS_MIO_NC_FL51" to replica "GNSS_MIO_NC_AZ18"
+  "Exported synchronization information for replica "GNSS_MIO_NC_AZ18".
+   Row at export was: GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_AZ10=715 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_FL51=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_AZ75=0"
+--06-17T15:01  clearcase_nm75 import sync from replica "GNSS_MIO_NC_KS07" to replica "GNSS_MIO_NC_FL51"
+  "Imported synchronization information from replica "GNSS_MIO_NC_KS07".
+   Row at import was: GNSS_MIO_NC_AZ10=716 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_AZ75=0 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_FL51=0"
+--06-17T15:00  clearcase_nm75 import sync from replica "GNSS_MIO_NC_AZ10" to replica "GNSS_MIO_NC_FL51"
+  "Imported synchronization information from replica "GNSS_MIO_NC_AZ10".
+   Row at import was: GNSS_MIO_NC_AZ10=715 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_AZ75=0 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_FL51=0"
+--06-17T14:52  e047699    checkout version "M:\admin_view\GNSS_MIO_NC\Software\IO\code\Ads7828Api.cpp" from \main\4 (reserved)
+--06-14T13:51  clearcase_nm75 import sync from replica "GNSS_MIO_NC_AZ75" to replica "GNSS_MIO_NC_FL51"
+  "Imported synchronization information from replica "GNSS_MIO_NC_AZ75".
+   Row at import was: GNSS_MIO_NC_AZ10=715 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_AZ75=0 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_FL51=0"
+--06-14T13:49  clearcase_nm75 import sync from replica "GNSS_MIO_NC_WA05" to replica "GNSS_MIO_NC_FL51"
+  "Imported synchronization information from replica "GNSS_MIO_NC_WA05".
+   Row at import was: GNSS_MIO_NC_AZ10=715 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_AZ75=0 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_FL51=0"
+--06-14T13:45  clearcase_nm75 import sync from replica "GNSS_MIO_NC_AZ18" to replica "GNSS_MIO_NC_FL51"
+  "Imported synchronization information from replica "GNSS_MIO_NC_AZ18".
+   Row at import was: GNSS_MIO_NC_AZ10=715 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_AZ75=0 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_FL51=0"
+--06-14T13:41  clearcase_nm75 export sync from replica "GNSS_MIO_NC_FL51" to replica "GNSS_MIO_NC_WA05"
+  "Exported synchronization information for replica "GNSS_MIO_NC_WA05".
+   Row at export was: GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_AZ10=701 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_FL51=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_AZ75=0"
+--06-14T13:41  clearcase_nm75 export sync from replica "GNSS_MIO_NC_FL51" to replica "GNSS_MIO_NC_KS07"
+  "Exported synchronization information for replica "GNSS_MIO_NC_KS07".
+   Row at export was: GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_AZ10=701 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_FL51=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_AZ75=0"
+--06-14T13:41  clearcase_nm75 export sync from replica "GNSS_MIO_NC_FL51" to replica "GNSS_MIO_NC_IE1A"
+  "Exported synchronization information for replica "GNSS_MIO_NC_IE1A".
+   Row at export was: GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_AZ10=701 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_FL51=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_AZ75=0"
+--06-14T13:41  clearcase_nm75 export sync from replica "GNSS_MIO_NC_FL51" to replica "GNSS_MIO_NC_AZ75"
+  "Exported synchronization information for replica "GNSS_MIO_NC_AZ75".
+   Row at export was: GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_AZ10=701 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_FL51=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_AZ75=0"
+--06-14T13:41  clearcase_nm75 export sync from replica "GNSS_MIO_NC_FL51" to replica "GNSS_MIO_NC_AZ18"
+  "Exported synchronization information for replica "GNSS_MIO_NC_AZ18".
+   Row at export was: GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_AZ10=701 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_FL51=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_AZ75=0"
+--06-14T13:41  clearcase_nm75 import sync from replica "GNSS_MIO_NC_KS07" to replica "GNSS_MIO_NC_FL51"
+  "Imported synchronization information from replica "GNSS_MIO_NC_KS07".
+   Row at import was: GNSS_MIO_NC_AZ10=715 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_AZ75=0 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_FL51=0"
+--06-14T13:40  clearcase_nm75 import sync from replica "GNSS_MIO_NC_AZ10" to replica "GNSS_MIO_NC_FL51"
+  "Imported synchronization information from replica "GNSS_MIO_NC_AZ10".
+   Row at import was: GNSS_MIO_NC_AZ10=701 GNSS_MIO_NC_AZ18=0 GNSS_MIO_NC_AZ75=0 GNSS_MIO_NC_KS07=0 GNSS_MIO_NC_WA05=0 GNSS_MIO_NC_IE1A=10 GNSS_MIO_NC_FL51=0"
+--06-14T13:39  e047699    create version "M:\admin_view\GNSS_MIO_NC\Software\IO\A2DPM\code\Ads7828InputProcessing.cpp@@\main\2"
+--06-14T13:39  e047699    create version "M:\admin_view\GNSS_MIO_NC\Software\IO\A2DPM\code\Ads7828Input.h@@\main\2"
+--06-14T13:39  e047699    create version "M:\admin_view\GNSS_MIO_NC\Software\IO\A2DPM\code\Ads7828Input.cpp@@\main\2"
+--06-14T13:39  e047699    create version "M:\admin_view\GNSS_MIO_NC\Software\IO\A2DPM\code\make.inc@@\main\2"
+--06-14T13:39  e047699    create version "M:\admin_view\GNSS_MIO_NC\Software\IO\A2DPM\code\Ads7828Writer.h@@\main\2"

@@ -1,0 +1,110 @@
+--06-30T10:44  clearcase_nm75 protect directory element "M:\admin_view\A1M_PVOB\.@@"
+  "CHMOD 775"
+--06-19T17:40  clearcase_nm75 export sync from replica "A1M_PVOB_FL51" to replica "A1M_PVOB_DCW"
+  "Exported synchronization information for replica "A1M_PVOB_DCW".
+   Row at export was: A1M_PVOB_FL51=471 A1M_PVOB_DCW=3 A1M_PVOB_PR08=872 A1M_PVOB_AZ18.deleted=1"
+--06-19T17:37  clearcase_nm75 protect directory element "M:\admin_view\A1M_PVOB\.@@"
+  "CHMOD 770"
+--06-19T17:37  clearcase_nm75 protect directory element "M:\admin_view\A1M_PVOB\.@@"
+  "CHMOD 775"
+--06-19T17:20  clearcase_nm75 export sync from replica "A1M_PVOB_FL51" to replica "A1M_PVOB_DCW"
+  "Exported synchronization information for replica "A1M_PVOB_DCW".
+   Row at export was: A1M_PVOB_FL51=469 A1M_PVOB_DCW=3 A1M_PVOB_PR08=872 A1M_PVOB_AZ18.deleted=1"
+--06-19T17:15  clearcase_nm75 protect directory element "M:\admin_view\A1M_PVOB\.@@"
+  "CHMOD 770"
+--06-19T17:15  clearcase_nm75 protect directory element "M:\admin_view\A1M_PVOB\.@@"
+  "CHMOD 775"
+--03-25T13:40  clearcase_nm75 import sync from replica "A1M_PVOB_DCW" to replica "A1M_PVOB_FL51"
+  "Imported synchronization information from replica "A1M_PVOB_DCW".
+   Row at import was: A1M_PVOB_AZ18.deleted=1 A1M_PVOB_PR08=872 A1M_PVOB_DCW=3 A1M_PVOB_FL51=469"
+--03-25T13:30  clearcase_nm75 export sync from replica "A1M_PVOB_FL51" to replica "A1M_PVOB_DCW"
+  "Exported synchronization information for replica "A1M_PVOB_DCW".
+   Row at export was: A1M_PVOB_FL51=469 A1M_PVOB_DCW=3 A1M_PVOB_PR08=871 A1M_PVOB_AZ18.deleted=1"
+--03-25T13:30  clearcase_nm75 import sync from replica "A1M_PVOB_PR08" to replica "A1M_PVOB_FL51"
+  "Imported synchronization information from replica "A1M_PVOB_PR08".
+   Row at import was: A1M_PVOB_AZ18.deleted=1 A1M_PVOB_PR08=871 A1M_PVOB_DCW=3 A1M_PVOB_FL51=469"
+--03-25T13:14  clearcase_nm75 unset work for activity "e428345_A1M_3"
+--03-24T16:31  clearcase_nm75 export sync from replica "A1M_PVOB_FL51" to replica "A1M_PVOB_DCW"
+  "Exported synchronization information for replica "A1M_PVOB_DCW".
+   Row at export was: A1M_PVOB_FL51=469 A1M_PVOB_DCW=3 A1M_PVOB_PR08=871 A1M_PVOB_AZ18.deleted=0"
+--03-24T16:00  clearcase_nm75 import sync from replica "A1M_PVOB_PR08" to replica "A1M_PVOB_FL51"
+  "Imported synchronization information from replica "A1M_PVOB_PR08".
+   Row at import was: A1M_PVOB_AZ18.deleted=1 A1M_PVOB_PR08=871 A1M_PVOB_DCW=3 A1M_PVOB_FL51=469"
+--03-24T15:50  clearcase_nm75 import sync from replica "A1M_PVOB_DCW" to replica "A1M_PVOB_FL51"
+  "Imported synchronization information from replica "A1M_PVOB_DCW".
+   Row at import was: A1M_PVOB_AZ18=1 A1M_PVOB_PR08=871 A1M_PVOB_DCW=0 A1M_PVOB_FL51=469"
+--03-24T15:32  VOBADM_M   rename replica "A1M_PVOB_AZ18.deleted"
+  "Changed name of replica from "A1M_PVOB_AZ18" to "A1M_PVOB_AZ18.deleted".
+   Destroyed replica "A1M_PVOB_AZ18"."
+--03-24T15:32  VOBADM_M   destroy replica in versioned object base "\A1M_PVOB"
+  "Destroyed replica "A1M_PVOB_AZ18"."
+--03-24T15:32  VOBADM_M   change master to "A1M_PVOB_DCW" of replica "A1M_PVOB_DCW"
+  "Changed master replica from "A1M_PVOB_AZ18" to "A1M_PVOB_DCW"."
+--03-24T15:32  VOBADM_M   change master to "A1M_PVOB_DCW" of replica "A1M_PVOB_AZ18.deleted"
+  "Changed master replica from "A1M_PVOB_AZ18" to "A1M_PVOB_DCW"."
+--07-26T15:20  clearcase_nm75 import sync from replica "A1M_PVOB_DCW" to replica "A1M_PVOB_FL51"
+  "Imported synchronization information from replica "A1M_PVOB_DCW".
+   Row at import was: A1M_PVOB_AZ18=1 A1M_PVOB_PR08=871 A1M_PVOB_DCW=0 A1M_PVOB_FL51=469"
+--07-25T15:10  clearcase_nm75 import sync from replica "A1M_PVOB_PR08" to replica "A1M_PVOB_FL51"
+  "Imported synchronization information from replica "A1M_PVOB_PR08".
+   Row at import was: A1M_PVOB_AZ18=1 A1M_PVOB_PR08=871 A1M_PVOB_DCW=0 A1M_PVOB_FL51=469"
+--07-25T15:00  clearcase_nm75 import sync from replica "A1M_PVOB_AZ18.deleted" to replica "A1M_PVOB_FL51"
+  "Imported synchronization information from replica "A1M_PVOB_AZ18".
+   Row at import was: A1M_PVOB_AZ18=0 A1M_PVOB_PR08=871 A1M_PVOB_FL51=469"
+--07-25T14:44  root       create replica "A1M_PVOB_DCW"
+--07-09T17:30  clearcase_nm75 import sync from replica "A1M_PVOB_AZ18.deleted" to replica "A1M_PVOB_FL51"
+  "Imported synchronization information from replica "A1M_PVOB_AZ18".
+   Row at import was: A1M_PVOB_AZ18=0 A1M_PVOB_PR08=871 A1M_PVOB_FL51=469"
+--07-09T17:20  clearcase_nm75 export sync from replica "A1M_PVOB_FL51" to replica "A1M_PVOB_AZ18.deleted"
+  "Exported synchronization information for replica "A1M_PVOB_AZ18".
+   Row at export was: A1M_PVOB_AZ18=0 A1M_PVOB_FL51=469 A1M_PVOB_PR08=870"
+--07-09T17:20  clearcase_nm75 import sync from replica "A1M_PVOB_PR08" to replica "A1M_PVOB_FL51"
+  "Imported synchronization information from replica "A1M_PVOB_PR08".
+   Row at import was: A1M_PVOB_AZ18=0 A1M_PVOB_PR08=870 A1M_PVOB_FL51=469"
+--07-09T17:20  clearcase_nm75 import sync from replica "A1M_PVOB_AZ18.deleted" to replica "A1M_PVOB_FL51"
+  "Imported synchronization information from replica "A1M_PVOB_AZ18".
+   Row at import was: A1M_PVOB_AZ18=0 A1M_PVOB_PR08=870 A1M_PVOB_FL51=469"
+--07-09T17:10  clearcase_nm75 export sync from replica "A1M_PVOB_FL51" to replica "A1M_PVOB_AZ18.deleted"
+  "Exported synchronization information for replica "A1M_PVOB_AZ18".
+   Row at export was: A1M_PVOB_AZ18=0 A1M_PVOB_FL51=469 A1M_PVOB_PR08=858"
+--07-09T17:10  clearcase_nm75 import sync from replica "A1M_PVOB_PR08" to replica "A1M_PVOB_FL51"
+  "Imported synchronization information from replica "A1M_PVOB_PR08".
+   Row at import was: A1M_PVOB_AZ18=0 A1M_PVOB_PR08=858 A1M_PVOB_FL51=469"
+--07-09T17:09  E428345    set work for activity "A1M_Integration"
+  "User "SVMap" in view "PR08W9301:D:\IBM\RationalSDLC\ClearCase\var\ccweb\E428345.NAMERICA4\e428345_A1M_int_2\view.stg"."
+--07-09T17:01  E428345    set work for activity "A1M_Integration"
+  "User "SVMap" in view "PR08W9301:D:\IBM\RationalSDLC\ClearCase\var\ccweb\E428345.NAMERICA4\e428345_A1M_int\view.stg"."
+--07-09T17:01  E428345    set work for activity "e428345_A1M_3"
+  "User "SVMap" in view "PR08W9301:D:\IBM\RationalSDLC\ClearCase\var\ccweb\E428345.NAMERICA4\e428345_A1M_3\view.stg"."
+--07-09T17:01  E428345    set process variable on activity "internal130709.170142.1"
+  "Set activity process variable named "SUM_Stream_special_folder_type"."
+--07-09T17:01  E428345    make folder "internal130709.170142.1"
+--07-09T17:01  E428345    set process variable on activity "internal130709.170142"
+  "Set activity process variable named "SUM_Stream_special_folder_type"."
+--07-09T17:01  E428345    make folder "internal130709.170142"
+--07-09T17:01  E428345    change stream "e428345_A1M_3"
+  "Updated config_spec.
+   Regenerated config spec"
+--07-09T17:01  E428345    set process variable on activity "e428345_A1M_3"
+  "Set activity process variable named "SUM_CSPEC_ID"."
+--07-09T17:01  E428345    make hyperlink "UseBaseline" on activity "e428345_A1M_3"
+--07-09T17:01  E428345    make hyperlink "UseBaseline" on baseline "A1M_9_21_2012"
+--07-09T17:01  E428345    create hyperlink "UseBaseline@533@\A1M_PVOB"
+--07-09T17:01  E428345    make hyperlink "IndependentGuard" on activity "e428345_A1M_3"
+--07-09T17:01  E428345    make hyperlink "IndependentGuard" on branch type "e428345_A1M_3"
+--07-09T17:01  E428345    create hyperlink "IndependentGuard@532@\A1M_PVOB"
+--07-09T17:01  E428345    create branch type "e428345_A1M_3"
+--07-09T17:01  E428345    make stream "e428345_A1M_3"
+2013-06-13     clearcase_nm75 import sync from replica "A1M_PVOB_AZ18.deleted" to replica "A1M_PVOB_FL51"
+  "Imported synchronization information from replica "A1M_PVOB_AZ18".
+   Row at import was: A1M_PVOB_AZ18=0 A1M_PVOB_PR08=858 A1M_PVOB_FL51=469"
+2013-06-13     clearcase_nm75 export sync from replica "A1M_PVOB_FL51" to replica "A1M_PVOB_AZ18.deleted"
+  "Exported synchronization information for replica "A1M_PVOB_AZ18".
+   Row at export was: A1M_PVOB_AZ18=0 A1M_PVOB_FL51=469 A1M_PVOB_PR08=857"
+2013-06-13     clearcase_nm75 import sync from replica "A1M_PVOB_PR08" to replica "A1M_PVOB_FL51"
+  "Imported synchronization information from replica "A1M_PVOB_PR08".
+   Row at import was: A1M_PVOB_AZ18=0 A1M_PVOB_PR08=857 A1M_PVOB_FL51=469"
+2013-06-13     E704548    import sync to replica "A1M_PVOB_PR08"
+  "Changed information associated with replica."
+2013-06-03     e564406    lock trigger type "NO_RMTYPE" (locked)
+  "Locked for all users."

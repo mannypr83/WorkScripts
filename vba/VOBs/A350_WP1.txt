@@ -1,0 +1,117 @@
+--06-30T10:45  clearcase_nm75 protect directory element "M:\admin_view\A350_WP1\.@@"
+  "CHMOD 775"
+--06-27T14:36  clearcase_nm75 import sync from replica "A350_WP1_IE1F" to replica "A350_WP1_FL51"
+  "Imported synchronization information from replica "A350_WP1_IE1F".
+   Row at import was: A350_WP1_AZ10=24019 A350_WP1_TUS04.deleted=3422 A350_WP1_AZ18.deleted=1 A350_WP1_IE10=17821 A350_WP1_IE1F=5766 A350_WP1_BRNO=0 A350_WP1_DCW=0 A350_WP1_FL51=4"
+--06-27T14:20  clearcase_nm75 import sync from replica "A350_WP1_DCW" to replica "A350_WP1_FL51"
+  "Imported synchronization information from replica "A350_WP1_DCW".
+   Row at import was: A350_WP1_AZ10=24019 A350_WP1_TUS04.deleted=3422 A350_WP1_AZ18.deleted=1 A350_WP1_IE10=17821 A350_WP1_IE1F=5766 A350_WP1_BRNO=0 A350_WP1_DCW=0 A350_WP1_FL51=4"
+--06-27T14:20  clearcase_nm75 export sync from replica "A350_WP1_FL51" to replica "A350_WP1_DCW"
+  "Exported synchronization information for replica "A350_WP1_DCW".
+   Row at export was: A350_WP1_TUS04.deleted=3422 A350_WP1_IE10=17821 A350_WP1_AZ18.deleted=1 A350_WP1_DCW=0 A350_WP1_AZ10=24015 A350_WP1_BRNO=0 A350_WP1_IE1F=5766 A350_WP1_FL51=4"
+--06-27T14:11  clearcase_nm75 import sync from replica "A350_WP1_AZ10" to replica "A350_WP1_FL51"
+  "Imported synchronization information from replica "A350_WP1_AZ10".
+   Row at import was: A350_WP1_AZ10=24015 A350_WP1_TUS04.deleted=3422 A350_WP1_AZ18.deleted=1 A350_WP1_IE10=17821 A350_WP1_IE1F=5766 A350_WP1_BRNO=0 A350_WP1_DCW=0 A350_WP1_FL51=4"
+--06-27T14:06  E549038    make attribute "Review_Number" on version "M:\admin_view\A350_WP1\Software\IOSystem\SolenoidDriver\code\SolenoidDriver.cpp@@\main\17"
+  "Added attribute "Review_Number" with value 39427."
+--06-27T14:06  E549038    make attribute "Review_Number" on version "M:\admin_view\A350_WP1\Software\IOSystem\HallSensor\code\HallSensor.cpp@@\main\14"
+  "Added attribute "Review_Number" with value 39427."
+--06-27T14:05  E549038    make attribute "Review_Number" on version "M:\admin_view\A350_WP1\Software\IOSystem\PressureSensor\code\PressureSensor.cpp@@\main\11"
+  "Added attribute "Review_Number" with value 39427."
+--06-27T14:05  E549038    make attribute "Review_Number" on version "M:\admin_view\A350_WP1\Software\Executives\code\Warmstart.cpp@@\main\19"
+  "Added attribute "Review_Number" with value 39427."
+--06-27T13:50  clearcase_nm75 import sync from replica "A350_WP1_DCW" to replica "A350_WP1_FL51"
+  "Imported synchronization information from replica "A350_WP1_DCW".
+   Row at import was: A350_WP1_AZ10=24015 A350_WP1_TUS04.deleted=3422 A350_WP1_AZ18.deleted=1 A350_WP1_IE10=17821 A350_WP1_IE1F=5766 A350_WP1_BRNO=0 A350_WP1_DCW=0 A350_WP1_FL51=4"
+--06-27T13:50  clearcase_nm75 export sync from replica "A350_WP1_FL51" to replica "A350_WP1_DCW"
+  "Exported synchronization information for replica "A350_WP1_DCW".
+   Row at export was: A350_WP1_TUS04.deleted=3422 A350_WP1_IE10=17821 A350_WP1_AZ18.deleted=1 A350_WP1_DCW=0 A350_WP1_AZ10=24010 A350_WP1_BRNO=0 A350_WP1_IE1F=5766 A350_WP1_FL51=4"
+--06-27T13:41  clearcase_nm75 import sync from replica "A350_WP1_AZ10" to replica "A350_WP1_FL51"
+  "Imported synchronization information from replica "A350_WP1_AZ10".
+   Row at import was: A350_WP1_AZ10=24010 A350_WP1_TUS04.deleted=3422 A350_WP1_AZ18.deleted=1 A350_WP1_IE10=17821 A350_WP1_IE1F=5766 A350_WP1_BRNO=0 A350_WP1_DCW=0 A350_WP1_FL51=4"
+--06-27T13:40  clearcase_nm75 import sync from replica "A350_WP1_DCW" to replica "A350_WP1_FL51"
+  "Imported synchronization information from replica "A350_WP1_DCW".
+   Row at import was: A350_WP1_AZ10=24010 A350_WP1_TUS04.deleted=3422 A350_WP1_AZ18.deleted=1 A350_WP1_IE10=17821 A350_WP1_IE1F=5766 A350_WP1_BRNO=0 A350_WP1_DCW=0 A350_WP1_FL51=4"
+--06-27T13:40  clearcase_nm75 export sync from replica "A350_WP1_FL51" to replica "A350_WP1_DCW"
+  "Exported synchronization information for replica "A350_WP1_DCW".
+   Row at export was: A350_WP1_TUS04.deleted=3422 A350_WP1_IE10=17821 A350_WP1_AZ18.deleted=1 A350_WP1_DCW=0 A350_WP1_AZ10=24009 A350_WP1_BRNO=0 A350_WP1_IE1F=5766 A350_WP1_FL51=4"
+--06-27T13:34  E549038    make attribute "Review_Number" on version "M:\admin_view\A350_WP1\Software\IOSystem\code\IOSystem.h@@\main\29"
+  "Added attribute "Review_Number" with value 39428."
+--06-27T13:33  E549038    make attribute "Review_Number" on version "M:\admin_view\A350_WP1\Software\IOSystem\code\IOSystem.cpp@@\main\35"
+  "Added attribute "Review_Number" with value 39428."
+--06-27T13:33  E549038    make attribute "Review_Number" on version "M:\admin_view\A350_WP1\Software\IOSystem\LowSideDriver\code\LowSideDriver.h@@\main\17"
+  "Added attribute "Review_Number" with value 39428."
+--06-27T13:33  E549038    make attribute "Review_Number" on version "M:\admin_view\A350_WP1\Software\IOSystem\LowSideDriver\code\LowSideDriver.cpp@@\main\20"
+  "Added attribute "Review_Number" with value 39428."
+--06-27T13:32  E549038    make attribute "Review_Number" on version "M:\admin_view\A350_WP1\Software\IOSystem\LowSideDriver\design\LowSideDriver.cat@@\main\15"
+  "Added attribute "Review_Number" with value 39428."
+--06-27T13:31  E549038    make attribute "Review_Number" on version "M:\admin_view\A350_WP1\Software\IOSystem\design\IOSystem.cat@@\main\30"
+  "Added attribute "Review_Number" with value 39428."
+--06-27T13:31  clearcase_nm75 import sync from replica "A350_WP1_AZ10" to replica "A350_WP1_FL51"
+  "Imported synchronization information from replica "A350_WP1_AZ10".
+   Row at import was: A350_WP1_AZ10=24009 A350_WP1_TUS04.deleted=3422 A350_WP1_AZ18.deleted=1 A350_WP1_IE10=17821 A350_WP1_IE1F=5766 A350_WP1_BRNO=0 A350_WP1_DCW=0 A350_WP1_FL51=4"
+--06-27T13:20  clearcase_nm75 import sync from replica "A350_WP1_DCW" to replica "A350_WP1_FL51"
+  "Imported synchronization information from replica "A350_WP1_DCW".
+   Row at import was: A350_WP1_AZ10=24009 A350_WP1_TUS04.deleted=3422 A350_WP1_AZ18.deleted=1 A350_WP1_IE10=17821 A350_WP1_IE1F=5766 A350_WP1_BRNO=0 A350_WP1_DCW=0 A350_WP1_FL51=4"
+--06-27T13:20  clearcase_nm75 export sync from replica "A350_WP1_FL51" to replica "A350_WP1_DCW"
+  "Exported synchronization information for replica "A350_WP1_DCW".
+   Row at export was: A350_WP1_TUS04.deleted=3422 A350_WP1_IE10=17821 A350_WP1_AZ18.deleted=1 A350_WP1_DCW=0 A350_WP1_AZ10=24007 A350_WP1_BRNO=0 A350_WP1_IE1F=5766 A350_WP1_FL51=4"
+--06-27T13:10  clearcase_nm75 import sync from replica "A350_WP1_AZ10" to replica "A350_WP1_FL51"
+  "Imported synchronization information from replica "A350_WP1_AZ10".
+   Row at import was: A350_WP1_AZ10=24007 A350_WP1_TUS04.deleted=3422 A350_WP1_AZ18.deleted=1 A350_WP1_IE10=17821 A350_WP1_IE1F=5766 A350_WP1_BRNO=0 A350_WP1_DCW=0 A350_WP1_FL51=4"
+--06-27T13:08  E549038    make attribute "Review_Number" on version "M:\admin_view\A350_WP1\Software\IOSystem\AtoD_24bit\code\ADS1258AtoD.h@@\main\13"
+  "Added attribute "Review_Number" with value 39429."
+--06-27T13:08  E549038    make attribute "Review_Number" on version "M:\admin_view\A350_WP1\Software\IOSystem\AtoD_24bit\design\AtoD_24bit.cat@@\main\11"
+  "Added attribute "Review_Number" with value 39429."
+--06-27T11:20  clearcase_nm75 import sync from replica "A350_WP1_AZ10" to replica "A350_WP1_FL51"
+  "Imported synchronization information from replica "A350_WP1_AZ10".
+   Row at import was: A350_WP1_AZ10=24007 A350_WP1_TUS04.deleted=3422 A350_WP1_AZ18.deleted=1 A350_WP1_IE10=17821 A350_WP1_IE1F=5766 A350_WP1_BRNO=0 A350_WP1_DCW=0 A350_WP1_FL51=4"
+--06-27T11:20  clearcase_nm75 import sync from replica "A350_WP1_DCW" to replica "A350_WP1_FL51"
+  "Imported synchronization information from replica "A350_WP1_DCW".
+   Row at import was: A350_WP1_AZ10=24003 A350_WP1_TUS04.deleted=3422 A350_WP1_AZ18.deleted=1 A350_WP1_IE10=17821 A350_WP1_IE1F=5766 A350_WP1_BRNO=0 A350_WP1_DCW=0 A350_WP1_FL51=4"
+--06-27T11:20  clearcase_nm75 export sync from replica "A350_WP1_FL51" to replica "A350_WP1_DCW"
+  "Exported synchronization information for replica "A350_WP1_DCW".
+   Row at export was: A350_WP1_TUS04.deleted=3422 A350_WP1_IE10=17821 A350_WP1_AZ18.deleted=1 A350_WP1_DCW=0 A350_WP1_AZ10=23994 A350_WP1_BRNO=0 A350_WP1_IE1F=5766 A350_WP1_FL51=4"
+--06-27T11:18  e051178    remove attribute "Review_Number" from version "M:\admin_view\A350_WP1\Software\IOSystem\LowSideDriver\code\LowSideDriver.cpp@@\main\19"
+--06-27T11:18  clearcase_nm75 make attribute "Review_Number" on version "M:\admin_view\A350_WP1\Software\IOSystem\LowSideDriver\code\LowSideDriver.cpp@@\main\20"
+--06-27T11:18  e051178    create version "M:\admin_view\A350_WP1\Software\IOSystem\LowSideDriver\code\LowSideDriver.cpp@@\main\20"
+  "Review 39428  Correct order of attribute init"
+--06-27T11:10  clearcase_nm75 import sync from replica "A350_WP1_AZ10" to replica "A350_WP1_FL51"
+  "Imported synchronization information from replica "A350_WP1_AZ10".
+   Row at import was: A350_WP1_AZ10=23994 A350_WP1_TUS04.deleted=3422 A350_WP1_AZ18.deleted=1 A350_WP1_IE10=17821 A350_WP1_IE1F=5766 A350_WP1_BRNO=0 A350_WP1_DCW=0 A350_WP1_FL51=4"
+--06-27T11:08  e051178    remove attribute "Review_Number" from version "M:\admin_view\A350_WP1\Software\IOSystem\LowSideDriver\code\LowSideDriver.cpp@@\main\18"
+--06-27T11:08  clearcase_nm75 make attribute "Review_Number" on version "M:\admin_view\A350_WP1\Software\IOSystem\LowSideDriver\code\LowSideDriver.cpp@@\main\19"
+--06-27T11:08  e051178    create version "M:\admin_view\A350_WP1\Software\IOSystem\LowSideDriver\code\LowSideDriver.cpp@@\main\19"
+  "Review 39428"
+--06-27T11:08  e051178    remove attribute "Review_Number" from version "M:\admin_view\A350_WP1\Software\IOSystem\LowSideDriver\code\LowSideDriver.h@@\main\16"
+--06-27T11:08  clearcase_nm75 make attribute "Review_Number" on version "M:\admin_view\A350_WP1\Software\IOSystem\LowSideDriver\code\LowSideDriver.h@@\main\17"
+--06-27T11:08  e051178    create version "M:\admin_view\A350_WP1\Software\IOSystem\LowSideDriver\code\LowSideDriver.h@@\main\17"
+  "Review 39428"
+--06-27T11:08  e051178    remove attribute "Review_Number" from version "M:\admin_view\A350_WP1\Software\IOSystem\LowSideDriver\design\LowSideDriver.cat@@\main\14"
+--06-27T11:08  clearcase_nm75 make attribute "Review_Number" on version "M:\admin_view\A350_WP1\Software\IOSystem\LowSideDriver\design\LowSideDriver.cat@@\main\15"
+--06-27T11:08  e051178    create version "M:\admin_view\A350_WP1\Software\IOSystem\LowSideDriver\design\LowSideDriver.cat@@\main\15"
+  "Review 39428"
+--06-27T11:00  clearcase_nm75 export sync from replica "A350_WP1_FL51" to replica "A350_WP1_DCW"
+  "Exported synchronization information for replica "A350_WP1_DCW".
+   Row at export was: A350_WP1_TUS04.deleted=3422 A350_WP1_IE10=17821 A350_WP1_AZ18.deleted=1 A350_WP1_DCW=0 A350_WP1_AZ10=23993 A350_WP1_BRNO=0 A350_WP1_IE1F=5766 A350_WP1_FL51=4"
+--06-27T10:50  clearcase_nm75 import sync from replica "A350_WP1_DCW" to replica "A350_WP1_FL51"
+  "Imported synchronization information from replica "A350_WP1_DCW".
+   Row at import was: A350_WP1_AZ10=23994 A350_WP1_TUS04.deleted=3422 A350_WP1_AZ18.deleted=1 A350_WP1_IE10=17821 A350_WP1_IE1F=5766 A350_WP1_BRNO=0 A350_WP1_DCW=0 A350_WP1_FL51=4"
+--06-27T10:50  clearcase_nm75 import sync from replica "A350_WP1_AZ10" to replica "A350_WP1_FL51"
+  "Imported synchronization information from replica "A350_WP1_AZ10".
+   Row at import was: A350_WP1_AZ10=23993 A350_WP1_TUS04.deleted=3422 A350_WP1_AZ18.deleted=1 A350_WP1_IE10=17821 A350_WP1_IE1F=5766 A350_WP1_BRNO=0 A350_WP1_DCW=0 A350_WP1_FL51=4"
+--06-27T10:10  clearcase_nm75 import sync from replica "A350_WP1_DCW" to replica "A350_WP1_FL51"
+  "Imported synchronization information from replica "A350_WP1_DCW".
+   Row at import was: A350_WP1_AZ10=23993 A350_WP1_TUS04.deleted=3422 A350_WP1_AZ18.deleted=1 A350_WP1_IE10=17821 A350_WP1_IE1F=5766 A350_WP1_BRNO=0 A350_WP1_DCW=0 A350_WP1_FL51=4"
+--06-27T10:10  clearcase_nm75 export sync from replica "A350_WP1_FL51" to replica "A350_WP1_DCW"
+  "Exported synchronization information for replica "A350_WP1_DCW".
+   Row at export was: A350_WP1_TUS04.deleted=3422 A350_WP1_IE10=17821 A350_WP1_AZ18.deleted=1 A350_WP1_DCW=0 A350_WP1_AZ10=23991 A350_WP1_BRNO=0 A350_WP1_IE1F=5766 A350_WP1_FL51=4"
+--06-27T10:01  clearcase_nm75 import sync from replica "A350_WP1_AZ10" to replica "A350_WP1_FL51"
+  "Imported synchronization information from replica "A350_WP1_AZ10".
+   Row at import was: A350_WP1_AZ10=23991 A350_WP1_TUS04.deleted=3422 A350_WP1_AZ18.deleted=1 A350_WP1_IE10=17821 A350_WP1_IE1F=5766 A350_WP1_BRNO=0 A350_WP1_DCW=0 A350_WP1_FL51=4"
+--06-26T18:10  clearcase_nm75 import sync from replica "A350_WP1_DCW" to replica "A350_WP1_FL51"
+  "Imported synchronization information from replica "A350_WP1_DCW".
+   Row at import was: A350_WP1_AZ10=23991 A350_WP1_TUS04.deleted=3422 A350_WP1_AZ18.deleted=1 A350_WP1_IE10=17821 A350_WP1_IE1F=5766 A350_WP1_BRNO=0 A350_WP1_DCW=0 A350_WP1_FL51=4"
+--06-26T18:03  clearcase_nm75 export sync from replica "A350_WP1_FL51" to replica "A350_WP1_DCW"
+  "Exported synchronization information for replica "A350_WP1_DCW".
+   Row at export was: A350_WP1_TUS04.deleted=3422 A350_WP1_IE10=17821 A350_WP1_AZ18.deleted=1 A350_WP1_DCW=0 A350_WP1_AZ10=23990 A350_WP1_BRNO=0 A350_WP1_IE1F=5766 A350_WP1_FL51=4"

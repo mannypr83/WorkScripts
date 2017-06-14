@@ -1,0 +1,21 @@
+[Global]
+CurrentProject=helloworld.vpj
+[ProjectDates]
+helloworld.vpj=20160406211719781
+[ActiveConfig]
+helloworld.vpj=Debug
+[TreeExpansion2]
++@ helloworld.vpj
+scroll:0
+[State]
+SCREEN: 1920 1080 360 72 1204 870 0 0 M 0 0 0 0 1540 673 0
+CWD: ..\SlickEditTest
+FILEHIST: 6
+..\..\Server Refresh\Scripts\Move Views\--- fl51nt1931 move_active_views_COMPLETE_4 - Web Views.txt
+..\..\Virtualization\Pauls Auto-start VM Scripts\Auto_Start_PCMS.reg.txt
+..\..\Virtualization\Pauls Auto-start VM Scripts\discon_service.bat.txt
+..\..\Virtualization\Pauls Auto-start VM Scripts\discon_startup.bat.txt
+hello world
+helloworld.pl
+TBCLASS: 0 0
+DEBUG2: 0

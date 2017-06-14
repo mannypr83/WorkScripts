@@ -1,0 +1,127 @@
+--06-30T10:46  clearcase_nm75 protect directory element "M:\admin_view\GNSS_MIO_PM_NC\.@@"
+  "CHMOD 775"
+--06-27T12:42  clearcase_nm75 export sync from replica "GNSS_MIO_PM_NC_FL51" to replica "GNSS_MIO_PM_NC_KS07"
+  "Exported synchronization information for replica "GNSS_MIO_PM_NC_KS07".
+   Row at export was: GNSS_MIO_PM_NC_AZ75=0 GNSS_MIO_PM_NC_IE1F=1 GNSS_MIO_PM_NC_KS07=0 GNSS_MIO_PM_NC_IE1A=1 GNSS_MIO_PM_NC_AZ10=14 GNSS_MIO_PM_NC_FL51=107 GNSS_MIO_PM_NC_AZ18=0"
+--06-27T12:42  clearcase_nm75 export sync from replica "GNSS_MIO_PM_NC_FL51" to replica "GNSS_MIO_PM_NC_IE1F"
+  "Exported synchronization information for replica "GNSS_MIO_PM_NC_IE1F".
+   Row at export was: GNSS_MIO_PM_NC_AZ75=0 GNSS_MIO_PM_NC_IE1F=1 GNSS_MIO_PM_NC_KS07=0 GNSS_MIO_PM_NC_IE1A=1 GNSS_MIO_PM_NC_AZ10=14 GNSS_MIO_PM_NC_FL51=107 GNSS_MIO_PM_NC_AZ18=0"
+--06-27T12:42  clearcase_nm75 export sync from replica "GNSS_MIO_PM_NC_FL51" to replica "GNSS_MIO_PM_NC_IE1A"
+  "Exported synchronization information for replica "GNSS_MIO_PM_NC_IE1A".
+   Row at export was: GNSS_MIO_PM_NC_AZ75=0 GNSS_MIO_PM_NC_IE1F=1 GNSS_MIO_PM_NC_KS07=0 GNSS_MIO_PM_NC_IE1A=1 GNSS_MIO_PM_NC_AZ10=14 GNSS_MIO_PM_NC_FL51=107 GNSS_MIO_PM_NC_AZ18=0"
+--06-27T12:42  clearcase_nm75 export sync from replica "GNSS_MIO_PM_NC_FL51" to replica "GNSS_MIO_PM_NC_AZ75"
+  "Exported synchronization information for replica "GNSS_MIO_PM_NC_AZ75".
+   Row at export was: GNSS_MIO_PM_NC_AZ75=0 GNSS_MIO_PM_NC_IE1F=1 GNSS_MIO_PM_NC_KS07=0 GNSS_MIO_PM_NC_IE1A=1 GNSS_MIO_PM_NC_AZ10=14 GNSS_MIO_PM_NC_FL51=107 GNSS_MIO_PM_NC_AZ18=0"
+--06-27T12:42  clearcase_nm75 export sync from replica "GNSS_MIO_PM_NC_FL51" to replica "GNSS_MIO_PM_NC_AZ18"
+  "Exported synchronization information for replica "GNSS_MIO_PM_NC_AZ18".
+   Row at export was: GNSS_MIO_PM_NC_AZ75=0 GNSS_MIO_PM_NC_IE1F=1 GNSS_MIO_PM_NC_KS07=0 GNSS_MIO_PM_NC_IE1A=1 GNSS_MIO_PM_NC_AZ10=14 GNSS_MIO_PM_NC_FL51=107 GNSS_MIO_PM_NC_AZ18=0"
+--06-27T12:41  clearcase_nm75 export sync from replica "GNSS_MIO_PM_NC_FL51" to replica "GNSS_MIO_PM_NC_AZ10"
+  "Exported synchronization information for replica "GNSS_MIO_PM_NC_AZ10".
+   Row at export was: GNSS_MIO_PM_NC_AZ75=0 GNSS_MIO_PM_NC_IE1F=1 GNSS_MIO_PM_NC_KS07=0 GNSS_MIO_PM_NC_IE1A=1 GNSS_MIO_PM_NC_AZ10=14 GNSS_MIO_PM_NC_FL51=107 GNSS_MIO_PM_NC_AZ18=0"
+--06-27T12:39  e725459    create directory version "M:\admin_view\GNSS_MIO_PM_NC\.@@\main\CHECKEDOUT.81\ProjectManagement\main\CHECKEDOUT.86\EnvironmentNeedsLog@@\main\3"
+  "Initial Check In
+    
+   Added file element "EnvironmentNeeds_IMMR_GNSS.xlsx"."
+--06-27T12:39  e725459    protect file element "M:\admin_view\GNSS_MIO_PM_NC\.@@\main\CHECKEDOUT.81\ProjectManagement\main\CHECKEDOUT.86\EnvironmentNeedsLog\main\3\EnvironmentNeeds_IMMR_GNSS.xlsx@@"
+  "CHMOD 770; CHOWN E582601; CHGRP aero.cc.gnss_mio_nc"
+--06-27T12:38  e725459    add name to directory version "M:\admin_view\GNSS_MIO_PM_NC\.@@\main\CHECKEDOUT.81\ProjectManagement\main\CHECKEDOUT.86\EnvironmentNeedsLog@@\main\3"
+  "Added file element "EnvironmentNeeds_IMMR_GNSS.xlsx".
+   Initial Check In"
+--06-27T12:38  e725459    create version "M:\admin_view\GNSS_MIO_PM_NC\.@@\main\CHECKEDOUT.81\ProjectManagement\main\CHECKEDOUT.86\EnvironmentNeedsLog\main\3\EnvironmentNeeds_IMMR_GNSS.xlsx@@\main\1"
+  "Initial Check In"
+--06-27T12:38  e725459    create version "M:\admin_view\GNSS_MIO_PM_NC\.@@\main\CHECKEDOUT.81\ProjectManagement\main\CHECKEDOUT.86\EnvironmentNeedsLog\main\3\EnvironmentNeeds_IMMR_GNSS.xlsx@@\main\0"
+--06-27T12:38  e725459    create branch "M:\admin_view\GNSS_MIO_PM_NC\.@@\main\CHECKEDOUT.81\ProjectManagement\main\CHECKEDOUT.86\EnvironmentNeedsLog\main\3\EnvironmentNeeds_IMMR_GNSS.xlsx@@\main"
+--06-27T12:38  e725459    create file element "M:\admin_view\GNSS_MIO_PM_NC\.@@\main\CHECKEDOUT.81\ProjectManagement\main\CHECKEDOUT.86\EnvironmentNeedsLog\main\3\EnvironmentNeeds_IMMR_GNSS.xlsx@@"
+  "Initial Check In"
+--06-25T14:02  clearcase_nm75 export sync from replica "GNSS_MIO_PM_NC_FL51" to replica "GNSS_MIO_PM_NC_KS07"
+  "Exported synchronization information for replica "GNSS_MIO_PM_NC_KS07".
+   Row at export was: GNSS_MIO_PM_NC_AZ75=0 GNSS_MIO_PM_NC_IE1F=1 GNSS_MIO_PM_NC_KS07=0 GNSS_MIO_PM_NC_IE1A=1 GNSS_MIO_PM_NC_AZ10=14 GNSS_MIO_PM_NC_FL51=102 GNSS_MIO_PM_NC_AZ18=0"
+--06-25T14:02  clearcase_nm75 export sync from replica "GNSS_MIO_PM_NC_FL51" to replica "GNSS_MIO_PM_NC_IE1F"
+  "Exported synchronization information for replica "GNSS_MIO_PM_NC_IE1F".
+   Row at export was: GNSS_MIO_PM_NC_AZ75=0 GNSS_MIO_PM_NC_IE1F=1 GNSS_MIO_PM_NC_KS07=0 GNSS_MIO_PM_NC_IE1A=1 GNSS_MIO_PM_NC_AZ10=14 GNSS_MIO_PM_NC_FL51=102 GNSS_MIO_PM_NC_AZ18=0"
+--06-25T14:02  clearcase_nm75 export sync from replica "GNSS_MIO_PM_NC_FL51" to replica "GNSS_MIO_PM_NC_IE1A"
+  "Exported synchronization information for replica "GNSS_MIO_PM_NC_IE1A".
+   Row at export was: GNSS_MIO_PM_NC_AZ75=0 GNSS_MIO_PM_NC_IE1F=1 GNSS_MIO_PM_NC_KS07=0 GNSS_MIO_PM_NC_IE1A=1 GNSS_MIO_PM_NC_AZ10=14 GNSS_MIO_PM_NC_FL51=102 GNSS_MIO_PM_NC_AZ18=0"
+--06-25T14:02  clearcase_nm75 export sync from replica "GNSS_MIO_PM_NC_FL51" to replica "GNSS_MIO_PM_NC_AZ75"
+  "Exported synchronization information for replica "GNSS_MIO_PM_NC_AZ75".
+   Row at export was: GNSS_MIO_PM_NC_AZ75=0 GNSS_MIO_PM_NC_IE1F=1 GNSS_MIO_PM_NC_KS07=0 GNSS_MIO_PM_NC_IE1A=1 GNSS_MIO_PM_NC_AZ10=14 GNSS_MIO_PM_NC_FL51=102 GNSS_MIO_PM_NC_AZ18=0"
+--06-25T14:01  clearcase_nm75 export sync from replica "GNSS_MIO_PM_NC_FL51" to replica "GNSS_MIO_PM_NC_AZ18"
+  "Exported synchronization information for replica "GNSS_MIO_PM_NC_AZ18".
+   Row at export was: GNSS_MIO_PM_NC_AZ75=0 GNSS_MIO_PM_NC_IE1F=1 GNSS_MIO_PM_NC_KS07=0 GNSS_MIO_PM_NC_IE1A=1 GNSS_MIO_PM_NC_AZ10=14 GNSS_MIO_PM_NC_FL51=102 GNSS_MIO_PM_NC_AZ18=0"
+--06-25T14:01  clearcase_nm75 export sync from replica "GNSS_MIO_PM_NC_FL51" to replica "GNSS_MIO_PM_NC_AZ10"
+  "Exported synchronization information for replica "GNSS_MIO_PM_NC_AZ10".
+   Row at export was: GNSS_MIO_PM_NC_AZ75=0 GNSS_MIO_PM_NC_IE1F=1 GNSS_MIO_PM_NC_KS07=0 GNSS_MIO_PM_NC_IE1A=1 GNSS_MIO_PM_NC_AZ10=14 GNSS_MIO_PM_NC_FL51=102 GNSS_MIO_PM_NC_AZ18=0"
+--06-25T13:58  e725459    create directory version "M:\admin_view\GNSS_MIO_PM_NC\.@@\main\CHECKEDOUT.81\ProjectManagement\main\CHECKEDOUT.86\Roadmap@@\main\3"
+  "Updated plan to get to IMMR pre-qual
+    
+   Added file element "PreQual Inchstones-2014_06_23.xlsx"."
+--06-25T13:57  e725459    protect file element "M:\admin_view\GNSS_MIO_PM_NC\.@@\main\CHECKEDOUT.81\ProjectManagement\main\CHECKEDOUT.86\Roadmap\main\3\PreQual Inchstones-2014_06_23.xlsx@@"
+  "CHMOD 770; CHOWN E582601; CHGRP aero.cc.gnss_mio_nc"
+--06-25T13:57  e725459    add name to directory version "M:\admin_view\GNSS_MIO_PM_NC\.@@\main\CHECKEDOUT.81\ProjectManagement\main\CHECKEDOUT.86\Roadmap@@\main\3"
+  "Added file element "PreQual Inchstones-2014_06_23.xlsx".
+   Updated plan to get to IMMR pre-qual"
+--06-25T13:57  e725459    create version "M:\admin_view\GNSS_MIO_PM_NC\.@@\main\CHECKEDOUT.81\ProjectManagement\main\CHECKEDOUT.86\Roadmap\main\3\PreQual Inchstones-2014_06_23.xlsx@@\main\1"
+  "Updated plan to get to IMMR pre-qual"
+--06-25T13:57  e725459    create version "M:\admin_view\GNSS_MIO_PM_NC\.@@\main\CHECKEDOUT.81\ProjectManagement\main\CHECKEDOUT.86\Roadmap\main\3\PreQual Inchstones-2014_06_23.xlsx@@\main\0"
+--06-25T13:57  e725459    create branch "M:\admin_view\GNSS_MIO_PM_NC\.@@\main\CHECKEDOUT.81\ProjectManagement\main\CHECKEDOUT.86\Roadmap\main\3\PreQual Inchstones-2014_06_23.xlsx@@\main"
+--06-25T13:57  e725459    create file element "M:\admin_view\GNSS_MIO_PM_NC\.@@\main\CHECKEDOUT.81\ProjectManagement\main\CHECKEDOUT.86\Roadmap\main\3\PreQual Inchstones-2014_06_23.xlsx@@"
+  "Updated plan to get to IMMR pre-qual"
+--06-25T11:41  clearcase_nm75 export sync from replica "GNSS_MIO_PM_NC_FL51" to replica "GNSS_MIO_PM_NC_KS07"
+  "Exported synchronization information for replica "GNSS_MIO_PM_NC_KS07".
+   Row at export was: GNSS_MIO_PM_NC_AZ75=0 GNSS_MIO_PM_NC_IE1F=1 GNSS_MIO_PM_NC_KS07=0 GNSS_MIO_PM_NC_IE1A=1 GNSS_MIO_PM_NC_AZ10=14 GNSS_MIO_PM_NC_FL51=100 GNSS_MIO_PM_NC_AZ18=0"
+--06-25T11:41  clearcase_nm75 export sync from replica "GNSS_MIO_PM_NC_FL51" to replica "GNSS_MIO_PM_NC_IE1F"
+  "Exported synchronization information for replica "GNSS_MIO_PM_NC_IE1F".
+   Row at export was: GNSS_MIO_PM_NC_AZ75=0 GNSS_MIO_PM_NC_IE1F=1 GNSS_MIO_PM_NC_KS07=0 GNSS_MIO_PM_NC_IE1A=1 GNSS_MIO_PM_NC_AZ10=14 GNSS_MIO_PM_NC_FL51=100 GNSS_MIO_PM_NC_AZ18=0"
+--06-25T11:41  clearcase_nm75 export sync from replica "GNSS_MIO_PM_NC_FL51" to replica "GNSS_MIO_PM_NC_IE1A"
+  "Exported synchronization information for replica "GNSS_MIO_PM_NC_IE1A".
+   Row at export was: GNSS_MIO_PM_NC_AZ75=0 GNSS_MIO_PM_NC_IE1F=1 GNSS_MIO_PM_NC_KS07=0 GNSS_MIO_PM_NC_IE1A=1 GNSS_MIO_PM_NC_AZ10=14 GNSS_MIO_PM_NC_FL51=100 GNSS_MIO_PM_NC_AZ18=0"
+--06-25T11:41  clearcase_nm75 export sync from replica "GNSS_MIO_PM_NC_FL51" to replica "GNSS_MIO_PM_NC_AZ75"
+  "Exported synchronization information for replica "GNSS_MIO_PM_NC_AZ75".
+   Row at export was: GNSS_MIO_PM_NC_AZ75=0 GNSS_MIO_PM_NC_IE1F=1 GNSS_MIO_PM_NC_KS07=0 GNSS_MIO_PM_NC_IE1A=1 GNSS_MIO_PM_NC_AZ10=14 GNSS_MIO_PM_NC_FL51=100 GNSS_MIO_PM_NC_AZ18=0"
+--06-25T11:41  clearcase_nm75 export sync from replica "GNSS_MIO_PM_NC_FL51" to replica "GNSS_MIO_PM_NC_AZ18"
+  "Exported synchronization information for replica "GNSS_MIO_PM_NC_AZ18".
+   Row at export was: GNSS_MIO_PM_NC_AZ75=0 GNSS_MIO_PM_NC_IE1F=1 GNSS_MIO_PM_NC_KS07=0 GNSS_MIO_PM_NC_IE1A=1 GNSS_MIO_PM_NC_AZ10=14 GNSS_MIO_PM_NC_FL51=100 GNSS_MIO_PM_NC_AZ18=0"
+--06-25T11:41  clearcase_nm75 export sync from replica "GNSS_MIO_PM_NC_FL51" to replica "GNSS_MIO_PM_NC_AZ10"
+  "Exported synchronization information for replica "GNSS_MIO_PM_NC_AZ10".
+   Row at export was: GNSS_MIO_PM_NC_AZ75=0 GNSS_MIO_PM_NC_IE1F=1 GNSS_MIO_PM_NC_KS07=0 GNSS_MIO_PM_NC_IE1A=1 GNSS_MIO_PM_NC_AZ10=14 GNSS_MIO_PM_NC_FL51=100 GNSS_MIO_PM_NC_AZ18=0"
+--06-19T22:17  clearcase_nm75 protect directory element "M:\admin_view\GNSS_MIO_PM_NC\.@@"
+  "CHMOD 770"
+--06-19T22:17  clearcase_nm75 protect directory element "M:\admin_view\GNSS_MIO_PM_NC\.@@"
+  "CHMOD 775"
+--06-13T10:12  clearcase_nm75 export sync from replica "GNSS_MIO_PM_NC_FL51" to replica "GNSS_MIO_PM_NC_KS07"
+  "Exported synchronization information for replica "GNSS_MIO_PM_NC_KS07".
+   Row at export was: GNSS_MIO_PM_NC_AZ75=0 GNSS_MIO_PM_NC_IE1F=1 GNSS_MIO_PM_NC_KS07=0 GNSS_MIO_PM_NC_IE1A=1 GNSS_MIO_PM_NC_AZ10=14 GNSS_MIO_PM_NC_FL51=92 GNSS_MIO_PM_NC_AZ18=0"
+--06-13T10:12  clearcase_nm75 export sync from replica "GNSS_MIO_PM_NC_FL51" to replica "GNSS_MIO_PM_NC_IE1F"
+  "Exported synchronization information for replica "GNSS_MIO_PM_NC_IE1F".
+   Row at export was: GNSS_MIO_PM_NC_AZ75=0 GNSS_MIO_PM_NC_IE1F=1 GNSS_MIO_PM_NC_KS07=0 GNSS_MIO_PM_NC_IE1A=1 GNSS_MIO_PM_NC_AZ10=14 GNSS_MIO_PM_NC_FL51=92 GNSS_MIO_PM_NC_AZ18=0"
+--06-13T10:12  clearcase_nm75 export sync from replica "GNSS_MIO_PM_NC_FL51" to replica "GNSS_MIO_PM_NC_IE1A"
+  "Exported synchronization information for replica "GNSS_MIO_PM_NC_IE1A".
+   Row at export was: GNSS_MIO_PM_NC_AZ75=0 GNSS_MIO_PM_NC_IE1F=1 GNSS_MIO_PM_NC_KS07=0 GNSS_MIO_PM_NC_IE1A=1 GNSS_MIO_PM_NC_AZ10=14 GNSS_MIO_PM_NC_FL51=92 GNSS_MIO_PM_NC_AZ18=0"
+--06-13T10:12  clearcase_nm75 export sync from replica "GNSS_MIO_PM_NC_FL51" to replica "GNSS_MIO_PM_NC_AZ75"
+  "Exported synchronization information for replica "GNSS_MIO_PM_NC_AZ75".
+   Row at export was: GNSS_MIO_PM_NC_AZ75=0 GNSS_MIO_PM_NC_IE1F=1 GNSS_MIO_PM_NC_KS07=0 GNSS_MIO_PM_NC_IE1A=1 GNSS_MIO_PM_NC_AZ10=14 GNSS_MIO_PM_NC_FL51=92 GNSS_MIO_PM_NC_AZ18=0"
+--06-13T10:11  clearcase_nm75 export sync from replica "GNSS_MIO_PM_NC_FL51" to replica "GNSS_MIO_PM_NC_AZ18"
+  "Exported synchronization information for replica "GNSS_MIO_PM_NC_AZ18".
+   Row at export was: GNSS_MIO_PM_NC_AZ75=0 GNSS_MIO_PM_NC_IE1F=1 GNSS_MIO_PM_NC_KS07=0 GNSS_MIO_PM_NC_IE1A=1 GNSS_MIO_PM_NC_AZ10=14 GNSS_MIO_PM_NC_FL51=92 GNSS_MIO_PM_NC_AZ18=0"
+--06-13T10:11  clearcase_nm75 export sync from replica "GNSS_MIO_PM_NC_FL51" to replica "GNSS_MIO_PM_NC_AZ10"
+  "Exported synchronization information for replica "GNSS_MIO_PM_NC_AZ10".
+   Row at export was: GNSS_MIO_PM_NC_AZ75=0 GNSS_MIO_PM_NC_IE1F=1 GNSS_MIO_PM_NC_KS07=0 GNSS_MIO_PM_NC_IE1A=1 GNSS_MIO_PM_NC_AZ10=14 GNSS_MIO_PM_NC_FL51=92 GNSS_MIO_PM_NC_AZ18=0"
+--06-13T10:07  e725459    create directory version "M:\admin_view\GNSS_MIO_PM_NC\.@@\main\CHECKEDOUT.81\ProjectManagement\main\CHECKEDOUT.86\Risk@@\main\2"
+  "Initial check in of risk register
+    
+   Added file element "AF-0354_KC_GNSS.xlsm"."
+--06-13T10:07  e725459    protect file element "M:\admin_view\GNSS_MIO_PM_NC\.@@\main\CHECKEDOUT.81\ProjectManagement\main\CHECKEDOUT.86\Risk\main\2\AF-0354_KC_GNSS.xlsm@@"
+  "CHMOD 770; CHOWN E582601; CHGRP aero.cc.gnss_mio_nc"
+--06-13T10:07  e725459    add name to directory version "M:\admin_view\GNSS_MIO_PM_NC\.@@\main\CHECKEDOUT.81\ProjectManagement\main\CHECKEDOUT.86\Risk@@\main\2"
+  "Added file element "AF-0354_KC_GNSS.xlsm".
+   Initial check in of risk register"
+--06-13T10:07  e725459    create version "M:\admin_view\GNSS_MIO_PM_NC\.@@\main\CHECKEDOUT.81\ProjectManagement\main\CHECKEDOUT.86\Risk\main\2\AF-0354_KC_GNSS.xlsm@@\main\1"
+  "Initial check in of risk register"
+--06-13T10:07  e725459    create version "M:\admin_view\GNSS_MIO_PM_NC\.@@\main\CHECKEDOUT.81\ProjectManagement\main\CHECKEDOUT.86\Risk\main\2\AF-0354_KC_GNSS.xlsm@@\main\0"
+--06-13T10:07  e725459    create branch "M:\admin_view\GNSS_MIO_PM_NC\.@@\main\CHECKEDOUT.81\ProjectManagement\main\CHECKEDOUT.86\Risk\main\2\AF-0354_KC_GNSS.xlsm@@\main"
+--06-13T10:07  e725459    create file element "M:\admin_view\GNSS_MIO_PM_NC\.@@\main\CHECKEDOUT.81\ProjectManagement\main\CHECKEDOUT.86\Risk\main\2\AF-0354_KC_GNSS.xlsm@@"
+  "Initial check in of risk register"
+--06-13T10:06  e725459    protect directory element "M:\admin_view\GNSS_MIO_PM_NC\.@@\main\CHECKEDOUT.81\ProjectManagement\main\CHECKEDOUT.86\Risk@@"
+  "CHMOD 770; CHOWN E582601; CHGRP aero.cc.gnss_mio_nc"
+--06-13T10:06  e725459    create directory version "M:\admin_view\GNSS_MIO_PM_NC\.@@\main\CHECKEDOUT.81\ProjectManagement\main\CHECKEDOUT.86\Risk@@\main\1"
+  "Initial creation of risk folder"

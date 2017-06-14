@@ -1,0 +1,114 @@
+--06-30T10:43  clearcase_nm75 protect directory element "M:\admin_view\JPALS_GN_PVOB\.@@"
+  "CHMOD 775"
+--06-19T16:20  clearcase_nm75 export sync from replica "JPALS_GN_PVOB_FL51" to replica "JPALS_GN_PVOB_DCW"
+  "Exported synchronization information for replica "JPALS_GN_PVOB_DCW".
+   Row at export was: JPALS_GN_PVOB_MN17=6558 JPALS_GN_PVOB_FL51=8309 JPALS_GN_PVOB_AZ18.deleted=1 JPALS_GN_PVOB_DCW=0 JPALS_GN_PVOB_MN51=0"
+--06-19T16:12  clearcase_nm75 protect directory element "M:\admin_view\JPALS_GN_PVOB\.@@"
+  "CHMOD 770"
+--06-19T16:12  clearcase_nm75 protect directory element "M:\admin_view\JPALS_GN_PVOB\.@@"
+  "CHMOD 775"
+--05-01T13:31  clearcase_nm75 import sync from replica "JPALS_GN_PVOB_MN51" to replica "JPALS_GN_PVOB_FL51"
+  "Imported synchronization information from replica "JPALS_GN_PVOB_MN51".
+   Row at import was: JPALS_GN_PVOB_AZ18.deleted=1 JPALS_GN_PVOB_MN17=6558 JPALS_GN_PVOB_MN51=0 JPALS_GN_PVOB_DCW=0 JPALS_GN_PVOB_FL51=8309"
+--05-01T13:30  clearcase_nm75 export sync from replica "JPALS_GN_PVOB_FL51" to replica "JPALS_GN_PVOB_DCW"
+  "Exported synchronization information for replica "JPALS_GN_PVOB_DCW".
+   Row at export was: JPALS_GN_PVOB_MN17=6557 JPALS_GN_PVOB_FL51=8309 JPALS_GN_PVOB_AZ18.deleted=1 JPALS_GN_PVOB_DCW=0 JPALS_GN_PVOB_MN51=0"
+--05-01T13:25  clearcase_nm75 import sync from replica "JPALS_GN_PVOB_DCW" to replica "JPALS_GN_PVOB_FL51"
+  "Imported synchronization information from replica "JPALS_GN_PVOB_DCW".
+   Row at import was: JPALS_GN_PVOB_AZ18.deleted=1 JPALS_GN_PVOB_MN17=6558 JPALS_GN_PVOB_MN51=0 JPALS_GN_PVOB_DCW=0 JPALS_GN_PVOB_FL51=8309"
+--05-01T13:22  clearcase_nm75 import sync from replica "JPALS_GN_PVOB_MN51" to replica "JPALS_GN_PVOB_FL51"
+  "Imported synchronization information from replica "JPALS_GN_PVOB_MN51".
+   Row at import was: JPALS_GN_PVOB_AZ18.deleted=1 JPALS_GN_PVOB_MN17=6558 JPALS_GN_PVOB_MN51=0 JPALS_GN_PVOB_DCW=0 JPALS_GN_PVOB_FL51=8309"
+--05-01T13:20  clearcase_nm75 import sync from replica "JPALS_GN_PVOB_MN17" to replica "JPALS_GN_PVOB_FL51"
+  "Imported synchronization information from replica "JPALS_GN_PVOB_MN17".
+   Row at import was: JPALS_GN_PVOB_AZ18.deleted=1 JPALS_GN_PVOB_MN17=6558 JPALS_GN_PVOB_MN51=0 JPALS_GN_PVOB_DCW=0 JPALS_GN_PVOB_FL51=8309"
+--05-01T13:20  clearcase_nm75 import sync from replica "JPALS_GN_PVOB_MN17" to replica "JPALS_GN_PVOB_FL51"
+  "Imported synchronization information from replica "JPALS_GN_PVOB_MN17".
+   Row at import was: JPALS_GN_PVOB_AZ18.deleted=1 JPALS_GN_PVOB_MN17=6557 JPALS_GN_PVOB_MN51=0 JPALS_GN_PVOB_DCW=0 JPALS_GN_PVOB_FL51=8309"
+--05-01T13:20  clearcase_nm75 export sync from replica "JPALS_GN_PVOB_FL51" to replica "JPALS_GN_PVOB_DCW"
+  "Exported synchronization information for replica "JPALS_GN_PVOB_DCW".
+   Row at export was: JPALS_GN_PVOB_MN17=6554 JPALS_GN_PVOB_FL51=8309 JPALS_GN_PVOB_AZ18.deleted=1 JPALS_GN_PVOB_DCW=0 JPALS_GN_PVOB_MN51=0"
+--05-01T13:20  e704548    change master to "JPALS_GN_PVOB_DCW" of replica "JPALS_GN_PVOB_DCW"
+  "Changed master replica from "JPALS_GN_PVOB_MN17" to "JPALS_GN_PVOB_DCW"."
+--05-01T13:20  clearcase_nm75 import sync from replica "JPALS_GN_PVOB_MN17" to replica "JPALS_GN_PVOB_FL51"
+  "Imported synchronization information from replica "JPALS_GN_PVOB_MN17".
+   Row at import was: JPALS_GN_PVOB_AZ18=1 JPALS_GN_PVOB_MN17=6554 JPALS_GN_PVOB_MN51=0 JPALS_GN_PVOB_DCW=0 JPALS_GN_PVOB_FL51=8309"
+--05-01T13:20  e704548    rename replica "JPALS_GN_PVOB_AZ18.deleted"
+  "Changed name of replica from "JPALS_GN_PVOB_AZ18" to "JPALS_GN_PVOB_AZ18.deleted".
+   Destroyed replica "JPALS_GN_PVOB_AZ18"."
+--05-01T13:20  e704548    destroy replica in versioned object base "\JPALS_GN_PVOB"
+  "Destroyed replica "JPALS_GN_PVOB_AZ18"."
+--05-01T13:20  e704548    change master to "JPALS_GN_PVOB_MN17" of replica "JPALS_GN_PVOB_DCW"
+  "Changed master replica from "JPALS_GN_PVOB_AZ18" to "JPALS_GN_PVOB_MN17"."
+--05-01T13:20  e704548    change master to "JPALS_GN_PVOB_MN17" of replica "JPALS_GN_PVOB_AZ18.deleted"
+  "Changed master replica from "JPALS_GN_PVOB_AZ18" to "JPALS_GN_PVOB_MN17"."
+--03-25T11:51  clearcase_nm75 export sync from replica "JPALS_GN_PVOB_FL51" to replica "JPALS_GN_PVOB_DCW"
+  "Exported synchronization information for replica "JPALS_GN_PVOB_DCW".
+   Row at export was: JPALS_GN_PVOB_MN17=6554 JPALS_GN_PVOB_FL51=8309 JPALS_GN_PVOB_AZ18=0 JPALS_GN_PVOB_DCW=0 JPALS_GN_PVOB_MN51=0"
+--02-13T12:30  clearcase_nm75 import sync from replica "JPALS_GN_PVOB_MN17" to replica "JPALS_GN_PVOB_FL51"
+  "Imported synchronization information from replica "JPALS_GN_PVOB_MN17".
+   Row at import was: JPALS_GN_PVOB_AZ18=1 JPALS_GN_PVOB_MN17=6554 JPALS_GN_PVOB_MN51=0 JPALS_GN_PVOB_DCW=0 JPALS_GN_PVOB_FL51=8309"
+--02-13T11:50  clearcase_nm75 import sync from replica "JPALS_GN_PVOB_MN51" to replica "JPALS_GN_PVOB_FL51"
+  "Imported synchronization information from replica "JPALS_GN_PVOB_MN51".
+   Row at import was: JPALS_GN_PVOB_AZ18=1 JPALS_GN_PVOB_MN17=6554 JPALS_GN_PVOB_MN51=0 JPALS_GN_PVOB_DCW=0 JPALS_GN_PVOB_FL51=8309"
+2013-06-26     clearcase_nm75 import sync from replica "JPALS_GN_PVOB_DCW" to replica "JPALS_GN_PVOB_FL51"
+  "Imported synchronization information from replica "JPALS_GN_PVOB_DCW".
+   Row at import was: JPALS_GN_PVOB_AZ18=1 JPALS_GN_PVOB_MN17=6554 JPALS_GN_PVOB_MN51=0 JPALS_GN_PVOB_DCW=0 JPALS_GN_PVOB_FL51=8309"
+2013-06-26     clearcase_nm75 import sync from replica "JPALS_GN_PVOB_AZ18.deleted" to replica "JPALS_GN_PVOB_FL51"
+  "Imported synchronization information from replica "JPALS_GN_PVOB_AZ18".
+   Row at import was: JPALS_GN_PVOB_AZ18=0 JPALS_GN_PVOB_MN17=6554 JPALS_GN_PVOB_MN51=0 JPALS_GN_PVOB_FL51=8309"
+2013-06-26     root       create replica "JPALS_GN_PVOB_DCW"
+2013-06-10     e564406    destroy type in versioned object base "\JPALS_GN_PVOB"
+  "Destroyed trigger type "ChangeBrtypeOwner"."
+2013-06-10     e564406    lock trigger type "NO_RMTYPE" (locked)
+  "Locked except for users: e702445 e704548 e721877 e730056 e712432 e721598 e564406"
+2013-06-10     e564406    modify trigger type "NO_RMTYPE" (locked)
+  "Changed definition of type."
+2013-06-10     e564406    unlock trigger type "NO_RMTYPE" (locked)
+2013-06-10     e564406    lock trigger type "CHOWN" (locked)
+  "Locked except for users: e702445"
+2013-06-10     e564406    modify trigger type "CHOWN" (locked)
+  "Changed definition of type."
+2013-06-10     e564406    unlock trigger type "CHOWN" (locked)
+2013-06-10     e564406    lock trigger type "NO_RMTYPE" (locked)
+  "Locked except for users: e702445 e704548 e721877 e730056 e712432 e721598"
+2013-06-03     e564406    lock trigger type "NO_MKTRIGGER" (locked)
+  "Locked for all users."
+2013-06-03     e564406    create trigger type "NO_RMTYPE" (locked)
+  "Disallow removal of types"
+2013-06-03     e564406    modify trigger type "NO_MKTRIGGER" (locked)
+  "Changed definition of type.
+   Disallow creation of new triggers"
+2013-06-03     e564406    modify trigger type "NO_MKTRIGGER" (locked)
+  "Changed definition of type.
+   Disallow creation of new triggers"
+2013-06-03     e564406    unlock trigger type "NO_MKTRIGGER" (locked)
+2013-06-03     e564406    destroy type in versioned object base "\JPALS_GN_PVOB"
+  "Destroyed trigger type "NO_RMTRIGGER"."
+2013-03-19     clearcase_nm75 export sync from replica "JPALS_GN_PVOB_FL51" to replica "JPALS_GN_PVOB_AZ18.deleted"
+  "Exported synchronization information for replica "JPALS_GN_PVOB_AZ18".
+   Row at export was: JPALS_GN_PVOB_MN17=6554 JPALS_GN_PVOB_FL51=8307 JPALS_GN_PVOB_AZ18=0 JPALS_GN_PVOB_MN51=0"
+2013-03-19     e712480    modify activity "e712480_JPALS_GN"
+  "Updated config_spec."
+2013-03-17     clearcase_nm75 export sync from replica "JPALS_GN_PVOB_FL51" to replica "JPALS_GN_PVOB_AZ18.deleted"
+  "Exported synchronization information for replica "JPALS_GN_PVOB_AZ18".
+   Row at export was: JPALS_GN_PVOB_MN17=6554 JPALS_GN_PVOB_FL51=8284 JPALS_GN_PVOB_AZ18=0 JPALS_GN_PVOB_MN51=0"
+2013-03-17     e712480    set work for activity "JPALS_GN_Int"
+  "User "SVMap" in view "fl51nt1931:f:\ClearCase_Storage\views\NAMERICA4\e712480\e712480_JPALS_GN_int.vws"."
+2013-03-17     e712480    set work for activity "e712480_JPALS_GN"
+  "User "SVMap" in view "fl51nt1931:f:\ClearCase_Storage\views\NAMERICA4\e712480\e712480_JPALS_GN.vws"."
+2013-03-17     e712480    set process variable on activity "internal130317.165353.1"
+  "Set activity process variable named "SUM_Stream_special_folder_type"."
+2013-03-17     e712480    make folder "internal130317.165353.1"
+2013-03-17     e712480    set process variable on activity "internal130317.165353"
+  "Set activity process variable named "SUM_Stream_special_folder_type"."
+2013-03-17     e712480    make folder "internal130317.165353"
+2013-03-17     e712480    change stream "e712480_JPALS_GN"
+  "Updated config_spec.
+   Regenerated config spec"
+2013-03-17     e712480    set process variable on activity "e712480_JPALS_GN"
+  "Set activity process variable named "SUM_CSPEC_ID"."
+2013-03-17     e712480    make hyperlink "UseBaseline" on baseline "Precision_Mode_INITIAL"
+  "Attached hyperlink "UseBaseline@4940@\JPALS_GN_PVOB"."
+2013-03-17     e712480    make hyperlink "UseBaseline" on activity "e712480_JPALS_GN"
+  "Attached hyperlink "UseBaseline@4940@\JPALS_GN_PVOB"."

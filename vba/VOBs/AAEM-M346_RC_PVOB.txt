@@ -1,0 +1,115 @@
+--06-30T10:45  clearcase_nm75 protect directory element "M:\admin_view\AAEM-M346_RC_PVOB\.@@"
+  "CHMOD 775"
+--06-19T17:50  clearcase_nm75 export sync from replica "AAEM-M346_RC_PVOB_FL51" to replica "AAEM-M346_RC_PVOB_PR08"
+  "Exported synchronization information for replica "AAEM-M346_RC_PVOB_PR08".
+   Row at export was: AAEM-M346_RC_PVOB_PR08=1007 AAEM-M346_RC_PVOB_FL51=645 AAEM-M346_RC_PVOB_AZ18.deleted=1 AAEM-M346_RC_PVOB_DCW=0"
+--06-19T17:50  clearcase_nm75 export sync from replica "AAEM-M346_RC_PVOB_FL51" to replica "AAEM-M346_RC_PVOB_DCW"
+  "Exported synchronization information for replica "AAEM-M346_RC_PVOB_DCW".
+   Row at export was: AAEM-M346_RC_PVOB_PR08=1007 AAEM-M346_RC_PVOB_FL51=645 AAEM-M346_RC_PVOB_AZ18.deleted=1 AAEM-M346_RC_PVOB_DCW=0"
+--06-19T17:42  clearcase_nm75 protect directory element "M:\admin_view\AAEM-M346_RC_PVOB\.@@"
+  "CHMOD 770"
+--06-19T17:42  clearcase_nm75 protect directory element "M:\admin_view\AAEM-M346_RC_PVOB\.@@"
+  "CHMOD 775"
+--06-19T17:20  clearcase_nm75 export sync from replica "AAEM-M346_RC_PVOB_FL51" to replica "AAEM-M346_RC_PVOB_PR08"
+  "Exported synchronization information for replica "AAEM-M346_RC_PVOB_PR08".
+   Row at export was: AAEM-M346_RC_PVOB_PR08=1007 AAEM-M346_RC_PVOB_FL51=643 AAEM-M346_RC_PVOB_AZ18.deleted=1 AAEM-M346_RC_PVOB_DCW=0"
+--06-19T17:20  clearcase_nm75 export sync from replica "AAEM-M346_RC_PVOB_FL51" to replica "AAEM-M346_RC_PVOB_DCW"
+  "Exported synchronization information for replica "AAEM-M346_RC_PVOB_DCW".
+   Row at export was: AAEM-M346_RC_PVOB_PR08=1007 AAEM-M346_RC_PVOB_FL51=643 AAEM-M346_RC_PVOB_AZ18.deleted=1 AAEM-M346_RC_PVOB_DCW=0"
+--06-19T17:19  clearcase_nm75 protect directory element "M:\admin_view\AAEM-M346_RC_PVOB\.@@"
+  "CHMOD 770"
+--06-19T17:19  clearcase_nm75 protect directory element "M:\admin_view\AAEM-M346_RC_PVOB\.@@"
+  "CHMOD 775"
+--05-29T14:21  clearcase_nm75 import sync from replica "AAEM-M346_RC_PVOB_DCW" to replica "AAEM-M346_RC_PVOB_FL51"
+  "Imported synchronization information from replica "AAEM-M346_RC_PVOB_DCW".
+   Row at import was: AAEM-M346_RC_PVOB_AZ18.deleted=1 AAEM-M346_RC_PVOB_PR08=1007 AAEM-M346_RC_PVOB_DCW=0 AAEM-M346_RC_PVOB_FL51=643"
+--05-29T14:10  clearcase_nm75 export sync from replica "AAEM-M346_RC_PVOB_FL51" to replica "AAEM-M346_RC_PVOB_DCW"
+  "Exported synchronization information for replica "AAEM-M346_RC_PVOB_DCW".
+   Row at export was: AAEM-M346_RC_PVOB_PR08=996 AAEM-M346_RC_PVOB_FL51=643 AAEM-M346_RC_PVOB_AZ18.deleted=1 AAEM-M346_RC_PVOB_DCW=0"
+--05-29T14:10  clearcase_nm75 import sync from replica "AAEM-M346_RC_PVOB_PR08" to replica "AAEM-M346_RC_PVOB_FL51"
+  "Imported synchronization information from replica "AAEM-M346_RC_PVOB_PR08".
+   Row at import was: AAEM-M346_RC_PVOB_AZ18.deleted=1 AAEM-M346_RC_PVOB_PR08=996 AAEM-M346_RC_PVOB_DCW=0 AAEM-M346_RC_PVOB_FL51=643"
+--05-29T14:06  e433435    set work for activity "E433435_AAEM-M346_DEV_SGN_PR_STACK_CCRC_view"
+  "User "SVMap" in view "PR08W9301:D:\IBM\RationalSDLC\ClearCase\var\ccweb\e433435.NAMERICA4\E433435_AAEM-M346_DEV_SGN_PR_STACK_CCRC_view\view.stg"."
+--05-29T14:06  e433435    set process variable on activity "internal140529.140622.1"
+  "Set activity process variable named "SUM_Stream_special_folder_type"."
+--05-29T14:06  e433435    make folder "internal140529.140622.1"
+--05-29T14:06  e433435    set process variable on activity "internal140529.140622"
+  "Set activity process variable named "SUM_Stream_special_folder_type"."
+--05-29T14:06  e433435    make folder "internal140529.140622"
+--05-29T14:06  e433435    change stream "E433435_AAEM-M346_DEV_SGN_PR_STACK_CCRC_view"
+  "Updated config_spec.
+   Regenerated config spec"
+--05-29T14:06  e433435    set process variable on activity "E433435_AAEM-M346_DEV_SGN_PR_STACK_CCRC_view"
+  "Set activity process variable named "SUM_CSPEC_ID"."
+--05-29T14:06  e433435    make hyperlink "UseBaseline" on activity "E433435_AAEM-M346_DEV_SGN_PR_STACK_CCRC_view"
+--05-29T14:06  e433435    make hyperlink "UseBaseline" on baseline "AAEM-M346_DEV_SGN_PR_2014-01-29"
+--05-29T14:06  e433435    create hyperlink "UseBaseline@499@\AAEM-M346_RC_PVOB"
+--05-29T14:06  e433435    make hyperlink "IndependentGuard" on activity "E433435_AAEM-M346_DEV_SGN_PR_STACK_CCRC_view"
+--05-29T14:06  e433435    make hyperlink "IndependentGuard" on branch type "E433435_AAEM-M346_DEV_SGN_PR_STACK_CCRC_view"
+--05-29T14:06  e433435    create hyperlink "IndependentGuard@498@\AAEM-M346_RC_PVOB"
+--05-29T14:06  e433435    create branch type "E433435_AAEM-M346_DEV_SGN_PR_STACK_CCRC_view"
+--05-29T14:06  e433435    make stream "E433435_AAEM-M346_DEV_SGN_PR_STACK_CCRC_view"
+--04-09T15:20  clearcase_nm75 import sync from replica "AAEM-M346_RC_PVOB_DCW" to replica "AAEM-M346_RC_PVOB_FL51"
+  "Imported synchronization information from replica "AAEM-M346_RC_PVOB_DCW".
+   Row at import was: AAEM-M346_RC_PVOB_AZ18.deleted=1 AAEM-M346_RC_PVOB_PR08=996 AAEM-M346_RC_PVOB_DCW=0 AAEM-M346_RC_PVOB_FL51=643"
+--04-09T15:10  clearcase_nm75 import sync from replica "AAEM-M346_RC_PVOB_DCW" to replica "AAEM-M346_RC_PVOB_FL51"
+  "Imported synchronization information from replica "AAEM-M346_RC_PVOB_DCW".
+   Row at import was: AAEM-M346_RC_PVOB_AZ18.deleted=1 AAEM-M346_RC_PVOB_PR08=996 AAEM-M346_RC_PVOB_DCW=0 AAEM-M346_RC_PVOB_FL51=643"
+--04-09T15:10  clearcase_nm75 export sync from replica "AAEM-M346_RC_PVOB_FL51" to replica "AAEM-M346_RC_PVOB_DCW"
+  "Exported synchronization information for replica "AAEM-M346_RC_PVOB_DCW".
+   Row at export was: AAEM-M346_RC_PVOB_PR08=992 AAEM-M346_RC_PVOB_FL51=643 AAEM-M346_RC_PVOB_AZ18.deleted=1 AAEM-M346_RC_PVOB_DCW=0"
+--04-09T15:05  clearcase_nm75 import sync from replica "AAEM-M346_RC_PVOB_PR08" to replica "AAEM-M346_RC_PVOB_FL51"
+  "Imported synchronization information from replica "AAEM-M346_RC_PVOB_PR08".
+   Row at import was: AAEM-M346_RC_PVOB_AZ18.deleted=1 AAEM-M346_RC_PVOB_PR08=995 AAEM-M346_RC_PVOB_DCW=0 AAEM-M346_RC_PVOB_FL51=643"
+--04-09T15:05  e704548    change master to "AAEM-M346_RC_PVOB_DCW" of replica "AAEM-M346_RC_PVOB_DCW"
+  "Changed master replica from "AAEM-M346_RC_PVOB_PR08" to "AAEM-M346_RC_PVOB_DCW"."
+--04-09T15:04  clearcase_nm75 import sync from replica "AAEM-M346_RC_PVOB_PR08" to replica "AAEM-M346_RC_PVOB_FL51"
+  "Imported synchronization information from replica "AAEM-M346_RC_PVOB_PR08".
+   Row at import was: AAEM-M346_RC_PVOB_AZ18=1 AAEM-M346_RC_PVOB_PR08=992 AAEM-M346_RC_PVOB_DCW=0 AAEM-M346_RC_PVOB_FL51=643"
+--04-09T15:04  e704548    rename replica "AAEM-M346_RC_PVOB_AZ18.deleted"
+  "Changed name of replica from "AAEM-M346_RC_PVOB_AZ18" to "AAEM-M346_RC_PVOB_AZ18.deleted".
+   Destroyed replica "AAEM-M346_RC_PVOB_AZ18"."
+--04-09T15:04  e704548    destroy replica in versioned object base "\AAEM-M346_RC_PVOB"
+  "Destroyed replica "AAEM-M346_RC_PVOB_AZ18"."
+--04-09T15:04  e704548    change master to "AAEM-M346_RC_PVOB_PR08" of replica "AAEM-M346_RC_PVOB_DCW"
+  "Changed master replica from "AAEM-M346_RC_PVOB_AZ18" to "AAEM-M346_RC_PVOB_PR08"."
+--04-09T15:04  e704548    change master to "AAEM-M346_RC_PVOB_PR08" of replica "AAEM-M346_RC_PVOB_AZ18.deleted"
+  "Changed master replica from "AAEM-M346_RC_PVOB_AZ18" to "AAEM-M346_RC_PVOB_PR08"."
+--02-20T17:30  clearcase_nm75 export sync from replica "AAEM-M346_RC_PVOB_FL51" to replica "AAEM-M346_RC_PVOB_PR08"
+  "Exported synchronization information for replica "AAEM-M346_RC_PVOB_PR08".
+   Row at export was: AAEM-M346_RC_PVOB_PR08=992 AAEM-M346_RC_PVOB_FL51=642 AAEM-M346_RC_PVOB_AZ18=1 AAEM-M346_RC_PVOB_DCW=0"
+--02-20T17:30  clearcase_nm75 export sync from replica "AAEM-M346_RC_PVOB_FL51" to replica "AAEM-M346_RC_PVOB_DCW"
+  "Exported synchronization information for replica "AAEM-M346_RC_PVOB_DCW".
+   Row at export was: AAEM-M346_RC_PVOB_PR08=992 AAEM-M346_RC_PVOB_FL51=642 AAEM-M346_RC_PVOB_AZ18=1 AAEM-M346_RC_PVOB_DCW=0"
+--02-20T17:30  clearcase_nm75 export sync from replica "AAEM-M346_RC_PVOB_FL51" to replica "AAEM-M346_RC_PVOB_AZ18.deleted"
+  "Exported synchronization information for replica "AAEM-M346_RC_PVOB_AZ18".
+   Row at export was: AAEM-M346_RC_PVOB_PR08=992 AAEM-M346_RC_PVOB_FL51=642 AAEM-M346_RC_PVOB_AZ18=1 AAEM-M346_RC_PVOB_DCW=0"
+--02-20T17:27  e710227    set work for activity "AAEM-M346_Int"
+  "User "SVMap" in view "fl51nt1931:E:\IBM\RationalSDLC\ClearCase\var\ccweb\e710227.NAMERICA4\AAEM-M346_int_pbarker\view.stg"."
+--02-17T14:50  clearcase_nm75 import sync from replica "AAEM-M346_RC_PVOB_DCW" to replica "AAEM-M346_RC_PVOB_FL51"
+  "Imported synchronization information from replica "AAEM-M346_RC_PVOB_DCW".
+   Row at import was: AAEM-M346_RC_PVOB_AZ18=1 AAEM-M346_RC_PVOB_PR08=992 AAEM-M346_RC_PVOB_DCW=0 AAEM-M346_RC_PVOB_FL51=642"
+--02-17T14:50  clearcase_nm75 import sync from replica "AAEM-M346_RC_PVOB_AZ18.deleted" to replica "AAEM-M346_RC_PVOB_FL51"
+  "Imported synchronization information from replica "AAEM-M346_RC_PVOB_AZ18".
+   Row at import was: AAEM-M346_RC_PVOB_AZ18=1 AAEM-M346_RC_PVOB_PR08=992 AAEM-M346_RC_PVOB_DCW=0 AAEM-M346_RC_PVOB_FL51=642"
+--02-17T14:40  clearcase_nm75 export sync from replica "AAEM-M346_RC_PVOB_FL51" to replica "AAEM-M346_RC_PVOB_DCW"
+  "Exported synchronization information for replica "AAEM-M346_RC_PVOB_DCW".
+   Row at export was: AAEM-M346_RC_PVOB_PR08=991 AAEM-M346_RC_PVOB_FL51=642 AAEM-M346_RC_PVOB_AZ18=1 AAEM-M346_RC_PVOB_DCW=0"
+--02-17T14:40  clearcase_nm75 export sync from replica "AAEM-M346_RC_PVOB_FL51" to replica "AAEM-M346_RC_PVOB_AZ18.deleted"
+  "Exported synchronization information for replica "AAEM-M346_RC_PVOB_AZ18".
+   Row at export was: AAEM-M346_RC_PVOB_PR08=991 AAEM-M346_RC_PVOB_FL51=642 AAEM-M346_RC_PVOB_AZ18=1 AAEM-M346_RC_PVOB_DCW=0"
+--02-17T14:40  clearcase_nm75 import sync from replica "AAEM-M346_RC_PVOB_PR08" to replica "AAEM-M346_RC_PVOB_FL51"
+  "Imported synchronization information from replica "AAEM-M346_RC_PVOB_PR08".
+   Row at import was: AAEM-M346_RC_PVOB_AZ18=1 AAEM-M346_RC_PVOB_PR08=991 AAEM-M346_RC_PVOB_DCW=0 AAEM-M346_RC_PVOB_FL51=642"
+--02-17T14:25  E519761    set work for activity "AAEM-M346_Int"
+  "User "SVMap" in view "PR08W9301:D:\IBM\RationalSDLC\ClearCase\var\ccweb\E519761.NAMERICA4\E519761_AAEM-M346_int_view\view.stg"."
+--02-03T12:00  clearcase_nm75 import sync from replica "AAEM-M346_RC_PVOB_AZ18.deleted" to replica "AAEM-M346_RC_PVOB_FL51"
+  "Imported synchronization information from replica "AAEM-M346_RC_PVOB_AZ18".
+   Row at import was: AAEM-M346_RC_PVOB_AZ18=1 AAEM-M346_RC_PVOB_PR08=991 AAEM-M346_RC_PVOB_DCW=0 AAEM-M346_RC_PVOB_FL51=642"
+--02-03T11:40  clearcase_nm75 export sync from replica "AAEM-M346_RC_PVOB_FL51" to replica "AAEM-M346_RC_PVOB_AZ18.deleted"
+  "Exported synchronization information for replica "AAEM-M346_RC_PVOB_AZ18".
+   Row at export was: AAEM-M346_RC_PVOB_PR08=976 AAEM-M346_RC_PVOB_FL51=642 AAEM-M346_RC_PVOB_AZ18=1 AAEM-M346_RC_PVOB_DCW=0"
+--02-03T11:40  clearcase_nm75 import sync from replica "AAEM-M346_RC_PVOB_PR08" to replica "AAEM-M346_RC_PVOB_FL51"
+  "Imported synchronization information from replica "AAEM-M346_RC_PVOB_PR08".
+   Row at import was: AAEM-M346_RC_PVOB_AZ18=1 AAEM-M346_RC_PVOB_PR08=991 AAEM-M346_RC_PVOB_DCW=0 AAEM-M346_RC_PVOB_FL51=642"

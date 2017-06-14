@@ -1,0 +1,113 @@
+--06-30T10:43  clearcase_nm75 protect directory element "M:\admin_view\ORN_IMU_US\.@@"
+  "CHMOD 775"
+--06-19T16:21  clearcase_nm75 export sync from replica "ORN_IMU_US_FL51" to replica "ORN_IMU_US_DCW"
+  "Exported synchronization information for replica "ORN_IMU_US_DCW".
+   Row at export was: ORN_IMU_US_DCW=0 ORN_IMU_US_AZ18.deleted=1 ORN_IMU_US_FL51=5729"
+--06-19T16:15  clearcase_nm75 protect directory element "M:\admin_view\ORN_IMU_US\.@@"
+  "CHMOD 770"
+--06-19T16:15  clearcase_nm75 protect directory element "M:\admin_view\ORN_IMU_US\.@@"
+  "CHMOD 775"
+--05-15T12:22  e704548    export sync from replica "ORN_IMU_US_FL51" to replica "ORN_IMU_US_DCW"
+  "Exported synchronization information for replica "ORN_IMU_US_DCW".
+   Row at export was: ORN_IMU_US_DCW=0 ORN_IMU_US_AZ18.deleted=1 ORN_IMU_US_FL51=5728"
+--05-15T12:22  e704548    change master to "ORN_IMU_US_DCW" of replica "ORN_IMU_US_DCW"
+  "Changed master replica from "ORN_IMU_US_FL51" to "ORN_IMU_US_DCW"."
+--05-15T12:22  e704548    export sync from replica "ORN_IMU_US_FL51" to replica "ORN_IMU_US_DCW"
+  "Exported synchronization information for replica "ORN_IMU_US_DCW".
+   Row at export was: ORN_IMU_US_DCW=0 ORN_IMU_US_AZ18.deleted=1 ORN_IMU_US_FL51=5725"
+--05-15T12:21  e704548    rename replica "ORN_IMU_US_AZ18.deleted"
+  "Changed name of replica from "ORN_IMU_US_AZ18" to "ORN_IMU_US_AZ18.deleted"."
+--05-15T12:21  e704548    destroy replica in versioned object base "\ORN_IMU_US"
+  "Destroyed replica "ORN_IMU_US_AZ18"."
+--05-15T12:21  e704548    change master to "ORN_IMU_US_FL51" of replica "ORN_IMU_US_DCW"
+  "Changed master replica from "ORN_IMU_US_AZ18" to "ORN_IMU_US_FL51"."
+--05-15T12:21  e704548    change master to "ORN_IMU_US_FL51" of replica "ORN_IMU_US_AZ18.deleted"
+  "Changed master replica from "ORN_IMU_US_AZ18" to "ORN_IMU_US_FL51"."
+--05-15T12:21  e704548    modify replica "ORN_IMU_US_AZ18.deleted"
+  "Marked replica "ORN_IMU_US_AZ18" for deletion."
+--03-21T12:22  clearcase_nm75 export sync from replica "ORN_IMU_US_FL51" to replica "ORN_IMU_US_DCW"
+  "Exported synchronization information for replica "ORN_IMU_US_DCW".
+   Row at export was: ORN_IMU_US_DCW=0 ORN_IMU_US_AZ18=1 ORN_IMU_US_FL51=4645"
+--03-21T12:08  clearcase_nm75 export sync from replica "ORN_IMU_US_FL51" to replica "ORN_IMU_US_DCW"
+  "Exported synchronization information for replica "ORN_IMU_US_DCW".
+   Row at export was: ORN_IMU_US_DCW=0 ORN_IMU_US_AZ18=0 ORN_IMU_US_FL51=35"
+--11-06T08:20  clearcase_nm75 export sync from replica "ORN_IMU_US_FL51" to replica "ORN_IMU_US_AZ18.deleted"
+  "Exported synchronization information for replica "ORN_IMU_US_AZ18".
+   Row at export was: ORN_IMU_US_DCW=0 ORN_IMU_US_AZ18=1 ORN_IMU_US_FL51=5722"
+--11-06T08:10  clearcase_nm75 export sync from replica "ORN_IMU_US_FL51" to replica "ORN_IMU_US_AZ18.deleted"
+  "Exported synchronization information for replica "ORN_IMU_US_AZ18".
+   Row at export was: ORN_IMU_US_DCW=0 ORN_IMU_US_AZ18=1 ORN_IMU_US_FL51=5715"
+--11-06T08:00  clearcase_nm75 export sync from replica "ORN_IMU_US_FL51" to replica "ORN_IMU_US_AZ18.deleted"
+  "Exported synchronization information for replica "ORN_IMU_US_AZ18".
+   Row at export was: ORN_IMU_US_DCW=0 ORN_IMU_US_AZ18=1 ORN_IMU_US_FL51=5713"
+--11-06T07:50  clearcase_nm75 export sync from replica "ORN_IMU_US_FL51" to replica "ORN_IMU_US_AZ18.deleted"
+  "Exported synchronization information for replica "ORN_IMU_US_AZ18".
+   Row at export was: ORN_IMU_US_DCW=0 ORN_IMU_US_AZ18=1 ORN_IMU_US_FL51=5710"
+--11-06T07:40  clearcase_nm75 export sync from replica "ORN_IMU_US_FL51" to replica "ORN_IMU_US_AZ18.deleted"
+  "Exported synchronization information for replica "ORN_IMU_US_AZ18".
+   Row at export was: ORN_IMU_US_DCW=0 ORN_IMU_US_AZ18=1 ORN_IMU_US_FL51=5704"
+--11-06T07:30  clearcase_nm75 export sync from replica "ORN_IMU_US_FL51" to replica "ORN_IMU_US_AZ18.deleted"
+  "Exported synchronization information for replica "ORN_IMU_US_AZ18".
+   Row at export was: ORN_IMU_US_DCW=0 ORN_IMU_US_AZ18=1 ORN_IMU_US_FL51=5648"
+--11-06T07:20  clearcase_nm75 export sync from replica "ORN_IMU_US_FL51" to replica "ORN_IMU_US_AZ18.deleted"
+  "Exported synchronization information for replica "ORN_IMU_US_AZ18".
+   Row at export was: ORN_IMU_US_DCW=0 ORN_IMU_US_AZ18=1 ORN_IMU_US_FL51=5566"
+--11-06T07:10  clearcase_nm75 export sync from replica "ORN_IMU_US_FL51" to replica "ORN_IMU_US_AZ18.deleted"
+  "Exported synchronization information for replica "ORN_IMU_US_AZ18".
+   Row at export was: ORN_IMU_US_DCW=0 ORN_IMU_US_AZ18=1 ORN_IMU_US_FL51=5500"
+--11-06T07:06  e730056    checkout directory version "M:\admin_view\ORN_IMU_US\IOFP\Utils\OIMU_LMT\Source\res" from \main\1 (reserved)
+  "Import from PVCS"
+--11-06T07:06  e730056    checkout directory version "M:\admin_view\ORN_IMU_US\IOFP\Utils\OIMU_LMT\Source" from \main\2 (reserved)
+  "Import from PVCS"
+--11-06T07:06  e730056    checkout directory version "M:\admin_view\ORN_IMU_US\IOFP\Utils\OIMU_LMT" from \main\2 (reserved)
+  "Import from PVCS"
+--11-06T07:06  e730056    checkout directory version "M:\admin_view\ORN_IMU_US\IOFP\Utils\CRC_FS\CRC_FS\Properties" from \main\1 (reserved)
+  "Import from PVCS"
+--11-06T07:06  e730056    checkout directory version "M:\admin_view\ORN_IMU_US\IOFP\Utils\CRC_FS\CRC_FS\bin\release" from \main\1 (reserved)
+  "Import from PVCS"
+--11-06T07:06  e730056    checkout directory version "M:\admin_view\ORN_IMU_US\IOFP\Utils\CRC_FS\CRC_FS\bin" from \main\1 (reserved)
+  "Import from PVCS"
+--11-06T07:06  e730056    checkout directory version "M:\admin_view\ORN_IMU_US\IOFP\Utils\CRC_FS\CRC_FS" from \main\2 (reserved)
+  "Import from PVCS"
+--11-06T07:06  e730056    checkout directory version "M:\admin_view\ORN_IMU_US\IOFP\Utils\CRC_FS" from \main\2 (reserved)
+  "Import from PVCS"
+--11-06T07:05  e730056    checkout directory version "M:\admin_view\ORN_IMU_US\IOFP\Utils" from \main\1 (reserved)
+  "Import from PVCS"
+--11-06T07:05  e730056    checkout directory version "M:\admin_view\ORN_IMU_US\IOFP\Testing\UnitLevelTest\_STDRs" from \main\1 (reserved)
+  "Import from PVCS"
+--11-06T07:05  e730056    checkout directory version "M:\admin_view\ORN_IMU_US\IOFP\Testing\UnitLevelTest\STIM200" from \main\0 (reserved)
+  "Import from PVCS"
+--11-06T07:05  e730056    checkout directory version "M:\admin_view\ORN_IMU_US\IOFP\Testing\UnitLevelTest\SQRTF" from \main\0 (reserved)
+  "Import from PVCS"
+--11-06T07:05  e730056    checkout directory version "M:\admin_view\ORN_IMU_US\IOFP\Testing\UnitLevelTest\SIZE200" from \main\0 (reserved)
+  "Import from PVCS"
+--11-06T07:05  e730056    checkout directory version "M:\admin_view\ORN_IMU_US\IOFP\Testing\UnitLevelTest\SIORCV" from \main\0 (reserved)
+  "Import from PVCS"
+--11-06T07:05  e730056    checkout directory version "M:\admin_view\ORN_IMU_US\IOFP\Testing\UnitLevelTest\SHED" from \main\1 (reserved)
+  "Import from PVCS"
+--11-06T07:05  e730056    checkout directory version "M:\admin_view\ORN_IMU_US\IOFP\Testing\UnitLevelTest\SEQBKG" from \main\1 (reserved)
+  "Import from PVCS"
+--11-06T07:05  e730056    checkout directory version "M:\admin_view\ORN_IMU_US\IOFP\Testing\UnitLevelTest\SEQ200" from \main\1 (reserved)
+  "Import from PVCS"
+--11-06T07:05  e730056    checkout directory version "M:\admin_view\ORN_IMU_US\IOFP\Testing\UnitLevelTest\SEQ16H" from \main\1 (reserved)
+  "Import from PVCS"
+--11-06T07:05  e730056    checkout directory version "M:\admin_view\ORN_IMU_US\IOFP\Testing\UnitLevelTest\SEQ025" from \main\0 (reserved)
+  "Import from PVCS"
+--11-06T07:04  e730056    checkout directory version "M:\admin_view\ORN_IMU_US\IOFP\Testing\UnitLevelTest\SEQ010" from \main\1 (reserved)
+  "Import from PVCS"
+--11-06T07:04  e730056    checkout directory version "M:\admin_view\ORN_IMU_US\IOFP\Testing\UnitLevelTest\SEQ001" from \main\1 (reserved)
+  "Import from PVCS"
+--11-06T07:04  e730056    checkout directory version "M:\admin_view\ORN_IMU_US\IOFP\Testing\UnitLevelTest\SCULL200" from \main\0 (reserved)
+  "Import from PVCS"
+--11-06T07:04  e730056    checkout directory version "M:\admin_view\ORN_IMU_US\IOFP\Testing\UnitLevelTest\SBS001" from \main\0 (reserved)
+  "Import from PVCS"
+--11-06T07:04  e730056    checkout directory version "M:\admin_view\ORN_IMU_US\IOFP\Testing\UnitLevelTest\RDISC200" from \main\0 (reserved)
+  "Import from PVCS"
+--11-06T07:04  e730056    checkout directory version "M:\admin_view\ORN_IMU_US\IOFP\Testing\UnitLevelTest\RDIPH001" from \main\0 (reserved)
+  "Import from PVCS"
+--11-06T07:04  e730056    checkout directory version "M:\admin_view\ORN_IMU_US\IOFP\Testing\UnitLevelTest\RDIC200" from \main\0 (reserved)
+  "Import from PVCS"
+--11-06T07:04  e730056    checkout directory version "M:\admin_view\ORN_IMU_US\IOFP\Testing\UnitLevelTest\PSWP200" from \main\0 (reserved)
+  "Import from PVCS"
+--11-06T07:04  e730056    checkout directory version "M:\admin_view\ORN_IMU_US\IOFP\Testing\UnitLevelTest\PRM001" from \main\0 (reserved)
+  "Import from PVCS"

@@ -1,0 +1,131 @@
+--06-30T10:42  clearcase_nm75 protect directory element "M:\admin_view\ORN_FSW_Proj\.@@"
+  "CHMOD 775"
+--06-27T20:42  clearcase_nm75 import sync from replica "ORN_FSW_Proj_MN51" to replica "ORN_FSW_Proj_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_Proj_MN51".
+   Row at import was: ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_PROJ_FL1.deleted=1895 ORN_FSW_Proj_AZ75=1017878 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946"
+--06-27T20:41  clearcase_nm75 export sync from replica "ORN_FSW_Proj_FL51_new" to replica "ORN_FSW_Proj_MN51"
+  "Exported synchronization information for replica "ORN_FSW_Proj_MN51".
+   Row at export was: ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_AZ75=1017877 ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_PROJ_FL1.deleted=1895"
+--06-27T20:41  clearcase_nm75 export sync from replica "ORN_FSW_Proj_FL51_new" to replica "ORN_FSW_Proj_KS07"
+  "Exported synchronization information for replica "ORN_FSW_Proj_KS07".
+   Row at export was: ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_AZ75=1017877 ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_PROJ_FL1.deleted=1895"
+--06-27T20:41  clearcase_nm75 export sync from replica "ORN_FSW_Proj_FL51_new" to replica "ORN_FSW_Proj_DCW"
+  "Exported synchronization information for replica "ORN_FSW_Proj_DCW".
+   Row at export was: ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_AZ75=1017877 ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_PROJ_FL1.deleted=1895"
+--06-27T20:41  clearcase_nm75 export sync from replica "ORN_FSW_Proj_FL51_new" to replica "ORN_FSW_Proj_AZ10"
+  "Exported synchronization information for replica "ORN_FSW_Proj_AZ10".
+   Row at export was: ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_AZ75=1017877 ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_PROJ_FL1.deleted=1895"
+--06-27T20:40  clearcase_nm75 import sync from replica "ORN_FSW_Proj_AZ10" to replica "ORN_FSW_Proj_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_Proj_AZ10".
+   Row at import was: ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_PROJ_FL1.deleted=1895 ORN_FSW_Proj_AZ75=1017878 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946"
+--06-27T20:40  clearcase_nm75 import sync from replica "ORN_FSW_Proj_DCW" to replica "ORN_FSW_Proj_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_Proj_DCW".
+   Row at import was: ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_PROJ_FL1.deleted=1895 ORN_FSW_Proj_AZ75=1017878 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946"
+--06-27T20:32  clearcase_nm75 import sync from replica "ORN_FSW_Proj_KS07" to replica "ORN_FSW_Proj_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_Proj_KS07".
+   Row at import was: ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_PROJ_FL1.deleted=1895 ORN_FSW_Proj_AZ75=1017878 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946"
+--06-27T20:31  clearcase_nm75 import sync from replica "ORN_FSW_Proj_AZ75" to replica "ORN_FSW_Proj_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_Proj_AZ75".
+   Row at import was: ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_PROJ_FL1.deleted=1895 ORN_FSW_Proj_AZ75=1017877 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946"
+--06-27T20:30  e720617    set work for activity "SWIT_BUILD_TOOLS_V05_05"
+  "User "SVMap" in view "az75dt1q36tr1:D:\SHARED\SWIT_BUILD_TOOLS_V05_05.vws"."
+--06-27T15:31  clearcase_nm75 import sync from replica "ORN_FSW_Proj_MN51" to replica "ORN_FSW_Proj_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_Proj_MN51".
+   Row at import was: ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_PROJ_FL1.deleted=1895 ORN_FSW_Proj_AZ75=1017877 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946"
+--06-27T15:31  clearcase_nm75 export sync from replica "ORN_FSW_Proj_FL51_new" to replica "ORN_FSW_Proj_MN51"
+  "Exported synchronization information for replica "ORN_FSW_Proj_MN51".
+   Row at export was: ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_AZ75=1017876 ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_PROJ_FL1.deleted=1895"
+--06-27T15:31  clearcase_nm75 export sync from replica "ORN_FSW_Proj_FL51_new" to replica "ORN_FSW_Proj_KS07"
+  "Exported synchronization information for replica "ORN_FSW_Proj_KS07".
+   Row at export was: ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_AZ75=1017876 ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_PROJ_FL1.deleted=1895"
+--06-27T15:31  clearcase_nm75 export sync from replica "ORN_FSW_Proj_FL51_new" to replica "ORN_FSW_Proj_DCW"
+  "Exported synchronization information for replica "ORN_FSW_Proj_DCW".
+   Row at export was: ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_AZ75=1017876 ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_PROJ_FL1.deleted=1895"
+--06-27T15:31  clearcase_nm75 export sync from replica "ORN_FSW_Proj_FL51_new" to replica "ORN_FSW_Proj_AZ10"
+  "Exported synchronization information for replica "ORN_FSW_Proj_AZ10".
+   Row at export was: ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_AZ75=1017876 ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_PROJ_FL1.deleted=1895"
+--06-27T15:30  clearcase_nm75 import sync from replica "ORN_FSW_Proj_AZ10" to replica "ORN_FSW_Proj_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_Proj_AZ10".
+   Row at import was: ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_PROJ_FL1.deleted=1895 ORN_FSW_Proj_AZ75=1017877 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946"
+--06-27T15:30  clearcase_nm75 import sync from replica "ORN_FSW_Proj_DCW" to replica "ORN_FSW_Proj_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_Proj_DCW".
+   Row at import was: ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_PROJ_FL1.deleted=1895 ORN_FSW_Proj_AZ75=1017877 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946"
+--06-27T15:22  clearcase_nm75 import sync from replica "ORN_FSW_Proj_KS07" to replica "ORN_FSW_Proj_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_Proj_KS07".
+   Row at import was: ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_PROJ_FL1.deleted=1895 ORN_FSW_Proj_AZ75=1017877 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946"
+--06-27T15:21  clearcase_nm75 import sync from replica "ORN_FSW_Proj_AZ75" to replica "ORN_FSW_Proj_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_Proj_AZ75".
+   Row at import was: ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_PROJ_FL1.deleted=1895 ORN_FSW_Proj_AZ75=1017876 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946"
+--06-27T15:15  E145395    set work for activity "DEL_LD_993_06_13_2014_SWT"
+  "User "SVMap" in view "Az75dth8wrjq1:C:\CLEARCASE_SHARED\E145395_DEL_LD_993_06_13_2014_SWT.vws"."
+--06-27T14:52  clearcase_nm75 import sync from replica "ORN_FSW_Proj_KS07" to replica "ORN_FSW_Proj_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_Proj_KS07".
+   Row at import was: ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_PROJ_FL1.deleted=1895 ORN_FSW_Proj_AZ75=1017876 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946"
+--06-27T14:52  clearcase_nm75 export sync from replica "ORN_FSW_Proj_FL51_new" to replica "ORN_FSW_Proj_MN51"
+  "Exported synchronization information for replica "ORN_FSW_Proj_MN51".
+   Row at export was: ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_AZ75=1017861 ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_PROJ_FL1.deleted=1895"
+--06-27T14:52  clearcase_nm75 import sync from replica "ORN_FSW_Proj_MN51" to replica "ORN_FSW_Proj_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_Proj_MN51".
+   Row at import was: ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_PROJ_FL1.deleted=1895 ORN_FSW_Proj_AZ75=1017876 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946"
+--06-27T14:51  clearcase_nm75 export sync from replica "ORN_FSW_Proj_FL51_new" to replica "ORN_FSW_Proj_KS07"
+  "Exported synchronization information for replica "ORN_FSW_Proj_KS07".
+   Row at export was: ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_AZ75=1017861 ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_PROJ_FL1.deleted=1895"
+--06-27T14:51  clearcase_nm75 export sync from replica "ORN_FSW_Proj_FL51_new" to replica "ORN_FSW_Proj_DCW"
+  "Exported synchronization information for replica "ORN_FSW_Proj_DCW".
+   Row at export was: ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_AZ75=1017861 ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_PROJ_FL1.deleted=1895"
+--06-27T14:51  clearcase_nm75 export sync from replica "ORN_FSW_Proj_FL51_new" to replica "ORN_FSW_Proj_AZ10"
+  "Exported synchronization information for replica "ORN_FSW_Proj_AZ10".
+   Row at export was: ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_AZ75=1017861 ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_PROJ_FL1.deleted=1895"
+--06-27T14:50  clearcase_nm75 import sync from replica "ORN_FSW_Proj_AZ10" to replica "ORN_FSW_Proj_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_Proj_AZ10".
+   Row at import was: ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_PROJ_FL1.deleted=1895 ORN_FSW_Proj_AZ75=1017876 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946"
+--06-27T14:50  clearcase_nm75 import sync from replica "ORN_FSW_Proj_DCW" to replica "ORN_FSW_Proj_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_Proj_DCW".
+   Row at import was: ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_PROJ_FL1.deleted=1895 ORN_FSW_Proj_AZ75=1017876 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946"
+--06-27T14:43  clearcase_nm75 import sync from replica "ORN_FSW_Proj_AZ75" to replica "ORN_FSW_Proj_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_Proj_AZ75".
+   Row at import was: ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_PROJ_FL1.deleted=1895 ORN_FSW_Proj_AZ75=1017861 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946"
+--06-27T14:42  clearcase_nm75 import sync from replica "ORN_FSW_Proj_KS07" to replica "ORN_FSW_Proj_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_Proj_KS07".
+   Row at import was: ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_PROJ_FL1.deleted=1895 ORN_FSW_Proj_AZ75=1017861 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946"
+--06-27T14:42  clearcase_nm75 export sync from replica "ORN_FSW_Proj_FL51_new" to replica "ORN_FSW_Proj_MN51"
+  "Exported synchronization information for replica "ORN_FSW_Proj_MN51".
+   Row at export was: ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_AZ75=1017391 ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_PROJ_FL1.deleted=1895"
+--06-27T14:42  clearcase_nm75 export sync from replica "ORN_FSW_Proj_FL51_new" to replica "ORN_FSW_Proj_KS07"
+  "Exported synchronization information for replica "ORN_FSW_Proj_KS07".
+   Row at export was: ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_AZ75=1017391 ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_PROJ_FL1.deleted=1895"
+--06-27T14:42  clearcase_nm75 export sync from replica "ORN_FSW_Proj_FL51_new" to replica "ORN_FSW_Proj_DCW"
+  "Exported synchronization information for replica "ORN_FSW_Proj_DCW".
+   Row at export was: ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_AZ75=1017391 ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_PROJ_FL1.deleted=1895"
+--06-27T14:41  clearcase_nm75 export sync from replica "ORN_FSW_Proj_FL51_new" to replica "ORN_FSW_Proj_AZ10"
+  "Exported synchronization information for replica "ORN_FSW_Proj_AZ10".
+   Row at export was: ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_AZ75=1017391 ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_PROJ_FL1.deleted=1895"
+--06-27T14:41  clearcase_nm75 import sync from replica "ORN_FSW_Proj_MN51" to replica "ORN_FSW_Proj_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_Proj_MN51".
+   Row at import was: ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_PROJ_FL1.deleted=1895 ORN_FSW_Proj_AZ75=1017861 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946"
+--06-27T14:41  clearcase_nm75 import sync from replica "ORN_FSW_Proj_DCW" to replica "ORN_FSW_Proj_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_Proj_DCW".
+   Row at import was: ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_PROJ_FL1.deleted=1895 ORN_FSW_Proj_AZ75=1017861 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946"
+--06-27T14:40  clearcase_nm75 import sync from replica "ORN_FSW_Proj_AZ10" to replica "ORN_FSW_Proj_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_Proj_AZ10".
+   Row at import was: ORN_FSW_Proj_AZ18.deleted=22629 ORN_FSW_Proj_TX0Z.deleted=874083 ORN_FSW_PROJ_FL1.deleted=1895 ORN_FSW_Proj_AZ75=1017861 ORN_FSW_Proj_NM75.deleted=631 ORN_FSW_Proj_KS07.deleted=0 ORN_FSW_Proj_MN51=279 ORN_FSW_Proj_KS07=96 ORN_FSW_Proj_AZ10=5350 ORN_FSW_Proj_DCW=0 ORN_FSW_Proj_FL51_new=946"
+--06-27T14:32  clearcase_nm75 set process variable on activity "CORE200003816"
+  "Set activity process variable named "ACT_VOB_MODCNT"."
+--06-27T14:32  clearcase_nm75 modify activity "CORE200003816"
+  "Change set modification count set to 159."
+--06-27T14:32  clearcase_nm75 set process variable on activity "CORE200003816"
+  "Set activity process variable named "ACT_VOB_MODCNT"."
+--06-27T14:32  clearcase_nm75 modify activity "CORE200003816"
+  "Change set modification count set to 158."
+--06-27T14:32  clearcase_nm75 set process variable on activity "CORE200003816"
+  "Set activity process variable named "ACT_VOB_MODCNT"."
+--06-27T14:32  clearcase_nm75 modify activity "CORE200003816"
+  "Change set modification count set to 157."
+--06-27T14:32  E720306    make hyperlink "Change" on activity "CORE200003816"
+--06-27T14:32  E720306    create hyperlink "Change@514665@\ORN_FSW_Proj"
+--06-27T14:32  clearcase_nm75 set process variable on activity "CORE200003816"
+  "Set activity process variable named "ACT_VOB_MODCNT"."
+--06-27T14:32  clearcase_nm75 modify activity "CORE200003816"
+  "Change set modification count set to 156."
+--06-27T14:32  E720306    make hyperlink "Change" on activity "CORE200003816"
+--06-27T14:32  E720306    create hyperlink "Change@514664@\ORN_FSW_Proj"

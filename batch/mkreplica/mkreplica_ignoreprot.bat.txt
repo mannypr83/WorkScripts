@@ -1,0 +1,6 @@
+multitool mkreplica -import -workdir r:\temp\%1 -tag \%1 -public -npreserve -ignoreprot -password onemylehigh -host aerocccqstg.honeywell.com -hpath \\aerocccqstg.honeywell.com\ccstg_r\VOBs\%1.vbs -gpath \\aerocccqstg.honeywell.com\ccstg_r\VOBs\%1.vbs -vob \\aerocccqstg.honeywell.com\ccstg_r\VOBs\%1.vbs %2
+cd ../../../../etc\utils
+cleartool protectvob -force -chown VOBADM_M -chgrp aero.cc.eqt \\aerocccqstg.honeywell.com\ccstg_r\VOBs\%1.vbs
+cd ../..\var\shipping\ms_ship\incoming
+move repl_*%1* Complete
+dir repl*_1

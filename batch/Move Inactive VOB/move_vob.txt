@@ -1,0 +1,116 @@
+Use find and replace for each keyword below.
+<<WIN2K3_NAME>>
+<<WIN2K8_NAME>> (use server name, not the alias)
+<<NT-DRIVE>>
+<<CCCQ-DRIVE>>
+<<VOB_NAME>>
+<<LID_CODE>>
+<<OWNER>> = global\vobadm_m
+<<GROUP>> = verify group on WIN2K3 server
+
+To be run on <<WIN2K3_NAME>>:
+
+cleartool describe vob:\<<VOB_NAME>>
+cleartool umount \<<VOB_NAME>>
+cleartool lsvob \<<VOB_NAME>>
+
+=========if VOB replicated=============
+multitool lsreplica –invob vob:\<<VOB_NAME>>
+multitool chreplia –host <<WIN2K8_NAME>>.honeywell.com <<VOB_NAME>>_<<LID_CODE>>@\<<VOB_NAME>>
+
+(for each replica run:)
+multitool syncreplica –export –fship <<VOB_NAME>>_<<LID_CODE>>@\<<VOB_NAME>>
+
+=========endif VOB replicated=============
+
+cleartool lock vob:\<<VOB_NAME>>
+
+To be run on <<WIN2K8_NAME>>:
+
+runas /env /user:global\vobadm_m  (vobadm account we are using for new servers)
+robocopy /E /SEC /COPYALL \\<<WIN2K3_NAME>>.honeywell.com\ccstg_<<NT-DRIVE>>\VOBS\<<VOB_NAME>>.vbs \\<<WIN2K8_NAME>>.honeywell.com\ccstg_<<CCCQ-DRIVE>>\VOBs\<<VOB_NAME>>.vbs
+
+
+To be run on <<WIN2K3_NAME>>:
+cleartool unregister –vob \\<<WIN2K3_NAME>>\ccstg_<<NT-DRIVE>>\VOBs\<<VOB_NAME>>.vbs
+cleartool rmtag –vob \<<VOB_NAME>>
+
+=========if VOB replicated=============
+
+Remove <<VOB_NAME>> entry from ms_replica_list
+
+=========endif VOB replicated=============
+
+To be run on <<WIN2K8_NAME>>:
+
+cleartool register –vob \\<<WIN2K8_NAME>>.honeywell.com\ccstg_<<CCCQ-DRIVE>>\VOBs\<<VOB_NAME>>.vbs
+
+====IF “FAILED TO RECORD HOSTNAME” ERROR IS RECEIVED: =======
+o	REMOVE .HOSTNAME file from .vbs folder
+====ENDIF “FAILED TO RECORD HOSTNAME” ERROR IS RECEIVED: =======
+
+cleartool mktag –vob –tag \<<VOB_NAME>> -public \\<<WIN2K8_NAME>>.honeywell.com\ccstg_<<CCCQ-DRIVE>>\VOBs\<<VOB_NAME>>.vbs
+cleartool mount <<VOB_NAME>>
+cleartool unlock vob:\<<VOB_NAME>>
+
+=========if VOB replicated=============
+
+Update ms_replica_list
+
+=========endif VOB replicated=============
+
+cd <<CCCQ-DRIVE>>
+cd \IBM\RationalSDLC\ClearCase\etc\utils
+cleartool protectvob –chown <<OWNER>> -chgrp <<GROUP>> \\<<WIN2K8_NAME>>.honeywell.com\ccstg_<<CCCQ-DRIVE>>\VOBs\<<VOB_NAME>>.vbs
+
+========IF UNKNOWN STYLE SETTINGS ERROR IS RECEIVED:===============
+
+fix_prot -root –recurse -chown <<OWNER>> -chgrp <<GROUP>> \\<<WIN2K8_NAME>>.honeywell.com\ccstg_<<CCCQ-DRIVE>>\vobs\<<VOB_NAME>>.vbs
+cleartool protectvob –chown <<OWNER>> -chgrp <<GROUP>> \\<<WIN2K8_NAME>>.honeywell.com\ccstg_<<CCCQ-DRIVE>>\VOBs\\<<VOB_NAME>>.vbs
+
+========ENDIF UNKNOWN STYLE SETTINGS ERROR IS RECEIVED:===============
+
+vob_siddump –log c:\temp\<<VOB_NAME>>.log  \<<VOB_NAME>> c:\temp\<<VOB_NAME>>.csv
+notepad c:\temp\<<VOB_NAME>>.csv
+(replace the last item at end of 1st line with vobadm_m. At end of first line of second paragraph replace with VOB group. If paragraphs have more than one line, then enter “DELETED” for each other line.)
+
+vob_sidwalk -map c:\temp\<<VOB_NAME>>.csv \<<VOB_NAME>> c:\temp\<<VOB_NAME>>_map.log
+
+vob_sidwalk –exec -map c:\temp\<<VOB_NAME>>.csv \<<VOB_NAME>> c:\temp\<<VOB_NAME>>_exec.log
+vob_sidwalk –recover_filesystem \<<VOB_NAME>> c:\temp\<<VOB_NAME>>_recover.log
+cleartool describe vob:\<<VOB_NAME>>
+cleartool lstype –kind trytpe –long –invob vob:\<<VOB_NAME>>
+
+==============if VOB has triggers===================================
+
+cd M:\admin_view\<<VOB_NAME>>
+f:\ClearCase_Scripts\configurevob.bat
+
+Run cleartool unlock for each trigger
+
+f:\ClearCase_Scripts\configurevob.bat –replace 
+
+cleartool lstype -kind trtype -long -invob vob:\<<VOB_NAME>> | findstr "ClearCase_Scripts"
+o	Make sure all listed items point to new server
+
+	==============IF NEEDED:============================================
+	cleartool describe trtype:CheckIn
+	cleartool unlock trtype:CheckIn
+	cleartool mktrtype -replace -nc -element -all -postop checkin -exec "cmd /c (cd /D ""%CLEARCASE_PN%\.."") & (ccperl \\<<VOB_NAME>>\ClearCase_Scripts\CheckInOut.pl)" CheckIn
+	cleartool lock trtype:CheckIn
+	cleartool unlock trtype:CheckInOut
+	cleartool mktrtype -replace -nc -element -all -preop checkout,checkin -exec "cmd /c (cd /D ""%CLEARCASE_PN%\.."") & (ccperl \\<<VOB_NAME>>\ClearCase_Scripts\CheckInOut.pl)" CheckInOut
+	cleartool lock trtype:CheckInOut
+	cleartool unlock trtype:unco_rmbranch
+	cleartool rmtype -rmall trtype:unco_rmbranch
+	cleartool lstype -kind trtype -long -invob vob:\<<VOB_NAME>> | findstr "<<WIN2K8_NAME>>\ClearCase_Scripts"
+	
+	If NO_RMTRIGGER prohibits removing a trigger:
+	cleartool mktrtype -replace -nc -type -trtype -all –preop rmtype -nusers  e704548,e721877,e730056,e722159,e041467,TusVobAdm,e371166,e564406,e538625 -exec "\\<<WIN2K8_NAME>>\ClearCase_Scripts\false.bat" NO_RMTRIGGER
+	If NO_RMTYPE prohibits removing a trigger:
+	cleartool mktrtype -replace -type -att -all -brt -all -elt -all -hlt -all -lbt -all -trt -all -preop rmtype -nusers e704548,e721877,e730056,e722159,e041467,TusVobAdm,e371166,e564406,e538625 -execw “\\<<WIN2K8_NAME>>\ClearCase_Scripts\false.bat" NO_RMTYPE
+
+==============IF NEEDED:============================================
+
+==============endif VOB has triggers================================
+

@@ -1,0 +1,75 @@
+--06-30T10:41  clearcase_nm75 protect directory element "M:\admin_view\ECTOS_VOB\.@@"
+  "CHMOD 775"
+--06-30T10:37  clearcase_nm75 protect directory element "M:\admin_view\ECTOS_VOB\.@@"
+  "CHMOD 770"
+--06-30T10:37  clearcase_nm75 protect directory element "M:\admin_view\ECTOS_VOB\.@@"
+  "CHMOD 775"
+--06-30T10:35  clearcase_nm75 protect directory element "M:\admin_view\ECTOS_VOB\.@@"
+  "CHMOD 770"
+--06-30T10:35  clearcase_nm75 protect directory element "M:\admin_view\ECTOS_VOB\.@@"
+  "CHMOD 775"
+--06-26T14:42  clearcase_nm75 export sync from replica "ECTOS_VOB_FL51_new" to replica "ECTOS_VOB_DCW"
+  "Exported synchronization information for replica "ECTOS_VOB_DCW".
+   Row at export was: ECTOS_VOB_MN65=128168 ECTOS_VOB_AZ18.deleted=7 ECTOS_VOB_PR08=207475 ECTOS_VOB_FL51.deleted=0 ECTOS_VOB_FL51_new=2592 ECTOS_VOB_MN51_new=429 ECTOS_VOB_MN51.deleted=1105 ECTOS_VOB_DCW=0 ECTOS_VOB_MN17=661821"
+--06-26T14:41  clearcase_nm75 import sync from replica "ECTOS_VOB_DCW" to replica "ECTOS_VOB_FL51_new"
+  "Imported synchronization information from replica "ECTOS_VOB_DCW".
+   Row at import was: ECTOS_VOB_AZ18.deleted=7 ECTOS_VOB_MN17=661837 ECTOS_VOB_MN65=128168 ECTOS_VOB_MN51.deleted=1105 ECTOS_VOB_FL51.deleted=0 ECTOS_VOB_PR08=207475 ECTOS_VOB_MN51_new=429 ECTOS_VOB_DCW=0 ECTOS_VOB_FL51_new=2592"
+--06-26T14:39  clearcase_nm75 import sync from replica "ECTOS_VOB_MN51_new" to replica "ECTOS_VOB_FL51_new"
+  "Imported synchronization information from replica "ECTOS_VOB_MN51_new".
+   Row at import was: ECTOS_VOB_AZ18.deleted=7 ECTOS_VOB_MN17=661837 ECTOS_VOB_MN65=128168 ECTOS_VOB_MN51.deleted=1105 ECTOS_VOB_FL51.deleted=0 ECTOS_VOB_PR08=207475 ECTOS_VOB_MN51_new=429 ECTOS_VOB_DCW=0 ECTOS_VOB_FL51_new=2592"
+--06-26T14:35  clearcase_nm75 import sync from replica "ECTOS_VOB_MN17" to replica "ECTOS_VOB_FL51_new"
+  "Imported synchronization information from replica "ECTOS_VOB_MN17".
+   Row at import was: ECTOS_VOB_AZ18.deleted=7 ECTOS_VOB_MN17=661821 ECTOS_VOB_MN65=128168 ECTOS_VOB_MN51.deleted=1105 ECTOS_VOB_FL51.deleted=0 ECTOS_VOB_PR08=207475 ECTOS_VOB_MN51_new=429 ECTOS_VOB_DCW=0 ECTOS_VOB_FL51_new=2592"
+--06-26T14:34  E144999    create version "M:\admin_view\ECTOS_VOB\product_layer\mode_logic_types.cpp@@\main\ECTOS_Core_Integration\nly_ECTOS_AGS\1"
+--06-26T14:34  E144999    create version "M:\admin_view\ECTOS_VOB\product_layer\vtl_interface.h@@\main\ECTOS_Core_Integration\ECTOS_IGS_Ref_Integration\nly_ECTOS_AGS\1"
+--06-26T14:32  E144999    create version "M:\admin_view\ECTOS_VOB\product_layer\vtl_interface.h@@\main\ECTOS_Core_Integration\ECTOS_IGS_Ref_Integration\nly_ECTOS_AGS\0"
+--06-26T14:32  E144999    create branch "M:\admin_view\ECTOS_VOB\product_layer\vtl_interface.h@@\main\ECTOS_Core_Integration\ECTOS_IGS_Ref_Integration\nly_ECTOS_AGS"
+--06-26T14:32  clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\ECTOS_VOB\product_layer\mode_logic_types.cpp@@\main\ECTOS_Core_Integration\nly_ECTOS_AGS\1"
+--06-26T14:32  E144999    create version "M:\admin_view\ECTOS_VOB\product_layer\mode_logic_types.cpp@@\main\ECTOS_Core_Integration\nly_ECTOS_AGS\0"
+--06-26T14:32  E144999    create branch "M:\admin_view\ECTOS_VOB\product_layer\mode_logic_types.cpp@@\main\ECTOS_Core_Integration\nly_ECTOS_AGS"
+--06-26T14:31  E144999    create version "M:\admin_view\ECTOS_VOB\product_layer\mode_logic_types.cpp@@\main\ECTOS_Core_Integration\nly_ECTOS_IGS_LRIP\1"
+--06-26T14:30  E144999    create version "M:\admin_view\ECTOS_VOB\product_layer\vtl_interface.h@@\main\ECTOS_Core_Integration\ECTOS_IGS_Ref_Integration\nly_ECTOS_IGS_LRIP\1"
+--06-26T14:28  clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\ECTOS_VOB\product_layer\vtl_interface.h@@\main\ECTOS_Core_Integration\ECTOS_IGS_Ref_Integration\nly_ECTOS_IGS_LRIP\1"
+--06-26T14:28  E144999    create version "M:\admin_view\ECTOS_VOB\product_layer\vtl_interface.h@@\main\ECTOS_Core_Integration\ECTOS_IGS_Ref_Integration\nly_ECTOS_IGS_LRIP\0"
+--06-26T14:28  E144999    create branch "M:\admin_view\ECTOS_VOB\product_layer\vtl_interface.h@@\main\ECTOS_Core_Integration\ECTOS_IGS_Ref_Integration\nly_ECTOS_IGS_LRIP"
+--06-26T14:28  E144999    create version "M:\admin_view\ECTOS_VOB\product_layer\mode_logic_types.cpp@@\main\ECTOS_Core_Integration\nly_ECTOS_IGS_LRIP\0"
+--06-26T14:28  E144999    create branch "M:\admin_view\ECTOS_VOB\product_layer\mode_logic_types.cpp@@\main\ECTOS_Core_Integration\nly_ECTOS_IGS_LRIP"
+--06-25T11:22  clearcase_nm75 import sync from replica "ECTOS_VOB_MN17" to replica "ECTOS_VOB_FL51_new"
+  "Imported synchronization information from replica "ECTOS_VOB_MN17".
+   Row at import was: ECTOS_VOB_AZ18.deleted=7 ECTOS_VOB_MN17=661821 ECTOS_VOB_MN65=128168 ECTOS_VOB_MN51.deleted=1105 ECTOS_VOB_FL51.deleted=0 ECTOS_VOB_PR08=207475 ECTOS_VOB_MN51_new=429 ECTOS_VOB_DCW=0 ECTOS_VOB_FL51_new=2592"
+--06-25T11:20  clearcase_nm75 import sync from replica "ECTOS_VOB_MN51_new" to replica "ECTOS_VOB_FL51_new"
+  "Imported synchronization information from replica "ECTOS_VOB_MN51_new".
+   Row at import was: ECTOS_VOB_AZ18.deleted=7 ECTOS_VOB_MN17=661821 ECTOS_VOB_MN65=128168 ECTOS_VOB_MN51.deleted=1105 ECTOS_VOB_FL51.deleted=0 ECTOS_VOB_PR08=207475 ECTOS_VOB_MN51_new=429 ECTOS_VOB_DCW=0 ECTOS_VOB_FL51_new=2592"
+--06-25T11:20  clearcase_nm75 import sync from replica "ECTOS_VOB_MN17" to replica "ECTOS_VOB_FL51_new"
+  "Imported synchronization information from replica "ECTOS_VOB_MN17".
+   Row at import was: ECTOS_VOB_AZ18.deleted=7 ECTOS_VOB_MN17=661821 ECTOS_VOB_MN65=128168 ECTOS_VOB_MN51.deleted=1105 ECTOS_VOB_FL51.deleted=0 ECTOS_VOB_PR08=207475 ECTOS_VOB_MN51_new=429 ECTOS_VOB_DCW=0 ECTOS_VOB_FL51_new=2592"
+--06-25T11:12  clearcase_nm75 import sync from replica "ECTOS_VOB_DCW" to replica "ECTOS_VOB_FL51_new"
+  "Imported synchronization information from replica "ECTOS_VOB_DCW".
+   Row at import was: ECTOS_VOB_AZ18.deleted=7 ECTOS_VOB_MN17=661821 ECTOS_VOB_MN65=128168 ECTOS_VOB_MN51.deleted=1105 ECTOS_VOB_FL51.deleted=0 ECTOS_VOB_PR08=207451 ECTOS_VOB_MN51_new=429 ECTOS_VOB_DCW=0 ECTOS_VOB_FL51_new=2592"
+--06-25T11:08  clearcase_nm75 make hyperlink "BaselineLbtype" on label type "ECTOS_IGS_Ref_6_25_2014.3343"
+--06-25T11:08  clearcase_nm75 rename label type "ECTOS_IGS_Ref_6_25_2014.3343"
+  "Changed name of label type from "ECTOS_IGS_Ref_6_25_2014.3343_in_progress" to "ECTOS_IGS_Ref_6_25_2014.3343"."
+--06-25T11:08  e144999    make hyperlink "IncrementalLbtype" on label type "ECTOS_IGS_Ref_6_25_2014.3343"
+--06-25T11:08  e144999    make hyperlink "IncrementalLbtype" on label type "ECTOS_Core_6_25_2014_ESPL200034110.5761"
+--06-25T11:08  e144999    create hyperlink "IncrementalLbtype@496639@\ECTOS_VOB"
+--06-25T11:08  e144999    create label type "ECTOS_IGS_Ref_6_25_2014.3343"
+--06-25T11:08  e144999    create version "M:\admin_view\ECTOS_VOB\build\IGS\dev_project\rom\rom.wpj@@\main\ECTOS_Core_Integration\ECTOS_IGS_Ref_Integration\8" (ECTOS_IGS_Ref_6_25_2014.3343)
+--06-25T11:07  e144999    make hyperlink "Merge" on version "M:\admin_view\ECTOS_VOB\build\IGS\dev_project\rom\rom.wpj@@\main\ECTOS_Core_Integration\ECTOS_IGS_Ref_Integration\8" (ECTOS_IGS_Ref_6_25_2014.3343)
+--06-25T11:07  e144999    make hyperlink "Merge" on version "M:\admin_view\ECTOS_VOB\build\IGS\dev_project\rom\rom.wpj@@\main\ECTOS_Core_Integration\9" (ECTOS_Core_6_25_2014_ESPL200034110.5761)
+--06-25T11:07  e144999    create hyperlink "Merge@496637@\ECTOS_VOB"
+--06-25T11:07  clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\ECTOS_VOB\build\IGS\dev_project\rom\rom.wpj@@\main\ECTOS_Core_Integration\ECTOS_IGS_Ref_Integration\8" (ECTOS_IGS_Ref_6_25_2014.3343)
+--06-25T11:03  clearcase_nm75 make hyperlink "BaselineLbtype" on label type "ECTOS_Core_6_25_2014_ESPL200034110.5761"
+--06-25T11:03  clearcase_nm75 rename label type "ECTOS_Core_6_25_2014_ESPL200034110.5761"
+  "Changed name of label type from "ECTOS_Core_6_25_2014_ESPL200034110.5761_in_progress" to "ECTOS_Core_6_25_2014_ESPL200034110.5761"."
+--06-25T11:03  e144999    make hyperlink "IncrementalLbtype" on label type "ECTOS_Core_6_25_2014_ESPL200034110.5761"
+--06-25T11:03  e144999    make hyperlink "IncrementalLbtype" on label type "ECTOS_Core_6_17_2014_ESPL200034090_2.5684"
+--06-25T11:03  e144999    create hyperlink "IncrementalLbtype@496635@\ECTOS_VOB"
+--06-25T11:03  e144999    create label type "ECTOS_Core_6_25_2014_ESPL200034110.5761"
+--06-25T11:02  e144999    create version "M:\admin_view\ECTOS_VOB\build\IGS\dev_project\rom\rom.wpj@@\main\ECTOS_Core_Integration\9" (ECTOS_Core_6_25_2014_ESPL200034110.5761)
+--06-25T11:02  e144999    make hyperlink "Merge" on version "M:\admin_view\ECTOS_VOB\build\IGS\dev_project\rom\rom.wpj@@\main\ECTOS_Core_Integration\9" (ECTOS_Core_6_25_2014_ESPL200034110.5761)
+--06-25T11:02  e144999    make hyperlink "Merge" on version "M:\admin_view\ECTOS_VOB\build\IGS\dev_project\rom\rom.wpj@@\main\ECTOS_Core_Integration\nly2_ECTOS_Core\1"
+--06-25T11:02  e144999    create hyperlink "Merge@496633@\ECTOS_VOB"
+--06-25T11:02  clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\ECTOS_VOB\build\IGS\dev_project\rom\rom.wpj@@\main\ECTOS_Core_Integration\9" (ECTOS_Core_6_25_2014_ESPL200034110.5761)
+--06-24T11:21  clearcase_nm75 import sync from replica "ECTOS_VOB_DCW" to replica "ECTOS_VOB_FL51_new"
+  "Imported synchronization information from replica "ECTOS_VOB_DCW".
+   Row at import was: ECTOS_VOB_AZ18.deleted=7 ECTOS_VOB_MN17=661821 ECTOS_VOB_MN65=128168 ECTOS_VOB_MN51.deleted=1105 ECTOS_VOB_FL51.deleted=0 ECTOS_VOB_PR08=207451 ECTOS_VOB_MN51_new=429 ECTOS_VOB_DCW=0 ECTOS_VOB_FL51_new=2592"

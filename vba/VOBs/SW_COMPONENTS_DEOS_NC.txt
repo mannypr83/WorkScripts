@@ -1,0 +1,98 @@
+--06-30T10:46  clearcase_nm75 protect directory element "M:\admin_view\SW_COMPONENTS_DEOS_NC\.@@"
+  "CHMOD 775"
+--06-19T22:18  clearcase_nm75 protect directory element "M:\admin_view\SW_COMPONENTS_DEOS_NC\.@@"
+  "CHMOD 770"
+--06-19T22:18  clearcase_nm75 protect directory element "M:\admin_view\SW_COMPONENTS_DEOS_NC\.@@"
+  "CHMOD 775"
+--06-06T10:01  e704548    export sync from replica "SW_COMPONENTS_DEOS_NC_FL51" to replica "SW_COMPONENTS_DEOS_NC_KS07"
+  "Exported synchronization information for replica "SW_COMPONENTS_DEOS_NC_KS07".
+   Row at export was: SW_COMPONENTS_DEOS_NC_AZ18=0 SW_COMPONENTS_DEOS_NC_AZ75=0 SW_COMPONENTS_DEOS_NC_KS07=0 SW_COMPONENTS_DEOS_NC_FL51=0 SW_COMPONENTS_DEOS_NC_AZ10=2"
+--06-06T10:01  e704548    export sync from replica "SW_COMPONENTS_DEOS_NC_FL51" to replica "SW_COMPONENTS_DEOS_NC_AZ75"
+  "Exported synchronization information for replica "SW_COMPONENTS_DEOS_NC_AZ75".
+   Row at export was: SW_COMPONENTS_DEOS_NC_AZ18=0 SW_COMPONENTS_DEOS_NC_AZ75=0 SW_COMPONENTS_DEOS_NC_KS07=0 SW_COMPONENTS_DEOS_NC_FL51=0 SW_COMPONENTS_DEOS_NC_AZ10=2"
+--06-05T12:31  e730056    lock trigger type "NO_MKTRIGGER" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--06-05T12:31  e730056    unlock trigger type "NO_MKTRIGGER" (locked)
+--06-05T12:31  e730056    lock trigger type "NO_RMNAME" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--06-05T12:31  e730056    unlock trigger type "NO_RMNAME" (locked)
+--06-05T12:31  e730056    lock trigger type "NO_RMLOCK" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--06-05T12:31  e730056    unlock trigger type "NO_RMLOCK" (locked)
+--06-05T12:31  e730056    lock trigger type "NO_RMTYPE" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--06-05T12:31  e730056    unlock trigger type "NO_RMTYPE" (locked)
+--06-05T12:31  e730056    lock trigger type "NO_EVIL_TWIN_MKELEM" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--06-05T12:31  e730056    unlock trigger type "NO_EVIL_TWIN_MKELEM" (locked)
+--06-05T12:31  e730056    lock trigger type "NO_RMVER" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--06-05T12:31  e730056    unlock trigger type "NO_RMVER" (locked)
+--06-05T12:31  e730056    lock trigger type "NO_RMELEM" (locked)
+  "Locked for all users."
+--06-05T12:31  e730056    lock trigger type "CHOWN" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--06-05T12:31  e730056    unlock trigger type "CHOWN" (locked)
+--06-05T12:31  e730056    lock trigger type "ChangeHltypeOwner" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--06-05T12:31  e730056    unlock trigger type "ChangeHltypeOwner" (locked)
+--06-05T12:31  e730056    lock trigger type "ChangeAttypeOwner" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--06-05T12:31  e730056    unlock trigger type "ChangeAttypeOwner" (locked)
+--06-05T12:31  e730056    lock trigger type "ChangeTrtypeOwner" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--06-05T12:31  e730056    unlock trigger type "ChangeTrtypeOwner" (locked)
+--06-05T12:31  e730056    protect trigger type "NO_MKTRIGGER" (locked)
+  "CHOWN GLOBAL\vobadm_c; CHGRP GLOBAL\aero.cc.sw_components_deos_nc"
+--06-05T12:31  e730056    protect trigger type "NO_RMNAME" (locked)
+  "CHOWN GLOBAL\vobadm_c; CHGRP GLOBAL\aero.cc.sw_components_deos_nc"
+--06-05T12:31  e730056    protect trigger type "NO_RMLOCK" (locked)
+  "CHOWN GLOBAL\vobadm_c; CHGRP GLOBAL\aero.cc.sw_components_deos_nc"
+--06-05T12:31  e730056    protect trigger type "NO_RMTYPE" (locked)
+  "CHOWN GLOBAL\vobadm_c; CHGRP GLOBAL\aero.cc.sw_components_deos_nc"
+--06-05T12:31  e730056    protect trigger type "NO_EVIL_TWIN_MKELEM" (locked)
+  "CHOWN GLOBAL\vobadm_c; CHGRP GLOBAL\aero.cc.sw_components_deos_nc"
+--06-05T12:31  e730056    protect trigger type "NO_RMVER" (locked)
+  "CHOWN GLOBAL\vobadm_c; CHGRP GLOBAL\aero.cc.sw_components_deos_nc"
+--06-05T12:31  e730056    protect trigger type "NO_RMELEM" (locked)
+  "CHOWN GLOBAL\vobadm_c; CHGRP GLOBAL\aero.cc.sw_components_deos_nc"
+--06-05T12:31  e730056    protect trigger type "CHOWN" (locked)
+  "CHOWN GLOBAL\vobadm_c; CHGRP GLOBAL\aero.cc.sw_components_deos_nc"
+--06-05T12:31  e730056    protect trigger type "ChangeHltypeOwner" (locked)
+  "CHOWN GLOBAL\vobadm_c; CHGRP GLOBAL\aero.cc.sw_components_deos_nc"
+--06-05T12:31  e730056    protect trigger type "ChangeAttypeOwner" (locked)
+  "CHOWN GLOBAL\vobadm_c; CHGRP GLOBAL\aero.cc.sw_components_deos_nc"
+--06-05T12:31  e730056    protect trigger type "ChangeTrtypeOwner" (locked)
+  "CHOWN GLOBAL\vobadm_c; CHGRP GLOBAL\aero.cc.sw_components_deos_nc"
+--06-05T12:31  e730056    modify trigger type "NO_MKTRIGGER" (locked)
+  "Changed definition of type.
+   Disallow creation of new trigger types"
+--06-05T12:31  e730056    modify trigger type "NO_RMNAME" (locked)
+  "Changed definition of type.
+   Disallow removal of element names"
+--06-05T12:31  e730056    modify trigger type "NO_RMLOCK" (locked)
+  "Changed definition of type.
+   Disallow unlocking of elements"
+--06-05T12:31  e730056    modify trigger type "NO_RMTYPE" (locked)
+  "Changed definition of type.
+   Disallow removal of types"
+--06-05T12:31  e730056    modify trigger type "NO_EVIL_TWIN_MKELEM" (locked)
+  "Changed definition of type."
+--06-05T12:31  e730056    modify trigger type "NO_RMVER" (locked)
+  "Changed definition of type.
+   Disallow removal of versions"
+--06-05T12:31  e730056    modify trigger type "NO_RMELEM" (locked)
+  "Changed definition of type.
+   Disallow removal of elements"
+--06-05T12:31  e730056    unlock trigger type "NO_RMELEM" (locked)
+--06-05T12:31  e730056    modify trigger type "CHOWN" (locked)
+  "Changed definition of type.
+   Set standard ownership on elements"
+--06-05T12:31  e730056    modify trigger type "ChangeHltypeOwner" (locked)
+  "Changed definition of type."
+--06-05T12:31  e730056    modify trigger type "ChangeAttypeOwner" (locked)
+  "Changed definition of type."
+--06-05T12:31  e730056    modify trigger type "ChangeTrtypeOwner" (locked)
+  "Changed definition of type."
+--06-05T12:30  e730056    protect directory element "M:\admin_view\SW_COMPONENTS_DEOS_NC\lost+found@@"
+  "CHMOD 775; CHOWN vobadm_c; CHGRP aero.cc.sw_components_deos_nc"

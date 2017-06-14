@@ -1,0 +1,103 @@
+--06-30T10:44  clearcase_nm75 protect directory element "M:\admin_view\AGES_ATP_SDL\.@@"
+  "CHMOD 775"
+--06-19T16:21  clearcase_nm75 protect directory element "M:\admin_view\AGES_ATP_SDL\.@@"
+  "CHMOD 770"
+--06-19T16:21  clearcase_nm75 protect directory element "M:\admin_view\AGES_ATP_SDL\.@@"
+  "CHMOD 775"
+--04-29T11:50  clearcase_nm75 export sync from replica "AGES_ATP_SDL_FL51" to replica "AGES_ATP_SDL_DCW"
+  "Exported synchronization information for replica "AGES_ATP_SDL_DCW".
+   Row at export was: AGES_ATP_SDL_FL51=0 AGES_ATP_SDL_DCW=0 AGES_ATP_SDL_AZ18.deleted=1 AGES_ATP_SDL_MN17=1331"
+--04-29T11:46  clearcase_nm75 import sync from replica "AGES_ATP_SDL_MN17" to replica "AGES_ATP_SDL_FL51"
+  "Imported synchronization information from replica "AGES_ATP_SDL_MN17".
+   Row at import was: AGES_ATP_SDL_MN17=1334 AGES_ATP_SDL_AZ18.deleted=1 AGES_ATP_SDL_DCW=0 AGES_ATP_SDL_FL51=0"
+--04-29T11:46  e704548    change master to "AGES_ATP_SDL_DCW" of replica "AGES_ATP_SDL_DCW"
+  "Changed master replica from "AGES_ATP_SDL_MN17" to "AGES_ATP_SDL_DCW"."
+--04-29T11:46  clearcase_nm75 import sync from replica "AGES_ATP_SDL_MN17" to replica "AGES_ATP_SDL_FL51"
+  "Imported synchronization information from replica "AGES_ATP_SDL_MN17".
+   Row at import was: AGES_ATP_SDL_MN17=1331 AGES_ATP_SDL_AZ18=1 AGES_ATP_SDL_DCW=0 AGES_ATP_SDL_FL51=0"
+--04-29T11:45  e704548    rename replica "AGES_ATP_SDL_AZ18.deleted"
+  "Changed name of replica from "AGES_ATP_SDL_AZ18" to "AGES_ATP_SDL_AZ18.deleted".
+   Destroyed replica "AGES_ATP_SDL_AZ18"."
+--04-29T11:45  e704548    destroy replica in versioned object base "\AGES_ATP_SDL"
+  "Destroyed replica "AGES_ATP_SDL_AZ18"."
+--04-29T11:45  e704548    change master to "AGES_ATP_SDL_MN17" of replica "AGES_ATP_SDL_DCW"
+  "Changed master replica from "AGES_ATP_SDL_AZ18" to "AGES_ATP_SDL_MN17"."
+--04-29T11:45  e704548    change master to "AGES_ATP_SDL_MN17" of replica "AGES_ATP_SDL_AZ18.deleted"
+  "Changed master replica from "AGES_ATP_SDL_AZ18" to "AGES_ATP_SDL_MN17"."
+--03-25T11:35  clearcase_nm75 export sync from replica "AGES_ATP_SDL_FL51" to replica "AGES_ATP_SDL_DCW"
+  "Exported synchronization information for replica "AGES_ATP_SDL_DCW".
+   Row at export was: AGES_ATP_SDL_FL51=0 AGES_ATP_SDL_DCW=0 AGES_ATP_SDL_AZ18=0 AGES_ATP_SDL_MN17=1331"
+2013-06-26     clearcase_nm75 import sync from replica "AGES_ATP_SDL_DCW" to replica "AGES_ATP_SDL_FL51"
+  "Imported synchronization information from replica "AGES_ATP_SDL_DCW".
+   Row at import was: AGES_ATP_SDL_MN17=1331 AGES_ATP_SDL_AZ18=1 AGES_ATP_SDL_DCW=0 AGES_ATP_SDL_FL51=0"
+2013-06-26     clearcase_nm75 import sync from replica "AGES_ATP_SDL_MN17" to replica "AGES_ATP_SDL_FL51"
+  "Imported synchronization information from replica "AGES_ATP_SDL_MN17".
+   Row at import was: AGES_ATP_SDL_MN17=1331 AGES_ATP_SDL_AZ18=1 AGES_ATP_SDL_DCW=0 AGES_ATP_SDL_FL51=0"
+2013-06-26     clearcase_nm75 import sync from replica "AGES_ATP_SDL_AZ18.deleted" to replica "AGES_ATP_SDL_FL51"
+  "Imported synchronization information from replica "AGES_ATP_SDL_AZ18".
+   Row at import was: AGES_ATP_SDL_MN17=1331 AGES_ATP_SDL_AZ18=0 AGES_ATP_SDL_FL51=0"
+2013-06-26     root       create replica "AGES_ATP_SDL_DCW"
+2013-06-03     e564406    lock trigger type "NO_RMTYPE" (locked)
+  "Locked for all users."
+2013-06-03     e564406    destroy type in versioned object base "\AGES_ATP_SDL"
+  "Destroyed trigger type "NO_RMTRIGGER"."
+2013-06-03     e564406    modify trigger type "NO_RMTYPE" (locked)
+  "Changed definition of type.
+   Disallow removal of types"
+2013-06-03     e564406    unlock trigger type "NO_RMTYPE" (locked)
+2012-11-20     clearcase_nm75 import sync from replica "AGES_ATP_SDL_MN17" to replica "AGES_ATP_SDL_FL51"
+  "Imported synchronization information from replica "AGES_ATP_SDL_MN17".
+   Row at import was: AGES_ATP_SDL_MN17=1331 AGES_ATP_SDL_AZ18=0 AGES_ATP_SDL_FL51=0"
+2012-11-08     clearcase_nm75 import sync from replica "AGES_ATP_SDL_AZ18.deleted" to replica "AGES_ATP_SDL_FL51"
+  "Imported synchronization information from replica "AGES_ATP_SDL_AZ18".
+   Row at import was: AGES_ATP_SDL_MN17=1238 AGES_ATP_SDL_AZ18=0 AGES_ATP_SDL_FL51=0"
+2012-11-08     clearcase_nm75 import sync from replica "AGES_ATP_SDL_AZ18.deleted" to replica "AGES_ATP_SDL_FL51"
+  "Imported synchronization information from replica "AGES_ATP_SDL_AZ18".
+   Row at import was: AGES_ATP_SDL_MN17=1230 AGES_ATP_SDL_AZ18=0 AGES_ATP_SDL_FL51=0"
+2012-11-08     e703223    create directory version "M:\admin_view\AGES_ATP_SDL\SDL@@\main\AGES_ATP_SDL_Int\SRoth_AGES_ATP_SDL\1\iWizard\main\SRoth_AGES_ATP_SDL\6\6 - Software Design and Build\main\SRoth_AGES_ATP_SDL\4\Prototype documentation@@\main\SRoth_AGES_ATP_SDL\2"
+  "Added after STOP-WORK
+   Added file element "68005255-101_Src_dwg.doc".
+   Added file element "68005256-101_Exec_dwg.doc".
+   Added file element "68005257-01_VDD.doc".
+   Added file element "68900008-001_SW_Device.doc".
+   Added file element "ATP Prototype tests.doc".
+   Added file element "iWizard_ATP_SW_prototype.xls"."
+2012-11-08     clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\AGES_ATP_SDL\SDL@@\main\AGES_ATP_SDL_Int\SRoth_AGES_ATP_SDL\1\iWizard\main\SRoth_AGES_ATP_SDL\6\6 - Software Design and Build\main\SRoth_AGES_ATP_SDL\4\Prototype documentation\main\SRoth_AGES_ATP_SDL\2\iWizard_ATP_SW_prototype.xls@@\main\SRoth_AGES_ATP_SDL\1"
+2012-11-08     e703223    add name to directory version "M:\admin_view\AGES_ATP_SDL\SDL@@\main\AGES_ATP_SDL_Int\SRoth_AGES_ATP_SDL\1\iWizard\main\SRoth_AGES_ATP_SDL\6\6 - Software Design and Build\main\SRoth_AGES_ATP_SDL\4\Prototype documentation@@\main\SRoth_AGES_ATP_SDL\2"
+  "Added after STOP-WORK"
+2012-11-08     e703223    create version "M:\admin_view\AGES_ATP_SDL\SDL@@\main\AGES_ATP_SDL_Int\SRoth_AGES_ATP_SDL\1\iWizard\main\SRoth_AGES_ATP_SDL\6\6 - Software Design and Build\main\SRoth_AGES_ATP_SDL\4\Prototype documentation\main\SRoth_AGES_ATP_SDL\2\iWizard_ATP_SW_prototype.xls@@\main\SRoth_AGES_ATP_SDL\1"
+  "Added after STOP-WORK"
+2012-11-08     e703223    create version "M:\admin_view\AGES_ATP_SDL\SDL@@\main\AGES_ATP_SDL_Int\SRoth_AGES_ATP_SDL\1\iWizard\main\SRoth_AGES_ATP_SDL\6\6 - Software Design and Build\main\SRoth_AGES_ATP_SDL\4\Prototype documentation\main\SRoth_AGES_ATP_SDL\2\iWizard_ATP_SW_prototype.xls@@\main\SRoth_AGES_ATP_SDL\0"
+2012-11-08     e703223    create branch "M:\admin_view\AGES_ATP_SDL\SDL@@\main\AGES_ATP_SDL_Int\SRoth_AGES_ATP_SDL\1\iWizard\main\SRoth_AGES_ATP_SDL\6\6 - Software Design and Build\main\SRoth_AGES_ATP_SDL\4\Prototype documentation\main\SRoth_AGES_ATP_SDL\2\iWizard_ATP_SW_prototype.xls@@\main\SRoth_AGES_ATP_SDL"
+  "Added after STOP-WORK"
+2012-11-08     e703223    create version "M:\admin_view\AGES_ATP_SDL\SDL@@\main\AGES_ATP_SDL_Int\SRoth_AGES_ATP_SDL\1\iWizard\main\SRoth_AGES_ATP_SDL\6\6 - Software Design and Build\main\SRoth_AGES_ATP_SDL\4\Prototype documentation\main\SRoth_AGES_ATP_SDL\2\iWizard_ATP_SW_prototype.xls@@\main\0"
+2012-11-08     e703223    create branch "M:\admin_view\AGES_ATP_SDL\SDL@@\main\AGES_ATP_SDL_Int\SRoth_AGES_ATP_SDL\1\iWizard\main\SRoth_AGES_ATP_SDL\6\6 - Software Design and Build\main\SRoth_AGES_ATP_SDL\4\Prototype documentation\main\SRoth_AGES_ATP_SDL\2\iWizard_ATP_SW_prototype.xls@@\main"
+2012-11-08     e703223    create file element "M:\admin_view\AGES_ATP_SDL\SDL@@\main\AGES_ATP_SDL_Int\SRoth_AGES_ATP_SDL\1\iWizard\main\SRoth_AGES_ATP_SDL\6\6 - Software Design and Build\main\SRoth_AGES_ATP_SDL\4\Prototype documentation\main\SRoth_AGES_ATP_SDL\2\iWizard_ATP_SW_prototype.xls@@"
+  "Added after STOP-WORK"
+2012-11-08     clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\AGES_ATP_SDL\SDL@@\main\AGES_ATP_SDL_Int\SRoth_AGES_ATP_SDL\1\iWizard\main\SRoth_AGES_ATP_SDL\6\6 - Software Design and Build\main\SRoth_AGES_ATP_SDL\4\Prototype documentation\main\SRoth_AGES_ATP_SDL\2\ATP Prototype tests.doc@@\main\SRoth_AGES_ATP_SDL\1"
+2012-11-08     e703223    add name to directory version "M:\admin_view\AGES_ATP_SDL\SDL@@\main\AGES_ATP_SDL_Int\SRoth_AGES_ATP_SDL\1\iWizard\main\SRoth_AGES_ATP_SDL\6\6 - Software Design and Build\main\SRoth_AGES_ATP_SDL\4\Prototype documentation@@\main\SRoth_AGES_ATP_SDL\2"
+  "Added after STOP-WORK"
+2012-11-08     e703223    create version "M:\admin_view\AGES_ATP_SDL\SDL@@\main\AGES_ATP_SDL_Int\SRoth_AGES_ATP_SDL\1\iWizard\main\SRoth_AGES_ATP_SDL\6\6 - Software Design and Build\main\SRoth_AGES_ATP_SDL\4\Prototype documentation\main\SRoth_AGES_ATP_SDL\2\ATP Prototype tests.doc@@\main\SRoth_AGES_ATP_SDL\1"
+  "Added after STOP-WORK"
+2012-11-08     e703223    create version "M:\admin_view\AGES_ATP_SDL\SDL@@\main\AGES_ATP_SDL_Int\SRoth_AGES_ATP_SDL\1\iWizard\main\SRoth_AGES_ATP_SDL\6\6 - Software Design and Build\main\SRoth_AGES_ATP_SDL\4\Prototype documentation\main\SRoth_AGES_ATP_SDL\2\ATP Prototype tests.doc@@\main\SRoth_AGES_ATP_SDL\0"
+2012-11-08     e703223    create branch "M:\admin_view\AGES_ATP_SDL\SDL@@\main\AGES_ATP_SDL_Int\SRoth_AGES_ATP_SDL\1\iWizard\main\SRoth_AGES_ATP_SDL\6\6 - Software Design and Build\main\SRoth_AGES_ATP_SDL\4\Prototype documentation\main\SRoth_AGES_ATP_SDL\2\ATP Prototype tests.doc@@\main\SRoth_AGES_ATP_SDL"
+  "Added after STOP-WORK"
+2012-11-08     e703223    create version "M:\admin_view\AGES_ATP_SDL\SDL@@\main\AGES_ATP_SDL_Int\SRoth_AGES_ATP_SDL\1\iWizard\main\SRoth_AGES_ATP_SDL\6\6 - Software Design and Build\main\SRoth_AGES_ATP_SDL\4\Prototype documentation\main\SRoth_AGES_ATP_SDL\2\ATP Prototype tests.doc@@\main\0"
+2012-11-08     e703223    create branch "M:\admin_view\AGES_ATP_SDL\SDL@@\main\AGES_ATP_SDL_Int\SRoth_AGES_ATP_SDL\1\iWizard\main\SRoth_AGES_ATP_SDL\6\6 - Software Design and Build\main\SRoth_AGES_ATP_SDL\4\Prototype documentation\main\SRoth_AGES_ATP_SDL\2\ATP Prototype tests.doc@@\main"
+2012-11-08     e703223    create file element "M:\admin_view\AGES_ATP_SDL\SDL@@\main\AGES_ATP_SDL_Int\SRoth_AGES_ATP_SDL\1\iWizard\main\SRoth_AGES_ATP_SDL\6\6 - Software Design and Build\main\SRoth_AGES_ATP_SDL\4\Prototype documentation\main\SRoth_AGES_ATP_SDL\2\ATP Prototype tests.doc@@"
+  "Added after STOP-WORK"
+2012-11-08     clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\AGES_ATP_SDL\SDL@@\main\AGES_ATP_SDL_Int\SRoth_AGES_ATP_SDL\1\iWizard\main\SRoth_AGES_ATP_SDL\6\6 - Software Design and Build\main\SRoth_AGES_ATP_SDL\4\Prototype documentation\main\SRoth_AGES_ATP_SDL\2\68900008-001_SW_Device.doc@@\main\SRoth_AGES_ATP_SDL\1"
+2012-11-08     e703223    add name to directory version "M:\admin_view\AGES_ATP_SDL\SDL@@\main\AGES_ATP_SDL_Int\SRoth_AGES_ATP_SDL\1\iWizard\main\SRoth_AGES_ATP_SDL\6\6 - Software Design and Build\main\SRoth_AGES_ATP_SDL\4\Prototype documentation@@\main\SRoth_AGES_ATP_SDL\2"
+  "Added after STOP-WORK"
+2012-11-08     e703223    create version "M:\admin_view\AGES_ATP_SDL\SDL@@\main\AGES_ATP_SDL_Int\SRoth_AGES_ATP_SDL\1\iWizard\main\SRoth_AGES_ATP_SDL\6\6 - Software Design and Build\main\SRoth_AGES_ATP_SDL\4\Prototype documentation\main\SRoth_AGES_ATP_SDL\2\68900008-001_SW_Device.doc@@\main\SRoth_AGES_ATP_SDL\1"
+  "Added after STOP-WORK"
+2012-11-08     e703223    create version "M:\admin_view\AGES_ATP_SDL\SDL@@\main\AGES_ATP_SDL_Int\SRoth_AGES_ATP_SDL\1\iWizard\main\SRoth_AGES_ATP_SDL\6\6 - Software Design and Build\main\SRoth_AGES_ATP_SDL\4\Prototype documentation\main\SRoth_AGES_ATP_SDL\2\68900008-001_SW_Device.doc@@\main\SRoth_AGES_ATP_SDL\0"
+2012-11-08     e703223    create branch "M:\admin_view\AGES_ATP_SDL\SDL@@\main\AGES_ATP_SDL_Int\SRoth_AGES_ATP_SDL\1\iWizard\main\SRoth_AGES_ATP_SDL\6\6 - Software Design and Build\main\SRoth_AGES_ATP_SDL\4\Prototype documentation\main\SRoth_AGES_ATP_SDL\2\68900008-001_SW_Device.doc@@\main\SRoth_AGES_ATP_SDL"
+  "Added after STOP-WORK"
+2012-11-08     e703223    create version "M:\admin_view\AGES_ATP_SDL\SDL@@\main\AGES_ATP_SDL_Int\SRoth_AGES_ATP_SDL\1\iWizard\main\SRoth_AGES_ATP_SDL\6\6 - Software Design and Build\main\SRoth_AGES_ATP_SDL\4\Prototype documentation\main\SRoth_AGES_ATP_SDL\2\68900008-001_SW_Device.doc@@\main\0"
+2012-11-08     e703223    create branch "M:\admin_view\AGES_ATP_SDL\SDL@@\main\AGES_ATP_SDL_Int\SRoth_AGES_ATP_SDL\1\iWizard\main\SRoth_AGES_ATP_SDL\6\6 - Software Design and Build\main\SRoth_AGES_ATP_SDL\4\Prototype documentation\main\SRoth_AGES_ATP_SDL\2\68900008-001_SW_Device.doc@@\main"
+2012-11-08     e703223    create file element "M:\admin_view\AGES_ATP_SDL\SDL@@\main\AGES_ATP_SDL_Int\SRoth_AGES_ATP_SDL\1\iWizard\main\SRoth_AGES_ATP_SDL\6\6 - Software Design and Build\main\SRoth_AGES_ATP_SDL\4\Prototype documentation\main\SRoth_AGES_ATP_SDL\2\68900008-001_SW_Device.doc@@"
+  "Added after STOP-WORK"
+2012-11-08     clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\AGES_ATP_SDL\SDL@@\main\AGES_ATP_SDL_Int\SRoth_AGES_ATP_SDL\1\iWizard\main\SRoth_AGES_ATP_SDL\6\6 - Software Design and Build\main\SRoth_AGES_ATP_SDL\4\Prototype documentation\main\SRoth_AGES_ATP_SDL\2\68005257-01_VDD.doc@@\main\SRoth_AGES_ATP_SDL\1"
+2012-11-08     e703223    add name to directory version "M:\admin_view\AGES_ATP_SDL\SDL@@\main\AGES_ATP_SDL_Int\SRoth_AGES_ATP_SDL\1\iWizard\main\SRoth_AGES_ATP_SDL\6\6 - Software Design and Build\main\SRoth_AGES_ATP_SDL\4\Prototype documentation@@\main\SRoth_AGES_ATP_SDL\2"
+  "Added after STOP-WORK"

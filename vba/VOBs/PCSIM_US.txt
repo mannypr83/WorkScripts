@@ -1,0 +1,120 @@
+--06-30T10:41  clearcase_nm75 protect directory element "M:\admin_view\PCSIM_US\.@@"
+  "CHMOD 775"
+--06-30T10:37  clearcase_nm75 protect directory element "M:\admin_view\PCSIM_US\.@@"
+  "CHMOD 770"
+--06-30T10:37  clearcase_nm75 protect directory element "M:\admin_view\PCSIM_US\.@@"
+  "CHMOD 775"
+--06-30T10:35  clearcase_nm75 protect directory element "M:\admin_view\PCSIM_US\.@@"
+  "CHMOD 770"
+--06-30T10:35  clearcase_nm75 protect directory element "M:\admin_view\PCSIM_US\.@@"
+  "CHMOD 775"
+--06-17T17:21  clearcase_nm75 protect directory element "M:\admin_view\PCSIM_US\.@@"
+  "CHMOD 770"
+--06-17T17:21  clearcase_nm75 protect directory element "M:\admin_view\PCSIM_US\.@@"
+  "CHMOD 775"
+--05-01T15:05  clearcase_nm75 import sync from replica "PCSIM_US_DCW" to replica "PCSIM_US_FL51"
+  "Imported synchronization information from replica "PCSIM_US_DCW".
+   Row at import was: PCSIM_US_AZ18.deleted=6 PCSIM_US_MN17=9 PCSIM_US_MN10=0 PCSIM_US_MN51=0 PCSIM_US_PR08=4 PCSIM_US_DCW=0 PCSIM_US_FL51=0"
+--05-01T15:00  clearcase_nm75 export sync from replica "PCSIM_US_FL51" to replica "PCSIM_US_DCW"
+  "Exported synchronization information for replica "PCSIM_US_DCW".
+   Row at export was: PCSIM_US_DCW=0 PCSIM_US_MN10=0 PCSIM_US_MN17=3 PCSIM_US_FL51=0 PCSIM_US_PR08=4 PCSIM_US_AZ18.deleted=6 PCSIM_US_MN51=0"
+--05-01T14:58  clearcase_nm75 import sync from replica "PCSIM_US_MN17" to replica "PCSIM_US_FL51"
+  "Imported synchronization information from replica "PCSIM_US_MN17".
+   Row at import was: PCSIM_US_AZ18.deleted=6 PCSIM_US_MN17=8 PCSIM_US_MN10=0 PCSIM_US_MN51=0 PCSIM_US_PR08=4 PCSIM_US_DCW=0 PCSIM_US_FL51=0"
+--05-01T14:57  e704548    change master to "PCSIM_US_DCW" of replica "PCSIM_US_DCW"
+  "Changed master replica from "PCSIM_US_MN17" to "PCSIM_US_DCW"."
+--05-01T14:57  clearcase_nm75 import sync from replica "PCSIM_US_MN17" to replica "PCSIM_US_FL51"
+  "Imported synchronization information from replica "PCSIM_US_MN17".
+   Row at import was: PCSIM_US_AZ18=6 PCSIM_US_MN17=3 PCSIM_US_MN10=0 PCSIM_US_MN51=0 PCSIM_US_PR08=4 PCSIM_US_DCW=0 PCSIM_US_FL51=0"
+--05-01T14:57  e704548    rename replica "PCSIM_US_AZ18.deleted"
+  "Changed name of replica from "PCSIM_US_AZ18" to "PCSIM_US_AZ18.deleted".
+   Destroyed replica "PCSIM_US_AZ18"."
+--05-01T14:57  e704548    destroy replica in versioned object base "\PCSIM_US"
+  "Destroyed replica "PCSIM_US_AZ18"."
+--05-01T14:57  e704548    change master to "PCSIM_US_MN17" of replica "PCSIM_US_DCW"
+  "Changed master replica from "PCSIM_US_AZ18" to "PCSIM_US_MN17"."
+--05-01T14:57  e704548    change master to "PCSIM_US_MN17" of replica "PCSIM_US_FL51"
+  "Changed master replica from "PCSIM_US_AZ18" to "PCSIM_US_MN17"."
+--05-01T14:57  e704548    change master to "PCSIM_US_MN17" of replica "PCSIM_US_MN51"
+  "Changed master replica from "PCSIM_US_AZ18" to "PCSIM_US_MN17"."
+--05-01T14:57  e704548    change master to "PCSIM_US_MN17" of replica "PCSIM_US_MN10"
+  "Changed master replica from "PCSIM_US_AZ18" to "PCSIM_US_MN17"."
+--07-22T15:00  clearcase_nm75 import sync to replica "PCSIM_US_FL51"
+  "Imported synchronization information from replica "£!" £!"!".
+   Row at import was: PCSIM_US_AZ18=5 PCSIM_US_MN17=3 PCSIM_US_MN10=0 PCSIM_US_MN51=0 PCSIM_US_PR08=4 PCSIM_US_FL51=0"
+--07-22T11:11  root       create replica "PCSIM_US_DCW"
+2013-06-12     clearcase_nm75 import sync from replica "PCSIM_US_AZ18.deleted" to replica "PCSIM_US_FL51"
+  "Imported synchronization information from replica "PCSIM_US_AZ18".
+   Row at import was: PCSIM_US_AZ18=5 PCSIM_US_MN17=3 PCSIM_US_MN10=0 PCSIM_US_MN51=0 PCSIM_US_PR08=3 PCSIM_US_FL51=0"
+2013-06-12     e721877    import sync to replica "PCSIM_US_PR08"
+  "Changed information associated with replica."
+2013-04-12     clearcase_nm75 import sync from replica "PCSIM_US_AZ18.deleted" to replica "PCSIM_US_FL51"
+  "Imported synchronization information from replica "PCSIM_US_AZ18".
+   Row at import was: PCSIM_US_AZ18=5 PCSIM_US_MN17=3 PCSIM_US_MN10=0 PCSIM_US_MN51=0 PCSIM_US_PR08=2 PCSIM_US_FL51=0"
+2013-04-12     sv-das_cc_albd import sync to replica "PCSIM_US_PR08"
+  "Changed information associated with replica."
+2013-04-12     clearcase_nm75 import sync from replica "PCSIM_US_AZ18.deleted" to replica "PCSIM_US_FL51"
+  "Imported synchronization information from replica "PCSIM_US_AZ18".
+   Row at import was: PCSIM_US_AZ18=5 PCSIM_US_MN17=3 PCSIM_US_MN10=0 PCSIM_US_MN51=0 PCSIM_US_PR08=0 PCSIM_US_FL51=0"
+2013-04-12     sv-das_cc_albd import sync to replica "PCSIM_US_PR08"
+  "Changed information associated with replica."
+2013-04-12     sv-das_cc_albd import sync to replica "PCSIM_US_PR08"
+  "Changed information associated with replica."
+2013-04-12     clearcase_nm75 import sync from replica "PCSIM_US_AZ18.deleted" to replica "PCSIM_US_FL51"
+  "Imported synchronization information from replica "PCSIM_US_AZ18".
+   Row at import was: PCSIM_US_AZ18=4 PCSIM_US_MN17=3 PCSIM_US_MN10=0 PCSIM_US_MN51=0 PCSIM_US_PR08=0 PCSIM_US_FL51=0"
+2013-04-12     root       change master to "PCSIM_US_PR08" of replica "PCSIM_US_PR08"
+  "Changed master replica from "PCSIM_US_AZ18" to "PCSIM_US_PR08"."
+2009-02-17     clearcase_nm75 import sync from replica "PCSIM_US_PR08" to replica "PCSIM_US_FL51"
+  "Imported synchronization information from replica "PCSIM_US_PR08".
+   Row at import was: PCSIM_US_AZ18=4 PCSIM_US_MN17=3 PCSIM_US_MN10=0 PCSIM_US_MN51=0 PCSIM_US_PR08=0 PCSIM_US_FL51=0"
+2009-02-10     clearcase_nm75 export sync from replica "PCSIM_US_FL51" to replica "PCSIM_US_PR08"
+  "Exported synchronization information for replica "PCSIM_US_PR08".
+   Row at export was: PCSIM_US_MN10=0 PCSIM_US_MN17=1 PCSIM_US_FL51=0 PCSIM_US_PR08=0 PCSIM_US_AZ18=3 PCSIM_US_MN51=0"
+2009-02-10     clearcase_nm75 export sync from replica "PCSIM_US_FL51" to replica "PCSIM_US_MN51"
+  "Exported synchronization information for replica "PCSIM_US_MN51".
+   Row at export was: PCSIM_US_MN10=0 PCSIM_US_MN17=1 PCSIM_US_FL51=0 PCSIM_US_PR08=0 PCSIM_US_AZ18=2 PCSIM_US_MN51=0"
+2009-02-10     clearcase_nm75 export sync from replica "PCSIM_US_FL51" to replica "PCSIM_US_MN17"
+  "Exported synchronization information for replica "PCSIM_US_MN17".
+   Row at export was: PCSIM_US_MN10=0 PCSIM_US_MN17=3 PCSIM_US_FL51=0 PCSIM_US_PR08=0 PCSIM_US_AZ18=2 PCSIM_US_MN51=0"
+2009-02-10     clearcase_nm75 export sync from replica "PCSIM_US_FL51" to replica "PCSIM_US_MN10"
+  "Exported synchronization information for replica "PCSIM_US_MN10".
+   Row at export was: PCSIM_US_MN10=0 PCSIM_US_MN17=1 PCSIM_US_FL51=0 PCSIM_US_PR08=0 PCSIM_US_AZ18=2 PCSIM_US_MN51=0"
+2009-02-09     e704548    import sync from replica "PCSIM_US_MN51" to replica "PCSIM_US_FL51"
+  "Imported synchronization information from replica "PCSIM_US_MN51".
+   Row at import was: PCSIM_US_AZ18=4 PCSIM_US_MN17=3 PCSIM_US_MN10=0 PCSIM_US_MN51=0 PCSIM_US_PR08=0 PCSIM_US_FL51=0"
+2009-02-09     e704548    import sync from replica "PCSIM_US_AZ18.deleted" to replica "PCSIM_US_FL51"
+  "Imported synchronization information from replica "PCSIM_US_AZ18".
+   Row at import was: PCSIM_US_AZ18=4 PCSIM_US_MN17=1 PCSIM_US_MN10=0 PCSIM_US_MN51=0 PCSIM_US_PR08=0 PCSIM_US_FL51=0"
+2009-02-03     e704548    import sync from replica "PCSIM_US_MN51" to replica "PCSIM_US_FL51"
+  "Imported synchronization information from replica "PCSIM_US_MN51".
+   Row at import was: PCSIM_US_AZ18=4 PCSIM_US_MN17=1 PCSIM_US_MN10=0 PCSIM_US_MN51=0 PCSIM_US_PR08=0 PCSIM_US_FL51=0"
+2009-02-03     e704548    import sync from replica "PCSIM_US_MN51" to replica "PCSIM_US_FL51"
+  "Imported synchronization information from replica "PCSIM_US_MN51".
+   Row at import was: PCSIM_US_AZ18=4 PCSIM_US_MN17=1 PCSIM_US_MN10=0 PCSIM_US_MN51=0 PCSIM_US_PR08=0 PCSIM_US_FL51=0"
+2009-02-03     e704548    import sync from replica "PCSIM_US_PR08" to replica "PCSIM_US_FL51"
+  "Imported synchronization information from replica "PCSIM_US_PR08".
+   Row at import was: PCSIM_US_AZ18=4 PCSIM_US_MN17=1 PCSIM_US_MN10=0 PCSIM_US_MN51=0 PCSIM_US_PR08=0 PCSIM_US_FL51=0"
+2009-02-03     e704548    import sync from replica "PCSIM_US_AZ18.deleted" to replica "PCSIM_US_FL51"
+  "Imported synchronization information from replica "PCSIM_US_AZ18".
+   Row at import was: PCSIM_US_AZ18=3 PCSIM_US_MN17=1 PCSIM_US_MN10=0 PCSIM_US_MN51=0 PCSIM_US_FL51=0"
+2009-01-16     e704548    modify replica "PCSIM_US_FL51"
+  "Enable requests for mastership."
+2009-01-16     e704548    protect directory element "M:\admin_view\PCSIM_US\lost+found@@"
+  "CHMOD 770; CHOWN e730056; CHGRP namerica4\aero.ecoe.ies.pcsim"
+2009-01-16     e704548    protect directory element "M:\admin_view\PCSIM_US\.@@"
+  "CHMOD 770; CHOWN e730056; CHGRP namerica4\aero.ecoe.ies.pcsim"
+2009-01-16     e704548    modify pool "cdft"
+  "Changed definition of pool."
+2009-01-16     e704548    modify pool "ddft"
+  "Changed definition of pool."
+2009-01-16     e704548    unlock versioned object base "\PCSIM_US"
+  "Unlock after replica creation"
+2009-01-16     root       create replica "PCSIM_US_PR08"
+2009-01-16     root       lock versioned object base "\PCSIM_US"
+  "Locked for all users.
+   Locked for replica dump"
+2009-01-16     root       create replica "PCSIM_US_FL51"
+2009-01-15     root       export sync from replica "PCSIM_US_AZ18.deleted" to replica "PCSIM_US_MN51"
+  "Exported synchronization information for replica "PCSIM_US_MN51".
+   Row at export was: PCSIM_US_AZ18=1 PCSIM_US_MN17=1 PCSIM_US_MN51=0 PCSIM_US_MN10=0"

@@ -1,0 +1,1 @@
+shutdown /r /m \\<COMPUTERNAME> /t 300 /c "Planned Site Power Outage. Please save your work immediately. Machine will shutdown in 5 minutes." /d p:P:01:01

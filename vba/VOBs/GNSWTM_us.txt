@@ -1,0 +1,400 @@
+--04-30T12:36  clearcase_nm75 import sync from replica "GNSWTM_US_DCW" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_DCW".
+   Row at import was: GNSWTM_US_AZ18.deleted=5 GNSWTM_US_MN17=256 GNSWTM_US_MN51=1 GNSWTM_US_PR08.deleted=4 GNSWTM_US_DCW=0 GNSWTM_US_FL51=157"
+--04-30T12:32  clearcase_nm75 export sync from replica "GNSWTM_US_FL51" to replica "GNSWTM_US_DCW"
+  "Exported synchronization information for replica "GNSWTM_US_DCW".
+   Row at export was: GNSWTM_US_DCW=0 GNSWTM_US_AZ18.deleted=5 GNSWTM_US_FL51=157 GNSWTM_US_PR08.deleted=4 GNSWTM_US_MN17=251 GNSWTM_US_MN51=1"
+--04-30T12:31  clearcase_nm75 import sync from replica "GNSWTM_US_MN51" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_MN51".
+   Row at import was: GNSWTM_US_AZ18.deleted=5 GNSWTM_US_MN17=256 GNSWTM_US_MN51=1 GNSWTM_US_PR08.deleted=4 GNSWTM_US_DCW=0 GNSWTM_US_FL51=157"
+--04-30T12:26  clearcase_nm75 import sync from replica "GNSWTM_US_DCW" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_DCW".
+   Row at import was: GNSWTM_US_AZ18.deleted=5 GNSWTM_US_MN17=256 GNSWTM_US_MN51=1 GNSWTM_US_PR08.deleted=4 GNSWTM_US_DCW=0 GNSWTM_US_FL51=157"
+--04-30T12:24  clearcase_nm75 import sync from replica "GNSWTM_US_MN17" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_MN17".
+   Row at import was: GNSWTM_US_AZ18.deleted=5 GNSWTM_US_MN17=255 GNSWTM_US_MN51=1 GNSWTM_US_PR08.deleted=4 GNSWTM_US_DCW=0 GNSWTM_US_FL51=157"
+--04-30T12:24  e704548    change master to "GNSWTM_US_DCW" of replica "GNSWTM_US_DCW"
+  "Changed master replica from "GNSWTM_US_MN17" to "GNSWTM_US_DCW"."
+--04-30T12:24  clearcase_nm75 import sync from replica "GNSWTM_US_MN17" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_MN17".
+   Row at import was: GNSWTM_US_AZ18=5 GNSWTM_US_MN17=251 GNSWTM_US_MN51=1 GNSWTM_US_PR08.deleted=4 GNSWTM_US_DCW=0 GNSWTM_US_FL51=157"
+--04-30T12:23  e704548    rename replica "GNSWTM_US_AZ18.deleted"
+  "Changed name of replica from "GNSWTM_US_AZ18" to "GNSWTM_US_AZ18.deleted".
+   Destroyed replica "GNSWTM_US_AZ18"."
+--04-30T12:23  e704548    destroy replica in versioned object base "\GNSWTM_US"
+  "Destroyed replica "GNSWTM_US_AZ18"."
+--04-30T12:23  e704548    change master to "GNSWTM_US_MN17" of replica "GNSWTM_US_DCW"
+  "Changed master replica from "GNSWTM_US_AZ18" to "GNSWTM_US_MN17"."
+--04-30T12:23  e704548    change master to "GNSWTM_US_MN17" of replica "GNSWTM_US_FL51"
+  "Changed master replica from "GNSWTM_US_AZ18" to "GNSWTM_US_MN17"."
+--04-30T12:23  e704548    change master to "GNSWTM_US_MN17" of replica "GNSWTM_US_MN51"
+  "Changed master replica from "GNSWTM_US_AZ18" to "GNSWTM_US_MN17"."
+--03-25T12:12  clearcase_nm75 export sync from replica "GNSWTM_US_FL51" to replica "GNSWTM_US_DCW"
+  "Exported synchronization information for replica "GNSWTM_US_DCW".
+   Row at export was: GNSWTM_US_DCW=0 GNSWTM_US_AZ18=4 GNSWTM_US_FL51=157 GNSWTM_US_PR08.deleted=4 GNSWTM_US_MN17=251 GNSWTM_US_MN51=1"
+--02-12T13:30  clearcase_nm75 import sync from replica "GNSWTM_US_MN51" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_MN51".
+   Row at import was: GNSWTM_US_AZ18=5 GNSWTM_US_MN17=251 GNSWTM_US_MN51=1 GNSWTM_US_PR08.deleted=4 GNSWTM_US_DCW=0 GNSWTM_US_FL51=157"
+--02-12T13:20  clearcase_nm75 import sync from replica "GNSWTM_US_MN17" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_MN17".
+   Row at import was: GNSWTM_US_AZ18=5 GNSWTM_US_MN17=251 GNSWTM_US_MN51=1 GNSWTM_US_PR08.deleted=4 GNSWTM_US_DCW=0 GNSWTM_US_FL51=157"
+--07-29T13:10  clearcase_nm75 import sync from replica "GNSWTM_US_DCW" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_DCW".
+   Row at import was: GNSWTM_US_AZ18=5 GNSWTM_US_MN17=251 GNSWTM_US_MN51=1 GNSWTM_US_PR08.deleted=4 GNSWTM_US_DCW=0 GNSWTM_US_FL51=157"
+--07-29T11:30  clearcase_nm75 import sync from replica "GNSWTM_US_AZ18.deleted" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_AZ18".
+   Row at import was: GNSWTM_US_AZ18=4 GNSWTM_US_MN17=251 GNSWTM_US_MN51=1 GNSWTM_US_PR08.deleted=4 GNSWTM_US_FL51=157"
+--07-29T11:13  root       create replica "GNSWTM_US_DCW"
+2013-06-13     clearcase_nm75 import sync from replica "GNSWTM_US_AZ18.deleted" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_AZ18".
+   Row at import was: GNSWTM_US_AZ18=4 GNSWTM_US_MN17=196 GNSWTM_US_MN51=1 GNSWTM_US_PR08.deleted=4 GNSWTM_US_FL51=157"
+2013-06-13     clearcase_nm75 import sync from replica "GNSWTM_US_AZ18.deleted" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_AZ18".
+   Row at import was: GNSWTM_US_AZ18=4 GNSWTM_US_MN17=188 GNSWTM_US_MN51=1 GNSWTM_US_PR08.deleted=4 GNSWTM_US_FL51=157"
+2013-06-13     E702445    create directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\9\Barker_Pete@@\main\GNSWTM_ss_Integration\2"
+  " 
+   Added file element "CCRC & CQWeb Client Integrated UCM Project_for Pete.doc"."
+2013-06-13     clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\9\Barker_Pete\main\GNSWTM_ss_Integration\2\CCRC & CQWeb Client Integrated UCM Project_for Pete.doc@@\main\GNSWTM_ss_Integration\1"
+2013-06-13     E702445    add name to directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\9\Barker_Pete@@\main\GNSWTM_ss_Integration\2"
+2013-06-13     E702445    create version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\9\Barker_Pete\main\GNSWTM_ss_Integration\2\CCRC & CQWeb Client Integrated UCM Project_for Pete.doc@@\main\GNSWTM_ss_Integration\1"
+2013-06-13     E702445    create version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\9\Barker_Pete\main\GNSWTM_ss_Integration\2\CCRC & CQWeb Client Integrated UCM Project_for Pete.doc@@\main\GNSWTM_ss_Integration\0"
+2013-06-13     E702445    create branch "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\9\Barker_Pete\main\GNSWTM_ss_Integration\2\CCRC & CQWeb Client Integrated UCM Project_for Pete.doc@@\main\GNSWTM_ss_Integration"
+2013-06-13     E702445    create version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\9\Barker_Pete\main\GNSWTM_ss_Integration\2\CCRC & CQWeb Client Integrated UCM Project_for Pete.doc@@\main\0"
+2013-06-13     E702445    create branch "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\9\Barker_Pete\main\GNSWTM_ss_Integration\2\CCRC & CQWeb Client Integrated UCM Project_for Pete.doc@@\main"
+2013-06-13     E702445    create file element "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\9\Barker_Pete\main\GNSWTM_ss_Integration\2\CCRC & CQWeb Client Integrated UCM Project_for Pete.doc@@"
+2013-06-13     clearcase_nm75 make hyperlink "Change" on directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\9\Barker_Pete@@\main\GNSWTM_ss_Integration\2"
+2013-06-13     E702445    add name to directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\9"
+2013-06-13     clearcase_nm75 make hyperlink "Change" on directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\9"
+2013-06-13     E702445    create directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\9"
+  " 
+   Added directory element "Barker_Pete"."
+2013-06-13     clearcase_nm75 make hyperlink "Change" on directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\9\Barker_Pete@@\main\GNSWTM_ss_Integration\1"
+2013-06-13     E702445    create directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\9\Barker_Pete@@\main\GNSWTM_ss_Integration\1"
+2013-06-13     E702445    create directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\9\Barker_Pete@@\main\GNSWTM_ss_Integration\0"
+2013-06-13     E702445    create branch "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\9\Barker_Pete@@\main\GNSWTM_ss_Integration"
+2013-06-13     E702445    create directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\9\Barker_Pete@@\main\0"
+2013-06-13     E702445    create branch "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\9\Barker_Pete@@\main"
+2013-06-13     E702445    create directory element "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\9\Barker_Pete@@"
+2013-06-13     E702445    create directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\8"
+  " 
+   Uncataloged file element "jlb-test1.txt".
+   Uncataloged directory element "2009 Cost Containment".
+   Uncataloged directory element "Budgets".
+   Uncataloged file element "CC Rollcall.xls".
+   Uncataloged directory element "Clearwater".
+   Uncataloged directory element "DPRs".
+   Uncataloged directory element "Goals & Objectives".
+   Uncataloged directory element "Staff Meetings".
+   Uncataloged directory element "TRR".
+   Uncataloged directory element "Unstructured Work Queue".
+   Uncataloged directory element "Yield"."
+2013-06-13     E702445    create directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\7\old@@\main\GNSWTM_ss_Integration\2"
+  " 
+   Added file element "jlb-test1.txt".
+   Added directory element "2009 Cost Containment".
+   Added directory element "Budgets".
+   Added file element "CC Rollcall.xls".
+   Added directory element "Clearwater".
+   Added directory element "DPRs".
+   Added directory element "Goals & Objectives".
+   Added directory element "Staff Meetings".
+   Added directory element "TRR".
+   Added directory element "Unstructured Work Queue".
+   Added directory element "Yield"."
+2013-06-13     clearcase_nm75 remove name from directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\8"
+2013-06-13     clearcase_nm75 add name to directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\7\old@@\main\GNSWTM_ss_Integration\2"
+2013-06-13     clearcase_nm75 remove name from directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\8"
+2013-06-13     clearcase_nm75 add name to directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\7\old@@\main\GNSWTM_ss_Integration\2"
+2013-06-13     clearcase_nm75 remove name from directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\8"
+2013-06-13     clearcase_nm75 add name to directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\7\old@@\main\GNSWTM_ss_Integration\2"
+2013-06-13     clearcase_nm75 remove name from directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\8"
+2013-06-13     clearcase_nm75 add name to directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\7\old@@\main\GNSWTM_ss_Integration\2"
+2013-06-13     clearcase_nm75 remove name from directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\8"
+2013-06-13     clearcase_nm75 add name to directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\7\old@@\main\GNSWTM_ss_Integration\2"
+2013-06-13     clearcase_nm75 remove name from directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\8"
+2013-06-13     clearcase_nm75 add name to directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\7\old@@\main\GNSWTM_ss_Integration\2"
+2013-06-13     clearcase_nm75 remove name from directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\8"
+2013-06-13     clearcase_nm75 add name to directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\7\old@@\main\GNSWTM_ss_Integration\2"
+2013-06-13     clearcase_nm75 remove name from directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\8"
+2013-06-13     clearcase_nm75 add name to directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\7\old@@\main\GNSWTM_ss_Integration\2"
+2013-06-13     clearcase_nm75 remove name from directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\8"
+2013-06-13     clearcase_nm75 add name to directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\7\old@@\main\GNSWTM_ss_Integration\2"
+2013-06-13     clearcase_nm75 remove name from directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\8"
+2013-06-13     clearcase_nm75 add name to directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\7\old@@\main\GNSWTM_ss_Integration\2"
+2013-06-13     clearcase_nm75 remove name from directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\8"
+2013-06-13     clearcase_nm75 add name to directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\7\old@@\main\GNSWTM_ss_Integration\2"
+2013-06-13     clearcase_nm75 make hyperlink "Change" on directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\8"
+2013-06-13     clearcase_nm75 make hyperlink "Change" on directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\7\old@@\main\GNSWTM_ss_Integration\2"
+2013-06-13     E702445    add name to directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\7"
+2013-06-13     E702445    create directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\7"
+  " 
+   Added directory element "old"."
+2013-06-13     clearcase_nm75 make hyperlink "Change" on directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\7\old@@\main\GNSWTM_ss_Integration\1"
+2013-06-13     E702445    create directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\7\old@@\main\GNSWTM_ss_Integration\1"
+2013-06-13     E702445    create directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\7\old@@\main\GNSWTM_ss_Integration\0"
+2013-06-13     E702445    create branch "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\7\old@@\main\GNSWTM_ss_Integration"
+2013-06-13     E702445    create directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\7\old@@\main\0"
+2013-06-13     E702445    create branch "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\7\old@@\main"
+2013-06-13     E702445    create directory element "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\7\old@@"
+2013-06-13     clearcase_nm75 make hyperlink "Change" on directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\7"
+2013-06-10     clearcase_nm75 import sync from replica "GNSWTM_US_AZ18.deleted" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_AZ18".
+   Row at import was: GNSWTM_US_AZ18=4 GNSWTM_US_MN17=188 GNSWTM_US_MN51=0 GNSWTM_US_PR08=4 GNSWTM_US_FL51=157"
+2013-06-10     clearcase_nm75 import sync from replica "GNSWTM_US_AZ18.deleted" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_AZ18".
+   Row at import was: GNSWTM_US_AZ18=4 GNSWTM_US_MN17=188 GNSWTM_US_MN51=0 GNSWTM_US_PR08=3 GNSWTM_US_FL51=157"
+2013-06-10     e721877    rename replica "GNSWTM_US_PR08.deleted"
+  "Changed name of replica from "GNSWTM_US_PR08" to "GNSWTM_US_PR08.deleted".
+   Destroyed replica "GNSWTM_US_PR08"."
+2013-06-10     e721877    destroy replica in versioned object base "\GNSWTM_US"
+  "Destroyed replica "GNSWTM_US_PR08"."
+2013-06-10     e721877    change master to "GNSWTM_US_MN51" of replica "GNSWTM_US_PR08.deleted"
+  "Changed master replica from "GNSWTM_US_PR08" to "GNSWTM_US_MN51"."
+2013-04-12     clearcase_nm75 import sync from replica "GNSWTM_US_AZ18.deleted" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_AZ18".
+   Row at import was: GNSWTM_US_AZ18=4 GNSWTM_US_MN17=188 GNSWTM_US_MN51=0 GNSWTM_US_PR08=2 GNSWTM_US_FL51=157"
+2013-04-12     sv-das_cc_albd import sync to replica "GNSWTM_US_PR08.deleted"
+  "Changed information associated with replica."
+2013-04-12     clearcase_nm75 import sync from replica "GNSWTM_US_AZ18.deleted" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_AZ18".
+   Row at import was: GNSWTM_US_AZ18=4 GNSWTM_US_MN17=188 GNSWTM_US_MN51=0 GNSWTM_US_PR08=0 GNSWTM_US_FL51=157"
+2013-04-12     sv-das_cc_albd import sync to replica "GNSWTM_US_PR08.deleted"
+  "Changed information associated with replica."
+2013-04-12     sv-das_cc_albd import sync to replica "GNSWTM_US_PR08.deleted"
+  "Changed information associated with replica."
+2013-04-12     clearcase_nm75 import sync from replica "GNSWTM_US_AZ18.deleted" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_AZ18".
+   Row at import was: GNSWTM_US_AZ18=3 GNSWTM_US_MN17=188 GNSWTM_US_MN51=0 GNSWTM_US_PR08=0 GNSWTM_US_FL51=157"
+2013-04-12     root       change master to "GNSWTM_US_PR08.deleted" of replica "GNSWTM_US_PR08.deleted"
+  "Changed master replica from "GNSWTM_US_AZ18" to "GNSWTM_US_PR08"."
+2009-05-15     clearcase_nm75 export sync from replica "GNSWTM_US_FL51" to replica "GNSWTM_US_PR08.deleted"
+  "Exported synchronization information for replica "GNSWTM_US_PR08".
+   Row at export was: GNSWTM_US_AZ18=3 GNSWTM_US_FL51=157 GNSWTM_US_PR08=0 GNSWTM_US_MN17=184 GNSWTM_US_MN51=0"
+2009-05-15     clearcase_nm75 export sync from replica "GNSWTM_US_FL51" to replica "GNSWTM_US_MN51"
+  "Exported synchronization information for replica "GNSWTM_US_MN51".
+   Row at export was: GNSWTM_US_AZ18=3 GNSWTM_US_FL51=157 GNSWTM_US_PR08=0 GNSWTM_US_MN17=184 GNSWTM_US_MN51=0"
+2009-05-15     clearcase_nm75 export sync from replica "GNSWTM_US_FL51" to replica "GNSWTM_US_AZ18.deleted"
+  "Exported synchronization information for replica "GNSWTM_US_AZ18".
+   Row at export was: GNSWTM_US_AZ18=3 GNSWTM_US_FL51=157 GNSWTM_US_PR08=0 GNSWTM_US_MN17=184 GNSWTM_US_MN51=0"
+2009-05-15     clearcase_nm75 import sync from replica "GNSWTM_US_MN51" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_MN51".
+   Row at import was: GNSWTM_US_AZ18=3 GNSWTM_US_MN17=188 GNSWTM_US_MN51=0 GNSWTM_US_PR08=0 GNSWTM_US_FL51=157"
+2009-05-15     clearcase_nm75 import sync from replica "GNSWTM_US_AZ18.deleted" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_AZ18".
+   Row at import was: GNSWTM_US_AZ18=3 GNSWTM_US_MN17=188 GNSWTM_US_MN51=0 GNSWTM_US_PR08=0 GNSWTM_US_FL51=157"
+2009-05-15     clearcase_nm75 import sync from replica "GNSWTM_US_MN17" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_MN17".
+   Row at import was: GNSWTM_US_AZ18=3 GNSWTM_US_MN17=184 GNSWTM_US_MN51=0 GNSWTM_US_PR08=0 GNSWTM_US_FL51=157"
+2009-05-15     clearcase_nm75 import sync from replica "GNSWTM_US_AZ18.deleted" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_AZ18".
+   Row at import was: GNSWTM_US_AZ18=3 GNSWTM_US_MN17=184 GNSWTM_US_MN51=0 GNSWTM_US_PR08=0 GNSWTM_US_FL51=157"
+2009-05-15     clearcase_nm75 export sync from replica "GNSWTM_US_FL51" to replica "GNSWTM_US_PR08.deleted"
+  "Exported synchronization information for replica "GNSWTM_US_PR08".
+   Row at export was: GNSWTM_US_AZ18=3 GNSWTM_US_FL51=157 GNSWTM_US_PR08=0 GNSWTM_US_MN17=169 GNSWTM_US_MN51=0"
+2009-05-15     clearcase_nm75 export sync from replica "GNSWTM_US_FL51" to replica "GNSWTM_US_MN51"
+  "Exported synchronization information for replica "GNSWTM_US_MN51".
+   Row at export was: GNSWTM_US_AZ18=3 GNSWTM_US_FL51=157 GNSWTM_US_PR08=0 GNSWTM_US_MN17=169 GNSWTM_US_MN51=0"
+2009-05-15     clearcase_nm75 export sync from replica "GNSWTM_US_FL51" to replica "GNSWTM_US_AZ18.deleted"
+  "Exported synchronization information for replica "GNSWTM_US_AZ18".
+   Row at export was: GNSWTM_US_AZ18=3 GNSWTM_US_FL51=157 GNSWTM_US_PR08=0 GNSWTM_US_MN17=169 GNSWTM_US_MN51=0"
+2009-05-15     clearcase_nm75 import sync from replica "GNSWTM_US_MN51" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_MN51".
+   Row at import was: GNSWTM_US_AZ18=3 GNSWTM_US_MN17=184 GNSWTM_US_MN51=0 GNSWTM_US_PR08=0 GNSWTM_US_FL51=157"
+2009-05-15     clearcase_nm75 import sync from replica "GNSWTM_US_MN17" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_MN17".
+   Row at import was: GNSWTM_US_AZ18=3 GNSWTM_US_MN17=183 GNSWTM_US_MN51=0 GNSWTM_US_PR08=0 GNSWTM_US_FL51=157"
+2009-05-15     e731579    create version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\5\Clearwater\main\GNSWTM_ss_Integration\4\CLD -Staffing .xlsx@@\main\GNSWTM_ss_Integration\2"
+2009-05-15     clearcase_nm75 import sync from replica "GNSWTM_US_MN17" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_MN17".
+   Row at import was: GNSWTM_US_AZ18=3 GNSWTM_US_MN17=169 GNSWTM_US_MN51=0 GNSWTM_US_PR08=0 GNSWTM_US_FL51=157"
+2009-05-15     clearcase_nm75 import sync from replica "GNSWTM_US_AZ18.deleted" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_AZ18".
+   Row at import was: GNSWTM_US_AZ18=3 GNSWTM_US_MN17=169 GNSWTM_US_MN51=0 GNSWTM_US_PR08=0 GNSWTM_US_FL51=157"
+2009-05-15     clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\5\Clearwater\main\GNSWTM_ss_Integration\4\CLD -Staffing .xlsx@@\main\GNSWTM_ss_Integration\2"
+2009-05-15     e731579    create directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\5\Clearwater@@\main\GNSWTM_ss_Integration\4"
+  "Added file element "CLD -Staffing .xlsx"."
+2009-05-15     e731579    add name to directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\5\Clearwater@@\main\GNSWTM_ss_Integration\4"
+2009-05-15     clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\5\Clearwater\main\GNSWTM_ss_Integration\4\CLD -Staffing .xlsx@@\main\GNSWTM_ss_Integration\1"
+2009-05-15     e731579    create version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\5\Clearwater\main\GNSWTM_ss_Integration\4\CLD -Staffing .xlsx@@\main\GNSWTM_ss_Integration\1"
+2009-05-15     e731579    create version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\5\Clearwater\main\GNSWTM_ss_Integration\4\CLD -Staffing .xlsx@@\main\GNSWTM_ss_Integration\0"
+2009-05-15     e731579    create branch "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\5\Clearwater\main\GNSWTM_ss_Integration\4\CLD -Staffing .xlsx@@\main\GNSWTM_ss_Integration"
+2009-05-15     e731579    create version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\5\Clearwater\main\GNSWTM_ss_Integration\4\CLD -Staffing .xlsx@@\main\0"
+2009-05-15     e731579    create branch "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\5\Clearwater\main\GNSWTM_ss_Integration\4\CLD -Staffing .xlsx@@\main"
+2009-05-15     e731579    create file element "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\5\Clearwater\main\GNSWTM_ss_Integration\4\CLD -Staffing .xlsx@@"
+2009-05-15     clearcase_nm75 make hyperlink "Change" on directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\5\Clearwater@@\main\GNSWTM_ss_Integration\4"
+2009-05-15     clearcase_nm75 export sync from replica "GNSWTM_US_FL51" to replica "GNSWTM_US_PR08.deleted"
+  "Exported synchronization information for replica "GNSWTM_US_PR08".
+   Row at export was: GNSWTM_US_AZ18=3 GNSWTM_US_FL51=157 GNSWTM_US_PR08=0 GNSWTM_US_MN17=165 GNSWTM_US_MN51=0"
+2009-05-15     clearcase_nm75 export sync from replica "GNSWTM_US_FL51" to replica "GNSWTM_US_MN51"
+  "Exported synchronization information for replica "GNSWTM_US_MN51".
+   Row at export was: GNSWTM_US_AZ18=3 GNSWTM_US_FL51=157 GNSWTM_US_PR08=0 GNSWTM_US_MN17=165 GNSWTM_US_MN51=0"
+2009-05-15     clearcase_nm75 export sync from replica "GNSWTM_US_FL51" to replica "GNSWTM_US_AZ18.deleted"
+  "Exported synchronization information for replica "GNSWTM_US_AZ18".
+   Row at export was: GNSWTM_US_AZ18=3 GNSWTM_US_FL51=157 GNSWTM_US_PR08=0 GNSWTM_US_MN17=165 GNSWTM_US_MN51=0"
+2009-05-15     e731579    create directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\5\Clearwater@@\main\GNSWTM_ss_Integration\3"
+  "Version created by Namespace modification subsystem
+   Uncataloged file element "CLD -Staffing Oct 08 going forward.xlsx"."
+2009-05-15     clearcase_nm75 import sync from replica "GNSWTM_US_MN51" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_MN51".
+   Row at import was: GNSWTM_US_AZ18=3 GNSWTM_US_MN17=169 GNSWTM_US_MN51=0 GNSWTM_US_PR08=0 GNSWTM_US_FL51=157"
+2009-05-15     clearcase_nm75 remove name from directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\5\Clearwater@@\main\GNSWTM_ss_Integration\3"
+2009-05-15     clearcase_nm75 make hyperlink "Change" on directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\5\Clearwater@@\main\GNSWTM_ss_Integration\3"
+2009-05-15     clearcase_nm75 import sync from replica "GNSWTM_US_MN17" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_MN17".
+   Row at import was: GNSWTM_US_AZ18=3 GNSWTM_US_MN17=165 GNSWTM_US_MN51=0 GNSWTM_US_PR08=0 GNSWTM_US_FL51=157"
+2009-05-13     clearcase_nm75 import sync from replica "GNSWTM_US_AZ18.deleted" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_AZ18".
+   Row at import was: GNSWTM_US_AZ18=3 GNSWTM_US_MN17=165 GNSWTM_US_MN51=0 GNSWTM_US_PR08=0 GNSWTM_US_FL51=157"
+2009-04-30     clearcase_nm75 export sync from replica "GNSWTM_US_FL51" to replica "GNSWTM_US_PR08.deleted"
+  "Exported synchronization information for replica "GNSWTM_US_PR08".
+   Row at export was: GNSWTM_US_AZ18=3 GNSWTM_US_FL51=157 GNSWTM_US_PR08=0 GNSWTM_US_MN17=162 GNSWTM_US_MN51=0"
+2009-04-30     clearcase_nm75 export sync from replica "GNSWTM_US_FL51" to replica "GNSWTM_US_MN51"
+  "Exported synchronization information for replica "GNSWTM_US_MN51".
+   Row at export was: GNSWTM_US_AZ18=3 GNSWTM_US_FL51=157 GNSWTM_US_PR08=0 GNSWTM_US_MN17=162 GNSWTM_US_MN51=0"
+2009-04-30     clearcase_nm75 export sync from replica "GNSWTM_US_FL51" to replica "GNSWTM_US_AZ18.deleted"
+  "Exported synchronization information for replica "GNSWTM_US_AZ18".
+   Row at export was: GNSWTM_US_AZ18=3 GNSWTM_US_FL51=157 GNSWTM_US_PR08=0 GNSWTM_US_MN17=162 GNSWTM_US_MN51=0"
+2009-04-30     clearcase_nm75 import sync from replica "GNSWTM_US_MN51" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_MN51".
+   Row at import was: GNSWTM_US_AZ18=3 GNSWTM_US_MN17=165 GNSWTM_US_MN51=0 GNSWTM_US_PR08=0 GNSWTM_US_FL51=157"
+2009-04-30     clearcase_nm75 import sync from replica "GNSWTM_US_MN17" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_MN17".
+   Row at import was: GNSWTM_US_AZ18=3 GNSWTM_US_MN17=162 GNSWTM_US_MN51=0 GNSWTM_US_PR08=0 GNSWTM_US_FL51=157"
+2009-04-30     e731579    create version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\2\Staffing Oct 08 going forward.xlsx@@\main\GNSWTM_ss_Integration\20"
+  "Test of CCRC using iPassConnect (VPN)"
+2009-04-30     clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\2\Staffing Oct 08 going forward.xlsx@@\main\GNSWTM_ss_Integration\20"
+2009-04-27     clearcase_nm75 export sync from replica "GNSWTM_US_FL51" to replica "GNSWTM_US_PR08.deleted"
+  "Exported synchronization information for replica "GNSWTM_US_PR08".
+   Row at export was: GNSWTM_US_AZ18=3 GNSWTM_US_FL51=157 GNSWTM_US_PR08=0 GNSWTM_US_MN17=159 GNSWTM_US_MN51=0"
+2009-04-27     clearcase_nm75 export sync from replica "GNSWTM_US_FL51" to replica "GNSWTM_US_MN51"
+  "Exported synchronization information for replica "GNSWTM_US_MN51".
+   Row at export was: GNSWTM_US_AZ18=3 GNSWTM_US_FL51=157 GNSWTM_US_PR08=0 GNSWTM_US_MN17=159 GNSWTM_US_MN51=0"
+2009-04-27     clearcase_nm75 export sync from replica "GNSWTM_US_FL51" to replica "GNSWTM_US_AZ18.deleted"
+  "Exported synchronization information for replica "GNSWTM_US_AZ18".
+   Row at export was: GNSWTM_US_AZ18=3 GNSWTM_US_FL51=157 GNSWTM_US_PR08=0 GNSWTM_US_MN17=159 GNSWTM_US_MN51=0"
+2009-04-27     clearcase_nm75 import sync from replica "GNSWTM_US_MN51" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_MN51".
+   Row at import was: GNSWTM_US_AZ18=3 GNSWTM_US_MN17=162 GNSWTM_US_MN51=0 GNSWTM_US_PR08=0 GNSWTM_US_FL51=157"
+2009-04-27     clearcase_nm75 import sync from replica "GNSWTM_US_MN17" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_MN17".
+   Row at import was: GNSWTM_US_AZ18=3 GNSWTM_US_MN17=161 GNSWTM_US_MN51=0 GNSWTM_US_PR08=0 GNSWTM_US_FL51=157"
+2009-04-27     e731579    create version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\2\Staffing Oct 08 going forward.xlsx@@\main\GNSWTM_ss_Integration\19"
+2009-04-27     clearcase_nm75 import sync from replica "GNSWTM_US_MN17" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_MN17".
+   Row at import was: GNSWTM_US_AZ18=3 GNSWTM_US_MN17=159 GNSWTM_US_MN51=0 GNSWTM_US_PR08=0 GNSWTM_US_FL51=157"
+2009-04-27     clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\2\Staffing Oct 08 going forward.xlsx@@\main\GNSWTM_ss_Integration\19"
+2009-04-16     clearcase_nm75 export sync from replica "GNSWTM_US_FL51" to replica "GNSWTM_US_PR08.deleted"
+  "Exported synchronization information for replica "GNSWTM_US_PR08".
+   Row at export was: GNSWTM_US_AZ18=3 GNSWTM_US_FL51=157 GNSWTM_US_PR08=0 GNSWTM_US_MN17=155 GNSWTM_US_MN51=0"
+2009-04-16     clearcase_nm75 export sync from replica "GNSWTM_US_FL51" to replica "GNSWTM_US_MN51"
+  "Exported synchronization information for replica "GNSWTM_US_MN51".
+   Row at export was: GNSWTM_US_AZ18=3 GNSWTM_US_FL51=157 GNSWTM_US_PR08=0 GNSWTM_US_MN17=155 GNSWTM_US_MN51=0"
+2009-04-16     clearcase_nm75 export sync from replica "GNSWTM_US_FL51" to replica "GNSWTM_US_AZ18.deleted"
+  "Exported synchronization information for replica "GNSWTM_US_AZ18".
+   Row at export was: GNSWTM_US_AZ18=3 GNSWTM_US_FL51=157 GNSWTM_US_PR08=0 GNSWTM_US_MN17=155 GNSWTM_US_MN51=0"
+2009-04-16     clearcase_nm75 import sync from replica "GNSWTM_US_MN51" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_MN51".
+   Row at import was: GNSWTM_US_AZ18=3 GNSWTM_US_MN17=159 GNSWTM_US_MN51=0 GNSWTM_US_PR08=0 GNSWTM_US_FL51=157"
+2009-04-16     clearcase_nm75 import sync from replica "GNSWTM_US_MN17" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_MN17".
+   Row at import was: GNSWTM_US_AZ18=3 GNSWTM_US_MN17=155 GNSWTM_US_MN51=0 GNSWTM_US_PR08=0 GNSWTM_US_FL51=157"
+2009-04-16     clearcase_nm75 export sync from replica "GNSWTM_US_FL51" to replica "GNSWTM_US_PR08.deleted"
+  "Exported synchronization information for replica "GNSWTM_US_PR08".
+   Row at export was: GNSWTM_US_AZ18=3 GNSWTM_US_FL51=157 GNSWTM_US_PR08=0 GNSWTM_US_MN17=151 GNSWTM_US_MN51=0"
+2009-04-16     clearcase_nm75 export sync from replica "GNSWTM_US_FL51" to replica "GNSWTM_US_MN51"
+  "Exported synchronization information for replica "GNSWTM_US_MN51".
+   Row at export was: GNSWTM_US_AZ18=3 GNSWTM_US_FL51=157 GNSWTM_US_PR08=0 GNSWTM_US_MN17=151 GNSWTM_US_MN51=0"
+2009-04-16     clearcase_nm75 export sync from replica "GNSWTM_US_FL51" to replica "GNSWTM_US_AZ18.deleted"
+  "Exported synchronization information for replica "GNSWTM_US_AZ18".
+   Row at export was: GNSWTM_US_AZ18=3 GNSWTM_US_FL51=157 GNSWTM_US_PR08=0 GNSWTM_US_MN17=151 GNSWTM_US_MN51=0"
+2009-04-16     clearcase_nm75 import sync from replica "GNSWTM_US_MN51" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_MN51".
+   Row at import was: GNSWTM_US_AZ18=3 GNSWTM_US_MN17=155 GNSWTM_US_MN51=0 GNSWTM_US_PR08=0 GNSWTM_US_FL51=157"
+2009-04-16     clearcase_nm75 import sync from replica "GNSWTM_US_MN17" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_MN17".
+   Row at import was: GNSWTM_US_AZ18=3 GNSWTM_US_MN17=153 GNSWTM_US_MN51=0 GNSWTM_US_PR08=0 GNSWTM_US_FL51=157"
+2009-04-16     clearcase_nm75 import sync from replica "GNSWTM_US_MN17" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_MN17".
+   Row at import was: GNSWTM_US_AZ18=3 GNSWTM_US_MN17=151 GNSWTM_US_MN51=0 GNSWTM_US_PR08=0 GNSWTM_US_FL51=157"
+2009-04-16     clearcase_nm75 export sync from replica "GNSWTM_US_FL51" to replica "GNSWTM_US_PR08.deleted"
+  "Exported synchronization information for replica "GNSWTM_US_PR08".
+   Row at export was: GNSWTM_US_AZ18=3 GNSWTM_US_FL51=157 GNSWTM_US_PR08=0 GNSWTM_US_MN17=135 GNSWTM_US_MN51=0"
+2009-04-16     clearcase_nm75 export sync from replica "GNSWTM_US_FL51" to replica "GNSWTM_US_MN51"
+  "Exported synchronization information for replica "GNSWTM_US_MN51".
+   Row at export was: GNSWTM_US_AZ18=3 GNSWTM_US_FL51=157 GNSWTM_US_PR08=0 GNSWTM_US_MN17=135 GNSWTM_US_MN51=0"
+2009-04-16     clearcase_nm75 export sync from replica "GNSWTM_US_FL51" to replica "GNSWTM_US_AZ18.deleted"
+  "Exported synchronization information for replica "GNSWTM_US_AZ18".
+   Row at export was: GNSWTM_US_AZ18=3 GNSWTM_US_FL51=157 GNSWTM_US_PR08=0 GNSWTM_US_MN17=135 GNSWTM_US_MN51=0"
+2009-04-16     clearcase_nm75 import sync from replica "GNSWTM_US_MN51" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_MN51".
+   Row at import was: GNSWTM_US_AZ18=3 GNSWTM_US_MN17=151 GNSWTM_US_MN51=0 GNSWTM_US_PR08=0 GNSWTM_US_FL51=157"
+2009-04-16     clearcase_nm75 import sync from replica "GNSWTM_US_MN17" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_MN17".
+   Row at import was: GNSWTM_US_AZ18=3 GNSWTM_US_MN17=135 GNSWTM_US_MN51=0 GNSWTM_US_PR08=0 GNSWTM_US_FL51=157"
+2009-04-16     e730056    create directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\6"
+  "Added directory element "2009 Cost Containment".
+   Added directory element "Budgets".
+   Added file element "CC Rollcall.xls".
+   Added directory element "DPRs".
+   Added directory element "Goals & Objectives".
+   Added directory element "Staff Meetings".
+   Added directory element "TRR".
+   Added directory element "Yield"."
+2009-04-16     e730056    make hyperlink "Merge" on directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\6"
+2009-04-16     clearcase_nm75 add name to directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\6"
+2009-04-16     clearcase_nm75 add name to directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\6"
+2009-04-16     clearcase_nm75 add name to directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\6"
+2009-04-16     clearcase_nm75 add name to directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\6"
+2009-04-16     clearcase_nm75 add name to directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\6"
+2009-04-16     clearcase_nm75 add name to directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\6"
+2009-04-16     clearcase_nm75 add name to directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\6"
+2009-04-16     clearcase_nm75 add name to directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\6"
+2009-04-16     e730056    make hyperlink "Merge" on directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\e725810_GNSWTM_US\8" (deliverbl.e725810_GNSWTM_US.20090415.082503)
+2009-04-16     e730056    create hyperlink "Merge@210@\GNSWTM_US"
+2009-04-16     clearcase_nm75 make hyperlink "Change" on directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_ss_Integration\6"
+2009-04-16     clearcase_nm75 make hyperlink "BaselineLbtype" on label type "deliverbl.e725810_GNSWTM_US.20090415.082503"
+2009-04-16     clearcase_nm75 rename label type "deliverbl.e725810_GNSWTM_US.20090415.082503"
+  "Changed name of label type from "deliverbl.e725810_GNSWTM_US.20090415.082503_in_progress" to "deliverbl.e725810_GNSWTM_US.20090415.082503"."
+2009-04-16     e730056    create label type "deliverbl.e725810_GNSWTM_US.20090415.082503"
+2009-04-15     clearcase_nm75 export sync from replica "GNSWTM_US_FL51" to replica "GNSWTM_US_PR08.deleted"
+  "Exported synchronization information for replica "GNSWTM_US_PR08".
+   Row at export was: GNSWTM_US_AZ18=3 GNSWTM_US_FL51=157 GNSWTM_US_PR08=0 GNSWTM_US_MN17=133 GNSWTM_US_MN51=0"
+2009-04-15     clearcase_nm75 export sync from replica "GNSWTM_US_FL51" to replica "GNSWTM_US_MN51"
+  "Exported synchronization information for replica "GNSWTM_US_MN51".
+   Row at export was: GNSWTM_US_AZ18=3 GNSWTM_US_FL51=157 GNSWTM_US_PR08=0 GNSWTM_US_MN17=133 GNSWTM_US_MN51=0"
+2009-04-15     clearcase_nm75 export sync from replica "GNSWTM_US_FL51" to replica "GNSWTM_US_AZ18.deleted"
+  "Exported synchronization information for replica "GNSWTM_US_AZ18".
+   Row at export was: GNSWTM_US_AZ18=3 GNSWTM_US_FL51=157 GNSWTM_US_PR08=0 GNSWTM_US_MN17=133 GNSWTM_US_MN51=0"
+2009-04-15     clearcase_nm75 import sync from replica "GNSWTM_US_MN51" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_MN51".
+   Row at import was: GNSWTM_US_AZ18=3 GNSWTM_US_MN17=135 GNSWTM_US_MN51=0 GNSWTM_US_PR08=0 GNSWTM_US_FL51=157"
+2009-04-15     clearcase_nm75 import sync from replica "GNSWTM_US_MN17" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_MN17".
+   Row at import was: GNSWTM_US_AZ18=3 GNSWTM_US_MN17=133 GNSWTM_US_MN51=0 GNSWTM_US_PR08=0 GNSWTM_US_FL51=157"
+2009-04-15     clearcase_nm75 export sync from replica "GNSWTM_US_FL51" to replica "GNSWTM_US_PR08.deleted"
+  "Exported synchronization information for replica "GNSWTM_US_PR08".
+   Row at export was: GNSWTM_US_AZ18=3 GNSWTM_US_FL51=157 GNSWTM_US_PR08=0 GNSWTM_US_MN17=118 GNSWTM_US_MN51=0"
+2009-04-15     clearcase_nm75 export sync from replica "GNSWTM_US_FL51" to replica "GNSWTM_US_MN51"
+  "Exported synchronization information for replica "GNSWTM_US_MN51".
+   Row at export was: GNSWTM_US_AZ18=3 GNSWTM_US_FL51=157 GNSWTM_US_PR08=0 GNSWTM_US_MN17=118 GNSWTM_US_MN51=0"
+2009-04-15     clearcase_nm75 export sync from replica "GNSWTM_US_FL51" to replica "GNSWTM_US_AZ18.deleted"
+  "Exported synchronization information for replica "GNSWTM_US_AZ18".
+   Row at export was: GNSWTM_US_AZ18=3 GNSWTM_US_FL51=157 GNSWTM_US_PR08=0 GNSWTM_US_MN17=118 GNSWTM_US_MN51=0"
+2009-04-15     clearcase_nm75 import sync from replica "GNSWTM_US_MN51" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_MN51".
+   Row at import was: GNSWTM_US_AZ18=3 GNSWTM_US_MN17=133 GNSWTM_US_MN51=0 GNSWTM_US_PR08=0 GNSWTM_US_FL51=157"
+2009-04-15     clearcase_nm75 import sync from replica "GNSWTM_US_MN17" to replica "GNSWTM_US_FL51"
+  "Imported synchronization information from replica "GNSWTM_US_MN17".
+   Row at import was: GNSWTM_US_AZ18=3 GNSWTM_US_MN17=118 GNSWTM_US_MN51=0 GNSWTM_US_PR08=0 GNSWTM_US_FL51=157"
+2009-04-15     e725810    create directory version "M:\admin_view\GNSWTM_US\software_tm@@\main\GNSWTM_US_Integration\2"
+  "Added directory element "2009 Cost Containment".
+   Added directory element "Budgets".
+   Added file element "CC Rollcall.xls".
+   Added directory element "DPRs".
+   Added directory element "Goals & Objectives".
+   Added directory element "Staff Meetings".
+   Added directory element "TRR".
+   Added directory element "Yield"."
+2009-04-15     e725810    create version "M:\admin_view\GNSWTM_US\software_tm@@\main\e725810_GNSWTM_US\8\CC Rollcall.xls@@\main\GNSWTM_US_Integration\1"
+2009-04-15     e725810    make hyperlink "Merge" on version "M:\admin_view\GNSWTM_US\software_tm@@\main\e725810_GNSWTM_US\8\CC Rollcall.xls@@\main\GNSWTM_US_Integration\1"
+2009-04-15     e725810    make hyperlink "Merge" on version "M:\admin_view\GNSWTM_US\software_tm@@\main\e725810_GNSWTM_US\8\CC Rollcall.xls@@\main\e725810_GNSWTM_US\1" (deliverbl.e725810_GNSWTM_US.20090415.082503)

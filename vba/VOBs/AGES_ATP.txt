@@ -1,0 +1,232 @@
+--06-30T10:44  clearcase_nm75 protect directory element "M:\admin_view\AGES_ATP\.@@"
+  "CHMOD 775"
+--06-19T16:21  clearcase_nm75 protect directory element "M:\admin_view\AGES_ATP\.@@"
+  "CHMOD 770"
+--06-19T16:21  clearcase_nm75 protect directory element "M:\admin_view\AGES_ATP\.@@"
+  "CHMOD 775"
+--04-29T11:51  clearcase_nm75 import sync from replica "AGES_ATP_DCW" to replica "AGES_ATP_FL51"
+  "Imported synchronization information from replica "AGES_ATP_DCW".
+   Row at import was: AGES_ATP_MN17=2180 AGES_ATP_AZ18.deleted=0 AGES_ATP_AZ18.deleted.1=1 AGES_ATP_DCW=0 AGES_ATP_FL51=0"
+--04-29T11:50  clearcase_nm75 export sync from replica "AGES_ATP_FL51" to replica "AGES_ATP_DCW"
+  "Exported synchronization information for replica "AGES_ATP_DCW".
+   Row at export was: AGES_ATP_DCW=0 AGES_ATP_MN17=2177 AGES_ATP_FL51=0 AGES_ATP_AZ18.deleted.1=1 AGES_ATP_AZ18.deleted=0"
+--04-29T11:40  clearcase_nm75 import sync from replica "AGES_ATP_MN17" to replica "AGES_ATP_FL51"
+  "Imported synchronization information from replica "AGES_ATP_MN17".
+   Row at import was: AGES_ATP_MN17=2179 AGES_ATP_AZ18.deleted=0 AGES_ATP_AZ18.deleted.1=1 AGES_ATP_DCW=0 AGES_ATP_FL51=0"
+--04-29T11:40  e704548    change master to "AGES_ATP_DCW" of replica "AGES_ATP_DCW"
+  "Changed master replica from "AGES_ATP_MN17" to "AGES_ATP_DCW"."
+--04-29T11:40  clearcase_nm75 import sync from replica "AGES_ATP_MN17" to replica "AGES_ATP_FL51"
+  "Imported synchronization information from replica "AGES_ATP_MN17".
+   Row at import was: AGES_ATP_MN17=2177 AGES_ATP_AZ18.deleted=0 AGES_ATP_AZ18=1 AGES_ATP_DCW=0 AGES_ATP_FL51=0"
+--04-29T11:40  e704548    rename replica "AGES_ATP_AZ18.deleted.1"
+  "Changed name of replica from "AGES_ATP_AZ18" to "AGES_ATP_AZ18.deleted.1".
+   Destroyed replica "AGES_ATP_AZ18"."
+--04-29T11:40  e704548    destroy replica in versioned object base "\AGES_ATP"
+  "Destroyed replica "AGES_ATP_AZ18"."
+--04-29T11:40  e704548    change master to "AGES_ATP_MN17" of replica "AGES_ATP_DCW"
+  "Changed master replica from "AGES_ATP_AZ18" to "AGES_ATP_MN17"."
+--03-25T11:35  clearcase_nm75 export sync from replica "AGES_ATP_FL51" to replica "AGES_ATP_DCW"
+  "Exported synchronization information for replica "AGES_ATP_DCW".
+   Row at export was: AGES_ATP_DCW=0 AGES_ATP_MN17=2177 AGES_ATP_FL51=0 AGES_ATP_AZ18=0 AGES_ATP_AZ18.deleted=0"
+2013-06-26     clearcase_nm75 import sync from replica "AGES_ATP_DCW" to replica "AGES_ATP_FL51"
+  "Imported synchronization information from replica "AGES_ATP_DCW".
+   Row at import was: AGES_ATP_MN17=2177 AGES_ATP_AZ18.deleted=0 AGES_ATP_AZ18=1 AGES_ATP_DCW=0 AGES_ATP_FL51=0"
+2013-06-26     clearcase_nm75 import sync from replica "AGES_ATP_MN17" to replica "AGES_ATP_FL51"
+  "Imported synchronization information from replica "AGES_ATP_MN17".
+   Row at import was: AGES_ATP_MN17=2177 AGES_ATP_AZ18.deleted=0 AGES_ATP_AZ18=1 AGES_ATP_DCW=0 AGES_ATP_FL51=0"
+2013-06-26     clearcase_nm75 import sync from replica "AGES_ATP_AZ18.deleted.1" to replica "AGES_ATP_FL51"
+  "Imported synchronization information from replica "AGES_ATP_AZ18".
+   Row at import was: AGES_ATP_MN17=2177 AGES_ATP_AZ18.deleted=0 AGES_ATP_AZ18=0 AGES_ATP_FL51=0"
+2013-06-26     root       create replica "AGES_ATP_DCW"
+2013-06-03     e564406    lock trigger type "NO_RMTYPE" (locked)
+  "Locked for all users."
+2013-06-03     e564406    destroy type in versioned object base "\AGES_ATP"
+  "Destroyed trigger type "NO_RMTRIGGER"."
+2013-06-03     e564406    modify trigger type "NO_RMTYPE" (locked)
+  "Changed definition of type.
+   Disallow removal of types"
+2013-06-03     e564406    unlock trigger type "NO_RMTYPE" (locked)
+2012-11-20     clearcase_nm75 import sync from replica "AGES_ATP_AZ18.deleted.1" to replica "AGES_ATP_FL51"
+  "Imported synchronization information from replica "AGES_ATP_AZ18".
+   Row at import was: AGES_ATP_MN17=2177 AGES_ATP_AZ18.deleted=0 AGES_ATP_AZ18=0 AGES_ATP_FL51=0"
+2012-11-20     clearcase_nm75 export sync from replica "AGES_ATP_FL51" to replica "AGES_ATP_AZ18.deleted.1"
+  "Exported synchronization information for replica "AGES_ATP_AZ18".
+   Row at export was: AGES_ATP_MN17=2176 AGES_ATP_FL51=0 AGES_ATP_AZ18=0 AGES_ATP_AZ18.deleted=0"
+2012-11-20     clearcase_nm75 import sync from replica "AGES_ATP_MN17" to replica "AGES_ATP_FL51"
+  "Imported synchronization information from replica "AGES_ATP_MN17".
+   Row at import was: AGES_ATP_MN17=2176 AGES_ATP_AZ18.deleted=0 AGES_ATP_FL51=0"
+2012-11-20     e704548    create replica "AGES_ATP_AZ18.deleted.1"
+2012-11-20     clearcase_nm75 import sync from replica "AGES_ATP_MN17" to replica "AGES_ATP_FL51"
+  "Imported synchronization information from replica "AGES_ATP_MN17".
+   Row at import was: AGES_ATP_MN17=2174 AGES_ATP_AZ18=0 AGES_ATP_FL51=0"
+2012-11-20     e704548    rename replica "AGES_ATP_AZ18.deleted"
+  "Changed name of replica from "AGES_ATP_AZ18" to "AGES_ATP_AZ18.deleted".
+   Destroyed replica "AGES_ATP_AZ18"."
+2012-11-20     e704548    destroy replica in versioned object base "\AGES_ATP"
+  "Destroyed replica "AGES_ATP_AZ18"."
+2012-11-20     e704548    change master to "AGES_ATP_MN17" of replica "AGES_ATP_AZ18.deleted"
+  "Changed master replica from "AGES_ATP_AZ18" to "AGES_ATP_MN17"."
+2012-09-11     clearcase_nm75 import sync from replica "AGES_ATP_AZ18.deleted" to replica "AGES_ATP_FL51"
+  "Imported synchronization information from replica "AGES_ATP_AZ18".
+   Row at import was: AGES_ATP_MN17=2168 AGES_ATP_AZ18=0 AGES_ATP_FL51=0"
+2012-09-11     clearcase_nm75 import sync from replica "AGES_ATP_AZ18.deleted" to replica "AGES_ATP_FL51"
+  "Imported synchronization information from replica "AGES_ATP_AZ18".
+   Row at import was: AGES_ATP_MN17=2155 AGES_ATP_AZ18=0 AGES_ATP_FL51=0"
+2012-09-11     e704016    create version "M:\admin_view\AGES_ATP\Platforms@@\main\nla_AGES_ATP_Core\1\iWizard\main\nla_AGES_ATP_Core\2\BSP_dir\main\nla_AGES_ATP_Core\2\fpga_ctrl.c@@\main\AGES_ATP_Core_Integration\BSoper_AGES_ATP_Core\3"
+  "Implement at a minimum, rqmts defined in ATP Prototype tests.doc
+    dated August 9th, 2012
+   (ACCEPTANCE_TEST_PLAN_PLANi_ICREW_21May2012Rev1.doc sections
+     4.4.9, 4.8.1 through 4.8.7)
+   power and temperature monitor SRS_ATP rqmts
+     SRS_ATP64,  SRS_ATP65, SRS_ATP66, SRS_ATP67, 
+     SRS_ATP68,  SRS_ATP69, SRS_ATP70, SRS_ATP71, 
+     SRS_ATP72,  SRS_ATP73, SRS_ATP74, SRS_ATP75
+   Mid-Band transceiver transmit SRS_ATP rqmts
+     SRS_ATP102,  SRS_ATP129, SRS_ATP153, SRS_ATP103, 
+     SRS_ATP158,  SRS_ATP104, SRS_ATP121, SRS_ATP122, 
+     SRS_ATP123,  SRS_ATP124, SRS_ATP132, SRS_ATP133, 
+     SRS_ATP134,  SRS_ATP145, SRS_ATP144, SRS_ATP143, 
+     SRS_ATP125,  SRS_ATP126, SRS_ATP127, SRS_ATP128, 
+     SRS_ATP147,  SRS_ATP146, SRS_ATP148, SRS_ATP149
+   "
+2012-09-11     e704016    create version "M:\admin_view\AGES_ATP\Platforms@@\main\nla_AGES_ATP_Core\1\iWizard\main\nla_AGES_ATP_Core\2\BSP_dir\main\nla_AGES_ATP_Core\2\fpga_ctrl.h@@\main\AGES_ATP_Core_Integration\BSoper_AGES_ATP_Core\2"
+  "Implement at a minimum, rqmts defined in ATP Prototype tests.doc
+    dated August 9th, 2012
+   (ACCEPTANCE_TEST_PLAN_PLANi_ICREW_21May2012Rev1.doc sections
+     4.4.9, 4.8.1 through 4.8.7)
+   power and temperature monitor SRS_ATP rqmts
+     SRS_ATP64,  SRS_ATP65, SRS_ATP66, SRS_ATP67, 
+     SRS_ATP68,  SRS_ATP69, SRS_ATP70, SRS_ATP71, 
+     SRS_ATP72,  SRS_ATP73, SRS_ATP74, SRS_ATP75
+   Mid-Band transceiver transmit SRS_ATP rqmts
+     SRS_ATP102,  SRS_ATP129, SRS_ATP153, SRS_ATP103, 
+     SRS_ATP158,  SRS_ATP104, SRS_ATP121, SRS_ATP122, 
+     SRS_ATP123,  SRS_ATP124, SRS_ATP132, SRS_ATP133, 
+     SRS_ATP134,  SRS_ATP145, SRS_ATP144, SRS_ATP143, 
+     SRS_ATP125,  SRS_ATP126, SRS_ATP127, SRS_ATP128, 
+     SRS_ATP147,  SRS_ATP146, SRS_ATP148, SRS_ATP149
+   "
+2012-09-11     clearcase_nm75 import sync from replica "AGES_ATP_AZ18.deleted" to replica "AGES_ATP_FL51"
+  "Imported synchronization information from replica "AGES_ATP_AZ18".
+   Row at import was: AGES_ATP_MN17=2149 AGES_ATP_AZ18=0 AGES_ATP_FL51=0"
+2012-09-11     e704016    create version "M:\admin_view\AGES_ATP\DKM_App@@\main\nla_AGES_ATP_Core\1\Brd_Chk\main\nla_AGES_ATP_Core\2\FpgaSpi.h@@\main\AGES_ATP_Core_Integration\BSoper_AGES_ATP_Core\3"
+  "Implement at a minimum, rqmts defined in ATP Prototype tests.doc
+    dated August 9th, 2012
+   (ACCEPTANCE_TEST_PLAN_PLANi_ICREW_21May2012Rev1.doc sections
+     4.4.9, 4.8.1 through 4.8.7)
+   power and temperature monitor SRS_ATP rqmts
+     SRS_ATP64,  SRS_ATP65, SRS_ATP66, SRS_ATP67, 
+     SRS_ATP68,  SRS_ATP69, SRS_ATP70, SRS_ATP71, 
+     SRS_ATP72,  SRS_ATP73, SRS_ATP74, SRS_ATP75
+   Mid-Band transceiver transmit SRS_ATP rqmts
+     SRS_ATP102,  SRS_ATP129, SRS_ATP153, SRS_ATP103, 
+     SRS_ATP158,  SRS_ATP104, SRS_ATP121, SRS_ATP122, 
+     SRS_ATP123,  SRS_ATP124, SRS_ATP132, SRS_ATP133, 
+     SRS_ATP134,  SRS_ATP145, SRS_ATP144, SRS_ATP143, 
+     SRS_ATP125,  SRS_ATP126, SRS_ATP127, SRS_ATP128, 
+     SRS_ATP147,  SRS_ATP146, SRS_ATP148, SRS_ATP149
+   "
+2012-09-11     e704016    create version "M:\admin_view\AGES_ATP\DKM_App@@\main\nla_AGES_ATP_Core\1\Brd_Chk\main\nla_AGES_ATP_Core\2\FpgaSpi.c@@\main\AGES_ATP_Core_Integration\BSoper_AGES_ATP_Core\3"
+  "Implement at a minimum, rqmts defined in ATP Prototype tests.doc
+    dated August 9th, 2012
+   (ACCEPTANCE_TEST_PLAN_PLANi_ICREW_21May2012Rev1.doc sections
+     4.4.9, 4.8.1 through 4.8.7)
+   power and temperature monitor SRS_ATP rqmts
+     SRS_ATP64,  SRS_ATP65, SRS_ATP66, SRS_ATP67, 
+     SRS_ATP68,  SRS_ATP69, SRS_ATP70, SRS_ATP71, 
+     SRS_ATP72,  SRS_ATP73, SRS_ATP74, SRS_ATP75
+   Mid-Band transceiver transmit SRS_ATP rqmts
+     SRS_ATP102,  SRS_ATP129, SRS_ATP153, SRS_ATP103, 
+     SRS_ATP158,  SRS_ATP104, SRS_ATP121, SRS_ATP122, 
+     SRS_ATP123,  SRS_ATP124, SRS_ATP132, SRS_ATP133, 
+     SRS_ATP134,  SRS_ATP145, SRS_ATP144, SRS_ATP143, 
+     SRS_ATP125,  SRS_ATP126, SRS_ATP127, SRS_ATP128, 
+     SRS_ATP147,  SRS_ATP146, SRS_ATP148, SRS_ATP149
+   "
+2012-09-11     e704016    create version "M:\admin_view\AGES_ATP\DKM_App@@\main\nla_AGES_ATP_Core\1\Brd_Chk\main\nla_AGES_ATP_Core\2\FpgaAbstraction.h@@\main\AGES_ATP_Core_Integration\BSoper_AGES_ATP_Core\3"
+  "Implement at a minimum, rqmts defined in ATP Prototype tests.doc
+    dated August 9th, 2012
+   (ACCEPTANCE_TEST_PLAN_PLANi_ICREW_21May2012Rev1.doc sections
+     4.4.9, 4.8.1 through 4.8.7)
+   power and temperature monitor SRS_ATP rqmts
+     SRS_ATP64,  SRS_ATP65, SRS_ATP66, SRS_ATP67, 
+     SRS_ATP68,  SRS_ATP69, SRS_ATP70, SRS_ATP71, 
+     SRS_ATP72,  SRS_ATP73, SRS_ATP74, SRS_ATP75
+   Mid-Band transceiver transmit SRS_ATP rqmts
+     SRS_ATP102,  SRS_ATP129, SRS_ATP153, SRS_ATP103, 
+     SRS_ATP158,  SRS_ATP104, SRS_ATP121, SRS_ATP122, 
+     SRS_ATP123,  SRS_ATP124, SRS_ATP132, SRS_ATP133, 
+     SRS_ATP134,  SRS_ATP145, SRS_ATP144, SRS_ATP143, 
+     SRS_ATP125,  SRS_ATP126, SRS_ATP127, SRS_ATP128, 
+     SRS_ATP147,  SRS_ATP146, SRS_ATP148, SRS_ATP149
+   "
+2012-09-11     e704016    create version "M:\admin_view\AGES_ATP\DKM_App@@\main\nla_AGES_ATP_Core\1\ATP\main\nla_AGES_ATP_Core\2\dkmMain.c@@\main\AGES_ATP_Core_Integration\BSoper_AGES_ATP_Core\3"
+  "Implement at a minimum, rqmts defined in ATP Prototype tests.doc
+    dated August 9th, 2012
+   (ACCEPTANCE_TEST_PLAN_PLANi_ICREW_21May2012Rev1.doc sections
+     4.4.9, 4.8.1 through 4.8.7)
+   power and temperature monitor SRS_ATP rqmts
+     SRS_ATP64,  SRS_ATP65, SRS_ATP66, SRS_ATP67, 
+     SRS_ATP68,  SRS_ATP69, SRS_ATP70, SRS_ATP71, 
+     SRS_ATP72,  SRS_ATP73, SRS_ATP74, SRS_ATP75
+   Mid-Band transceiver transmit SRS_ATP rqmts
+     SRS_ATP102,  SRS_ATP129, SRS_ATP153, SRS_ATP103, 
+     SRS_ATP158,  SRS_ATP104, SRS_ATP121, SRS_ATP122, 
+     SRS_ATP123,  SRS_ATP124, SRS_ATP132, SRS_ATP133, 
+     SRS_ATP134,  SRS_ATP145, SRS_ATP144, SRS_ATP143, 
+     SRS_ATP125,  SRS_ATP126, SRS_ATP127, SRS_ATP128, 
+     SRS_ATP147,  SRS_ATP146, SRS_ATP148, SRS_ATP149
+   "
+2012-09-11     clearcase_nm75 import sync from replica "AGES_ATP_AZ18.deleted" to replica "AGES_ATP_FL51"
+  "Imported synchronization information from replica "AGES_ATP_AZ18".
+   Row at import was: AGES_ATP_MN17=2143 AGES_ATP_AZ18=0 AGES_ATP_FL51=0"
+2012-09-11     e704016    create version "M:\admin_view\AGES_ATP\DKM_App@@\main\nla_AGES_ATP_Core\1\.wrproject@@\main\AGES_ATP_Core_Integration\BSoper_AGES_ATP_Core\1"
+  "Implement at a minimum, rqmts defined in ATP Prototype tests.doc
+    dated August 9th, 2012
+   (ACCEPTANCE_TEST_PLAN_PLANi_ICREW_21May2012Rev1.doc sections
+     4.4.9, 4.8.1 through 4.8.7)
+   power and temperature monitor SRS_ATP rqmts
+     SRS_ATP64,  SRS_ATP65, SRS_ATP66, SRS_ATP67, 
+     SRS_ATP68,  SRS_ATP69, SRS_ATP70, SRS_ATP71, 
+     SRS_ATP72,  SRS_ATP73, SRS_ATP74, SRS_ATP75
+   Mid-Band transceiver transmit SRS_ATP rqmts
+     SRS_ATP102,  SRS_ATP129, SRS_ATP153, SRS_ATP103, 
+     SRS_ATP158,  SRS_ATP104, SRS_ATP121, SRS_ATP122, 
+     SRS_ATP123,  SRS_ATP124, SRS_ATP132, SRS_ATP133, 
+     SRS_ATP134,  SRS_ATP145, SRS_ATP144, SRS_ATP143, 
+     SRS_ATP125,  SRS_ATP126, SRS_ATP127, SRS_ATP128, 
+     SRS_ATP147,  SRS_ATP146, SRS_ATP148, SRS_ATP149
+   "
+2012-09-11     clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\AGES_ATP\DKM_App@@\main\nla_AGES_ATP_Core\1\.wrproject@@\main\AGES_ATP_Core_Integration\BSoper_AGES_ATP_Core\1"
+2012-09-11     e704016    create version "M:\admin_view\AGES_ATP\DKM_App@@\main\nla_AGES_ATP_Core\1\.wrproject@@\main\AGES_ATP_Core_Integration\BSoper_AGES_ATP_Core\0"
+2012-09-11     e704016    create branch "M:\admin_view\AGES_ATP\DKM_App@@\main\nla_AGES_ATP_Core\1\.wrproject@@\main\AGES_ATP_Core_Integration\BSoper_AGES_ATP_Core"
+  "Implement at a minimum, rqmts defined in ATP Prototype tests.doc
+    dated August 9th, 2012
+   (ACCEPTANCE_TEST_PLAN_PLANi_ICREW_21May2012Rev1.doc sections
+     4.4.9, 4.8.1 through 4.8.7)
+   power and temperature monitor SRS_ATP rqmts
+     SRS_ATP64,  SRS_ATP65, SRS_ATP66, SRS_ATP67, 
+     SRS_ATP68,  SRS_ATP69, SRS_ATP70, SRS_ATP71, 
+     SRS_ATP72,  SRS_ATP73, SRS_ATP74, SRS_ATP75
+   Mid-Band transceiver transmit SRS_ATP rqmts
+     SRS_ATP102,  SRS_ATP129, SRS_ATP153, SRS_ATP103, 
+     SRS_ATP158,  SRS_ATP104, SRS_ATP121, SRS_ATP122, 
+     SRS_ATP123,  SRS_ATP124, SRS_ATP132, SRS_ATP133, 
+     SRS_ATP134,  SRS_ATP145, SRS_ATP144, SRS_ATP143, 
+     SRS_ATP125,  SRS_ATP126, SRS_ATP127, SRS_ATP128, 
+     SRS_ATP147,  SRS_ATP146, SRS_ATP148, SRS_ATP149
+   "
+2012-09-11     clearcase_nm75 import sync from replica "AGES_ATP_AZ18.deleted" to replica "AGES_ATP_FL51"
+  "Imported synchronization information from replica "AGES_ATP_AZ18".
+   Row at import was: AGES_ATP_MN17=2141 AGES_ATP_AZ18=0 AGES_ATP_FL51=0"
+2012-09-11     clearcase_nm75 import sync from replica "AGES_ATP_AZ18.deleted" to replica "AGES_ATP_FL51"
+  "Imported synchronization information from replica "AGES_ATP_AZ18".
+   Row at import was: AGES_ATP_MN17=2139 AGES_ATP_AZ18=0 AGES_ATP_FL51=0"
+2012-09-06     clearcase_nm75 import sync from replica "AGES_ATP_AZ18.deleted" to replica "AGES_ATP_FL51"
+  "Imported synchronization information from replica "AGES_ATP_AZ18".
+   Row at import was: AGES_ATP_MN17=2103 AGES_ATP_AZ18=0 AGES_ATP_FL51=0"
+2012-09-06     clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\AGES_ATP\Platforms@@\main\nla_AGES_ATP_Core\1\iWizard\main\nla_AGES_ATP_Core\2\BSP_dir\main\nla_AGES_ATP_Core\2\fpga_ctrl.h@@\main\AGES_ATP_Core_Integration\BSoper_AGES_ATP_Core\2"
+2012-09-06     clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\AGES_ATP\Platforms@@\main\nla_AGES_ATP_Core\1\iWizard\main\nla_AGES_ATP_Core\2\BSP_dir\main\nla_AGES_ATP_Core\2\fpga_ctrl.c@@\main\AGES_ATP_Core_Integration\BSoper_AGES_ATP_Core\3"
+2012-09-06     clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\AGES_ATP\DKM_App@@\main\nla_AGES_ATP_Core\1\Brd_Chk\main\nla_AGES_ATP_Core\2\FpgaSpi.h@@\main\AGES_ATP_Core_Integration\BSoper_AGES_ATP_Core\3"
+2012-09-06     clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\AGES_ATP\DKM_App@@\main\nla_AGES_ATP_Core\1\Brd_Chk\main\nla_AGES_ATP_Core\2\FpgaSpi.c@@\main\AGES_ATP_Core_Integration\BSoper_AGES_ATP_Core\3"
+2012-09-06     clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\AGES_ATP\DKM_App@@\main\nla_AGES_ATP_Core\1\Brd_Chk\main\nla_AGES_ATP_Core\2\FpgaAbstraction.h@@\main\AGES_ATP_Core_Integration\BSoper_AGES_ATP_Core\3"

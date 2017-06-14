@@ -1,0 +1,105 @@
+--06-30T10:45  clearcase_nm75 protect directory element "M:\admin_view\ABIM_RC\.@@"
+  "CHMOD 775"
+--06-19T17:50  clearcase_nm75 export sync from replica "ABIM_RC_FL51" to replica "ABIM_RC_PR08"
+  "Exported synchronization information for replica "ABIM_RC_PR08".
+   Row at export was: ABIM_RC_AZ18.deleted=1 ABIM_RC_PR08=289 ABIM_RC_DCW=0 ABIM_RC_FL51=273"
+--06-19T17:50  clearcase_nm75 export sync from replica "ABIM_RC_FL51" to replica "ABIM_RC_DCW"
+  "Exported synchronization information for replica "ABIM_RC_DCW".
+   Row at export was: ABIM_RC_AZ18.deleted=1 ABIM_RC_PR08=289 ABIM_RC_DCW=0 ABIM_RC_FL51=273"
+--06-19T17:42  clearcase_nm75 protect directory element "M:\admin_view\ABIM_RC\.@@"
+  "CHMOD 770"
+--06-19T17:42  clearcase_nm75 protect directory element "M:\admin_view\ABIM_RC\.@@"
+  "CHMOD 775"
+--06-19T17:20  clearcase_nm75 export sync from replica "ABIM_RC_FL51" to replica "ABIM_RC_PR08"
+  "Exported synchronization information for replica "ABIM_RC_PR08".
+   Row at export was: ABIM_RC_AZ18.deleted=1 ABIM_RC_PR08=289 ABIM_RC_DCW=0 ABIM_RC_FL51=271"
+--06-19T17:20  clearcase_nm75 export sync from replica "ABIM_RC_FL51" to replica "ABIM_RC_DCW"
+  "Exported synchronization information for replica "ABIM_RC_DCW".
+   Row at export was: ABIM_RC_AZ18.deleted=1 ABIM_RC_PR08=289 ABIM_RC_DCW=0 ABIM_RC_FL51=271"
+--06-19T17:19  clearcase_nm75 protect directory element "M:\admin_view\ABIM_RC\.@@"
+  "CHMOD 770"
+--06-19T17:19  clearcase_nm75 protect directory element "M:\admin_view\ABIM_RC\.@@"
+  "CHMOD 775"
+--04-10T13:55  e704548    export sync from replica "ABIM_RC_FL51" to replica "ABIM_RC_PR08"
+  "Exported synchronization information for replica "ABIM_RC_PR08".
+   Row at export was: ABIM_RC_AZ18.deleted=1 ABIM_RC_PR08=289 ABIM_RC_DCW=0 ABIM_RC_FL51=270"
+--04-10T13:55  e704548    export sync from replica "ABIM_RC_FL51" to replica "ABIM_RC_DCW"
+  "Exported synchronization information for replica "ABIM_RC_DCW".
+   Row at export was: ABIM_RC_AZ18.deleted=1 ABIM_RC_PR08=289 ABIM_RC_DCW=0 ABIM_RC_FL51=270"
+--04-10T13:55  e704548    change master to "ABIM_RC_DCW" of replica "ABIM_RC_DCW"
+  "Changed master replica from "ABIM_RC_FL51" to "ABIM_RC_DCW"."
+--04-10T13:53  e704548    export sync from replica "ABIM_RC_FL51" to replica "ABIM_RC_PR08"
+  "Exported synchronization information for replica "ABIM_RC_PR08".
+   Row at export was: ABIM_RC_AZ18.deleted=1 ABIM_RC_PR08=289 ABIM_RC_DCW=0 ABIM_RC_FL51=268"
+--04-10T13:53  e704548    export sync from replica "ABIM_RC_FL51" to replica "ABIM_RC_DCW"
+  "Exported synchronization information for replica "ABIM_RC_DCW".
+   Row at export was: ABIM_RC_AZ18.deleted=1 ABIM_RC_PR08=289 ABIM_RC_DCW=0 ABIM_RC_FL51=268"
+--04-10T13:53  e704548    rename replica "ABIM_RC_AZ18.deleted"
+  "Changed name of replica from "ABIM_RC_AZ18" to "ABIM_RC_AZ18.deleted"."
+--04-10T13:53  e704548    destroy replica in versioned object base "\ABIM_RC"
+  "Destroyed replica "ABIM_RC_AZ18"."
+--04-10T13:53  e704548    change master to "ABIM_RC_FL51" of replica "ABIM_RC_DCW"
+  "Changed master replica from "ABIM_RC_AZ18" to "ABIM_RC_FL51"."
+--04-10T13:53  e704548    modify replica "ABIM_RC_AZ18.deleted"
+  "Marked replica "ABIM_RC_AZ18" for deletion."
+--12-04T14:40  clearcase_nm75 import sync from replica "ABIM_RC_DCW" to replica "ABIM_RC_FL51"
+  "Imported synchronization information from replica "ABIM_RC_DCW".
+   Row at import was: ABIM_RC_PR08=289 ABIM_RC_AZ18=1 ABIM_RC_DCW=0 ABIM_RC_FL51=268"
+--12-04T12:20  clearcase_nm75 export sync from replica "ABIM_RC_FL51" to replica "ABIM_RC_DCW"
+  "Exported synchronization information for replica "ABIM_RC_DCW".
+   Row at export was: ABIM_RC_AZ18=0 ABIM_RC_PR08=289 ABIM_RC_DCW=0 ABIM_RC_FL51=268"
+--12-04T12:20  clearcase_nm75 import sync from replica "ABIM_RC_PR08" to replica "ABIM_RC_FL51"
+  "Imported synchronization information from replica "ABIM_RC_PR08".
+   Row at import was: ABIM_RC_PR08=289 ABIM_RC_AZ18=1 ABIM_RC_DCW=0 ABIM_RC_FL51=268"
+--12-04T12:10  clearcase_nm75 export sync from replica "ABIM_RC_FL51" to replica "ABIM_RC_PR08"
+  "Exported synchronization information for replica "ABIM_RC_PR08".
+   Row at export was: ABIM_RC_AZ18=0 ABIM_RC_PR08=289 ABIM_RC_DCW=0 ABIM_RC_FL51=268"
+--12-04T12:10  clearcase_nm75 import sync from replica "ABIM_RC_AZ18.deleted" to replica "ABIM_RC_FL51"
+  "Imported synchronization information from replica "ABIM_RC_AZ18".
+   Row at import was: ABIM_RC_PR08=289 ABIM_RC_AZ18=0 ABIM_RC_FL51=268"
+--12-04T11:59  root       create replica "ABIM_RC_DCW"
+--10-24T12:00  clearcase_nm75 export sync from replica "ABIM_RC_FL51" to replica "ABIM_RC_PR08"
+  "Exported synchronization information for replica "ABIM_RC_PR08".
+   Row at export was: ABIM_RC_FL51=261 ABIM_RC_AZ18=0 ABIM_RC_PR08=289"
+--10-24T12:00  clearcase_nm75 export sync from replica "ABIM_RC_FL51" to replica "ABIM_RC_AZ18.deleted"
+  "Exported synchronization information for replica "ABIM_RC_AZ18".
+   Row at export was: ABIM_RC_FL51=261 ABIM_RC_AZ18=0 ABIM_RC_PR08=289"
+--10-24T11:56  E582601    make hyperlink "BaselineLbtype" on label type "ABIM_Int_2013-10-24"
+  "Attached hyperlink "BaselineLbtype@302@\ABIM_RC_PVOB"."
+--10-24T11:56  E582601    rename label type "ABIM_Int_2013-10-24"
+  "Changed name of label type from "ABIM_Int_2013-10-24_in_progress" to "ABIM_Int_2013-10-24"."
+--10-24T11:56  E582601    make hyperlink "IncrementalLbtype" on label type "ABIM_Int_2013-10-22"
+  "Attached hyperlink "IncrementalLbtype@444@\ABIM_RC"."
+--10-24T11:56  E582601    make hyperlink "IncrementalLbtype" on label type "ABIM_Int_2013-10-24"
+  "Attached hyperlink "IncrementalLbtype@444@\ABIM_RC"."
+--10-24T11:56  E582601    create hyperlink "IncrementalLbtype@444@\ABIM_RC"
+--10-24T11:56  E582601    create label type "ABIM_Int_2013-10-24"
+--10-24T11:20  clearcase_nm75 export sync from replica "ABIM_RC_FL51" to replica "ABIM_RC_PR08"
+  "Exported synchronization information for replica "ABIM_RC_PR08".
+   Row at export was: ABIM_RC_FL51=163 ABIM_RC_AZ18=0 ABIM_RC_PR08=289"
+--10-24T11:20  clearcase_nm75 export sync from replica "ABIM_RC_FL51" to replica "ABIM_RC_AZ18.deleted"
+  "Exported synchronization information for replica "ABIM_RC_AZ18".
+   Row at export was: ABIM_RC_FL51=159 ABIM_RC_AZ18=0 ABIM_RC_PR08=289"
+--10-24T11:12  E582601    create directory version "M:\admin_view\ABIM_RC\OFP@@\main\ABIM_Int\2" (ABIM_Int_2013-10-24)
+  "Added file element "BIT_ENGINE.ADB".
+   Added file element "BIT_ENGINE.ADS".
+   Added file element "InterCasp_IO.adb".
+   Added file element "MMR.adb".
+   Added file element "Rate7.adb".
+   Added file element "Rate7.ads".
+   Added file element "VENDOR_IO.ADB"."
+--10-24T11:12  E582601    create version "M:\admin_view\ABIM_RC\OFP@@\main\e519761_ABIM\1\MISSIONIZATION_PARAMETERS.ADS@@\main\ABIM_Int\2" (ABIM_Int_2013-10-24)
+--10-24T11:12  E582601    create version "M:\admin_view\ABIM_RC\OFP@@\main\e519761_ABIM\1\MISC_PARAMS.ADB@@\main\ABIM_Int\2" (ABIM_Int_2013-10-24)
+--10-24T11:12  E582601    create version "M:\admin_view\ABIM_RC\OFP@@\main\e519761_ABIM\2\MAGVAR.ADS@@\main\ABIM_Int\2" (ABIM_Int_2013-10-24)
+--10-24T11:12  E582601    create version "M:\admin_view\ABIM_RC\OFP@@\main\e519761_ABIM\3\Mode_Control.adb@@\main\ABIM_Int\2" (ABIM_Int_2013-10-24)
+--10-24T11:12  E582601    create version "M:\admin_view\ABIM_RC\OFP@@\main\e519761_ABIM\3\CONFIG_TABLE.ads@@\main\ABIM_Int\2" (ABIM_Int_2013-10-24)
+--10-24T11:12  E582601    create version "M:\admin_view\ABIM_RC\OFP@@\main\e519761_ABIM\4\COMPUTE_1553.ADB@@\main\ABIM_Int\2" (ABIM_Int_2013-10-24)
+--10-24T11:12  E582601    create version "M:\admin_view\ABIM_RC\OFP@@\main\e519761_ABIM\4\PASS_DATA.ADB@@\main\ABIM_Int\2" (ABIM_Int_2013-10-24)
+--10-24T11:12  E582601    create version "M:\admin_view\ABIM_RC\OFP@@\main\e519761_ABIM\4\PROCESS_I01.ADB@@\main\ABIM_Int\2" (ABIM_Int_2013-10-24)
+--10-24T11:12  E582601    create version "M:\admin_view\ABIM_RC\OFP@@\main\e519761_ABIM\4\PROCESS_I01.ADS@@\main\ABIM_Int\2" (ABIM_Int_2013-10-24)
+--10-24T11:12  E582601    create version "M:\admin_view\ABIM_RC\OFP@@\main\e519761_ABIM\4\PROCESS_IO.ADB@@\main\ABIM_Int\2" (ABIM_Int_2013-10-24)
+--10-24T11:12  E582601    create version "M:\admin_view\ABIM_RC\OFP@@\main\e519761_ABIM\4\compute_1553.ads@@\main\ABIM_Int\2" (ABIM_Int_2013-10-24)
+--10-24T11:12  E582601    create version "M:\admin_view\ABIM_RC\OFP@@\main\e519761_ABIM\4\COMPUTE_COMMON_IO.ADB@@\main\ABIM_Int\2" (ABIM_Int_2013-10-24)
+--10-24T11:12  E582601    create version "M:\admin_view\ABIM_RC\OFP@@\main\e519761_ABIM\4\SPEC_1553.ADS@@\main\ABIM_Int\2" (ABIM_Int_2013-10-24)
+--10-24T11:12  E582601    create version "M:\admin_view\ABIM_RC\OFP@@\main\e519761_ABIM\4\PROCESS_IO.ADS@@\main\ABIM_Int\2" (ABIM_Int_2013-10-24)
+--10-24T11:12  E582601    create version "M:\admin_view\ABIM_RC\OFP@@\main\e519761_ABIM\5\Interfaces\main\e519761_ABIM\2\EGR_IF.ads@@\main\ABIM_Int\2" (ABIM_Int_2013-10-24)

@@ -1,0 +1,101 @@
+--06-30T10:44  clearcase_nm75 protect directory element "M:\admin_view\AEWC_RC\.@@"
+  "CHMOD 775"
+--06-19T17:40  clearcase_nm75 export sync from replica "AEWC_RC_FL51" to replica "AEWC_RC_PR08"
+  "Exported synchronization information for replica "AEWC_RC_PR08".
+   Row at export was: AEWC_RC_DCW=0 AEWC_RC_FL51=2608 AEWC_RC_PR08=750 AEWC_RC_AZ18.deleted=0 AEWC_RC_AZ18.deleted.1=1"
+--06-19T17:40  clearcase_nm75 export sync from replica "AEWC_RC_FL51" to replica "AEWC_RC_DCW"
+  "Exported synchronization information for replica "AEWC_RC_DCW".
+   Row at export was: AEWC_RC_DCW=0 AEWC_RC_FL51=2608 AEWC_RC_PR08=750 AEWC_RC_AZ18.deleted=0 AEWC_RC_AZ18.deleted.1=1"
+--06-19T17:39  clearcase_nm75 protect directory element "M:\admin_view\AEWC_RC\.@@"
+  "CHMOD 770"
+--06-19T17:39  clearcase_nm75 protect directory element "M:\admin_view\AEWC_RC\.@@"
+  "CHMOD 775"
+--06-19T17:21  clearcase_nm75 export sync from replica "AEWC_RC_FL51" to replica "AEWC_RC_PR08"
+  "Exported synchronization information for replica "AEWC_RC_PR08".
+   Row at export was: AEWC_RC_DCW=0 AEWC_RC_FL51=2606 AEWC_RC_PR08=750 AEWC_RC_AZ18.deleted=0 AEWC_RC_AZ18.deleted.1=1"
+--06-19T17:21  clearcase_nm75 export sync from replica "AEWC_RC_FL51" to replica "AEWC_RC_DCW"
+  "Exported synchronization information for replica "AEWC_RC_DCW".
+   Row at export was: AEWC_RC_DCW=0 AEWC_RC_FL51=2606 AEWC_RC_PR08=750 AEWC_RC_AZ18.deleted=0 AEWC_RC_AZ18.deleted.1=1"
+--06-19T17:16  clearcase_nm75 protect directory element "M:\admin_view\AEWC_RC\.@@"
+  "CHMOD 770"
+--06-19T17:16  clearcase_nm75 protect directory element "M:\admin_view\AEWC_RC\.@@"
+  "CHMOD 775"
+--05-02T11:11  e704548    export sync from replica "AEWC_RC_FL51" to replica "AEWC_RC_PR08"
+  "Exported synchronization information for replica "AEWC_RC_PR08".
+   Row at export was: AEWC_RC_DCW=0 AEWC_RC_FL51=2562 AEWC_RC_PR08=750 AEWC_RC_AZ18.deleted=0 AEWC_RC_AZ18.deleted.1=1"
+--05-02T11:10  clearcase_nm75 export sync from replica "AEWC_RC_FL51" to replica "AEWC_RC_PR08"
+  "Exported synchronization information for replica "AEWC_RC_PR08".
+   Row at export was: AEWC_RC_DCW=0 AEWC_RC_FL51=2562 AEWC_RC_PR08=750 AEWC_RC_AZ18.deleted=0 AEWC_RC_AZ18.deleted.1=1"
+--04-16T10:40  clearcase_nm75 export sync from replica "AEWC_RC_FL51" to replica "AEWC_RC_DCW"
+  "Exported synchronization information for replica "AEWC_RC_DCW".
+   Row at export was: AEWC_RC_DCW=0 AEWC_RC_FL51=2604 AEWC_RC_PR08=750 AEWC_RC_AZ18.deleted=0 AEWC_RC_AZ18.deleted.1=1"
+--04-16T10:35  e836198    protect directory element "M:\admin_view\AEWC_RC\.@@"
+  "CHMOD 770"
+--04-16T10:33  e836198    protect directory element "M:\admin_view\AEWC_RC\.@@"
+  "CHMOD 775"
+--04-10T14:11  clearcase_nm75 export sync from replica "AEWC_RC_FL51" to replica "AEWC_RC_DCW"
+  "Exported synchronization information for replica "AEWC_RC_DCW".
+   Row at export was: AEWC_RC_DCW=0 AEWC_RC_FL51=2599 AEWC_RC_PR08=750 AEWC_RC_AZ18.deleted=0 AEWC_RC_AZ18.deleted.1=1"
+--04-10T14:10  e287800    make hyperlink "BaselineLbtype" on label type "AEWC_Int_2014-04-10.5426"
+  "Attached hyperlink "BaselineLbtype@1469@\AEWC_RC_PVOB"."
+--04-10T14:10  e287800    rename label type "AEWC_Int_2014-04-10.5426"
+  "Changed name of label type from "AEWC_Int_2014-04-10.5426_in_progress" to "AEWC_Int_2014-04-10.5426"."
+--04-10T14:10  e287800    make hyperlink "IncrementalLbtype" on label type "AEWC_Int_2014-04-01-2014.8532"
+  "Attached hyperlink "IncrementalLbtype@2290@\AEWC_RC"."
+--04-10T14:10  e287800    make hyperlink "IncrementalLbtype" on label type "AEWC_Int_2014-04-10.5426"
+  "Attached hyperlink "IncrementalLbtype@2290@\AEWC_RC"."
+--04-10T14:10  e287800    create hyperlink "IncrementalLbtype@2290@\AEWC_RC"
+--04-10T14:10  e287800    create label type "AEWC_Int_2014-04-10.5426"
+--04-10T12:21  clearcase_nm75 export sync from replica "AEWC_RC_FL51" to replica "AEWC_RC_DCW"
+  "Exported synchronization information for replica "AEWC_RC_DCW".
+   Row at export was: AEWC_RC_DCW=0 AEWC_RC_FL51=2595 AEWC_RC_PR08=750 AEWC_RC_AZ18.deleted=0 AEWC_RC_AZ18.deleted.1=1"
+--04-10T12:15  e287800    create version "M:\admin_view\AEWC_RC\OFP@@\main\AEWC_Int\e519761_AEWC\1\Core_Files\main\AEWC_Int\AEWC_dev\2\GPS_LOS.ADB@@\main\AEWC_Int\2" (AEWC_Int_2014-04-10.5426)
+--04-10T12:15  e287800    make hyperlink "Merge" on version "M:\admin_view\AEWC_RC\OFP@@\main\AEWC_Int\e519761_AEWC\1\Core_Files\main\AEWC_Int\AEWC_dev\2\GPS_LOS.ADB@@\main\AEWC_Int\2" (AEWC_Int_2014-04-10.5426)
+  "Attached hyperlink "Merge@2288@\AEWC_RC"."
+--04-10T12:15  e287800    make hyperlink "Merge" on version "M:\admin_view\AEWC_RC\OFP@@\main\AEWC_Int\e519761_AEWC\1\Core_Files\main\AEWC_Int\AEWC_dev\2\GPS_LOS.ADB@@\main\AEWC_dev\2"
+  "Attached hyperlink "Merge@2288@\AEWC_RC"."
+--04-10T12:15  e287800    create hyperlink "Merge@2288@\AEWC_RC"
+--04-10T12:15  e287800    make hyperlink "Change" on version "M:\admin_view\AEWC_RC\OFP@@\main\AEWC_Int\e519761_AEWC\1\Core_Files\main\AEWC_Int\AEWC_dev\2\GPS_LOS.ADB@@\main\AEWC_Int\2" (AEWC_Int_2014-04-10.5426)
+  "Attached hyperlink "Change@1466@\AEWC_RC_PVOB"."
+--04-10T10:41  clearcase_nm75 export sync from replica "AEWC_RC_FL51" to replica "AEWC_RC_DCW"
+  "Exported synchronization information for replica "AEWC_RC_DCW".
+   Row at export was: AEWC_RC_DCW=0 AEWC_RC_FL51=2594 AEWC_RC_PR08=750 AEWC_RC_AZ18.deleted=0 AEWC_RC_AZ18.deleted.1=1"
+--04-10T10:38  e287800    create version "M:\admin_view\AEWC_RC\OFP@@\main\AEWC_Int\e519761_AEWC\1\Core_Files\main\AEWC_Int\AEWC_dev\2\GPS_LOS.ADB@@\main\AEWC_dev\2"
+--04-10T10:31  clearcase_nm75 export sync from replica "AEWC_RC_FL51" to replica "AEWC_RC_DCW"
+  "Exported synchronization information for replica "AEWC_RC_DCW".
+   Row at export was: AEWC_RC_DCW=0 AEWC_RC_FL51=2592 AEWC_RC_PR08=750 AEWC_RC_AZ18.deleted=0 AEWC_RC_AZ18.deleted.1=1"
+--04-10T10:22  e287800    make hyperlink "Change" on version "M:\admin_view\AEWC_RC\OFP@@\main\AEWC_Int\e519761_AEWC\1\Core_Files\main\AEWC_Int\AEWC_dev\2\GPS_LOS.ADB@@\main\AEWC_dev\2"
+  "Attached hyperlink "Change@1463@\AEWC_RC_PVOB"."
+--04-01T12:41  clearcase_nm75 export sync from replica "AEWC_RC_FL51" to replica "AEWC_RC_DCW"
+  "Exported synchronization information for replica "AEWC_RC_DCW".
+   Row at export was: AEWC_RC_DCW=0 AEWC_RC_FL51=2587 AEWC_RC_PR08=750 AEWC_RC_AZ18.deleted=0 AEWC_RC_AZ18.deleted.1=1"
+--04-01T12:35  e287800    make hyperlink "BaselineLbtype" on label type "AEWC_Int_2014-04-01-2014.8532"
+  "Attached hyperlink "BaselineLbtype@1458@\AEWC_RC_PVOB"."
+--04-01T12:35  e287800    rename label type "AEWC_Int_2014-04-01-2014.8532"
+  "Changed name of label type from "AEWC_Int_2014-04-01-2014.8532_in_progress" to "AEWC_Int_2014-04-01-2014.8532"."
+--04-01T12:35  e287800    make hyperlink "IncrementalLbtype" on label type "AEWC_3_17_2014.7384"
+  "Attached hyperlink "IncrementalLbtype@2285@\AEWC_RC"."
+--04-01T12:35  e287800    make hyperlink "IncrementalLbtype" on label type "AEWC_Int_2014-04-01-2014.8532"
+  "Attached hyperlink "IncrementalLbtype@2285@\AEWC_RC"."
+--04-01T12:35  e287800    create hyperlink "IncrementalLbtype@2285@\AEWC_RC"
+--04-01T12:35  e287800    create label type "AEWC_Int_2014-04-01-2014.8532"
+--04-01T09:21  clearcase_nm75 export sync from replica "AEWC_RC_FL51" to replica "AEWC_RC_DCW"
+  "Exported synchronization information for replica "AEWC_RC_DCW".
+   Row at export was: AEWC_RC_DCW=0 AEWC_RC_FL51=2573 AEWC_RC_PR08=750 AEWC_RC_AZ18.deleted=0 AEWC_RC_AZ18.deleted.1=1"
+--04-01T09:20  e287800    create directory version "M:\admin_view\AEWC_RC\OFP@@\main\AEWC_Int\e519761_AEWC\1\Core_Files@@\main\AEWC_Int\8" (AEWC_Int_2014-04-10.5426, AEWC_Int_2014-04-01-2014.8532)
+  "Added file element "GPS_LOS.ADB"."
+--04-01T09:20  e287800    create version "M:\admin_view\AEWC_RC\OFP@@\main\e287800_AEWC\1\Mission_Files\main\AEWC_Int\e519761_AEWC\15\GEM_IO.ADB@@\main\AEWC_Int\7" (AEWC_Int_2014-04-10.5426, AEWC_Int_2014-04-01-2014.8532)
+--04-01T09:20  e287800    create version "M:\admin_view\AEWC_RC\OFP@@\main\AEWC_Int\e519761_AEWC\1\Core_Files\main\AEWC_Int\AEWC_dev\2\GPS_LOS.ADB@@\main\AEWC_Int\1" (AEWC_Int_2014-04-01-2014.8532)
+--04-01T09:20  e287800    make hyperlink "Merge" on version "M:\admin_view\AEWC_RC\OFP@@\main\AEWC_Int\e519761_AEWC\1\Core_Files\main\AEWC_Int\AEWC_dev\2\GPS_LOS.ADB@@\main\AEWC_Int\1" (AEWC_Int_2014-04-01-2014.8532)
+  "Attached hyperlink "Merge@2283@\AEWC_RC"."
+--04-01T09:20  e287800    make hyperlink "Merge" on version "M:\admin_view\AEWC_RC\OFP@@\main\AEWC_Int\e519761_AEWC\1\Core_Files\main\AEWC_Int\AEWC_dev\2\GPS_LOS.ADB@@\main\AEWC_dev\1"
+  "Attached hyperlink "Merge@2283@\AEWC_RC"."
+--04-01T09:20  e287800    create hyperlink "Merge@2283@\AEWC_RC"
+--04-01T09:20  e287800    make hyperlink "Merge" on version "M:\admin_view\AEWC_RC\OFP@@\main\e287800_AEWC\1\Mission_Files\main\AEWC_Int\e519761_AEWC\15\GEM_IO.ADB@@\main\AEWC_Int\7" (AEWC_Int_2014-04-10.5426, AEWC_Int_2014-04-01-2014.8532)
+  "Attached hyperlink "Merge@2282@\AEWC_RC"."
+--04-01T09:20  e287800    make hyperlink "Merge" on version "M:\admin_view\AEWC_RC\OFP@@\main\e287800_AEWC\1\Mission_Files\main\AEWC_Int\e519761_AEWC\15\GEM_IO.ADB@@\main\AEWC_Int\AEWC_dev\3"
+  "Attached hyperlink "Merge@2282@\AEWC_RC"."
+--04-01T09:20  e287800    create hyperlink "Merge@2282@\AEWC_RC"
+--04-01T09:20  e287800    make hyperlink "Change" on version "M:\admin_view\AEWC_RC\OFP@@\main\AEWC_Int\e519761_AEWC\1\Core_Files\main\AEWC_Int\AEWC_dev\2\GPS_LOS.ADB@@\main\AEWC_Int\1" (AEWC_Int_2014-04-01-2014.8532)
+  "Attached hyperlink "Change@1455@\AEWC_RC_PVOB"."
+--04-01T09:20  e287800    create version "M:\admin_view\AEWC_RC\OFP@@\main\AEWC_Int\e519761_AEWC\1\Core_Files\main\AEWC_Int\AEWC_dev\2\GPS_LOS.ADB@@\main\AEWC_Int\0"

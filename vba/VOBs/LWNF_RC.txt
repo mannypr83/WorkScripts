@@ -1,0 +1,136 @@
+--06-30T10:44  clearcase_nm75 protect directory element "M:\admin_view\LWNF_RC\.@@"
+  "CHMOD 775"
+--06-19T17:40  clearcase_nm75 export sync from replica "LWNF_RC_FL51" to replica "LWNF_RC_PR08"
+  "Exported synchronization information for replica "LWNF_RC_PR08".
+   Row at export was: LWNF_RC_FL51=5657 LWNF_RC_DCW=0 LWNF_RC_MN17=4 LWNF_RC_MN10=6709 LWNF_RC_PR08=4 LWNF_RC_AZ18.deleted=1"
+--06-19T17:40  clearcase_nm75 export sync from replica "LWNF_RC_FL51" to replica "LWNF_RC_MN17"
+  "Exported synchronization information for replica "LWNF_RC_MN17".
+   Row at export was: LWNF_RC_FL51=5657 LWNF_RC_DCW=0 LWNF_RC_MN17=4 LWNF_RC_MN10=6709 LWNF_RC_PR08=4 LWNF_RC_AZ18.deleted=1"
+--06-19T17:40  clearcase_nm75 export sync from replica "LWNF_RC_FL51" to replica "LWNF_RC_MN10"
+  "Exported synchronization information for replica "LWNF_RC_MN10".
+   Row at export was: LWNF_RC_FL51=5657 LWNF_RC_DCW=0 LWNF_RC_MN17=4 LWNF_RC_MN10=6709 LWNF_RC_PR08=4 LWNF_RC_AZ18.deleted=1"
+--06-19T17:40  clearcase_nm75 export sync from replica "LWNF_RC_FL51" to replica "LWNF_RC_DCW"
+  "Exported synchronization information for replica "LWNF_RC_DCW".
+   Row at export was: LWNF_RC_FL51=5657 LWNF_RC_DCW=0 LWNF_RC_MN17=4 LWNF_RC_MN10=6709 LWNF_RC_PR08=4 LWNF_RC_AZ18.deleted=1"
+--06-19T17:37  clearcase_nm75 protect directory element "M:\admin_view\LWNF_RC\.@@"
+  "CHMOD 770"
+--06-19T17:37  clearcase_nm75 protect directory element "M:\admin_view\LWNF_RC\.@@"
+  "CHMOD 775"
+--06-19T17:21  clearcase_nm75 export sync from replica "LWNF_RC_FL51" to replica "LWNF_RC_PR08"
+  "Exported synchronization information for replica "LWNF_RC_PR08".
+   Row at export was: LWNF_RC_FL51=5655 LWNF_RC_DCW=0 LWNF_RC_MN17=4 LWNF_RC_MN10=6709 LWNF_RC_PR08=4 LWNF_RC_AZ18.deleted=1"
+--06-19T17:21  clearcase_nm75 export sync from replica "LWNF_RC_FL51" to replica "LWNF_RC_MN17"
+  "Exported synchronization information for replica "LWNF_RC_MN17".
+   Row at export was: LWNF_RC_FL51=5655 LWNF_RC_DCW=0 LWNF_RC_MN17=4 LWNF_RC_MN10=6709 LWNF_RC_PR08=4 LWNF_RC_AZ18.deleted=1"
+--06-19T17:21  clearcase_nm75 export sync from replica "LWNF_RC_FL51" to replica "LWNF_RC_MN10"
+  "Exported synchronization information for replica "LWNF_RC_MN10".
+   Row at export was: LWNF_RC_FL51=5655 LWNF_RC_DCW=0 LWNF_RC_MN17=4 LWNF_RC_MN10=6709 LWNF_RC_PR08=4 LWNF_RC_AZ18.deleted=1"
+--06-19T17:21  clearcase_nm75 export sync from replica "LWNF_RC_FL51" to replica "LWNF_RC_DCW"
+  "Exported synchronization information for replica "LWNF_RC_DCW".
+   Row at export was: LWNF_RC_FL51=5655 LWNF_RC_DCW=0 LWNF_RC_MN17=4 LWNF_RC_MN10=6709 LWNF_RC_PR08=4 LWNF_RC_AZ18.deleted=1"
+--06-19T17:15  clearcase_nm75 protect directory element "M:\admin_view\LWNF_RC\.@@"
+  "CHMOD 770"
+--06-19T17:15  clearcase_nm75 protect directory element "M:\admin_view\LWNF_RC\.@@"
+  "CHMOD 775"
+--05-01T13:46  clearcase_nm75 import sync from replica "LWNF_RC_DCW" to replica "LWNF_RC_FL51"
+  "Imported synchronization information from replica "LWNF_RC_DCW".
+   Row at import was: LWNF_RC_AZ18.deleted=1 LWNF_RC_PR08=4 LWNF_RC_MN10=6709 LWNF_RC_MN17=4 LWNF_RC_DCW=0 LWNF_RC_FL51=5655"
+--05-01T13:41  clearcase_nm75 import sync from replica "LWNF_RC_PR08" to replica "LWNF_RC_FL51"
+  "Imported synchronization information from replica "LWNF_RC_PR08".
+   Row at import was: LWNF_RC_AZ18.deleted=1 LWNF_RC_PR08=4 LWNF_RC_MN10=6709 LWNF_RC_MN17=4 LWNF_RC_DCW=0 LWNF_RC_FL51=5655"
+--05-01T13:40  clearcase_nm75 export sync from replica "LWNF_RC_FL51" to replica "LWNF_RC_PR08"
+  "Exported synchronization information for replica "LWNF_RC_PR08".
+   Row at export was: LWNF_RC_FL51=5655 LWNF_RC_DCW=0 LWNF_RC_MN17=0 LWNF_RC_MN10=6709 LWNF_RC_PR08=4 LWNF_RC_AZ18.deleted=1"
+--05-01T13:40  clearcase_nm75 export sync from replica "LWNF_RC_FL51" to replica "LWNF_RC_MN10"
+  "Exported synchronization information for replica "LWNF_RC_MN10".
+   Row at export was: LWNF_RC_FL51=5655 LWNF_RC_DCW=0 LWNF_RC_MN17=0 LWNF_RC_MN10=6709 LWNF_RC_PR08=4 LWNF_RC_AZ18.deleted=1"
+--05-01T13:40  clearcase_nm75 export sync from replica "LWNF_RC_FL51" to replica "LWNF_RC_DCW"
+  "Exported synchronization information for replica "LWNF_RC_DCW".
+   Row at export was: LWNF_RC_FL51=5655 LWNF_RC_DCW=0 LWNF_RC_MN17=0 LWNF_RC_MN10=6709 LWNF_RC_PR08=4 LWNF_RC_AZ18.deleted=1"
+--05-01T13:40  clearcase_nm75 import sync from replica "LWNF_RC_MN10" to replica "LWNF_RC_FL51"
+  "Imported synchronization information from replica "LWNF_RC_MN10".
+   Row at import was: LWNF_RC_AZ18.deleted=1 LWNF_RC_PR08=4 LWNF_RC_MN10=6709 LWNF_RC_MN17=4 LWNF_RC_DCW=0 LWNF_RC_FL51=5655"
+--05-01T13:39  clearcase_nm75 import sync from replica "LWNF_RC_MN17" to replica "LWNF_RC_FL51"
+  "Imported synchronization information from replica "LWNF_RC_MN17".
+   Row at import was: LWNF_RC_AZ18.deleted=1 LWNF_RC_PR08=4 LWNF_RC_MN10=6709 LWNF_RC_MN17=3 LWNF_RC_DCW=0 LWNF_RC_FL51=5655"
+--05-01T13:39  e704548    change master to "LWNF_RC_DCW" of replica "LWNF_RC_DCW"
+  "Changed master replica from "LWNF_RC_MN17" to "LWNF_RC_DCW"."
+--05-01T13:39  clearcase_nm75 import sync from replica "LWNF_RC_MN17" to replica "LWNF_RC_FL51"
+  "Imported synchronization information from replica "LWNF_RC_MN17".
+   Row at import was: LWNF_RC_AZ18=1 LWNF_RC_PR08=4 LWNF_RC_MN10=6709 LWNF_RC_MN17=0 LWNF_RC_DCW=0 LWNF_RC_FL51=5655"
+--05-01T13:38  e704548    rename replica "LWNF_RC_AZ18.deleted"
+  "Changed name of replica from "LWNF_RC_AZ18" to "LWNF_RC_AZ18.deleted".
+   Destroyed replica "LWNF_RC_AZ18"."
+--05-01T13:38  e704548    destroy replica in versioned object base "\LWNF_RC"
+  "Destroyed replica "LWNF_RC_AZ18"."
+--05-01T13:38  e704548    change master to "LWNF_RC_MN17" of replica "LWNF_RC_DCW"
+  "Changed master replica from "LWNF_RC_AZ18" to "LWNF_RC_MN17"."
+--05-01T13:38  e704548    change master to "LWNF_RC_MN17" of replica "LWNF_RC_AZ18.deleted"
+  "Changed master replica from "LWNF_RC_AZ18" to "LWNF_RC_MN17"."
+--02-13T13:11  clearcase_nm75 import sync from replica "LWNF_RC_MN17" to replica "LWNF_RC_FL51"
+  "Imported synchronization information from replica "LWNF_RC_MN17".
+   Row at import was: LWNF_RC_AZ18=1 LWNF_RC_PR08=4 LWNF_RC_MN10=6709 LWNF_RC_MN17=0 LWNF_RC_DCW=0 LWNF_RC_FL51=5655"
+--02-13T13:11  clearcase_nm75 import sync from replica "LWNF_RC_MN17" to replica "LWNF_RC_FL51"
+  "Imported synchronization information from replica "LWNF_RC_MN17".
+   Row at import was: LWNF_RC_AZ18=1 LWNF_RC_PR08=4 LWNF_RC_MN10=6709 LWNF_RC_MN17=0 LWNF_RC_DCW=0 LWNF_RC_FL51=5655"
+--02-13T12:40  clearcase_nm75 import sync from replica "LWNF_RC_MN17" to replica "LWNF_RC_FL51"
+  "Imported synchronization information from replica "LWNF_RC_MN17".
+   Row at import was: LWNF_RC_AZ18=1 LWNF_RC_PR08=4 LWNF_RC_MN10=6709 LWNF_RC_MN17=0 LWNF_RC_DCW=0 LWNF_RC_FL51=5655"
+--02-13T12:40  clearcase_nm75 import sync from replica "LWNF_RC_MN17" to replica "LWNF_RC_FL51"
+  "Imported synchronization information from replica "LWNF_RC_MN17".
+   Row at import was: LWNF_RC_AZ18=1 LWNF_RC_PR08=4 LWNF_RC_MN10=6709 LWNF_RC_MN17=0 LWNF_RC_DCW=0 LWNF_RC_FL51=5655"
+--08-05T14:50  clearcase_nm75 import sync from replica "LWNF_RC_DCW" to replica "LWNF_RC_FL51"
+  "Imported synchronization information from replica "LWNF_RC_DCW".
+   Row at import was: LWNF_RC_AZ18=1 LWNF_RC_PR08=4 LWNF_RC_MN10=6709 LWNF_RC_MN17=0 LWNF_RC_DCW=0 LWNF_RC_FL51=5655"
+--08-01T14:40  clearcase_nm75 import sync from replica "LWNF_RC_PR08" to replica "LWNF_RC_FL51"
+  "Imported synchronization information from replica "LWNF_RC_PR08".
+   Row at import was: LWNF_RC_AZ18=1 LWNF_RC_PR08=4 LWNF_RC_MN10=6709 LWNF_RC_MN17=0 LWNF_RC_DCW=0 LWNF_RC_FL51=5655"
+--08-01T14:40  clearcase_nm75 import sync from replica "LWNF_RC_MN10" to replica "LWNF_RC_FL51"
+  "Imported synchronization information from replica "LWNF_RC_MN10".
+   Row at import was: LWNF_RC_AZ18=1 LWNF_RC_PR08=4 LWNF_RC_MN10=6709 LWNF_RC_MN17=0 LWNF_RC_DCW=0 LWNF_RC_FL51=5655"
+--08-01T14:30  clearcase_nm75 export sync from replica "LWNF_RC_FL51" to replica "LWNF_RC_PR08"
+  "Exported synchronization information for replica "LWNF_RC_PR08".
+   Row at export was: LWNF_RC_FL51=5655 LWNF_RC_DCW=0 LWNF_RC_MN17=0 LWNF_RC_MN10=6709 LWNF_RC_PR08=4 LWNF_RC_AZ18=0"
+--08-01T14:30  clearcase_nm75 export sync from replica "LWNF_RC_FL51" to replica "LWNF_RC_MN17"
+  "Exported synchronization information for replica "LWNF_RC_MN17".
+   Row at export was: LWNF_RC_FL51=5655 LWNF_RC_DCW=0 LWNF_RC_MN17=0 LWNF_RC_MN10=6709 LWNF_RC_PR08=4 LWNF_RC_AZ18=0"
+--08-01T14:30  clearcase_nm75 export sync from replica "LWNF_RC_FL51" to replica "LWNF_RC_MN10"
+  "Exported synchronization information for replica "LWNF_RC_MN10".
+   Row at export was: LWNF_RC_FL51=5655 LWNF_RC_DCW=0 LWNF_RC_MN17=0 LWNF_RC_MN10=6709 LWNF_RC_PR08=4 LWNF_RC_AZ18=0"
+--08-01T14:30  clearcase_nm75 export sync from replica "LWNF_RC_FL51" to replica "LWNF_RC_DCW"
+  "Exported synchronization information for replica "LWNF_RC_DCW".
+   Row at export was: LWNF_RC_FL51=5655 LWNF_RC_DCW=0 LWNF_RC_MN17=0 LWNF_RC_MN10=6709 LWNF_RC_PR08=4 LWNF_RC_AZ18=0"
+--08-01T14:30  clearcase_nm75 import sync from replica "LWNF_RC_AZ18.deleted" to replica "LWNF_RC_FL51"
+  "Imported synchronization information from replica "LWNF_RC_AZ18".
+   Row at import was: LWNF_RC_AZ18=0 LWNF_RC_PR08=4 LWNF_RC_MN10=6709 LWNF_RC_MN17=0 LWNF_RC_FL51=5655"
+--08-01T14:18  root       create replica "LWNF_RC_DCW"
+2013-06-19     clearcase_nm75 import sync from replica "LWNF_RC_PR08" to replica "LWNF_RC_FL51"
+  "Imported synchronization information from replica "LWNF_RC_PR08".
+   Row at import was: LWNF_RC_AZ18=0 LWNF_RC_PR08=4 LWNF_RC_MN10=6709 LWNF_RC_MN17=0 LWNF_RC_FL51=5655"
+2013-06-19     clearcase_nm75 import sync from replica "LWNF_RC_PR08" to replica "LWNF_RC_FL51"
+  "Imported synchronization information from replica "LWNF_RC_PR08".
+   Row at import was: LWNF_RC_AZ18=0 LWNF_RC_PR08=4 LWNF_RC_MN10=6709 LWNF_RC_MN17=0 LWNF_RC_FL51=5655"
+2013-06-19     clearcase_nm75 import sync from replica "LWNF_RC_PR08" to replica "LWNF_RC_FL51"
+  "Imported synchronization information from replica "LWNF_RC_PR08".
+   Row at import was: LWNF_RC_AZ18=0 LWNF_RC_PR08=4 LWNF_RC_MN10=6709 LWNF_RC_MN17=0 LWNF_RC_FL51=5655"
+2013-06-19     clearcase_nm75 import sync from replica "LWNF_RC_PR08" to replica "LWNF_RC_FL51"
+  "Imported synchronization information from replica "LWNF_RC_PR08".
+   Row at import was: LWNF_RC_AZ18=0 LWNF_RC_PR08=4 LWNF_RC_MN10=6709 LWNF_RC_MN17=0 LWNF_RC_FL51=5655"
+2013-06-13     clearcase_nm75 import sync from replica "LWNF_RC_MN10" to replica "LWNF_RC_FL51"
+  "Imported synchronization information from replica "LWNF_RC_MN10".
+   Row at import was: LWNF_RC_AZ18=0 LWNF_RC_PR08=4 LWNF_RC_MN10=6709 LWNF_RC_MN17=0 LWNF_RC_FL51=5655"
+2013-06-13     clearcase_nm75 export sync from replica "LWNF_RC_FL51" to replica "LWNF_RC_MN17"
+  "Exported synchronization information for replica "LWNF_RC_MN17".
+   Row at export was: LWNF_RC_FL51=5655 LWNF_RC_MN17=0 LWNF_RC_MN10=6709 LWNF_RC_PR08=3 LWNF_RC_AZ18=0"
+2013-06-13     clearcase_nm75 export sync from replica "LWNF_RC_FL51" to replica "LWNF_RC_MN10"
+  "Exported synchronization information for replica "LWNF_RC_MN10".
+   Row at export was: LWNF_RC_FL51=5655 LWNF_RC_MN17=0 LWNF_RC_MN10=6709 LWNF_RC_PR08=3 LWNF_RC_AZ18=0"
+2013-06-13     clearcase_nm75 import sync from replica "LWNF_RC_AZ18.deleted" to replica "LWNF_RC_FL51"
+  "Imported synchronization information from replica "LWNF_RC_AZ18".
+   Row at import was: LWNF_RC_AZ18=0 LWNF_RC_PR08=3 LWNF_RC_MN10=6709 LWNF_RC_MN17=0 LWNF_RC_FL51=5655"
+2013-06-13     e721877    import sync to replica "LWNF_RC_PR08"
+  "Changed information associated with replica."
+2013-06-10     e564406    lock trigger type "CHOWN" (locked)
+  "Locked except for users: NAMERICA4\E702445"
+2013-06-10     e564406    modify trigger type "CHOWN" (locked)
+  "Changed definition of type."

@@ -1,0 +1,125 @@
+--06-30T10:42  clearcase_nm75 protect directory element "M:\admin_view\GNCOE_PVOB\.@@"
+  "CHMOD 775"
+--06-19T16:11  clearcase_nm75 protect directory element "M:\admin_view\GNCOE_PVOB\.@@"
+  "CHMOD 770"
+--06-19T16:11  clearcase_nm75 protect directory element "M:\admin_view\GNCOE_PVOB\.@@"
+  "CHMOD 775"
+--06-12T11:31  clearcase_nm75 export sync from replica "GNCOE_PVOB_FL51" to replica "GNCOE_PVOB_DCW"
+  "Exported synchronization information for replica "GNCOE_PVOB_DCW".
+   Row at export was: GNCOE_PVOB_FL51=21 GNCOE_PVOB_MN17=4793 GNCOE_PVOB_PR08.deleted=6 GNCOE_PVOB_DCW=0 GNCOE_PVOB_MN51=0 GNCOE_PVOB_AZ18.deleted=2 GNCOE_PVOB_MN10=0"
+--06-12T11:28  clearcase_nm75 import sync from replica "GNCOE_PVOB_MN51" to replica "GNCOE_PVOB_FL51"
+  "Imported synchronization information from replica "GNCOE_PVOB_MN51".
+   Row at import was: GNCOE_PVOB_MN17=4794 GNCOE_PVOB_AZ18.deleted=2 GNCOE_PVOB_PR08.deleted=6 GNCOE_PVOB_MN51=0 GNCOE_PVOB_MN10=0 GNCOE_PVOB_DCW=0 GNCOE_PVOB_FL51=21"
+--06-12T11:25  clearcase_nm75 import sync from replica "GNCOE_PVOB_DCW" to replica "GNCOE_PVOB_FL51"
+  "Imported synchronization information from replica "GNCOE_PVOB_DCW".
+   Row at import was: GNCOE_PVOB_MN17=4794 GNCOE_PVOB_AZ18.deleted=2 GNCOE_PVOB_PR08.deleted=6 GNCOE_PVOB_MN51=0 GNCOE_PVOB_MN10=0 GNCOE_PVOB_DCW=0 GNCOE_PVOB_FL51=21"
+--06-12T11:22  clearcase_nm75 import sync from replica "GNCOE_PVOB_MN17" to replica "GNCOE_PVOB_FL51"
+  "Imported synchronization information from replica "GNCOE_PVOB_MN17".
+   Row at import was: GNCOE_PVOB_MN17=4793 GNCOE_PVOB_AZ18.deleted=2 GNCOE_PVOB_PR08.deleted=6 GNCOE_PVOB_MN51=0 GNCOE_PVOB_MN10=0 GNCOE_PVOB_DCW=0 GNCOE_PVOB_FL51=21"
+--06-12T11:20  e711819    set work for activity "GNCOE_CM_Integration"
+  "User "SVMap" in view "mn17nt1861:D:\IBM\RationalSDLC\ClearCase\var\ccweb\e711819.NAMERICA4\e711819_GNCOE_CM\view.stg"."
+--06-10T11:41  clearcase_nm75 export sync from replica "GNCOE_PVOB_FL51" to replica "GNCOE_PVOB_DCW"
+  "Exported synchronization information for replica "GNCOE_PVOB_DCW".
+   Row at export was: GNCOE_PVOB_FL51=21 GNCOE_PVOB_MN17=4790 GNCOE_PVOB_PR08.deleted=6 GNCOE_PVOB_DCW=0 GNCOE_PVOB_MN51=0 GNCOE_PVOB_AZ18.deleted=2 GNCOE_PVOB_MN10=0"
+--06-10T11:38  clearcase_nm75 import sync from replica "GNCOE_PVOB_MN51" to replica "GNCOE_PVOB_FL51"
+  "Imported synchronization information from replica "GNCOE_PVOB_MN51".
+   Row at import was: GNCOE_PVOB_MN17=4793 GNCOE_PVOB_AZ18.deleted=2 GNCOE_PVOB_PR08.deleted=6 GNCOE_PVOB_MN51=0 GNCOE_PVOB_MN10=0 GNCOE_PVOB_DCW=0 GNCOE_PVOB_FL51=21"
+--06-10T11:35  clearcase_nm75 import sync from replica "GNCOE_PVOB_DCW" to replica "GNCOE_PVOB_FL51"
+  "Imported synchronization information from replica "GNCOE_PVOB_DCW".
+   Row at import was: GNCOE_PVOB_MN17=4793 GNCOE_PVOB_AZ18.deleted=2 GNCOE_PVOB_PR08.deleted=6 GNCOE_PVOB_MN51=0 GNCOE_PVOB_MN10=0 GNCOE_PVOB_DCW=0 GNCOE_PVOB_FL51=21"
+--06-10T11:32  clearcase_nm75 import sync from replica "GNCOE_PVOB_MN17" to replica "GNCOE_PVOB_FL51"
+  "Imported synchronization information from replica "GNCOE_PVOB_MN17".
+   Row at import was: GNCOE_PVOB_MN17=4790 GNCOE_PVOB_AZ18.deleted=2 GNCOE_PVOB_PR08.deleted=6 GNCOE_PVOB_MN51=0 GNCOE_PVOB_MN10=0 GNCOE_PVOB_DCW=0 GNCOE_PVOB_FL51=21"
+--06-10T11:30  E702445    destroy hyperlink "Change" in versioned object base "\GNCOE_PVOB"
+  "Destroyed hyperlink "Change@1652@\GNCOE_PVOB"."
+--06-10T11:30  clearcase_nm75 make hyperlink "Change" on activity "Updating_Files_BMK"
+--06-09T15:22  clearcase_nm75 import sync from replica "GNCOE_PVOB_MN51" to replica "GNCOE_PVOB_FL51"
+  "Imported synchronization information from replica "GNCOE_PVOB_MN51".
+   Row at import was: GNCOE_PVOB_MN17=4790 GNCOE_PVOB_AZ18.deleted=2 GNCOE_PVOB_PR08.deleted=6 GNCOE_PVOB_MN51=0 GNCOE_PVOB_MN10=0 GNCOE_PVOB_DCW=0 GNCOE_PVOB_FL51=21"
+--06-09T15:21  clearcase_nm75 export sync from replica "GNCOE_PVOB_FL51" to replica "GNCOE_PVOB_DCW"
+  "Exported synchronization information for replica "GNCOE_PVOB_DCW".
+   Row at export was: GNCOE_PVOB_FL51=21 GNCOE_PVOB_MN17=4789 GNCOE_PVOB_PR08.deleted=6 GNCOE_PVOB_DCW=0 GNCOE_PVOB_MN51=0 GNCOE_PVOB_AZ18.deleted=2 GNCOE_PVOB_MN10=0"
+--06-09T15:16  clearcase_nm75 import sync from replica "GNCOE_PVOB_DCW" to replica "GNCOE_PVOB_FL51"
+  "Imported synchronization information from replica "GNCOE_PVOB_DCW".
+   Row at import was: GNCOE_PVOB_MN17=4790 GNCOE_PVOB_AZ18.deleted=2 GNCOE_PVOB_PR08.deleted=6 GNCOE_PVOB_MN51=0 GNCOE_PVOB_MN10=0 GNCOE_PVOB_DCW=0 GNCOE_PVOB_FL51=21"
+--06-09T15:12  clearcase_nm75 import sync from replica "GNCOE_PVOB_MN17" to replica "GNCOE_PVOB_FL51"
+  "Imported synchronization information from replica "GNCOE_PVOB_MN17".
+   Row at import was: GNCOE_PVOB_MN17=4789 GNCOE_PVOB_AZ18.deleted=2 GNCOE_PVOB_PR08.deleted=6 GNCOE_PVOB_MN51=0 GNCOE_PVOB_MN10=0 GNCOE_PVOB_DCW=0 GNCOE_PVOB_FL51=21"
+--06-09T15:06  clearcase_nm75 set process variable on activity "Gathering_and_Developing_Training_Material_for_SGN"
+  "Set activity process variable named "ACT_VOB_MODCNT"."
+--06-09T15:06  clearcase_nm75 modify activity "Gathering_and_Developing_Training_Material_for_SGN"
+  "Change set modification count set to 133."
+--05-02T07:46  clearcase_nm75 import sync from replica "GNCOE_PVOB_MN51" to replica "GNCOE_PVOB_FL51"
+  "Imported synchronization information from replica "GNCOE_PVOB_MN51".
+   Row at import was: GNCOE_PVOB_MN17=4789 GNCOE_PVOB_AZ18.deleted=2 GNCOE_PVOB_PR08.deleted=6 GNCOE_PVOB_MN51=0 GNCOE_PVOB_MN10=0 GNCOE_PVOB_DCW=0 GNCOE_PVOB_FL51=21"
+--03-28T13:25  clearcase_nm75 import sync from replica "GNCOE_PVOB_DCW" to replica "GNCOE_PVOB_FL51"
+  "Imported synchronization information from replica "GNCOE_PVOB_DCW".
+   Row at import was: GNCOE_PVOB_MN17=4789 GNCOE_PVOB_AZ18.deleted=2 GNCOE_PVOB_PR08.deleted=6 GNCOE_PVOB_MN51=0 GNCOE_PVOB_MN10=0 GNCOE_PVOB_DCW=0 GNCOE_PVOB_FL51=21"
+--03-28T13:22  clearcase_nm75 export sync from replica "GNCOE_PVOB_FL51" to replica "GNCOE_PVOB_DCW"
+  "Exported synchronization information for replica "GNCOE_PVOB_DCW".
+   Row at export was: GNCOE_PVOB_FL51=21 GNCOE_PVOB_MN17=4788 GNCOE_PVOB_PR08.deleted=6 GNCOE_PVOB_DCW=0 GNCOE_PVOB_MN51=0 GNCOE_PVOB_AZ18.deleted=2 GNCOE_PVOB_MN10=0"
+--03-28T13:15  clearcase_nm75 import sync from replica "GNCOE_PVOB_DCW" to replica "GNCOE_PVOB_FL51"
+  "Imported synchronization information from replica "GNCOE_PVOB_DCW".
+   Row at import was: GNCOE_PVOB_MN17=4789 GNCOE_PVOB_AZ18.deleted=2 GNCOE_PVOB_PR08.deleted=6 GNCOE_PVOB_MN51=0 GNCOE_PVOB_MN10=0 GNCOE_PVOB_DCW=0 GNCOE_PVOB_FL51=21"
+--03-28T13:12  clearcase_nm75 import sync from replica "GNCOE_PVOB_MN17" to replica "GNCOE_PVOB_FL51"
+  "Imported synchronization information from replica "GNCOE_PVOB_MN17".
+   Row at import was: GNCOE_PVOB_MN17=4788 GNCOE_PVOB_AZ18.deleted=2 GNCOE_PVOB_PR08.deleted=6 GNCOE_PVOB_MN51=0 GNCOE_PVOB_MN10=0 GNCOE_PVOB_DCW=0 GNCOE_PVOB_FL51=21"
+--03-28T13:12  e704548    change master to "GNCOE_PVOB_DCW" of replica "GNCOE_PVOB_DCW"
+  "Changed master replica from "GNCOE_PVOB_MN17" to "GNCOE_PVOB_DCW"."
+--03-28T13:11  clearcase_nm75 export sync from replica "GNCOE_PVOB_FL51" to replica "GNCOE_PVOB_DCW"
+  "Exported synchronization information for replica "GNCOE_PVOB_DCW".
+   Row at export was: GNCOE_PVOB_FL51=21 GNCOE_PVOB_MN17=4784 GNCOE_PVOB_PR08.deleted=6 GNCOE_PVOB_DCW=0 GNCOE_PVOB_MN51=0 GNCOE_PVOB_AZ18.deleted=2 GNCOE_PVOB_MN10=0"
+--03-28T13:09  clearcase_nm75 import sync from replica "GNCOE_PVOB_MN17" to replica "GNCOE_PVOB_FL51"
+  "Imported synchronization information from replica "GNCOE_PVOB_MN17".
+   Row at import was: GNCOE_PVOB_MN17=4784 GNCOE_PVOB_AZ18=2 GNCOE_PVOB_PR08.deleted=6 GNCOE_PVOB_MN51=0 GNCOE_PVOB_MN10=0 GNCOE_PVOB_DCW=0 GNCOE_PVOB_FL51=21"
+--03-28T13:09  e704548    rename replica "GNCOE_PVOB_AZ18.deleted"
+  "Changed name of replica from "GNCOE_PVOB_AZ18" to "GNCOE_PVOB_AZ18.deleted".
+   Destroyed replica "GNCOE_PVOB_AZ18"."
+--03-28T13:09  e704548    destroy replica in versioned object base "\GNCOE_PVOB"
+  "Destroyed replica "GNCOE_PVOB_AZ18"."
+--03-28T13:09  e704548    change master to "GNCOE_PVOB_MN17" of replica "GNCOE_PVOB_DCW"
+  "Changed master replica from "GNCOE_PVOB_AZ18" to "GNCOE_PVOB_MN17"."
+--03-28T13:09  e704548    change master to "GNCOE_PVOB_MN17" of replica "GNCOE_PVOB_PR08.deleted"
+  "Changed master replica from "GNCOE_PVOB_AZ18" to "GNCOE_PVOB_MN17"."
+--03-28T13:09  e704548    change master to "GNCOE_PVOB_MN17" of replica "GNCOE_PVOB_AZ18.deleted"
+  "Changed master replica from "GNCOE_PVOB_AZ18" to "GNCOE_PVOB_MN17"."
+--03-21T12:04  clearcase_nm75 export sync from replica "GNCOE_PVOB_FL51" to replica "GNCOE_PVOB_DCW"
+  "Exported synchronization information for replica "GNCOE_PVOB_DCW".
+   Row at export was: GNCOE_PVOB_FL51=21 GNCOE_PVOB_MN17=4761 GNCOE_PVOB_PR08.deleted=6 GNCOE_PVOB_DCW=0 GNCOE_PVOB_MN51=0 GNCOE_PVOB_AZ18=1 GNCOE_PVOB_MN10=0"
+--03-21T10:40  clearcase_nm75 import sync from replica "GNCOE_PVOB_MN10" to replica "GNCOE_PVOB_FL51"
+  "Imported synchronization information from replica "GNCOE_PVOB_MN10".
+   Row at import was: GNCOE_PVOB_MN17=4784 GNCOE_PVOB_AZ18=2 GNCOE_PVOB_PR08.deleted=6 GNCOE_PVOB_MN51=0 GNCOE_PVOB_MN10=0 GNCOE_PVOB_DCW=0 GNCOE_PVOB_FL51=21"
+--03-21T10:40  clearcase_nm75 import sync from replica "GNCOE_PVOB_DCW" to replica "GNCOE_PVOB_FL51"
+  "Imported synchronization information from replica "GNCOE_PVOB_DCW".
+   Row at import was: GNCOE_PVOB_MN17=4784 GNCOE_PVOB_AZ18=2 GNCOE_PVOB_PR08.deleted=6 GNCOE_PVOB_MN51=0 GNCOE_PVOB_MN10=0 GNCOE_PVOB_DCW=0 GNCOE_PVOB_FL51=21"
+--03-21T10:31  clearcase_nm75 export sync from replica "GNCOE_PVOB_FL51" to replica "GNCOE_PVOB_AZ18.deleted"
+  "Exported synchronization information for replica "GNCOE_PVOB_AZ18".
+   Row at export was: GNCOE_PVOB_FL51=21 GNCOE_PVOB_MN17=4777 GNCOE_PVOB_PR08.deleted=6 GNCOE_PVOB_DCW=0 GNCOE_PVOB_MN51=0 GNCOE_PVOB_AZ18=2 GNCOE_PVOB_MN10=0"
+--03-21T10:30  clearcase_nm75 import sync from replica "GNCOE_PVOB_MN51" to replica "GNCOE_PVOB_FL51"
+  "Imported synchronization information from replica "GNCOE_PVOB_MN51".
+   Row at import was: GNCOE_PVOB_MN17=4784 GNCOE_PVOB_AZ18=2 GNCOE_PVOB_PR08.deleted=6 GNCOE_PVOB_MN51=0 GNCOE_PVOB_MN10=0 GNCOE_PVOB_DCW=0 GNCOE_PVOB_FL51=21"
+--03-21T10:30  clearcase_nm75 import sync from replica "GNCOE_PVOB_MN17" to replica "GNCOE_PVOB_FL51"
+  "Imported synchronization information from replica "GNCOE_PVOB_MN17".
+   Row at import was: GNCOE_PVOB_MN17=4777 GNCOE_PVOB_AZ18=2 GNCOE_PVOB_PR08.deleted=6 GNCOE_PVOB_MN51=0 GNCOE_PVOB_MN10=0 GNCOE_PVOB_DCW=0 GNCOE_PVOB_FL51=21"
+--03-21T10:20  clearcase_nm75 import sync from replica "GNCOE_PVOB_MN10" to replica "GNCOE_PVOB_FL51"
+  "Imported synchronization information from replica "GNCOE_PVOB_MN10".
+   Row at import was: GNCOE_PVOB_MN17=4777 GNCOE_PVOB_AZ18=2 GNCOE_PVOB_PR08.deleted=6 GNCOE_PVOB_MN51=0 GNCOE_PVOB_MN10=0 GNCOE_PVOB_DCW=0 GNCOE_PVOB_FL51=21"
+--03-21T10:20  clearcase_nm75 import sync from replica "GNCOE_PVOB_DCW" to replica "GNCOE_PVOB_FL51"
+  "Imported synchronization information from replica "GNCOE_PVOB_DCW".
+   Row at import was: GNCOE_PVOB_MN17=4777 GNCOE_PVOB_AZ18=2 GNCOE_PVOB_PR08.deleted=6 GNCOE_PVOB_MN51=0 GNCOE_PVOB_MN10=0 GNCOE_PVOB_DCW=0 GNCOE_PVOB_FL51=21"
+--03-21T10:14  clearcase_nm75 set process variable on activity "Updating_Files_BMK"
+  "Set activity process variable named "ACT_VOB_MODCNT"."
+--03-21T10:14  clearcase_nm75 modify activity "Updating_Files_BMK"
+  "Change set modification count set to 625."
+--03-21T10:14  clearcase_nm75 set process variable on activity "Updating_Files_BMK"
+  "Set activity process variable named "ACT_VOB_MODCNT"."
+--03-21T10:14  clearcase_nm75 modify activity "Updating_Files_BMK"
+  "Change set modification count set to 624."
+--03-21T10:14  E702445    make hyperlink "Change" on activity "Updating_Files_BMK"
+--03-21T10:14  E702445    create hyperlink "Change@1650@\GNCOE_PVOB"
+--03-21T10:14  E702445    make hyperlink "Change" on activity "Updating_Files_BMK"
+  " "
+--03-21T10:14  E702445    create hyperlink "Change@1649@\GNCOE_PVOB"
+  " "
+--03-21T10:13  clearcase_nm75 set process variable on activity "Updating_Files_BMK"
+  "Set activity process variable named "ACT_VOB_MODCNT"."

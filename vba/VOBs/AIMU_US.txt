@@ -1,0 +1,105 @@
+--06-30T10:43  clearcase_nm75 protect directory element "M:\admin_view\AIMU_US\.@@"
+  "CHMOD 775"
+--06-19T16:20  clearcase_nm75 export sync from replica "AIMU_US_FL51" to replica "AIMU_US_DCW"
+  "Exported synchronization information for replica "AIMU_US_DCW".
+   Row at export was: AIMU_US_DCW=0 AIMU_US_AZ18.deleted=1 AIMU_US_FL51=9"
+--06-19T16:13  clearcase_nm75 protect directory element "M:\admin_view\AIMU_US\.@@"
+  "CHMOD 770"
+--06-19T16:13  clearcase_nm75 protect directory element "M:\admin_view\AIMU_US\.@@"
+  "CHMOD 775"
+--05-02T11:08  e704548    export sync from replica "AIMU_US_FL51" to replica "AIMU_US_DCW"
+  "Exported synchronization information for replica "AIMU_US_DCW".
+   Row at export was: AIMU_US_DCW=0 AIMU_US_AZ18.deleted=1 AIMU_US_FL51=8"
+--05-02T11:08  e704548    change master to "AIMU_US_DCW" of replica "AIMU_US_DCW"
+  "Changed master replica from "AIMU_US_FL51" to "AIMU_US_DCW"."
+--05-02T11:08  e704548    export sync from replica "AIMU_US_FL51" to replica "AIMU_US_DCW"
+  "Exported synchronization information for replica "AIMU_US_DCW".
+   Row at export was: AIMU_US_DCW=0 AIMU_US_AZ18.deleted=1 AIMU_US_FL51=5"
+--05-02T11:07  e704548    rename replica "AIMU_US_AZ18.deleted"
+  "Changed name of replica from "AIMU_US_AZ18" to "AIMU_US_AZ18.deleted"."
+--05-02T11:07  e704548    destroy replica in versioned object base "\AIMU_US"
+  "Destroyed replica "AIMU_US_AZ18"."
+--05-02T11:07  e704548    change master to "AIMU_US_FL51" of replica "AIMU_US_DCW"
+  "Changed master replica from "AIMU_US_AZ18" to "AIMU_US_FL51"."
+--05-02T11:07  e704548    change master to "AIMU_US_FL51" of replica "AIMU_US_AZ18.deleted"
+  "Changed master replica from "AIMU_US_AZ18" to "AIMU_US_FL51"."
+--05-02T11:07  e704548    modify replica "AIMU_US_AZ18.deleted"
+  "Marked replica "AIMU_US_AZ18" for deletion."
+--03-25T11:35  clearcase_nm75 export sync from replica "AIMU_US_FL51" to replica "AIMU_US_DCW"
+  "Exported synchronization information for replica "AIMU_US_DCW".
+   Row at export was: AIMU_US_DCW=0 AIMU_US_AZ18=0 AIMU_US_FL51=5"
+--07-19T14:30  clearcase_nm75 import sync from replica "AIMU_US_DCW" to replica "AIMU_US_FL51"
+  "Imported synchronization information from replica "AIMU_US_DCW".
+   Row at import was: AIMU_US_AZ18=1 AIMU_US_DCW=0 AIMU_US_FL51=5"
+--07-19T10:30  clearcase_nm75 import sync from replica "AIMU_US_AZ18.deleted" to replica "AIMU_US_FL51"
+  "Imported synchronization information from replica "AIMU_US_AZ18".
+   Row at import was: AIMU_US_AZ18=0 AIMU_US_FL51=5"
+--07-19T10:17  root       create replica "AIMU_US_DCW"
+2013-06-03     e564406    lock trigger type "NO_RMTYPE" (locked)
+  "Locked for all users."
+2013-06-03     e564406    destroy type in versioned object base "\AIMU_US"
+  "Destroyed trigger type "NO_RMTRIGGER"."
+2013-06-03     e564406    modify trigger type "NO_RMTYPE" (locked)
+  "Changed definition of type.
+   Disallow removal of types"
+2013-06-03     e564406    unlock trigger type "NO_RMTYPE" (locked)
+2012-03-08     e730056    lock trigger type "NO_RMNAME" (locked)
+  "Locked except for users: e730056 e702445 e704548 e712432 e721877 e721598"
+2012-03-08     e730056    lock trigger type "NO_RMLOCK" (locked)
+  "Locked except for users: e730056 e702445 e704548 e712432 e721877 e721598"
+2012-03-08     e730056    lock trigger type "NO_RMTYPE" (locked)
+  "Locked except for users: e730056 e702445 e704548 e712432 e721877 e721598"
+2012-03-08     e730056    lock trigger type "NO_MKTRIGGER" (locked)
+  "Locked except for users: e730056 e702445 e704548 e712432 e721877 e721598"
+2012-03-08     e730056    lock trigger type "NO_EVIL_TWIN_MKELEM" (locked)
+  "Locked except for users: e730056 e702445 e704548 e712432 e721877 e721598"
+2012-03-08     e730056    lock trigger type "NO_RMELEM" (locked)
+  "Locked except for users: e730056 e702445 e704548 e712432 e721877 e721598"
+2012-03-08     e730056    lock trigger type "CHOWN" (locked)
+  "Locked except for users: e730056 e702445 e704548 e712432 e721877 e721598"
+2012-03-08     e730056    lock trigger type "NO_RMVER" (locked)
+  "Locked except for users: e730056 e702445 e704548 e712432 e721877 e721598"
+2012-03-08     e730056    lock trigger type "ChangeLbtypeOwner" (locked)
+  "Locked except for users: e730056 e702445 e704548 e712432 e721877 e721598"
+2012-03-08     e730056    lock trigger type "ChangeHltypeOwner" (locked)
+  "Locked except for users: e730056 e702445 e704548 e712432 e721877 e721598"
+2012-03-08     e730056    lock trigger type "ChangeAttypeOwner" (locked)
+  "Locked except for users: e730056 e702445 e704548 e712432 e721877 e721598"
+2012-03-08     e730056    lock trigger type "ChangeTrtypeOwner" (locked)
+  "Locked except for users: e730056 e702445 e704548 e712432 e721877 e721598"
+2012-03-08     e730056    protect trigger type "NO_RMNAME" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.aimu"
+2012-03-08     e730056    protect trigger type "NO_RMLOCK" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.aimu"
+2012-03-08     e730056    protect trigger type "NO_RMTYPE" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.aimu"
+2012-03-08     e730056    protect trigger type "NO_MKTRIGGER" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.aimu"
+2012-03-08     e730056    protect trigger type "NO_EVIL_TWIN_MKELEM" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.aimu"
+2012-03-08     e730056    protect trigger type "NO_RMVER" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.aimu"
+2012-03-08     e730056    protect trigger type "NO_RMELEM" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.aimu"
+2012-03-08     e730056    protect trigger type "CHOWN" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.aimu"
+2012-03-08     e730056    protect trigger type "ChangeLbtypeOwner" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.aimu"
+2012-03-08     e730056    protect trigger type "ChangeHltypeOwner" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.aimu"
+2012-03-08     e730056    protect trigger type "ChangeAttypeOwner" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.aimu"
+2012-03-08     e730056    protect trigger type "ChangeTrtypeOwner" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.aimu"
+2012-03-08     e730056    lock trigger type "NO_UNRES_CO" (locked)
+  "Locked except for users: e730056 e702445 e704548 e712432 e721877 e721598"
+2012-03-08     e730056    protect trigger type "NO_UNRES_CO" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.aimu"
+2012-03-08     e730056    protect trigger type "NO_UNRES_CO" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.aimu"
+2012-03-08     e730056    create trigger type "NO_UNRES_CO" (locked)
+  "Unreserved Checkouts not permitted"
+2012-03-08     e730056    protect trigger type "NO_RMNAME" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.aimu"
+2012-03-08     e730056    create trigger type "NO_RMNAME" (locked)
+  "disallow removal of element names"

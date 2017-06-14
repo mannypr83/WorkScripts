@@ -1,0 +1,89 @@
+--06-30T10:43  clearcase_nm75 protect directory element "M:\admin_view\CH47J_US\.@@"
+  "CHMOD 775"
+--06-19T16:21  clearcase_nm75 export sync from replica "CH47J_US_FL51" to replica "CH47J_US_DCW"
+  "Exported synchronization information for replica "CH47J_US_DCW".
+   Row at export was: CH47J_US_PR08=3452 CH47J_US_AZ18.deleted=1 CH47J_US_FL51=2532 CH47J_US_DCW=0"
+--06-19T16:17  clearcase_nm75 protect directory element "M:\admin_view\CH47J_US\.@@"
+  "CHMOD 770"
+--06-19T16:17  clearcase_nm75 protect directory element "M:\admin_view\CH47J_US\.@@"
+  "CHMOD 775"
+--04-07T09:11  clearcase_nm75 export sync from replica "CH47J_US_FL51" to replica "CH47J_US_DCW"
+  "Exported synchronization information for replica "CH47J_US_DCW".
+   Row at export was: CH47J_US_PR08=3452 CH47J_US_AZ18.deleted=1 CH47J_US_FL51=2525 CH47J_US_DCW=0"
+--04-07T09:04  e711819    make hyperlink "BaselineLbtype" on label type "SCM_CH47J_US_SWPart_4_7_2014.2912"
+  "Attached hyperlink "BaselineLbtype@1785@\CH47J_US_PVOB"."
+--04-07T09:04  e711819    rename label type "SCM_CH47J_US_SWPart_4_7_2014.2912"
+  "Changed name of label type from "SCM_CH47J_US_SWPart_4_7_2014.2912_in_progress" to "SCM_CH47J_US_SWPart_4_7_2014.2912"."
+--04-07T09:04  e711819    make hyperlink "IncrementalLbtype" on label type "SCM_C4703R01_US_SWPart_12_7_2011"
+  "Attached hyperlink "IncrementalLbtype@3967@\CH47J_US"."
+--04-07T09:04  e711819    make hyperlink "IncrementalLbtype" on label type "SCM_CH47J_US_SWPart_4_7_2014.2912"
+  "Attached hyperlink "IncrementalLbtype@3967@\CH47J_US"."
+--04-07T09:04  e711819    create hyperlink "IncrementalLbtype@3967@\CH47J_US"
+--04-07T09:04  e711819    create label type "SCM_CH47J_US_SWPart_4_7_2014.2912"
+--04-05T06:01  clearcase_nm75 export sync from replica "CH47J_US_FL51" to replica "CH47J_US_DCW"
+  "Exported synchronization information for replica "CH47J_US_DCW".
+   Row at export was: CH47J_US_PR08=3452 CH47J_US_AZ18.deleted=1 CH47J_US_FL51=2497 CH47J_US_DCW=0"
+--04-04T23:02  e730056    create version "M:\admin_view\CH47J_US\SW_Partition@@\main\CH47J_US_SWPart_Dev\2\Mission_Files\main\e428345_CH47J_US_SWPart\1\BIT_ENGINE.ADS@@\main\CH47J_US_SWPart_Int\2" (SCM_CH47J_US_SWPart_4_7_2014.2912)
+--04-04T23:02  e730056    create version "M:\admin_view\CH47J_US\SW_Partition@@\main\CH47J_US_SWPart_Dev\2\Mission_Files\main\e428345_CH47J_US_SWPart\1\Common_IO_IF.ads@@\main\CH47J_US_SWPart_Int\2" (SCM_CH47J_US_SWPart_4_7_2014.2912)
+--04-04T23:02  e730056    create version "M:\admin_view\CH47J_US\SW_Partition@@\main\CH47J_US_SWPart_Dev\3\Partition_Files\main\e428345_CH47J_US_SWPart\1\BC_1553.ADS@@\main\CH47J_US_SWPart_Int\2" (SCM_CH47J_US_SWPart_4_7_2014.2912)
+--04-04T23:02  e730056    create version "M:\admin_view\CH47J_US\SW_Partition@@\main\CH47J_US_SWPart_Dev\3\Partition_Files\main\e428345_CH47J_US_SWPart\1\JAIC.ADB@@\main\CH47J_US_SWPart_Int\2" (SCM_CH47J_US_SWPart_4_7_2014.2912)
+--04-04T23:02  e730056    create version "M:\admin_view\CH47J_US\SW_Partition@@\main\CH47J_US_SWPart_Dev\3\Partition_Files\main\e428345_CH47J_US_SWPart\1\Mission_IO.ADB@@\main\CH47J_US_SWPart_Int\2" (SCM_CH47J_US_SWPart_4_7_2014.2912)
+--04-04T23:02  e730056    create version "M:\admin_view\CH47J_US\SW_Partition@@\main\CH47J_US_SWPart_Dev\3\Partition_Files\main\e428345_CH47J_US_SWPart\1\Mission_IO.ADS@@\main\CH47J_US_SWPart_Int\2" (SCM_CH47J_US_SWPart_4_7_2014.2912)
+--04-04T23:02  e730056    create version "M:\admin_view\CH47J_US\SW_Partition@@\main\CH47J_US_SWPart_Dev\3\Partition_Files\main\e428345_CH47J_US_SWPart\1\Mission_IO_IF.ads@@\main\CH47J_US_SWPart_Int\2" (SCM_CH47J_US_SWPart_4_7_2014.2912)
+--04-04T23:02  e730056    make hyperlink "Merge" on version "M:\admin_view\CH47J_US\SW_Partition@@\main\CH47J_US_SWPart_Dev\3\Partition_Files\main\e428345_CH47J_US_SWPart\1\JAIC.ADB@@\main\CH47J_US_SWPart_Int\2" (SCM_CH47J_US_SWPart_4_7_2014.2912)
+  "Attached hyperlink "Merge@3962@\CH47J_US"."
+--04-04T23:02  e730056    make hyperlink "Merge" on version "M:\admin_view\CH47J_US\SW_Partition@@\main\CH47J_US_SWPart_Dev\3\Partition_Files\main\e428345_CH47J_US_SWPart\1\Mission_IO.ADB@@\main\CH47J_US_SWPart_Int\2" (SCM_CH47J_US_SWPart_4_7_2014.2912)
+  "Attached hyperlink "Merge@3963@\CH47J_US"."
+--04-04T23:02  e730056    make hyperlink "Merge" on version "M:\admin_view\CH47J_US\SW_Partition@@\main\CH47J_US_SWPart_Dev\3\Partition_Files\main\e428345_CH47J_US_SWPart\1\Mission_IO.ADS@@\main\CH47J_US_SWPart_Int\2" (SCM_CH47J_US_SWPart_4_7_2014.2912)
+  "Attached hyperlink "Merge@3964@\CH47J_US"."
+--04-04T23:02  e730056    make hyperlink "Merge" on version "M:\admin_view\CH47J_US\SW_Partition@@\main\CH47J_US_SWPart_Dev\3\Partition_Files\main\e428345_CH47J_US_SWPart\1\Mission_IO_IF.ads@@\main\CH47J_US_SWPart_Int\2" (SCM_CH47J_US_SWPart_4_7_2014.2912)
+  "Attached hyperlink "Merge@3965@\CH47J_US"."
+--04-04T23:02  e730056    make hyperlink "Merge" on version "M:\admin_view\CH47J_US\SW_Partition@@\main\CH47J_US_SWPart_Dev\3\Partition_Files\main\e428345_CH47J_US_SWPart\1\Mission_IO_IF.ads@@\main\e428345_CH47J_US_SWPart\3"
+  "Attached hyperlink "Merge@3965@\CH47J_US"."
+--04-04T23:02  e730056    create hyperlink "Merge@3965@\CH47J_US"
+--04-04T23:02  e730056    make hyperlink "Merge" on version "M:\admin_view\CH47J_US\SW_Partition@@\main\CH47J_US_SWPart_Dev\3\Partition_Files\main\e428345_CH47J_US_SWPart\1\Mission_IO.ADS@@\main\e428345_CH47J_US_SWPart\3"
+  "Attached hyperlink "Merge@3964@\CH47J_US"."
+--04-04T23:02  e730056    create hyperlink "Merge@3964@\CH47J_US"
+--04-04T23:02  e730056    make hyperlink "Merge" on version "M:\admin_view\CH47J_US\SW_Partition@@\main\CH47J_US_SWPart_Dev\3\Partition_Files\main\e428345_CH47J_US_SWPart\1\Mission_IO.ADB@@\main\e428345_CH47J_US_SWPart\4"
+  "Attached hyperlink "Merge@3963@\CH47J_US"."
+--04-04T23:02  e730056    create hyperlink "Merge@3963@\CH47J_US"
+--04-04T23:02  e730056    make hyperlink "Merge" on version "M:\admin_view\CH47J_US\SW_Partition@@\main\CH47J_US_SWPart_Dev\3\Partition_Files\main\e428345_CH47J_US_SWPart\1\JAIC.ADB@@\main\e428345_CH47J_US_SWPart\2"
+  "Attached hyperlink "Merge@3962@\CH47J_US"."
+--04-04T23:02  e730056    create hyperlink "Merge@3962@\CH47J_US"
+--04-04T23:02  e730056    make hyperlink "Merge" on version "M:\admin_view\CH47J_US\SW_Partition@@\main\CH47J_US_SWPart_Dev\2\Mission_Files\main\e428345_CH47J_US_SWPart\1\BIT_ENGINE.ADS@@\main\CH47J_US_SWPart_Int\2" (SCM_CH47J_US_SWPart_4_7_2014.2912)
+  "Attached hyperlink "Merge@3959@\CH47J_US"."
+--04-04T23:02  e730056    make hyperlink "Merge" on version "M:\admin_view\CH47J_US\SW_Partition@@\main\CH47J_US_SWPart_Dev\2\Mission_Files\main\e428345_CH47J_US_SWPart\1\Common_IO_IF.ads@@\main\CH47J_US_SWPart_Int\2" (SCM_CH47J_US_SWPart_4_7_2014.2912)
+  "Attached hyperlink "Merge@3960@\CH47J_US"."
+--04-04T23:02  e730056    make hyperlink "Merge" on version "M:\admin_view\CH47J_US\SW_Partition@@\main\CH47J_US_SWPart_Dev\3\Partition_Files\main\e428345_CH47J_US_SWPart\1\BC_1553.ADS@@\main\CH47J_US_SWPart_Int\2" (SCM_CH47J_US_SWPart_4_7_2014.2912)
+  "Attached hyperlink "Merge@3961@\CH47J_US"."
+--04-04T23:02  e730056    make hyperlink "Merge" on version "M:\admin_view\CH47J_US\SW_Partition@@\main\CH47J_US_SWPart_Dev\3\Partition_Files\main\e428345_CH47J_US_SWPart\1\BC_1553.ADS@@\main\e428345_CH47J_US_SWPart\2"
+  "Attached hyperlink "Merge@3961@\CH47J_US"."
+--04-04T23:02  e730056    create hyperlink "Merge@3961@\CH47J_US"
+--04-04T23:02  e730056    make hyperlink "Merge" on version "M:\admin_view\CH47J_US\SW_Partition@@\main\CH47J_US_SWPart_Dev\2\Mission_Files\main\e428345_CH47J_US_SWPart\1\Common_IO_IF.ads@@\main\e428345_CH47J_US_SWPart\2"
+  "Attached hyperlink "Merge@3960@\CH47J_US"."
+--04-04T23:02  e730056    create hyperlink "Merge@3960@\CH47J_US"
+--04-04T23:02  e730056    make hyperlink "Merge" on version "M:\admin_view\CH47J_US\SW_Partition@@\main\CH47J_US_SWPart_Dev\2\Mission_Files\main\e428345_CH47J_US_SWPart\1\BIT_ENGINE.ADS@@\main\e428345_CH47J_US_SWPart\2"
+  "Attached hyperlink "Merge@3959@\CH47J_US"."
+--04-04T23:02  e730056    create hyperlink "Merge@3959@\CH47J_US"
+--04-04T23:02  e730056    make hyperlink "Change" on version "M:\admin_view\CH47J_US\SW_Partition@@\main\CH47J_US_SWPart_Dev\3\Partition_Files\main\e428345_CH47J_US_SWPart\1\Mission_IO_IF.ads@@\main\CH47J_US_SWPart_Int\2" (SCM_CH47J_US_SWPart_4_7_2014.2912)
+  "Attached hyperlink "Change@1782@\CH47J_US_PVOB"."
+--04-04T23:02  e730056    make hyperlink "Change" on version "M:\admin_view\CH47J_US\SW_Partition@@\main\CH47J_US_SWPart_Dev\3\Partition_Files\main\e428345_CH47J_US_SWPart\1\Mission_IO.ADS@@\main\CH47J_US_SWPart_Int\2" (SCM_CH47J_US_SWPart_4_7_2014.2912)
+  "Attached hyperlink "Change@1781@\CH47J_US_PVOB"."
+--04-04T23:02  e730056    make hyperlink "Change" on version "M:\admin_view\CH47J_US\SW_Partition@@\main\CH47J_US_SWPart_Dev\3\Partition_Files\main\e428345_CH47J_US_SWPart\1\Mission_IO.ADB@@\main\CH47J_US_SWPart_Int\2" (SCM_CH47J_US_SWPart_4_7_2014.2912)
+  "Attached hyperlink "Change@1780@\CH47J_US_PVOB"."
+--04-04T23:02  e730056    make hyperlink "Change" on version "M:\admin_view\CH47J_US\SW_Partition@@\main\CH47J_US_SWPart_Dev\3\Partition_Files\main\e428345_CH47J_US_SWPart\1\JAIC.ADB@@\main\CH47J_US_SWPart_Int\2" (SCM_CH47J_US_SWPart_4_7_2014.2912)
+  "Attached hyperlink "Change@1779@\CH47J_US_PVOB"."
+--04-04T23:02  e730056    make hyperlink "Change" on version "M:\admin_view\CH47J_US\SW_Partition@@\main\CH47J_US_SWPart_Dev\3\Partition_Files\main\e428345_CH47J_US_SWPart\1\BC_1553.ADS@@\main\CH47J_US_SWPart_Int\2" (SCM_CH47J_US_SWPart_4_7_2014.2912)
+  "Attached hyperlink "Change@1778@\CH47J_US_PVOB"."
+--04-04T23:02  e730056    make hyperlink "Change" on version "M:\admin_view\CH47J_US\SW_Partition@@\main\CH47J_US_SWPart_Dev\2\Mission_Files\main\e428345_CH47J_US_SWPart\1\Common_IO_IF.ads@@\main\CH47J_US_SWPart_Int\2" (SCM_CH47J_US_SWPart_4_7_2014.2912)
+  "Attached hyperlink "Change@1777@\CH47J_US_PVOB"."
+--04-04T23:02  e730056    make hyperlink "Change" on version "M:\admin_view\CH47J_US\SW_Partition@@\main\CH47J_US_SWPart_Dev\2\Mission_Files\main\e428345_CH47J_US_SWPart\1\BIT_ENGINE.ADS@@\main\CH47J_US_SWPart_Int\2" (SCM_CH47J_US_SWPart_4_7_2014.2912)
+  "Attached hyperlink "Change@1776@\CH47J_US_PVOB"."
+--04-04T22:41  clearcase_nm75 export sync from replica "CH47J_US_FL51" to replica "CH47J_US_DCW"
+  "Exported synchronization information for replica "CH47J_US_DCW".
+   Row at export was: CH47J_US_PR08=3452 CH47J_US_AZ18.deleted=1 CH47J_US_FL51=2496 CH47J_US_DCW=0"
+--04-04T22:40  e730056    change master to "CH47J_US_PR08" of file element "M:\admin_view\CH47J_US\SW_Partition@@\main\CH47J_US_SWPart_Dev\2\Mission_Files\main\e428345_CH47J_US_SWPart\1\BIT_ENGINE.ADS@@"
+  "Changed master replica from "CH47J_US_FL51" to "CH47J_US_PR08"."
+--04-04T22:31  clearcase_nm75 export sync from replica "CH47J_US_FL51" to replica "CH47J_US_DCW"
+  "Exported synchronization information for replica "CH47J_US_DCW".
+   Row at export was: CH47J_US_PR08=3452 CH47J_US_AZ18.deleted=1 CH47J_US_FL51=2482 CH47J_US_DCW=0"

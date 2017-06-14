@@ -1,0 +1,9 @@
+REM @echo off
+set /p view="Enter view name: "
+set /p path="Enter view path: "
+echo view
+echo path
+REM cd %RATIONAL_HOME%\ClearCase\etc\utils
+REM cleartool lsview %view% > c:\temp\lsview.txt
+REM fix_prot -replace <<view path location>>
+REM cleartool lsview -prop -full %view%

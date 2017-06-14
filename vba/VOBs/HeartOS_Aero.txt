@@ -1,0 +1,121 @@
+--06-30T10:45  clearcase_nm75 protect directory element "M:\admin_view\HeartOS_Aero\.@@"
+  "CHMOD 775"
+--06-26T15:08  clearcase_nm75 import sync from replica "HeartOS_Aero_IE1F" to replica "HeartOS_Aero_FL51"
+  "Imported synchronization information from replica "HeartOS_Aero_IE1F".
+   Row at import was: HeartOS_Aero_AZ10=34384 HeartOS_Aero_TUS.deleted=1702 HeartOS_Aero_HTS=87810 HeartOS_Aero_AZ18.deleted=0 HeartOS_Aero_CZ21=185 HeartOS_Aero_WA05=4 HeartOS_Aero_AZ18_new.deleted=5 HeartOS_Aero_IE1F=13 HeartOS_Aero_NJ06.deleted=0 HeartOS_Aero_AZ75=0 HeartOS_Aero_NJ06=2 HeartOS_Aero_new_DCW=0 HeartOS_Aero_FL51=0"
+--06-26T06:00  clearcase_nm75 export sync from replica "HeartOS_Aero_FL51" to replica "HeartOS_Aero_new_DCW"
+  "Exported synchronization information for replica "HeartOS_Aero_new_DCW".
+   Row at export was: HeartOS_Aero_TUS.deleted=1702 HeartOS_Aero_AZ75=0 HeartOS_Aero_HTS=87804 HeartOS_Aero_AZ10=34384 HeartOS_Aero_NJ06=2 HeartOS_Aero_IE1F=13 HeartOS_Aero_NJ06.deleted=0 HeartOS_Aero_FL51=0 HeartOS_Aero_new_DCW=0 HeartOS_Aero_AZ18_new.deleted=5 HeartOS_Aero_WA05=4 HeartOS_Aero_CZ21=185 HeartOS_Aero_AZ18.deleted=0"
+--06-26T04:52  clearcase_nm75 import sync from replica "HeartOS_Aero_AZ75" to replica "HeartOS_Aero_FL51"
+  "Imported synchronization information from replica "HeartOS_Aero_AZ75".
+   Row at import was: HeartOS_Aero_AZ10=34384 HeartOS_Aero_TUS.deleted=1702 HeartOS_Aero_HTS=87810 HeartOS_Aero_AZ18.deleted=0 HeartOS_Aero_CZ21=185 HeartOS_Aero_WA05=4 HeartOS_Aero_AZ18_new.deleted=5 HeartOS_Aero_IE1F=13 HeartOS_Aero_NJ06.deleted=0 HeartOS_Aero_AZ75=0 HeartOS_Aero_NJ06=2 HeartOS_Aero_new_DCW=0 HeartOS_Aero_FL51=0"
+--06-26T03:46  clearcase_nm75 import sync from replica "HeartOS_Aero_new_DCW" to replica "HeartOS_Aero_FL51"
+  "Imported synchronization information from replica "HeartOS_Aero_new_DCW".
+   Row at import was: HeartOS_Aero_AZ10=34384 HeartOS_Aero_TUS.deleted=1702 HeartOS_Aero_HTS=87810 HeartOS_Aero_AZ18.deleted=0 HeartOS_Aero_CZ21=185 HeartOS_Aero_WA05=4 HeartOS_Aero_AZ18_new.deleted=5 HeartOS_Aero_IE1F=13 HeartOS_Aero_NJ06.deleted=0 HeartOS_Aero_AZ75=0 HeartOS_Aero_NJ06=2 HeartOS_Aero_new_DCW=0 HeartOS_Aero_FL51=0"
+--06-26T03:41  clearcase_nm75 import sync from replica "HeartOS_Aero_AZ10" to replica "HeartOS_Aero_FL51"
+  "Imported synchronization information from replica "HeartOS_Aero_AZ10".
+   Row at import was: HeartOS_Aero_AZ10=34384 HeartOS_Aero_TUS.deleted=1702 HeartOS_Aero_HTS=87808 HeartOS_Aero_AZ18.deleted=0 HeartOS_Aero_CZ21=185 HeartOS_Aero_WA05=4 HeartOS_Aero_AZ18_new.deleted=5 HeartOS_Aero_IE1F=13 HeartOS_Aero_NJ06.deleted=0 HeartOS_Aero_AZ75=0 HeartOS_Aero_NJ06=2 HeartOS_Aero_new_DCW=0 HeartOS_Aero_FL51=0"
+--06-26T03:36  clearcase_nm75 import sync from replica "HeartOS_Aero_new_DCW" to replica "HeartOS_Aero_FL51"
+  "Imported synchronization information from replica "HeartOS_Aero_new_DCW".
+   Row at import was: HeartOS_Aero_AZ10=34384 HeartOS_Aero_TUS.deleted=1702 HeartOS_Aero_HTS=87808 HeartOS_Aero_AZ18.deleted=0 HeartOS_Aero_CZ21=185 HeartOS_Aero_WA05=4 HeartOS_Aero_AZ18_new.deleted=5 HeartOS_Aero_IE1F=13 HeartOS_Aero_NJ06.deleted=0 HeartOS_Aero_AZ75=0 HeartOS_Aero_NJ06=2 HeartOS_Aero_new_DCW=0 HeartOS_Aero_FL51=0"
+--06-26T03:31  clearcase_nm75 import sync from replica "HeartOS_Aero_AZ10" to replica "HeartOS_Aero_FL51"
+  "Imported synchronization information from replica "HeartOS_Aero_AZ10".
+   Row at import was: HeartOS_Aero_AZ10=34384 HeartOS_Aero_TUS.deleted=1702 HeartOS_Aero_HTS=87807 HeartOS_Aero_AZ18.deleted=0 HeartOS_Aero_CZ21=185 HeartOS_Aero_WA05=4 HeartOS_Aero_AZ18_new.deleted=5 HeartOS_Aero_IE1F=13 HeartOS_Aero_NJ06.deleted=0 HeartOS_Aero_AZ75=0 HeartOS_Aero_NJ06=2 HeartOS_Aero_new_DCW=0 HeartOS_Aero_FL51=0"
+--06-26T03:28  E815222    checkout version "M:\admin_view\HeartOS_Aero\Kernel\Test\config\SI\kernel_Initialisation\HST_KERNEL_INIT_SI\pmk_config.h" from \main\2 (unreserved)
+--06-26T03:23  E815222    checkout version "M:\admin_view\HeartOS_Aero\Kernel\Test\Batchfiles\path_SI.mak" from \main\12 (unreserved)
+--06-26T03:18  E815222    checkout version "M:\admin_view\HeartOS_Aero\Kernel\Test\Test_Procedures\SI\kernel_Initialisation\HST_KERNEL_INIT_SI\Makefile.g" from \main\2 (unreserved)
+--06-26T03:16  clearcase_nm75 import sync from replica "HeartOS_Aero_new_DCW" to replica "HeartOS_Aero_FL51"
+  "Imported synchronization information from replica "HeartOS_Aero_new_DCW".
+   Row at import was: HeartOS_Aero_AZ10=34384 HeartOS_Aero_TUS.deleted=1702 HeartOS_Aero_HTS=87807 HeartOS_Aero_AZ18.deleted=0 HeartOS_Aero_CZ21=185 HeartOS_Aero_WA05=4 HeartOS_Aero_AZ18_new.deleted=5 HeartOS_Aero_IE1F=13 HeartOS_Aero_NJ06.deleted=0 HeartOS_Aero_AZ75=0 HeartOS_Aero_NJ06=2 HeartOS_Aero_new_DCW=0 HeartOS_Aero_FL51=0"
+--06-26T03:15  clearcase_nm75 import sync from replica "HeartOS_Aero_AZ75" to replica "HeartOS_Aero_FL51"
+  "Imported synchronization information from replica "HeartOS_Aero_AZ75".
+   Row at import was: HeartOS_Aero_AZ10=34384 HeartOS_Aero_TUS.deleted=1702 HeartOS_Aero_HTS=87807 HeartOS_Aero_AZ18.deleted=0 HeartOS_Aero_CZ21=185 HeartOS_Aero_WA05=4 HeartOS_Aero_AZ18_new.deleted=5 HeartOS_Aero_IE1F=13 HeartOS_Aero_NJ06.deleted=0 HeartOS_Aero_AZ75=0 HeartOS_Aero_NJ06=2 HeartOS_Aero_new_DCW=0 HeartOS_Aero_FL51=0"
+--06-26T03:11  clearcase_nm75 import sync from replica "HeartOS_Aero_AZ10" to replica "HeartOS_Aero_FL51"
+  "Imported synchronization information from replica "HeartOS_Aero_AZ10".
+   Row at import was: HeartOS_Aero_AZ10=34384 HeartOS_Aero_TUS.deleted=1702 HeartOS_Aero_HTS=87805 HeartOS_Aero_AZ18.deleted=0 HeartOS_Aero_CZ21=185 HeartOS_Aero_WA05=4 HeartOS_Aero_AZ18_new.deleted=5 HeartOS_Aero_IE1F=13 HeartOS_Aero_NJ06.deleted=0 HeartOS_Aero_AZ75=0 HeartOS_Aero_NJ06=2 HeartOS_Aero_new_DCW=0 HeartOS_Aero_FL51=0"
+--06-26T03:01  E815222    checkout version "M:\admin_view\HeartOS_Aero\Kernel\Test\Batchfiles\Build.mak" from \main\10 (unreserved)
+--06-26T02:56  E815222    checkout version "M:\admin_view\HeartOS_Aero\Kernel\Test\Batchfiles\Modified_Build_SI.mak" from \main\16 (unreserved)
+--06-26T02:56  clearcase_nm75 import sync from replica "HeartOS_Aero_new_DCW" to replica "HeartOS_Aero_FL51"
+  "Imported synchronization information from replica "HeartOS_Aero_new_DCW".
+   Row at import was: HeartOS_Aero_AZ10=34384 HeartOS_Aero_TUS.deleted=1702 HeartOS_Aero_HTS=87805 HeartOS_Aero_AZ18.deleted=0 HeartOS_Aero_CZ21=185 HeartOS_Aero_WA05=4 HeartOS_Aero_AZ18_new.deleted=5 HeartOS_Aero_IE1F=13 HeartOS_Aero_NJ06.deleted=0 HeartOS_Aero_AZ75=0 HeartOS_Aero_NJ06=2 HeartOS_Aero_new_DCW=0 HeartOS_Aero_FL51=0"
+--06-26T02:51  clearcase_nm75 import sync from replica "HeartOS_Aero_AZ10" to replica "HeartOS_Aero_FL51"
+  "Imported synchronization information from replica "HeartOS_Aero_AZ10".
+   Row at import was: HeartOS_Aero_AZ10=34384 HeartOS_Aero_TUS.deleted=1702 HeartOS_Aero_HTS=87804 HeartOS_Aero_AZ18.deleted=0 HeartOS_Aero_CZ21=185 HeartOS_Aero_WA05=4 HeartOS_Aero_AZ18_new.deleted=5 HeartOS_Aero_IE1F=13 HeartOS_Aero_NJ06.deleted=0 HeartOS_Aero_AZ75=0 HeartOS_Aero_NJ06=2 HeartOS_Aero_new_DCW=0 HeartOS_Aero_FL51=0"
+--06-26T02:40  E815222    checkout version "M:\admin_view\HeartOS_Aero\Kernel\Test\Batchfiles\SI_Make.mak" from \main\15 (unreserved)
+--06-25T18:32  clearcase_nm75 import sync from replica "HeartOS_Aero_AZ75" to replica "HeartOS_Aero_FL51"
+  "Imported synchronization information from replica "HeartOS_Aero_AZ75".
+   Row at import was: HeartOS_Aero_AZ10=34384 HeartOS_Aero_TUS.deleted=1702 HeartOS_Aero_HTS=87804 HeartOS_Aero_AZ18.deleted=0 HeartOS_Aero_CZ21=185 HeartOS_Aero_WA05=4 HeartOS_Aero_AZ18_new.deleted=5 HeartOS_Aero_IE1F=13 HeartOS_Aero_NJ06.deleted=0 HeartOS_Aero_AZ75=0 HeartOS_Aero_NJ06=2 HeartOS_Aero_new_DCW=0 HeartOS_Aero_FL51=0"
+--06-25T18:26  clearcase_nm75 import sync from replica "HeartOS_Aero_new_DCW" to replica "HeartOS_Aero_FL51"
+  "Imported synchronization information from replica "HeartOS_Aero_new_DCW".
+   Row at import was: HeartOS_Aero_AZ10=34384 HeartOS_Aero_TUS.deleted=1702 HeartOS_Aero_HTS=87804 HeartOS_Aero_AZ18.deleted=0 HeartOS_Aero_CZ21=185 HeartOS_Aero_WA05=4 HeartOS_Aero_AZ18_new.deleted=5 HeartOS_Aero_IE1F=13 HeartOS_Aero_NJ06.deleted=0 HeartOS_Aero_AZ75=0 HeartOS_Aero_NJ06=2 HeartOS_Aero_new_DCW=0 HeartOS_Aero_FL51=0"
+--06-25T18:22  clearcase_nm75 export sync from replica "HeartOS_Aero_FL51" to replica "HeartOS_Aero_new_DCW"
+  "Exported synchronization information for replica "HeartOS_Aero_new_DCW".
+   Row at export was: HeartOS_Aero_TUS.deleted=1702 HeartOS_Aero_AZ75=0 HeartOS_Aero_HTS=87754 HeartOS_Aero_AZ10=34384 HeartOS_Aero_NJ06=2 HeartOS_Aero_IE1F=13 HeartOS_Aero_NJ06.deleted=0 HeartOS_Aero_FL51=0 HeartOS_Aero_new_DCW=0 HeartOS_Aero_AZ18_new.deleted=5 HeartOS_Aero_WA05=4 HeartOS_Aero_CZ21=185 HeartOS_Aero_AZ18.deleted=0"
+--06-25T18:21  clearcase_nm75 import sync from replica "HeartOS_Aero_AZ10" to replica "HeartOS_Aero_FL51"
+  "Imported synchronization information from replica "HeartOS_Aero_AZ10".
+   Row at import was: HeartOS_Aero_AZ10=34384 HeartOS_Aero_TUS.deleted=1702 HeartOS_Aero_HTS=87754 HeartOS_Aero_AZ18.deleted=0 HeartOS_Aero_CZ21=185 HeartOS_Aero_WA05=4 HeartOS_Aero_AZ18_new.deleted=5 HeartOS_Aero_IE1F=13 HeartOS_Aero_NJ06.deleted=0 HeartOS_Aero_AZ75=0 HeartOS_Aero_NJ06=2 HeartOS_Aero_new_DCW=0 HeartOS_Aero_FL51=0"
+--06-25T18:08  e317395    create directory version "M:\admin_view\HeartOS_Aero\SDF\LifeCycleData\BSP_HAL\MPC567X\WCET@@\main\5"
+  "Initial Draft
+    
+   Added directory element "CustomWcet"."
+--06-25T18:08  e317395    create directory version "M:\admin_view\HeartOS_Aero\SDF\LifeCycleData\BSP_HAL\MPC567X\WCET\CustomWcet@@\main\2"
+  "Initial Draft
+   Added directory element "code".
+   Added directory element "Source"."
+--06-25T18:08  e317395    create directory version "M:\admin_view\HeartOS_Aero\SDF\LifeCycleData\BSP_HAL\MPC567X\WCET\CustomWcet\Source@@\main\2"
+  "Initial Draft
+   Added directory element "eTPUMicrocodeImage".
+   Added directory element "Executives"."
+--06-25T18:07  e317395    create directory version "M:\admin_view\HeartOS_Aero\SDF\LifeCycleData\BSP_HAL\MPC567X\WCET\CustomWcet\Source\Executives@@\main\2"
+  "Initial Draft
+   Added directory element "code"."
+--06-25T18:07  e317395    create directory version "M:\admin_view\HeartOS_Aero\SDF\LifeCycleData\BSP_HAL\MPC567X\WCET\CustomWcet\Source\Executives\code@@\main\2"
+  "Initial Draft
+   Added file element "main.cpp".
+   Added file element "MPC567X_System.cpp".
+   Added file element "E200z7MachineCheckExceptionHandler.h".
+   Added file element "ExceptionsHandler.cpp".
+   Added file element "main.h".
+   Added file element "ExceptionsHandler.h".
+   Added file element "ExecutiveTasks.h".
+   Added file element "crt0.s".
+   Added file element "MPC567X_System.h".
+   Added file element "memorymap.h".
+   Added file element "make.inc".
+   Added file element "ExecutiveTasks.cpp"."
+--06-25T18:07  e317395    add name to directory version "M:\admin_view\HeartOS_Aero\SDF\LifeCycleData\BSP_HAL\MPC567X\WCET\CustomWcet\Source\Executives\code@@\main\2"
+  "Initial Draft"
+--06-25T18:07  e317395    create version "M:\admin_view\HeartOS_Aero\SDF\LifeCycleData\BSP_HAL\MPC567X\WCET\CustomWcet\Source\Executives\code\ExecutiveTasks.cpp@@\main\1"
+  "Initial Draft"
+--06-25T18:07  e317395    create version "M:\admin_view\HeartOS_Aero\SDF\LifeCycleData\BSP_HAL\MPC567X\WCET\CustomWcet\Source\Executives\code\ExecutiveTasks.cpp@@\main\0"
+--06-25T18:07  e317395    create branch "M:\admin_view\HeartOS_Aero\SDF\LifeCycleData\BSP_HAL\MPC567X\WCET\CustomWcet\Source\Executives\code\ExecutiveTasks.cpp@@\main"
+--06-25T18:07  e317395    create file element "M:\admin_view\HeartOS_Aero\SDF\LifeCycleData\BSP_HAL\MPC567X\WCET\CustomWcet\Source\Executives\code\ExecutiveTasks.cpp@@"
+  "Initial Draft"
+--06-25T18:07  e317395    add name to directory version "M:\admin_view\HeartOS_Aero\SDF\LifeCycleData\BSP_HAL\MPC567X\WCET\CustomWcet\Source\Executives\code@@\main\2"
+  "Initial Draft"
+--06-25T18:07  e317395    create version "M:\admin_view\HeartOS_Aero\SDF\LifeCycleData\BSP_HAL\MPC567X\WCET\CustomWcet\Source\Executives\code\make.inc@@\main\1"
+  "Initial Draft"
+--06-25T18:07  e317395    create version "M:\admin_view\HeartOS_Aero\SDF\LifeCycleData\BSP_HAL\MPC567X\WCET\CustomWcet\Source\Executives\code\make.inc@@\main\0"
+--06-25T18:07  e317395    create branch "M:\admin_view\HeartOS_Aero\SDF\LifeCycleData\BSP_HAL\MPC567X\WCET\CustomWcet\Source\Executives\code\make.inc@@\main"
+--06-25T18:07  e317395    create file element "M:\admin_view\HeartOS_Aero\SDF\LifeCycleData\BSP_HAL\MPC567X\WCET\CustomWcet\Source\Executives\code\make.inc@@"
+  "Initial Draft"
+--06-25T18:07  e317395    add name to directory version "M:\admin_view\HeartOS_Aero\SDF\LifeCycleData\BSP_HAL\MPC567X\WCET\CustomWcet\Source\Executives\code@@\main\2"
+  "Initial Draft"
+--06-25T18:07  e317395    create version "M:\admin_view\HeartOS_Aero\SDF\LifeCycleData\BSP_HAL\MPC567X\WCET\CustomWcet\Source\Executives\code\memorymap.h@@\main\1"
+  "Initial Draft"
+--06-25T18:07  e317395    create version "M:\admin_view\HeartOS_Aero\SDF\LifeCycleData\BSP_HAL\MPC567X\WCET\CustomWcet\Source\Executives\code\memorymap.h@@\main\0"
+--06-25T18:07  e317395    create branch "M:\admin_view\HeartOS_Aero\SDF\LifeCycleData\BSP_HAL\MPC567X\WCET\CustomWcet\Source\Executives\code\memorymap.h@@\main"
+--06-25T18:07  e317395    create file element "M:\admin_view\HeartOS_Aero\SDF\LifeCycleData\BSP_HAL\MPC567X\WCET\CustomWcet\Source\Executives\code\memorymap.h@@"
+  "Initial Draft"
+--06-25T18:07  e317395    add name to directory version "M:\admin_view\HeartOS_Aero\SDF\LifeCycleData\BSP_HAL\MPC567X\WCET\CustomWcet\Source\Executives\code@@\main\2"
+  "Initial Draft"
+--06-25T18:07  e317395    create version "M:\admin_view\HeartOS_Aero\SDF\LifeCycleData\BSP_HAL\MPC567X\WCET\CustomWcet\Source\Executives\code\MPC567X_System.h@@\main\1"
+  "Initial Draft"
+--06-25T18:07  e317395    create version "M:\admin_view\HeartOS_Aero\SDF\LifeCycleData\BSP_HAL\MPC567X\WCET\CustomWcet\Source\Executives\code\MPC567X_System.h@@\main\0"
+--06-25T18:07  e317395    create branch "M:\admin_view\HeartOS_Aero\SDF\LifeCycleData\BSP_HAL\MPC567X\WCET\CustomWcet\Source\Executives\code\MPC567X_System.h@@\main"
+--06-25T18:07  e317395    create file element "M:\admin_view\HeartOS_Aero\SDF\LifeCycleData\BSP_HAL\MPC567X\WCET\CustomWcet\Source\Executives\code\MPC567X_System.h@@"
+  "Initial Draft"
+--06-25T18:07  e317395    add name to directory version "M:\admin_view\HeartOS_Aero\SDF\LifeCycleData\BSP_HAL\MPC567X\WCET\CustomWcet\Source\Executives\code@@\main\2"
+  "Initial Draft"
+--06-25T18:07  e317395    create version "M:\admin_view\HeartOS_Aero\SDF\LifeCycleData\BSP_HAL\MPC567X\WCET\CustomWcet\Source\Executives\code\crt0.s@@\main\1"
+  "Initial Draft"

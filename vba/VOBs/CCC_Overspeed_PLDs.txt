@@ -1,0 +1,99 @@
+--06-30T10:43  clearcase_nm75 protect directory element "M:\admin_view\CCC_Overspeed_PLDs\.@@"
+  "CHMOD 775"
+--06-19T16:16  clearcase_nm75 protect directory element "M:\admin_view\CCC_Overspeed_PLDs\.@@"
+  "CHMOD 770"
+--06-19T16:16  clearcase_nm75 protect directory element "M:\admin_view\CCC_Overspeed_PLDs\.@@"
+  "CHMOD 775"
+--06-09T16:31  clearcase_nm75 import sync from replica "CCC_Overspeed_PLDs_MN17" to replica "CCC_Overspeed_PLDs_FL51"
+  "Imported synchronization information from replica "CCC_Overspeed_PLDs_MN17".
+   Row at import was: CCC_Overspeed_PLDs_AZ18.deleted=3 CCC_Overspeed_PLDs_AZ10=9219 CCC_Overspeed_PLDs_MN17.deleted=0 CCC_Overspeed_PLDs_MN17=0 CCC_Overspeed_PLDs_DCW=0 CCC_Overspeed_PLDs_FL51=378"
+--06-09T16:31  clearcase_nm75 export sync from replica "CCC_Overspeed_PLDs_FL51" to replica "CCC_Overspeed_PLDs_DCW"
+  "Exported synchronization information for replica "CCC_Overspeed_PLDs_DCW".
+   Row at export was: CCC_Overspeed_PLDs_DCW=0 CCC_Overspeed_PLDs_MN17.deleted=0 CCC_Overspeed_PLDs_AZ10=9218 CCC_Overspeed_PLDs_AZ18.deleted=3 CCC_Overspeed_PLDs_MN17=0 CCC_Overspeed_PLDs_FL51=378"
+--06-09T16:30  clearcase_nm75 import sync from replica "CCC_Overspeed_PLDs_DCW" to replica "CCC_Overspeed_PLDs_FL51"
+  "Imported synchronization information from replica "CCC_Overspeed_PLDs_DCW".
+   Row at import was: CCC_Overspeed_PLDs_AZ18.deleted=3 CCC_Overspeed_PLDs_AZ10=9219 CCC_Overspeed_PLDs_MN17.deleted=0 CCC_Overspeed_PLDs_MN17=0 CCC_Overspeed_PLDs_DCW=0 CCC_Overspeed_PLDs_FL51=378"
+--06-09T16:30  clearcase_nm75 import sync from replica "CCC_Overspeed_PLDs_AZ10" to replica "CCC_Overspeed_PLDs_FL51"
+  "Imported synchronization information from replica "CCC_Overspeed_PLDs_AZ10".
+   Row at import was: CCC_Overspeed_PLDs_AZ18.deleted=3 CCC_Overspeed_PLDs_AZ10=9218 CCC_Overspeed_PLDs_MN17.deleted=0 CCC_Overspeed_PLDs_MN17=0 CCC_Overspeed_PLDs_DCW=0 CCC_Overspeed_PLDs_FL51=378"
+--06-09T16:22  e371166    create version "M:\admin_view\CCC_Overspeed_PLDs\HDF\LifeCycleData\Releases\Hardware Configuration Index Document\4270052-1101\Repository\CCC_HCID_1101.docx@@\main\4"
+  "Review 39184
+   Restore Aerospace template link for Word Add-Ins tab macro usage"
+--06-09T16:21  clearcase_nm75 import sync from replica "CCC_Overspeed_PLDs_MN17" to replica "CCC_Overspeed_PLDs_FL51"
+  "Imported synchronization information from replica "CCC_Overspeed_PLDs_MN17".
+   Row at import was: CCC_Overspeed_PLDs_AZ18.deleted=3 CCC_Overspeed_PLDs_AZ10=9218 CCC_Overspeed_PLDs_MN17.deleted=0 CCC_Overspeed_PLDs_MN17=0 CCC_Overspeed_PLDs_DCW=0 CCC_Overspeed_PLDs_FL51=378"
+--06-09T16:21  clearcase_nm75 export sync from replica "CCC_Overspeed_PLDs_FL51" to replica "CCC_Overspeed_PLDs_DCW"
+  "Exported synchronization information for replica "CCC_Overspeed_PLDs_DCW".
+   Row at export was: CCC_Overspeed_PLDs_DCW=0 CCC_Overspeed_PLDs_MN17.deleted=0 CCC_Overspeed_PLDs_AZ10=9217 CCC_Overspeed_PLDs_AZ18.deleted=3 CCC_Overspeed_PLDs_MN17=0 CCC_Overspeed_PLDs_FL51=378"
+--06-09T16:20  clearcase_nm75 import sync from replica "CCC_Overspeed_PLDs_DCW" to replica "CCC_Overspeed_PLDs_FL51"
+  "Imported synchronization information from replica "CCC_Overspeed_PLDs_DCW".
+   Row at import was: CCC_Overspeed_PLDs_AZ18.deleted=3 CCC_Overspeed_PLDs_AZ10=9218 CCC_Overspeed_PLDs_MN17.deleted=0 CCC_Overspeed_PLDs_MN17=0 CCC_Overspeed_PLDs_DCW=0 CCC_Overspeed_PLDs_FL51=378"
+--06-09T16:20  clearcase_nm75 import sync from replica "CCC_Overspeed_PLDs_AZ10" to replica "CCC_Overspeed_PLDs_FL51"
+  "Imported synchronization information from replica "CCC_Overspeed_PLDs_AZ10".
+   Row at import was: CCC_Overspeed_PLDs_AZ18.deleted=3 CCC_Overspeed_PLDs_AZ10=9217 CCC_Overspeed_PLDs_MN17.deleted=0 CCC_Overspeed_PLDs_MN17=0 CCC_Overspeed_PLDs_DCW=0 CCC_Overspeed_PLDs_FL51=378"
+--06-06T15:50  clearcase_nm75 import sync from replica "CCC_Overspeed_PLDs_DCW" to replica "CCC_Overspeed_PLDs_FL51"
+  "Imported synchronization information from replica "CCC_Overspeed_PLDs_DCW".
+   Row at import was: CCC_Overspeed_PLDs_AZ18.deleted=3 CCC_Overspeed_PLDs_AZ10=9217 CCC_Overspeed_PLDs_MN17.deleted=0 CCC_Overspeed_PLDs_MN17=0 CCC_Overspeed_PLDs_DCW=0 CCC_Overspeed_PLDs_FL51=378"
+--06-06T15:41  clearcase_nm75 import sync from replica "CCC_Overspeed_PLDs_MN17" to replica "CCC_Overspeed_PLDs_FL51"
+  "Imported synchronization information from replica "CCC_Overspeed_PLDs_MN17".
+   Row at import was: CCC_Overspeed_PLDs_AZ18.deleted=3 CCC_Overspeed_PLDs_AZ10=9217 CCC_Overspeed_PLDs_MN17.deleted=0 CCC_Overspeed_PLDs_MN17=0 CCC_Overspeed_PLDs_DCW=0 CCC_Overspeed_PLDs_FL51=378"
+--06-06T15:41  clearcase_nm75 export sync from replica "CCC_Overspeed_PLDs_FL51" to replica "CCC_Overspeed_PLDs_DCW"
+  "Exported synchronization information for replica "CCC_Overspeed_PLDs_DCW".
+   Row at export was: CCC_Overspeed_PLDs_DCW=0 CCC_Overspeed_PLDs_MN17.deleted=0 CCC_Overspeed_PLDs_AZ10=9194 CCC_Overspeed_PLDs_AZ18.deleted=3 CCC_Overspeed_PLDs_MN17=0 CCC_Overspeed_PLDs_FL51=378"
+--06-06T15:40  clearcase_nm75 import sync from replica "CCC_Overspeed_PLDs_AZ10" to replica "CCC_Overspeed_PLDs_FL51"
+  "Imported synchronization information from replica "CCC_Overspeed_PLDs_AZ10".
+   Row at import was: CCC_Overspeed_PLDs_AZ18.deleted=3 CCC_Overspeed_PLDs_AZ10=9194 CCC_Overspeed_PLDs_MN17.deleted=0 CCC_Overspeed_PLDs_MN17=0 CCC_Overspeed_PLDs_DCW=0 CCC_Overspeed_PLDs_FL51=378"
+--06-06T15:38  e011861    create version "M:\admin_view\CCC_Overspeed_PLDs\HDF\LifeCycleData\Releases\Hardware Configuration Index Document\4270052-1101\Repository\CCC_HCID_1101.docx@@\main\3"
+  "Final version from review 39184"
+--06-06T15:35  e011861    create directory version "M:\admin_view\CCC_Overspeed_PLDs\HDF\LifeCycleData\Releases\Hardware Configuration Index Document\4270052-1101\Review_39184@@\main\3"
+  "Added file element "Kirby.pdf".
+   Added file element "Lopez.txt".
+   Added file element "Naabe.txt".
+   Added file element "Neja.pdf".
+   Added file element "Pereira.pdf"."
+--06-06T15:35  e011861    add name to directory version "M:\admin_view\CCC_Overspeed_PLDs\HDF\LifeCycleData\Releases\Hardware Configuration Index Document\4270052-1101\Review_39184@@\main\3"
+--06-06T15:35  e011861    create version "M:\admin_view\CCC_Overspeed_PLDs\HDF\LifeCycleData\Releases\Hardware Configuration Index Document\4270052-1101\Review_39184\Pereira.pdf@@\main\1"
+--06-06T15:35  e011861    create version "M:\admin_view\CCC_Overspeed_PLDs\HDF\LifeCycleData\Releases\Hardware Configuration Index Document\4270052-1101\Review_39184\Pereira.pdf@@\main\0"
+--06-06T15:35  e011861    create branch "M:\admin_view\CCC_Overspeed_PLDs\HDF\LifeCycleData\Releases\Hardware Configuration Index Document\4270052-1101\Review_39184\Pereira.pdf@@\main"
+--06-06T15:35  e011861    create file element "M:\admin_view\CCC_Overspeed_PLDs\HDF\LifeCycleData\Releases\Hardware Configuration Index Document\4270052-1101\Review_39184\Pereira.pdf@@"
+--06-06T15:35  e011861    add name to directory version "M:\admin_view\CCC_Overspeed_PLDs\HDF\LifeCycleData\Releases\Hardware Configuration Index Document\4270052-1101\Review_39184@@\main\3"
+--06-06T15:35  e011861    create version "M:\admin_view\CCC_Overspeed_PLDs\HDF\LifeCycleData\Releases\Hardware Configuration Index Document\4270052-1101\Review_39184\Neja.pdf@@\main\1"
+--06-06T15:35  e011861    create version "M:\admin_view\CCC_Overspeed_PLDs\HDF\LifeCycleData\Releases\Hardware Configuration Index Document\4270052-1101\Review_39184\Neja.pdf@@\main\0"
+--06-06T15:35  e011861    create branch "M:\admin_view\CCC_Overspeed_PLDs\HDF\LifeCycleData\Releases\Hardware Configuration Index Document\4270052-1101\Review_39184\Neja.pdf@@\main"
+--06-06T15:35  e011861    create file element "M:\admin_view\CCC_Overspeed_PLDs\HDF\LifeCycleData\Releases\Hardware Configuration Index Document\4270052-1101\Review_39184\Neja.pdf@@"
+--06-06T15:35  e011861    add name to directory version "M:\admin_view\CCC_Overspeed_PLDs\HDF\LifeCycleData\Releases\Hardware Configuration Index Document\4270052-1101\Review_39184@@\main\3"
+--06-06T15:35  e011861    create version "M:\admin_view\CCC_Overspeed_PLDs\HDF\LifeCycleData\Releases\Hardware Configuration Index Document\4270052-1101\Review_39184\Naabe.txt@@\main\1"
+--06-06T15:35  e011861    create version "M:\admin_view\CCC_Overspeed_PLDs\HDF\LifeCycleData\Releases\Hardware Configuration Index Document\4270052-1101\Review_39184\Naabe.txt@@\main\0"
+--06-06T15:35  e011861    create branch "M:\admin_view\CCC_Overspeed_PLDs\HDF\LifeCycleData\Releases\Hardware Configuration Index Document\4270052-1101\Review_39184\Naabe.txt@@\main"
+--06-06T15:35  e011861    create file element "M:\admin_view\CCC_Overspeed_PLDs\HDF\LifeCycleData\Releases\Hardware Configuration Index Document\4270052-1101\Review_39184\Naabe.txt@@"
+--06-06T15:35  e011861    add name to directory version "M:\admin_view\CCC_Overspeed_PLDs\HDF\LifeCycleData\Releases\Hardware Configuration Index Document\4270052-1101\Review_39184@@\main\3"
+--06-06T15:35  e011861    create version "M:\admin_view\CCC_Overspeed_PLDs\HDF\LifeCycleData\Releases\Hardware Configuration Index Document\4270052-1101\Review_39184\Lopez.txt@@\main\1"
+--06-06T15:35  e011861    create version "M:\admin_view\CCC_Overspeed_PLDs\HDF\LifeCycleData\Releases\Hardware Configuration Index Document\4270052-1101\Review_39184\Lopez.txt@@\main\0"
+--06-06T15:35  e011861    create branch "M:\admin_view\CCC_Overspeed_PLDs\HDF\LifeCycleData\Releases\Hardware Configuration Index Document\4270052-1101\Review_39184\Lopez.txt@@\main"
+--06-06T15:35  e011861    create file element "M:\admin_view\CCC_Overspeed_PLDs\HDF\LifeCycleData\Releases\Hardware Configuration Index Document\4270052-1101\Review_39184\Lopez.txt@@"
+--06-06T15:35  e011861    add name to directory version "M:\admin_view\CCC_Overspeed_PLDs\HDF\LifeCycleData\Releases\Hardware Configuration Index Document\4270052-1101\Review_39184@@\main\3"
+--06-06T15:35  e011861    create version "M:\admin_view\CCC_Overspeed_PLDs\HDF\LifeCycleData\Releases\Hardware Configuration Index Document\4270052-1101\Review_39184\Kirby.pdf@@\main\1"
+--06-06T15:35  e011861    create version "M:\admin_view\CCC_Overspeed_PLDs\HDF\LifeCycleData\Releases\Hardware Configuration Index Document\4270052-1101\Review_39184\Kirby.pdf@@\main\0"
+--06-06T15:35  e011861    create branch "M:\admin_view\CCC_Overspeed_PLDs\HDF\LifeCycleData\Releases\Hardware Configuration Index Document\4270052-1101\Review_39184\Kirby.pdf@@\main"
+--06-06T15:35  e011861    create file element "M:\admin_view\CCC_Overspeed_PLDs\HDF\LifeCycleData\Releases\Hardware Configuration Index Document\4270052-1101\Review_39184\Kirby.pdf@@"
+--06-06T12:31  clearcase_nm75 export sync from replica "CCC_Overspeed_PLDs_FL51" to replica "CCC_Overspeed_PLDs_DCW"
+  "Exported synchronization information for replica "CCC_Overspeed_PLDs_DCW".
+   Row at export was: CCC_Overspeed_PLDs_DCW=0 CCC_Overspeed_PLDs_MN17.deleted=0 CCC_Overspeed_PLDs_AZ10=9193 CCC_Overspeed_PLDs_AZ18.deleted=3 CCC_Overspeed_PLDs_MN17=0 CCC_Overspeed_PLDs_FL51=378"
+--06-06T12:30  clearcase_nm75 import sync from replica "CCC_Overspeed_PLDs_MN17" to replica "CCC_Overspeed_PLDs_FL51"
+  "Imported synchronization information from replica "CCC_Overspeed_PLDs_MN17".
+   Row at import was: CCC_Overspeed_PLDs_AZ18.deleted=3 CCC_Overspeed_PLDs_AZ10=9194 CCC_Overspeed_PLDs_MN17.deleted=0 CCC_Overspeed_PLDs_MN17=0 CCC_Overspeed_PLDs_DCW=0 CCC_Overspeed_PLDs_FL51=378"
+--06-06T12:30  clearcase_nm75 import sync from replica "CCC_Overspeed_PLDs_DCW" to replica "CCC_Overspeed_PLDs_FL51"
+  "Imported synchronization information from replica "CCC_Overspeed_PLDs_DCW".
+   Row at import was: CCC_Overspeed_PLDs_AZ18.deleted=3 CCC_Overspeed_PLDs_AZ10=9194 CCC_Overspeed_PLDs_MN17.deleted=0 CCC_Overspeed_PLDs_MN17=0 CCC_Overspeed_PLDs_DCW=0 CCC_Overspeed_PLDs_FL51=378"
+--06-06T12:21  clearcase_nm75 import sync from replica "CCC_Overspeed_PLDs_AZ10" to replica "CCC_Overspeed_PLDs_FL51"
+  "Imported synchronization information from replica "CCC_Overspeed_PLDs_AZ10".
+   Row at import was: CCC_Overspeed_PLDs_AZ18.deleted=3 CCC_Overspeed_PLDs_AZ10=9193 CCC_Overspeed_PLDs_MN17.deleted=0 CCC_Overspeed_PLDs_MN17=0 CCC_Overspeed_PLDs_DCW=0 CCC_Overspeed_PLDs_FL51=378"
+--06-06T09:01  clearcase_nm75 export sync from replica "CCC_Overspeed_PLDs_FL51" to replica "CCC_Overspeed_PLDs_DCW"
+  "Exported synchronization information for replica "CCC_Overspeed_PLDs_DCW".
+   Row at export was: CCC_Overspeed_PLDs_DCW=0 CCC_Overspeed_PLDs_MN17.deleted=0 CCC_Overspeed_PLDs_AZ10=9186 CCC_Overspeed_PLDs_AZ18.deleted=3 CCC_Overspeed_PLDs_MN17=0 CCC_Overspeed_PLDs_FL51=378"
+--06-03T11:20  clearcase_nm75 import sync from replica "CCC_Overspeed_PLDs_MN17" to replica "CCC_Overspeed_PLDs_FL51"
+  "Imported synchronization information from replica "CCC_Overspeed_PLDs_MN17".
+   Row at import was: CCC_Overspeed_PLDs_AZ18.deleted=3 CCC_Overspeed_PLDs_AZ10=9193 CCC_Overspeed_PLDs_MN17.deleted=0 CCC_Overspeed_PLDs_MN17=0 CCC_Overspeed_PLDs_DCW=0 CCC_Overspeed_PLDs_FL51=378"
+--06-03T11:20  clearcase_nm75 import sync from replica "CCC_Overspeed_PLDs_DCW" to replica "CCC_Overspeed_PLDs_FL51"
+  "Imported synchronization information from replica "CCC_Overspeed_PLDs_DCW".
+   Row at import was: CCC_Overspeed_PLDs_AZ18.deleted=3 CCC_Overspeed_PLDs_AZ10=9193 CCC_Overspeed_PLDs_MN17.deleted=0 CCC_Overspeed_PLDs_MN17=0 CCC_Overspeed_PLDs_DCW=0 CCC_Overspeed_PLDs_FL51=378"

@@ -1,0 +1,120 @@
+--06-30T10:43  clearcase_nm75 protect directory element "M:\admin_view\GNCOE_WI\.@@"
+  "CHMOD 775"
+--06-19T16:11  clearcase_nm75 protect directory element "M:\admin_view\GNCOE_WI\.@@"
+  "CHMOD 770"
+--06-19T16:11  clearcase_nm75 protect directory element "M:\admin_view\GNCOE_WI\.@@"
+  "CHMOD 775"
+--06-19T16:11  clearcase_nm75 protect directory element "M:\admin_view\GNCOE_WI\.@@"
+  "CHMOD 770"
+--06-19T16:11  clearcase_nm75 protect directory element "M:\admin_view\GNCOE_WI\.@@"
+  "CHMOD 775"
+--04-29T14:25  clearcase_nm75 import sync from replica "GNCOE_WI_DCW" to replica "GNCOE_WI_FL51"
+  "Imported synchronization information from replica "GNCOE_WI_DCW".
+   Row at import was: GNCOE_WI_MN17=107 GNCOE_WI_AZ18.deleted=2 GNCOE_WI_MN10=0 GNCOE_WI_MN51=0 GNCOE_WI_PR08.deleted=4 GNCOE_WI_DCW=0 GNCOE_WI_FL51=0"
+--04-29T14:23  clearcase_nm75 import sync from replica "GNCOE_WI_MN10" to replica "GNCOE_WI_FL51"
+  "Imported synchronization information from replica "GNCOE_WI_MN10".
+   Row at import was: GNCOE_WI_MN17=107 GNCOE_WI_AZ18.deleted=2 GNCOE_WI_MN10=0 GNCOE_WI_MN51=0 GNCOE_WI_PR08.deleted=4 GNCOE_WI_DCW=0 GNCOE_WI_FL51=0"
+--04-29T14:22  clearcase_nm75 import sync from replica "GNCOE_WI_MN51" to replica "GNCOE_WI_FL51"
+  "Imported synchronization information from replica "GNCOE_WI_MN51".
+   Row at import was: GNCOE_WI_MN17=107 GNCOE_WI_AZ18.deleted=2 GNCOE_WI_MN10=0 GNCOE_WI_MN51=0 GNCOE_WI_PR08.deleted=4 GNCOE_WI_DCW=0 GNCOE_WI_FL51=0"
+--04-29T14:21  clearcase_nm75 export sync from replica "GNCOE_WI_FL51" to replica "GNCOE_WI_DCW"
+  "Exported synchronization information for replica "GNCOE_WI_DCW".
+   Row at export was: GNCOE_WI_MN10=0 GNCOE_WI_AZ18.deleted=2 GNCOE_WI_MN51=0 GNCOE_WI_PR08.deleted=4 GNCOE_WI_FL51=0 GNCOE_WI_DCW=0 GNCOE_WI_MN17=102"
+--04-29T14:15  clearcase_nm75 import sync from replica "GNCOE_WI_DCW" to replica "GNCOE_WI_FL51"
+  "Imported synchronization information from replica "GNCOE_WI_DCW".
+   Row at import was: GNCOE_WI_MN17=107 GNCOE_WI_AZ18.deleted=2 GNCOE_WI_MN10=0 GNCOE_WI_MN51=0 GNCOE_WI_PR08.deleted=4 GNCOE_WI_DCW=0 GNCOE_WI_FL51=0"
+--04-29T14:13  clearcase_nm75 import sync from replica "GNCOE_WI_MN17" to replica "GNCOE_WI_FL51"
+  "Imported synchronization information from replica "GNCOE_WI_MN17".
+   Row at import was: GNCOE_WI_MN17=106 GNCOE_WI_AZ18.deleted=2 GNCOE_WI_MN10=0 GNCOE_WI_MN51=0 GNCOE_WI_PR08.deleted=4 GNCOE_WI_DCW=0 GNCOE_WI_FL51=0"
+--04-29T14:13  e704548    change master to "GNCOE_WI_DCW" of replica "GNCOE_WI_DCW"
+  "Changed master replica from "GNCOE_WI_MN17" to "GNCOE_WI_DCW"."
+--04-29T14:13  clearcase_nm75 import sync from replica "GNCOE_WI_MN17" to replica "GNCOE_WI_FL51"
+  "Imported synchronization information from replica "GNCOE_WI_MN17".
+   Row at import was: GNCOE_WI_MN17=102 GNCOE_WI_AZ18=2 GNCOE_WI_MN10=0 GNCOE_WI_MN51=0 GNCOE_WI_PR08.deleted=4 GNCOE_WI_DCW=0 GNCOE_WI_FL51=0"
+--04-29T14:13  e704548    rename replica "GNCOE_WI_AZ18.deleted"
+  "Changed name of replica from "GNCOE_WI_AZ18" to "GNCOE_WI_AZ18.deleted".
+   Destroyed replica "GNCOE_WI_AZ18"."
+--04-29T14:13  e704548    destroy replica in versioned object base "\GNCOE_WI"
+  "Destroyed replica "GNCOE_WI_AZ18"."
+--04-29T14:13  e704548    change master to "GNCOE_WI_MN17" of replica "GNCOE_WI_DCW"
+  "Changed master replica from "GNCOE_WI_AZ18" to "GNCOE_WI_MN17"."
+--04-29T14:13  e704548    change master to "GNCOE_WI_MN17" of replica "GNCOE_WI_PR08.deleted"
+  "Changed master replica from "GNCOE_WI_AZ18" to "GNCOE_WI_MN17"."
+--04-29T14:13  e704548    change master to "GNCOE_WI_MN17" of replica "GNCOE_WI_AZ18.deleted"
+  "Changed master replica from "GNCOE_WI_AZ18" to "GNCOE_WI_MN17"."
+--03-21T12:04  clearcase_nm75 export sync from replica "GNCOE_WI_FL51" to replica "GNCOE_WI_DCW"
+  "Exported synchronization information for replica "GNCOE_WI_DCW".
+   Row at export was: GNCOE_WI_MN10=0 GNCOE_WI_AZ18=1 GNCOE_WI_MN51=0 GNCOE_WI_PR08.deleted=4 GNCOE_WI_FL51=0 GNCOE_WI_DCW=0 GNCOE_WI_MN17=102"
+--02-13T13:50  clearcase_nm75 import sync from replica "GNCOE_WI_MN10" to replica "GNCOE_WI_FL51"
+  "Imported synchronization information from replica "GNCOE_WI_MN10".
+   Row at import was: GNCOE_WI_MN17=102 GNCOE_WI_AZ18=2 GNCOE_WI_MN10=0 GNCOE_WI_MN51=0 GNCOE_WI_PR08.deleted=4 GNCOE_WI_DCW=0 GNCOE_WI_FL51=0"
+--02-12T16:30  clearcase_nm75 import sync from replica "GNCOE_WI_MN17" to replica "GNCOE_WI_FL51"
+  "Imported synchronization information from replica "GNCOE_WI_MN17".
+   Row at import was: GNCOE_WI_MN17=102 GNCOE_WI_AZ18=2 GNCOE_WI_MN10=0 GNCOE_WI_MN51=0 GNCOE_WI_PR08.deleted=4 GNCOE_WI_DCW=0 GNCOE_WI_FL51=0"
+--02-12T15:11  clearcase_nm75 import sync from replica "GNCOE_WI_MN51" to replica "GNCOE_WI_FL51"
+  "Imported synchronization information from replica "GNCOE_WI_MN51".
+   Row at import was: GNCOE_WI_MN17=102 GNCOE_WI_AZ18=2 GNCOE_WI_MN10=0 GNCOE_WI_MN51=0 GNCOE_WI_PR08.deleted=4 GNCOE_WI_DCW=0 GNCOE_WI_FL51=0"
+--07-19T17:00  clearcase_nm75 import sync from replica "GNCOE_WI_DCW" to replica "GNCOE_WI_FL51"
+  "Imported synchronization information from replica "GNCOE_WI_DCW".
+   Row at import was: GNCOE_WI_MN17=102 GNCOE_WI_AZ18=2 GNCOE_WI_MN10=0 GNCOE_WI_MN51=0 GNCOE_WI_PR08.deleted=4 GNCOE_WI_DCW=0 GNCOE_WI_FL51=0"
+--07-19T15:30  clearcase_nm75 import sync from replica "GNCOE_WI_AZ18.deleted" to replica "GNCOE_WI_FL51"
+  "Imported synchronization information from replica "GNCOE_WI_AZ18".
+   Row at import was: GNCOE_WI_MN17=102 GNCOE_WI_AZ18=1 GNCOE_WI_MN10=0 GNCOE_WI_MN51=0 GNCOE_WI_PR08.deleted=4 GNCOE_WI_FL51=0"
+--07-19T15:11  root       create replica "GNCOE_WI_DCW"
+2013-06-11     clearcase_nm75 import sync from replica "GNCOE_WI_AZ18.deleted" to replica "GNCOE_WI_FL51"
+  "Imported synchronization information from replica "GNCOE_WI_AZ18".
+   Row at import was: GNCOE_WI_MN17=102 GNCOE_WI_AZ18=0 GNCOE_WI_MN10=0 GNCOE_WI_MN51=0 GNCOE_WI_PR08=3 GNCOE_WI_FL51=0"
+2013-06-11     root       rename replica "GNCOE_WI_PR08.deleted"
+  "Changed name of replica from "GNCOE_WI_PR08" to "GNCOE_WI_PR08.deleted".
+   Destroyed replica "GNCOE_WI_PR08"."
+2013-06-11     root       destroy replica in versioned object base "\GNCOE_WI"
+  "Destroyed replica "GNCOE_WI_PR08"."
+2013-06-11     e721877    change master to "GNCOE_WI_AZ18.deleted" of replica "GNCOE_WI_PR08.deleted"
+  "Changed master replica from "GNCOE_WI_PR08" to "GNCOE_WI_AZ18"."
+2013-04-12     clearcase_nm75 import sync from replica "GNCOE_WI_AZ18.deleted" to replica "GNCOE_WI_FL51"
+  "Imported synchronization information from replica "GNCOE_WI_AZ18".
+   Row at import was: GNCOE_WI_MN17=102 GNCOE_WI_AZ18=0 GNCOE_WI_MN10=0 GNCOE_WI_MN51=0 GNCOE_WI_PR08=2 GNCOE_WI_FL51=0"
+2013-04-12     sv-das_cc_albd import sync to replica "GNCOE_WI_PR08.deleted"
+  "Changed information associated with replica."
+2013-04-12     clearcase_nm75 import sync from replica "GNCOE_WI_AZ18.deleted" to replica "GNCOE_WI_FL51"
+  "Imported synchronization information from replica "GNCOE_WI_AZ18".
+   Row at import was: GNCOE_WI_MN17=102 GNCOE_WI_AZ18=0 GNCOE_WI_MN10=0 GNCOE_WI_MN51=0 GNCOE_WI_PR08=1 GNCOE_WI_FL51=0"
+2013-04-12     clearcase_nm75 import sync from replica "GNCOE_WI_AZ18.deleted" to replica "GNCOE_WI_FL51"
+  "Imported synchronization information from replica "GNCOE_WI_AZ18".
+   Row at import was: GNCOE_WI_MN17=102 GNCOE_WI_AZ18=0 GNCOE_WI_MN10=0 GNCOE_WI_MN51=0 GNCOE_WI_PR08=0 GNCOE_WI_FL51=0"
+2013-04-12     sv-das_cc_albd import sync to replica "GNCOE_WI_PR08.deleted"
+  "Changed information associated with replica."
+2013-04-12     sv-das_cc_albd import sync to replica "GNCOE_WI_PR08.deleted"
+  "Changed information associated with replica."
+2012-02-15     clearcase_nm75 import sync from replica "GNCOE_WI_AZ18.deleted" to replica "GNCOE_WI_FL51"
+  "Imported synchronization information from replica "GNCOE_WI_AZ18".
+   Row at import was: GNCOE_WI_MN17=100 GNCOE_WI_AZ18=0 GNCOE_WI_MN10=0 GNCOE_WI_MN51=0 GNCOE_WI_PR08=0 GNCOE_WI_FL51=0"
+2012-02-15     clearcase_nm75 import sync from replica "GNCOE_WI_AZ18.deleted" to replica "GNCOE_WI_FL51"
+  "Imported synchronization information from replica "GNCOE_WI_AZ18".
+   Row at import was: GNCOE_WI_MN17=98 GNCOE_WI_AZ18=0 GNCOE_WI_MN10=0 GNCOE_WI_MN51=0 GNCOE_WI_PR08=0 GNCOE_WI_FL51=0"
+2011-01-20     clearcase_nm75 import sync from replica "GNCOE_WI_AZ18.deleted" to replica "GNCOE_WI_FL51"
+  "Imported synchronization information from replica "GNCOE_WI_AZ18".
+   Row at import was: GNCOE_WI_MN17=97 GNCOE_WI_AZ18=0 GNCOE_WI_MN10=0 GNCOE_WI_MN51=0 GNCOE_WI_PR08=0 GNCOE_WI_FL51=0"
+2011-01-20     e730056    create version "M:\admin_view\GNCOE_WI\WorkInstructions@@\main\GNCOE_WI_Integration\6\GN_CCRC_Work_Instruction.docx@@\main\GNCOE_WI_Integration\2"
+2011-01-20     clearcase_nm75 import sync from replica "GNCOE_WI_AZ18.deleted" to replica "GNCOE_WI_FL51"
+  "Imported synchronization information from replica "GNCOE_WI_AZ18".
+   Row at import was: GNCOE_WI_MN17=95 GNCOE_WI_AZ18=0 GNCOE_WI_MN10=0 GNCOE_WI_MN51=0 GNCOE_WI_PR08=0 GNCOE_WI_FL51=0"
+2011-01-20     clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\GNCOE_WI\WorkInstructions@@\main\GNCOE_WI_Integration\6\GN_CCRC_Work_Instruction.docx@@\main\GNCOE_WI_Integration\2"
+2011-01-20     clearcase_nm75 import sync from replica "GNCOE_WI_AZ18.deleted" to replica "GNCOE_WI_FL51"
+  "Imported synchronization information from replica "GNCOE_WI_AZ18".
+   Row at import was: GNCOE_WI_MN17=94 GNCOE_WI_AZ18=0 GNCOE_WI_MN10=0 GNCOE_WI_MN51=0 GNCOE_WI_PR08=0 GNCOE_WI_FL51=0"
+2011-01-20     e702445    change master to "GNCOE_WI_PR08.deleted" of replica "GNCOE_WI_PR08.deleted"
+  "Changed master replica from "GNCOE_WI_MN17" to "GNCOE_WI_PR08"."
+2011-01-20     clearcase_nm75 import sync from replica "GNCOE_WI_AZ18.deleted" to replica "GNCOE_WI_FL51"
+  "Imported synchronization information from replica "GNCOE_WI_AZ18".
+   Row at import was: GNCOE_WI_MN17=89 GNCOE_WI_AZ18=0 GNCOE_WI_FL51=0"
+2011-01-20     e702445    create replica "GNCOE_WI_PR08.deleted"
+2011-01-20     e702445    change master to "GNCOE_WI_MN51" of replica "GNCOE_WI_MN51"
+  "Changed master replica from "GNCOE_WI_MN17" to "GNCOE_WI_MN51"."
+2011-01-20     e702445    create replica "GNCOE_WI_MN51"
+2011-01-20     e702445    change master to "GNCOE_WI_MN10" of replica "GNCOE_WI_MN10"
+  "Changed master replica from "GNCOE_WI_MN17" to "GNCOE_WI_MN10"."
+2011-01-20     e702445    create replica "GNCOE_WI_MN10"
+2010-12-16     clearcase_nm75 import sync from replica "GNCOE_WI_AZ18.deleted" to replica "GNCOE_WI_FL51"
+  "Imported synchronization information from replica "GNCOE_WI_AZ18".
+   Row at import was: GNCOE_WI_MN17=81 GNCOE_WI_AZ18=0 GNCOE_WI_FL51=0"

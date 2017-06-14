@@ -1,0 +1,115 @@
+--06-30T10:43  clearcase_nm75 protect directory element "M:\admin_view\JLISS_GLOBAL\.@@"
+  "CHMOD 775"
+--06-19T16:13  clearcase_nm75 protect directory element "M:\admin_view\JLISS_GLOBAL\.@@"
+  "CHMOD 770"
+--06-19T16:13  clearcase_nm75 protect directory element "M:\admin_view\JLISS_GLOBAL\.@@"
+  "CHMOD 775"
+--05-01T13:16  clearcase_nm75 import sync from replica "JLISS_GLOBAL_DCW" to replica "JLISS_GLOBAL_FL51"
+  "Imported synchronization information from replica "JLISS_GLOBAL_DCW".
+   Row at import was: JLISS_GLOBAL_MN51=10340 JLISS_GLOBAL_AZ18.deleted=2 JLISS_GLOBAL_FL51.deleted=0 JLISS_GLOBAL_MN17=5 JLISS_GLOBAL_MN10=0 JLISS_GLOBAL_FL51.deleted.1=0 JLISS_GLOBAL_CZ09=3649 JLISS_GLOBAL_DCW=0 JLISS_GLOBAL_FL51=8"
+--05-01T13:10  clearcase_nm75 export sync from replica "JLISS_GLOBAL_FL51" to replica "JLISS_GLOBAL_DCW"
+  "Exported synchronization information for replica "JLISS_GLOBAL_DCW".
+   Row at export was: JLISS_GLOBAL_FL51.deleted.1=0 JLISS_GLOBAL_CZ09=3649 JLISS_GLOBAL_MN51=10340 JLISS_GLOBAL_FL51=8 JLISS_GLOBAL_MN10=0 JLISS_GLOBAL_AZ18.deleted=2 JLISS_GLOBAL_MN17=0 JLISS_GLOBAL_FL51.deleted=0 JLISS_GLOBAL_DCW=0"
+--05-01T13:05  clearcase_nm75 import sync from replica "JLISS_GLOBAL_DCW" to replica "JLISS_GLOBAL_FL51"
+  "Imported synchronization information from replica "JLISS_GLOBAL_DCW".
+   Row at import was: JLISS_GLOBAL_MN51=10340 JLISS_GLOBAL_AZ18.deleted=2 JLISS_GLOBAL_FL51.deleted=0 JLISS_GLOBAL_MN17=5 JLISS_GLOBAL_MN10=0 JLISS_GLOBAL_FL51.deleted.1=0 JLISS_GLOBAL_CZ09=3649 JLISS_GLOBAL_DCW=0 JLISS_GLOBAL_FL51=8"
+--05-01T13:04  clearcase_nm75 import sync from replica "JLISS_GLOBAL_MN17" to replica "JLISS_GLOBAL_FL51"
+  "Imported synchronization information from replica "JLISS_GLOBAL_MN17".
+   Row at import was: JLISS_GLOBAL_MN51=10340 JLISS_GLOBAL_AZ18.deleted=2 JLISS_GLOBAL_FL51.deleted=0 JLISS_GLOBAL_MN17=4 JLISS_GLOBAL_MN10=0 JLISS_GLOBAL_FL51.deleted.1=0 JLISS_GLOBAL_CZ09=3649 JLISS_GLOBAL_DCW=0 JLISS_GLOBAL_FL51=8"
+--05-01T13:04  e704548    change master to "JLISS_GLOBAL_DCW" of replica "JLISS_GLOBAL_DCW"
+  "Changed master replica from "JLISS_GLOBAL_MN17" to "JLISS_GLOBAL_DCW"."
+--05-01T13:03  clearcase_nm75 import sync from replica "JLISS_GLOBAL_MN17" to replica "JLISS_GLOBAL_FL51"
+  "Imported synchronization information from replica "JLISS_GLOBAL_MN17".
+   Row at import was: JLISS_GLOBAL_MN51=10340 JLISS_GLOBAL_AZ18=2 JLISS_GLOBAL_FL51.deleted=0 JLISS_GLOBAL_MN17=0 JLISS_GLOBAL_MN10=0 JLISS_GLOBAL_FL51.deleted.1=0 JLISS_GLOBAL_CZ09=3649 JLISS_GLOBAL_DCW=0 JLISS_GLOBAL_FL51=8"
+--05-01T12:58  e704548    rename replica "JLISS_GLOBAL_AZ18.deleted"
+  "Changed name of replica from "JLISS_GLOBAL_AZ18" to "JLISS_GLOBAL_AZ18.deleted".
+   Destroyed replica "JLISS_GLOBAL_AZ18"."
+--05-01T12:58  e704548    destroy replica in versioned object base "\JLISS_GLOBAL"
+  "Destroyed replica "JLISS_GLOBAL_AZ18"."
+--05-01T12:58  e704548    change master to "JLISS_GLOBAL_MN17" of replica "JLISS_GLOBAL_DCW"
+  "Changed master replica from "JLISS_GLOBAL_AZ18" to "JLISS_GLOBAL_MN17"."
+--05-01T12:58  e704548    change master to "JLISS_GLOBAL_MN17" of replica "JLISS_GLOBAL_CZ09"
+  "Changed master replica from "JLISS_GLOBAL_AZ18" to "JLISS_GLOBAL_MN17"."
+--05-01T12:58  e704548    change master to "JLISS_GLOBAL_MN17" of replica "JLISS_GLOBAL_AZ18.deleted"
+  "Changed master replica from "JLISS_GLOBAL_AZ18" to "JLISS_GLOBAL_MN17"."
+--03-25T11:50  clearcase_nm75 export sync from replica "JLISS_GLOBAL_FL51" to replica "JLISS_GLOBAL_DCW"
+  "Exported synchronization information for replica "JLISS_GLOBAL_DCW".
+   Row at export was: JLISS_GLOBAL_FL51.deleted.1=0 JLISS_GLOBAL_CZ09=3649 JLISS_GLOBAL_MN51=10340 JLISS_GLOBAL_FL51=8 JLISS_GLOBAL_MN10=0 JLISS_GLOBAL_AZ18=1 JLISS_GLOBAL_MN17=0 JLISS_GLOBAL_FL51.deleted=0 JLISS_GLOBAL_DCW=0"
+--12-18T06:23  clearcase_nm75 import sync from replica "JLISS_GLOBAL_CZ09" to replica "JLISS_GLOBAL_FL51"
+  "Imported synchronization information from replica "JLISS_GLOBAL_CZ09".
+   Row at import was: JLISS_GLOBAL_MN51=10340 JLISS_GLOBAL_AZ18=2 JLISS_GLOBAL_FL51.deleted=0 JLISS_GLOBAL_MN17=0 JLISS_GLOBAL_MN10=0 JLISS_GLOBAL_FL51.deleted.1=0 JLISS_GLOBAL_CZ09=3649 JLISS_GLOBAL_DCW=0 JLISS_GLOBAL_FL51=8"
+2013-06-19     clearcase_nm75 import sync from replica "JLISS_GLOBAL_DCW" to replica "JLISS_GLOBAL_FL51"
+  "Imported synchronization information from replica "JLISS_GLOBAL_DCW".
+   Row at import was: JLISS_GLOBAL_MN51=10340 JLISS_GLOBAL_AZ18=2 JLISS_GLOBAL_FL51.deleted=0 JLISS_GLOBAL_MN17=0 JLISS_GLOBAL_MN10=0 JLISS_GLOBAL_FL51.deleted.1=0 JLISS_GLOBAL_CZ09=3649 JLISS_GLOBAL_DCW=0 JLISS_GLOBAL_FL51=8"
+2013-06-14     clearcase_nm75 import sync from replica "JLISS_GLOBAL_AZ18.deleted" to replica "JLISS_GLOBAL_FL51"
+  "Imported synchronization information from replica "JLISS_GLOBAL_AZ18".
+   Row at import was: JLISS_GLOBAL_MN51=10340 JLISS_GLOBAL_AZ18=1 JLISS_GLOBAL_FL51.deleted=0 JLISS_GLOBAL_MN17=0 JLISS_GLOBAL_MN10=0 JLISS_GLOBAL_FL51.deleted.1=0 JLISS_GLOBAL_CZ09=3649 JLISS_GLOBAL_FL51=8"
+2013-06-14     root       create replica "JLISS_GLOBAL_DCW"
+2013-06-10     e564406    destroy type in versioned object base "\JLISS_GLOBAL"
+  "Destroyed trigger type "ChangeBrtypeOwner"."
+2013-06-10     e564406    lock trigger type "NO_RMTYPE" (locked)
+  "Locked except for users: e702445 e704548 e721877 e730056 e041467 e721598 e564406"
+2013-06-10     e564406    modify trigger type "NO_RMTYPE" (locked)
+  "Changed definition of type."
+2013-06-10     e564406    unlock trigger type "NO_RMTYPE" (locked)
+2013-06-10     e564406    lock trigger type "CHOWN" (locked)
+  "Locked except for users: e702445"
+2013-06-10     e564406    modify trigger type "CHOWN" (locked)
+  "Changed definition of type."
+2013-06-10     e564406    unlock trigger type "CHOWN" (locked)
+2013-06-10     e564406    lock trigger type "NO_RMTYPE" (locked)
+  "Locked except for users: e702445 e704548 e721877 e730056 e041467 e721598"
+2013-06-03     e564406    lock trigger type "NO_MKTRIGGER" (locked)
+  "Locked for all users."
+2013-06-03     e564406    modify trigger type "NO_MKTRIGGER" (locked)
+  "Changed definition of type.
+   Disallow creation of new triggers"
+2013-06-03     e564406    modify trigger type "NO_RMTYPE" (locked)
+  "Changed definition of type.
+   Disallow removal of types"
+2013-06-03     e564406    create trigger type "NO_RMTYPE" (locked)
+  "Disallow removal of types"
+2013-06-03     e564406    modify trigger type "NO_MKTRIGGER" (locked)
+  "Changed definition of type.
+   Disallow creation of new triggers"
+2013-06-03     e564406    unlock trigger type "NO_MKTRIGGER" (locked)
+2013-06-03     e564406    destroy type in versioned object base "\JLISS_GLOBAL"
+  "Destroyed trigger type "NO_RMTRIGGER"."
+2011-02-03     clearcase_nm75 import sync from replica "JLISS_GLOBAL_AZ18.deleted" to replica "JLISS_GLOBAL_FL51"
+  "Imported synchronization information from replica "JLISS_GLOBAL_AZ18".
+   Row at import was: JLISS_GLOBAL_MN51=10340 JLISS_GLOBAL_AZ18=1 JLISS_GLOBAL_FL51.deleted=0 JLISS_GLOBAL_MN17=0 JLISS_GLOBAL_MN10=0 JLISS_GLOBAL_FL51.deleted.1=0 JLISS_GLOBAL_CZ09=2245 JLISS_GLOBAL_FL51=8"
+2010-11-18     clearcase_nm75 import sync from replica "JLISS_GLOBAL_AZ18.deleted" to replica "JLISS_GLOBAL_FL51"
+  "Imported synchronization information from replica "JLISS_GLOBAL_AZ18".
+   Row at import was: JLISS_GLOBAL_MN51=10340 JLISS_GLOBAL_AZ18=1 JLISS_GLOBAL_FL51.deleted=0 JLISS_GLOBAL_MN17=0 JLISS_GLOBAL_MN10=0 JLISS_GLOBAL_FL51.deleted.1=0 JLISS_GLOBAL_CZ09=2242 JLISS_GLOBAL_FL51=8"
+2010-11-18     clearcase_nm75 import sync from replica "JLISS_GLOBAL_AZ18.deleted" to replica "JLISS_GLOBAL_FL51"
+  "Imported synchronization information from replica "JLISS_GLOBAL_AZ18".
+   Row at import was: JLISS_GLOBAL_MN51=10340 JLISS_GLOBAL_AZ18=1 JLISS_GLOBAL_FL51.deleted=0 JLISS_GLOBAL_MN17=0 JLISS_GLOBAL_MN10=0 JLISS_GLOBAL_FL51.deleted.1=0 JLISS_GLOBAL_CZ09=2239 JLISS_GLOBAL_FL51=8"
+2010-11-18     E516072    destroy sub-branch "e516072_JLISS_GLOBAL_dev" of branch "M:\admin_view\JLISS_GLOBAL\shell@@\main\CM_MN51_JLISS_GLOBAL\2\event.c@@\main\JLISS_GLOBAL_Integration"
+  "Destroyed branch "\main\JLISS_GLOBAL_Integration\e516072_JLISS_GLOBAL_dev"."
+2010-11-16     clearcase_nm75 import sync from replica "JLISS_GLOBAL_AZ18.deleted" to replica "JLISS_GLOBAL_FL51"
+  "Imported synchronization information from replica "JLISS_GLOBAL_AZ18".
+   Row at import was: JLISS_GLOBAL_MN51=10340 JLISS_GLOBAL_AZ18=1 JLISS_GLOBAL_FL51.deleted=0 JLISS_GLOBAL_MN17=0 JLISS_GLOBAL_MN10=0 JLISS_GLOBAL_FL51.deleted.1=0 JLISS_GLOBAL_CZ09=2225 JLISS_GLOBAL_FL51=8"
+2010-11-16     E516072    destroy sub-branch "e516072_JLISS_GLOBAL_dev" of branch "M:\admin_view\JLISS_GLOBAL\shell@@\main\CM_MN51_JLISS_GLOBAL\2\event.c@@\main\JLISS_GLOBAL_Integration"
+  "Destroyed branch "\main\JLISS_GLOBAL_Integration\e516072_JLISS_GLOBAL_dev"."
+2010-11-16     E516072    destroy sub-branch "e516072_JLISS_GLOBAL_dev" of branch "M:\admin_view\JLISS_GLOBAL\shell@@\main\CM_MN51_JLISS_GLOBAL\2\compute_el_bin.c@@\main\JLISS_GLOBAL_Integration"
+  "Destroyed branch "\main\JLISS_GLOBAL_Integration\e516072_JLISS_GLOBAL_dev"."
+2010-11-16     E516072    make hyperlink "GlobalDefinition" on branch type "e516072_JLISS_GLOBAL_dev"
+  "Automatically created branch type from global definition in VOB "\JLISS_GLOBAL_PVOB"."
+2010-11-16     E516072    create hyperlink "GlobalDefinition@10050@\JLISS_GLOBAL"
+  "Automatically created branch type from global definition in VOB "\JLISS_GLOBAL_PVOB"."
+2010-11-16     E516072    create branch type "e516072_JLISS_GLOBAL_dev"
+  "Automatically created branch type from global definition in VOB "\JLISS_GLOBAL_PVOB"."
+2010-11-16     clearcase_nm75 import sync from replica "JLISS_GLOBAL_AZ18.deleted" to replica "JLISS_GLOBAL_FL51"
+  "Imported synchronization information from replica "JLISS_GLOBAL_AZ18".
+   Row at import was: JLISS_GLOBAL_MN51=10340 JLISS_GLOBAL_AZ18=1 JLISS_GLOBAL_FL51.deleted=0 JLISS_GLOBAL_MN17=0 JLISS_GLOBAL_MN10=0 JLISS_GLOBAL_FL51.deleted.1=0 JLISS_GLOBAL_CZ09=2221 JLISS_GLOBAL_FL51=8"
+2010-11-16     CZ09-VobAdm destroy type in versioned object base "\JLISS_GLOBAL"
+  "Destroyed branch type "e516072_JLISS_GLOBAL_dev"."
+2010-11-16     CZ09-VobAdm destroy hyperlink "GlobalDefinition" in versioned object base "\JLISS_GLOBAL"
+  "Destroyed hyperlink "GlobalDefinition@10039@\JLISS_GLOBAL"."
+2010-11-16     CZ09-VobAdm destroy type in versioned object base "\JLISS_GLOBAL"
+  "Destroyed branch type "e516072_JLISS_GLOBAL"."
+2010-11-16     CZ09-VobAdm destroy hyperlink "GlobalDefinition" in versioned object base "\JLISS_GLOBAL"
+  "Destroyed hyperlink "GlobalDefinition@10034@\JLISS_GLOBAL"."
+2010-11-12     clearcase_nm75 import sync from replica "JLISS_GLOBAL_AZ18.deleted" to replica "JLISS_GLOBAL_FL51"
+  "Imported synchronization information from replica "JLISS_GLOBAL_AZ18".
+   Row at import was: JLISS_GLOBAL_MN51=10340 JLISS_GLOBAL_AZ18=1 JLISS_GLOBAL_FL51.deleted=0 JLISS_GLOBAL_MN17=0 JLISS_GLOBAL_MN10=0 JLISS_GLOBAL_FL51.deleted.1=0 JLISS_GLOBAL_CZ09=2209 JLISS_GLOBAL_FL51=8"

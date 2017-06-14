@@ -1,0 +1,134 @@
+--06-30T10:46  clearcase_nm75 protect directory element "M:\admin_view\WINGS_RC\.@@"
+  "CHMOD 775"
+--06-19T22:16  clearcase_nm75 protect directory element "M:\admin_view\WINGS_RC\.@@"
+  "CHMOD 770"
+--06-19T22:16  clearcase_nm75 protect directory element "M:\admin_view\WINGS_RC\.@@"
+  "CHMOD 775"
+--05-22T09:38  e730056    make hyperlink "ComponentRootDir" on directory element "M:\admin_view\WINGS_RC\34215802_JSF@@"
+  "Attached hyperlink "ComponentRootDir@9152@\WINGS_RC_PVOB".
+   Link component "34215802_JSF" with its root directory element"
+--05-22T09:38  e730056    create directory version "M:\admin_view\WINGS_RC\34215802_JSF@@\main\0"
+--05-22T09:38  e730056    create branch "M:\admin_view\WINGS_RC\34215802_JSF@@\main"
+--05-22T09:38  e730056    add name to directory version "M:\admin_view\WINGS_RC\.@@\main\0"
+  "Added directory element "34215802_JSF".
+   Create component "34215802_JSF" root directory in VOB root"
+--05-22T09:38  e730056    create directory element "M:\admin_view\WINGS_RC\34215802_JSF@@"
+  "Create component "34215802_JSF" root directory in VOB root"
+--05-22T09:36  e730056    make hyperlink "ComponentRootDir" on directory element "M:\admin_view\WINGS_RC\JSF_34215802@@"
+  "Attached hyperlink "ComponentRootDir@9149@\WINGS_RC_PVOB".
+   Link component "JSF_34215802" with its root directory element"
+--05-22T09:36  e730056    create directory version "M:\admin_view\WINGS_RC\JSF_34215802@@\main\0"
+--05-22T09:36  e730056    create branch "M:\admin_view\WINGS_RC\JSF_34215802@@\main"
+--05-22T09:36  e730056    add name to directory version "M:\admin_view\WINGS_RC\.@@\main\0"
+  "Added directory element "JSF_34215802".
+   Create component "JSF_34215802" root directory in VOB root"
+--05-22T09:36  e730056    create directory element "M:\admin_view\WINGS_RC\JSF_34215802@@"
+  "Create component "JSF_34215802" root directory in VOB root"
+--04-25T09:43  e730056    make hyperlink "ComponentRootDir" on directory element "M:\admin_view\WINGS_RC\34215800 (WINGS Library Development)@@"
+  "Attached hyperlink "ComponentRootDir@9146@\WINGS_RC_PVOB".
+   Link component "WINGS_Lib_Development" with its root directory element"
+--04-25T09:43  e730056    create directory version "M:\admin_view\WINGS_RC\34215800 (WINGS Library Development)@@\main\0"
+--04-25T09:43  e730056    create branch "M:\admin_view\WINGS_RC\34215800 (WINGS Library Development)@@\main"
+--04-25T09:43  e730056    add name to directory version "M:\admin_view\WINGS_RC\.@@\main\0"
+  "Added directory element "34215800 (WINGS Library Development)".
+   Create component "WINGS_Lib_Development" root directory in VOB root"
+--04-25T09:43  e730056    create directory element "M:\admin_view\WINGS_RC\34215800 (WINGS Library Development)@@"
+  "Create component "WINGS_Lib_Development" root directory in VOB root"
+--04-25T09:09  e730056    make hyperlink "BaselineLbtype" on label type "WINGS_draft_4_25_2014"
+  "Attached hyperlink "BaselineLbtype@9143@\WINGS_RC_PVOB"."
+--04-25T09:09  e730056    rename label type "WINGS_draft_4_25_2014"
+  "Changed name of label type from "WINGS_draft_4_25_2014_in_progress" to "WINGS_draft_4_25_2014"."
+--04-25T09:09  e730056    make hyperlink "IncrementalLbtype" on label type "Import_WINGS_4_24_2014"
+  "Attached hyperlink "IncrementalLbtype@44641@\WINGS_RC"."
+--04-25T09:09  e730056    make hyperlink "IncrementalLbtype" on label type "WINGS_draft_4_25_2014"
+  "Attached hyperlink "IncrementalLbtype@44641@\WINGS_RC"."
+--04-25T09:09  e730056    create hyperlink "IncrementalLbtype@44641@\WINGS_RC"
+--04-25T09:09  e730056    create label type "WINGS_draft_4_25_2014"
+--04-25T09:09  e730056    make hyperlink "BaselineLbtype" on label type "WINGS_draft_4_25_2014.2602"
+  "Attached hyperlink "BaselineLbtype@9142@\WINGS_RC_PVOB"."
+--04-25T09:09  e730056    rename label type "WINGS_draft_4_25_2014.2602"
+  "Changed name of label type from "WINGS_draft_4_25_2014.2602_in_progress" to "WINGS_draft_4_25_2014.2602"."
+--04-25T09:09  e730056    make hyperlink "IncrementalLbtype" on label type "Import_WINGS_4_24_2014.2316"
+  "Attached hyperlink "IncrementalLbtype@44639@\WINGS_RC"."
+--04-25T09:09  e730056    make hyperlink "IncrementalLbtype" on label type "WINGS_draft_4_25_2014.2602"
+  "Attached hyperlink "IncrementalLbtype@44639@\WINGS_RC"."
+--04-25T09:09  e730056    create hyperlink "IncrementalLbtype@44639@\WINGS_RC"
+--04-25T09:09  e730056    create label type "WINGS_draft_4_25_2014.2602"
+--04-25T09:09  e730056    make hyperlink "BaselineLbtype" on label type "WINGS_draft_4_25_2014.2599"
+  "Attached hyperlink "BaselineLbtype@9141@\WINGS_RC_PVOB"."
+--04-25T09:09  e730056    rename label type "WINGS_draft_4_25_2014.2599"
+  "Changed name of label type from "WINGS_draft_4_25_2014.2599_in_progress" to "WINGS_draft_4_25_2014.2599"."
+--04-25T09:09  e730056    make hyperlink "IncrementalLbtype" on label type "Import_WINGS_4_24_2014.2313"
+  "Attached hyperlink "IncrementalLbtype@44637@\WINGS_RC"."
+--04-25T09:09  e730056    make hyperlink "IncrementalLbtype" on label type "WINGS_draft_4_25_2014.2599"
+  "Attached hyperlink "IncrementalLbtype@44637@\WINGS_RC"."
+--04-25T09:09  e730056    create hyperlink "IncrementalLbtype@44637@\WINGS_RC"
+--04-25T09:09  e730056    create label type "WINGS_draft_4_25_2014.2599"
+--04-25T09:03  e730056    create version "M:\admin_view\WINGS_RC\34215802 (JSF)@@\main\WINGS_Int\1\Working\main\WINGS_Int\1\Docs\main\WINGS_Int\1\Place Holder.txt@@\main\WINGS_draft_Int\2" (WINGS_draft_4_25_2014)
+--04-25T09:03  e730056    make hyperlink "Merge" on version "M:\admin_view\WINGS_RC\34215802 (JSF)@@\main\WINGS_Int\1\Working\main\WINGS_Int\1\Docs\main\WINGS_Int\1\Place Holder.txt@@\main\WINGS_draft_Int\2" (WINGS_draft_4_25_2014)
+  "Attached hyperlink "Merge@44635@\WINGS_RC"."
+--04-25T09:03  e730056    make hyperlink "Change" on version "M:\admin_view\WINGS_RC\34215802 (JSF)@@\main\WINGS_Int\1\Working\main\WINGS_Int\1\Docs\main\WINGS_Int\1\Place Holder.txt@@\main\WINGS_draft_Int\2" (WINGS_draft_4_25_2014)
+  "Attached hyperlink "Change@9136@\WINGS_RC_PVOB"."
+--04-25T09:03  e730056    make hyperlink "Merge" on version "M:\admin_view\WINGS_RC\34215802 (JSF)@@\main\WINGS_Int\1\Working\main\WINGS_Int\1\Docs\main\WINGS_Int\1\Place Holder.txt@@\main\WINGS_Int\e730056_WINGS_draft\1"
+  "Attached hyperlink "Merge@44635@\WINGS_RC"."
+--04-25T09:03  e730056    create hyperlink "Merge@44635@\WINGS_RC"
+--04-25T09:02  e730056    create version "M:\admin_view\WINGS_RC\34215802 (JSF)@@\main\WINGS_Int\1\Working\main\WINGS_Int\1\Docs\main\WINGS_Int\1\Place Holder.txt@@\main\WINGS_Int\e730056_WINGS_draft\1"
+--04-25T09:01  e730056    make hyperlink "Change" on version "M:\admin_view\WINGS_RC\34215802 (JSF)@@\main\WINGS_Int\1\Working\main\WINGS_Int\1\Docs\main\WINGS_Int\1\Place Holder.txt@@\main\WINGS_Int\e730056_WINGS_draft\1"
+  "Attached hyperlink "Change@9130@\WINGS_RC_PVOB"."
+--04-25T09:01  e730056    create version "M:\admin_view\WINGS_RC\34215802 (JSF)@@\main\WINGS_Int\1\Working\main\WINGS_Int\1\Docs\main\WINGS_Int\1\Place Holder.txt@@\main\WINGS_Int\e730056_WINGS_draft\0"
+--04-25T09:01  e730056    create branch "M:\admin_view\WINGS_RC\34215802 (JSF)@@\main\WINGS_Int\1\Working\main\WINGS_Int\1\Docs\main\WINGS_Int\1\Place Holder.txt@@\main\WINGS_Int\e730056_WINGS_draft"
+--04-25T09:01  e730056    make hyperlink "GlobalDefinition" on branch type "e730056_WINGS_draft"
+  "Attached hyperlink "GlobalDefinition@44630@\WINGS_RC".
+   Automatically created branch type from global definition in VOB "\WINGS_RC_PVOB"."
+--04-25T09:01  e730056    create hyperlink "GlobalDefinition@44630@\WINGS_RC"
+  "Automatically created branch type from global definition in VOB "\WINGS_RC_PVOB"."
+--04-25T09:01  e730056    create branch type "e730056_WINGS_draft"
+  "Automatically created branch type from global definition in VOB "\WINGS_RC_PVOB"."
+--04-24T21:44  e730056    create directory version "M:\admin_view\WINGS_RC\34215800 (WINGS_Library)@@\main\WINGS_draft_Int\1" (WINGS_draft_4_25_2014.2602)
+  "Added directory element "Working"."
+--04-24T21:44  e730056    create directory version "M:\admin_view\WINGS_RC\34215800 (WINGS_Library)@@\main\WINGS_Int\1\Working@@\main\WINGS_draft_Int\1" (WINGS_draft_4_25_2014.2602)
+  "Added directory element "ARINC429_Interface".
+   Added directory element "BDSPowerSupply".
+   Added file element "BuildAll.bpg".
+   Added directory element "Config".
+   Added directory element "DIOs_Interface".
+   Added directory element "FastRecordLib".
+   Added file element "HDLC_422_Functions.dll".
+   Added file element "HDLC_422_Interface.dll".
+   Added directory element "Help".
+   Added directory element "Io1394_Interface".
+   Added file element "Io1553Functions.dll".
+   Added directory element "Io1553_Interface".
+   Added file element "Io1553_Interface.dll".
+   Added directory element "LSRecord".
+   Added directory element "Log".
+   Added file element "Max1553MRTDios.dll".
+   Added directory element "NHS_Borland".
+   Added file element "NISE_Server_API.exe".
+   Added directory element "Nhs_Chroma".
+   Added directory element "Nhs_Fastcomm".
+   Added directory element "Nhs_Gpib".
+   Added directory element "Nhs_UsbDio".
+   Added file element "NiDIOs.dll".
+   Added file element "NiSwitchExecComm.dll".
+   Added directory element "Plot".
+   Added directory element "Post".
+   Added directory element "Relays_Interface".
+   Added directory element "Reset_Multi".
+   Added file element "ResourceShare.dll".
+   Added directory element "SDLC_Interface".
+   Added directory element "Source".
+   Added file element "TSCommClient.dll".
+   Added directory element "TSCommDLL".
+   Added directory element "TestStand".
+   Added directory element "VS_Build".
+   Added file element "WINGS.bat".
+   Added file element "WINGSPowerSupply.dll".
+   Added directory element "WINGS_Communication".
+   Added directory element "WINGS_GUI".
+   Added file element "WINGS_GUI.dll".
+   Added file element "WingsPSALHelp.chm".
+   Added file element "WingsSetup.bat".
+   Added directory element "_WINGS_Build_Setup_Package".
+   Added file element "default.ini".
+   Added directory element "rt"."

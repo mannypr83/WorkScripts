@@ -1,0 +1,103 @@
+--06-30T10:43  clearcase_nm75 protect directory element "M:\admin_view\TSPI_US\.@@"
+  "CHMOD 775"
+--06-19T16:21  clearcase_nm75 export sync from replica "TSPI_US_FL51" to replica "TSPI_US_DCW"
+  "Exported synchronization information for replica "TSPI_US_DCW".
+   Row at export was: TSPI_US_FL51=1815 TSPI_US_DCW=0 TSPI_US_AZ18.deleted=1"
+--06-19T16:15  clearcase_nm75 protect directory element "M:\admin_view\TSPI_US\.@@"
+  "CHMOD 770"
+--06-19T16:15  clearcase_nm75 protect directory element "M:\admin_view\TSPI_US\.@@"
+  "CHMOD 775"
+--05-02T14:33  e704548    export sync from replica "TSPI_US_FL51" to replica "TSPI_US_DCW"
+  "Exported synchronization information for replica "TSPI_US_DCW".
+   Row at export was: TSPI_US_FL51=1814 TSPI_US_DCW=0 TSPI_US_AZ18.deleted=1"
+--05-02T14:33  e704548    change master to "TSPI_US_DCW" of replica "TSPI_US_DCW"
+  "Changed master replica from "TSPI_US_FL51" to "TSPI_US_DCW"."
+--05-02T14:33  e704548    export sync from replica "TSPI_US_FL51" to replica "TSPI_US_DCW"
+  "Exported synchronization information for replica "TSPI_US_DCW".
+   Row at export was: TSPI_US_FL51=1811 TSPI_US_DCW=0 TSPI_US_AZ18.deleted=1"
+--05-02T14:32  e704548    rename replica "TSPI_US_AZ18.deleted"
+  "Changed name of replica from "TSPI_US_AZ18" to "TSPI_US_AZ18.deleted"."
+--05-02T14:32  e704548    destroy replica in versioned object base "\TSPI_US"
+  "Destroyed replica "TSPI_US_AZ18"."
+--05-02T14:32  e704548    change master to "TSPI_US_FL51" of replica "TSPI_US_DCW"
+  "Changed master replica from "TSPI_US_AZ18" to "TSPI_US_FL51"."
+--05-02T14:32  e704548    change master to "TSPI_US_FL51" of replica "TSPI_US_AZ18.deleted"
+  "Changed master replica from "TSPI_US_AZ18" to "TSPI_US_FL51"."
+--05-02T14:32  e704548    modify replica "TSPI_US_AZ18.deleted"
+  "Marked replica "TSPI_US_AZ18" for deletion."
+--03-25T12:22  clearcase_nm75 export sync from replica "TSPI_US_FL51" to replica "TSPI_US_DCW"
+  "Exported synchronization information for replica "TSPI_US_DCW".
+   Row at export was: TSPI_US_FL51=1811 TSPI_US_DCW=0 TSPI_US_AZ18=0"
+--09-10T15:08  e711819    lock trigger type "CHECK_AR_STATE" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--09-10T15:08  e711819    protect trigger type "CHECK_AR_STATE" (locked)
+  "CHOWN e711819; CHGRP aero.cc.fl51tspi"
+--09-10T15:08  e711819    create trigger type "CHECK_AR_STATE" (locked)
+  "Prevent checkout of element with AR in a finished state."
+2013-06-19     clearcase_nm75 import sync from replica "TSPI_US_DCW" to replica "TSPI_US_FL51"
+  "Imported synchronization information from replica "TSPI_US_DCW".
+   Row at import was: TSPI_US_AZ18=1 TSPI_US_DCW=0 TSPI_US_FL51=1811"
+2013-06-14     clearcase_nm75 import sync from replica "TSPI_US_AZ18.deleted" to replica "TSPI_US_FL51"
+  "Imported synchronization information from replica "TSPI_US_AZ18".
+   Row at import was: TSPI_US_AZ18=0 TSPI_US_FL51=1811"
+2013-06-14     root       create replica "TSPI_US_DCW"
+2013-06-10     e564406    destroy type in versioned object base "\TSPI_US"
+  "Destroyed trigger type "ChangeBrtypeOwner"."
+2013-06-10     e564406    lock trigger type "NO_RMTYPE" (locked)
+  "Locked except for users: e564406 e730056 e702445 e704548 e721877 e041467 e711819 e721598 e712432"
+2013-06-10     e564406    modify trigger type "NO_RMTYPE" (locked)
+  "Changed definition of type."
+2013-06-10     e564406    unlock trigger type "NO_RMTYPE" (locked)
+2013-06-10     e564406    lock trigger type "CHOWN" (locked)
+  "Locked except for users: e712432"
+2013-06-10     e564406    modify trigger type "CHOWN" (locked)
+  "Changed definition of type."
+2013-06-10     e564406    unlock trigger type "CHOWN" (locked)
+2013-06-10     e564406    lock trigger type "NO_MKTRIGGER" (locked)
+  "Locked except for users: 12"
+2013-06-10     e564406    lock trigger type "NO_RMTYPE" (locked)
+  "Locked except for users: 12"
+2013-06-10     e564406    create trigger type "NO_RMTYPE" (locked)
+  "Disallow removal of types"
+2013-06-10     e564406    modify trigger type "NO_MKTRIGGER" (locked)
+  "Changed definition of type."
+2013-06-10     e564406    unlock trigger type "NO_MKTRIGGER" (locked)
+2013-06-03     e564406    destroy type in versioned object base "\TSPI_US"
+  "Destroyed trigger type "NO_RMTRIGGER"."
+2012-11-13     clearcase_nm75 export sync from replica "TSPI_US_FL51" to replica "TSPI_US_AZ18.deleted"
+  "Exported synchronization information for replica "TSPI_US_AZ18".
+   Row at export was: TSPI_US_FL51=1469 TSPI_US_AZ18=0"
+2012-11-13     e730056    protect directory element "M:\admin_view\TSPI_US\Build_Files@@\main\TSPI_Build_Files_Int\1\CP74201436-001_TSP01R01\main\TSPI_Build_Files_Int\2\Adasim_Build_Files@@"
+  "CHMOD 770; CHOWN e711819; CHGRP aero.cc.FL51tspi"
+2012-11-13     e730056    protect directory element "M:\admin_view\TSPI_US\Build_Files@@\main\TSPI_Build_Files_Int\1\CP74201436-001_TSP01R01\main\TSPI_Build_Files_Int\1\Executable_Files@@"
+  "CHMOD 770; CHOWN e711819; CHGRP aero.cc.FL51tspi"
+2012-11-13     e730056    protect directory element "M:\admin_view\TSPI_US\Build_Files@@\main\TSPI_Build_Files_Int\1\CP74201436-001_TSP01R01@@"
+  "CHMOD 770; CHOWN e711819; CHGRP aero.cc.FL51tspi"
+2012-11-13     e730056    protect directory element "M:\admin_view\TSPI_US\Build_Files@@"
+  "CHMOD 770; CHOWN e711819; CHGRP aero.cc.FL51tspi"
+2012-11-13     e730056    protect directory element "M:\admin_view\TSPI_US\OFP@@\main\e712432_TSPI_US_OFP_Dev\1\Core_Files\main\TSPI_US_OFP_Integration\kgardner_TSPI_US_OFP\1\DOV\main\kgardner_TSPI_US_OFP\2\Inactive@@"
+  "CHMOD 770; CHOWN e711819; CHGRP aero.cc.FL51tspi"
+2012-11-13     e730056    protect directory element "M:\admin_view\TSPI_US\OFP@@\main\e712432_TSPI_US_OFP_Dev\1\Core_Files\main\TSPI_US_OFP_Integration\kgardner_TSPI_US_OFP\1\DOV\main\kgardner_TSPI_US_OFP\2\Active@@"
+  "CHMOD 770; CHOWN e711819; CHGRP aero.cc.FL51tspi"
+2012-11-13     e730056    protect directory element "M:\admin_view\TSPI_US\OFP@@\main\e712432_TSPI_US_OFP_Dev\1\Core_Files\main\TSPI_US_OFP_Integration\kgardner_TSPI_US_OFP\1\DOV@@"
+  "CHMOD 770; CHOWN e711819; CHGRP aero.cc.FL51tspi"
+2012-11-13     e730056    protect directory element "M:\admin_view\TSPI_US\OFP@@\main\e712432_TSPI_US_OFP_Dev\1\Mission_Files\main\TSPI_US_OFP_Integration\kgardner_TSPI_US_OFP\1\Raw_Sensor_Output\main\kgardner_TSPI_US_OFP\2\Inactive@@"
+  "CHMOD 770; CHOWN e711819; CHGRP aero.cc.FL51tspi"
+2012-11-13     e730056    protect directory element "M:\admin_view\TSPI_US\OFP@@\main\e712432_TSPI_US_OFP_Dev\1\Mission_Files\main\TSPI_US_OFP_Integration\kgardner_TSPI_US_OFP\1\Raw_Sensor_Output\main\kgardner_TSPI_US_OFP\2\Active@@"
+  "CHMOD 770; CHOWN e711819; CHGRP aero.cc.FL51tspi"
+2012-11-13     e730056    protect directory element "M:\admin_view\TSPI_US\OFP@@\main\e712432_TSPI_US_OFP_Dev\1\Mission_Files\main\TSPI_US_OFP_Integration\kgardner_TSPI_US_OFP\1\Raw_Sensor_Output@@"
+  "CHMOD 770; CHOWN e711819; CHGRP aero.cc.FL51tspi"
+2012-11-13     e730056    protect directory element "M:\admin_view\TSPI_US\OFP@@\main\e712432_TSPI_US_OFP_Dev\1\Mission_Files\main\e712432_TSPI_US_OFP_Dev\2\ARINC_429\main\e712432_TSPI_US_OFP_Dev\2\Inactive@@"
+  "CHMOD 770; CHOWN e711819; CHGRP aero.cc.FL51tspi"
+2012-11-13     e730056    protect directory element "M:\admin_view\TSPI_US\OFP@@\main\e712432_TSPI_US_OFP_Dev\1\Mission_Files\main\e712432_TSPI_US_OFP_Dev\2\ARINC_429\main\e712432_TSPI_US_OFP_Dev\2\Active@@"
+  "CHMOD 770; CHOWN e711819; CHGRP aero.cc.FL51tspi"
+2012-11-13     e730056    protect directory element "M:\admin_view\TSPI_US\OFP@@\main\e712432_TSPI_US_OFP_Dev\1\Mission_Files\main\e712432_TSPI_US_OFP_Dev\2\ARINC_429@@"
+  "CHMOD 770; CHOWN e711819; CHGRP aero.cc.FL51tspi"
+2012-11-13     e730056    protect directory element "M:\admin_view\TSPI_US\OFP@@\main\e712432_TSPI_US_OFP_Dev\1\Core_Files\main\e712432_TSPI_US_OFP_Dev\2\Throughput\main\e712432_TSPI_US_OFP_Dev\2\Inactive@@"
+  "CHMOD 770; CHOWN e711819; CHGRP aero.cc.FL51tspi"
+2012-11-13     e730056    protect directory element "M:\admin_view\TSPI_US\OFP@@\main\e712432_TSPI_US_OFP_Dev\1\Core_Files\main\e712432_TSPI_US_OFP_Dev\2\Throughput\main\e712432_TSPI_US_OFP_Dev\2\Active@@"
+  "CHMOD 770; CHOWN e711819; CHGRP aero.cc.FL51tspi"
+2012-11-13     e730056    protect directory element "M:\admin_view\TSPI_US\OFP@@\main\e712432_TSPI_US_OFP_Dev\1\Core_Files\main\e712432_TSPI_US_OFP_Dev\2\Target\main\e712432_TSPI_US_OFP_Dev\2\CASP\main\e712432_TSPI_US_OFP_Dev\2\Debug\main\e712432_TSPI_US_OFP_Dev\2\Inactive@@"
+  "CHMOD 770; CHOWN e711819; CHGRP aero.cc.FL51tspi"
+2012-11-13     e730056    protect directory element "M:\admin_view\TSPI_US\OFP@@\main\e712432_TSPI_US_OFP_Dev\1\Core_Files\main\e712432_TSPI_US_OFP_Dev\2\Target\main\e712432_TSPI_US_OFP_Dev\2\CASP\main\e712432_TSPI_US_OFP_Dev\2\Debug\main\e712432_TSPI_US_OFP_Dev\2\Active@@"
+  "CHMOD 770; CHOWN e711819; CHGRP aero.cc.FL51tspi"

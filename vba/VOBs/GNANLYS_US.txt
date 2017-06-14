@@ -1,0 +1,107 @@
+--06-30T10:41  clearcase_nm75 protect directory element "M:\admin_view\GNANLYS_US\.@@"
+  "CHMOD 775"
+--06-30T10:37  clearcase_nm75 protect directory element "M:\admin_view\GNANLYS_US\.@@"
+  "CHMOD 770"
+--06-30T10:37  clearcase_nm75 protect directory element "M:\admin_view\GNANLYS_US\.@@"
+  "CHMOD 775"
+--06-30T10:35  clearcase_nm75 protect directory element "M:\admin_view\GNANLYS_US\.@@"
+  "CHMOD 770"
+--06-30T10:35  clearcase_nm75 protect directory element "M:\admin_view\GNANLYS_US\.@@"
+  "CHMOD 775"
+--06-19T15:31  clearcase_nm75 protect directory element "M:\admin_view\GNANLYS_US\.@@"
+  "CHMOD 770"
+--06-19T15:31  clearcase_nm75 protect directory element "M:\admin_view\GNANLYS_US\.@@"
+  "CHMOD 775"
+--03-26T14:31  clearcase_nm75 import sync from replica "GNANLYS_US_MN10" to replica "GNANLYS_US_FL51"
+  "Imported synchronization information from replica "GNANLYS_US_MN10".
+   Row at import was: GNANLYS_US_AZ18.deleted=4 GNANLYS_US_MN17=19 GNANLYS_US_MN10=0 GNANLYS_US_MN51=0 GNANLYS_US_DCW=0 GNANLYS_US_FL51=150"
+--03-26T14:27  clearcase_nm75 import sync from replica "GNANLYS_US_MN51" to replica "GNANLYS_US_FL51"
+  "Imported synchronization information from replica "GNANLYS_US_MN51".
+   Row at import was: GNANLYS_US_AZ18.deleted=4 GNANLYS_US_MN17=19 GNANLYS_US_MN10=0 GNANLYS_US_MN51=0 GNANLYS_US_DCW=0 GNANLYS_US_FL51=150"
+--03-26T14:25  clearcase_nm75 import sync from replica "GNANLYS_US_DCW" to replica "GNANLYS_US_FL51"
+  "Imported synchronization information from replica "GNANLYS_US_DCW".
+   Row at import was: GNANLYS_US_AZ18.deleted=4 GNANLYS_US_MN17=19 GNANLYS_US_MN10=0 GNANLYS_US_MN51=0 GNANLYS_US_DCW=0 GNANLYS_US_FL51=150"
+--03-26T14:21  clearcase_nm75 export sync from replica "GNANLYS_US_FL51" to replica "GNANLYS_US_DCW"
+  "Exported synchronization information for replica "GNANLYS_US_DCW".
+   Row at export was: GNANLYS_US_DCW=0 GNANLYS_US_MN17=14 GNANLYS_US_AZ18.deleted=4 GNANLYS_US_FL51=150 GNANLYS_US_MN10=0 GNANLYS_US_MN51=0"
+--03-26T14:21  clearcase_nm75 import sync from replica "GNANLYS_US_MN17" to replica "GNANLYS_US_FL51"
+  "Imported synchronization information from replica "GNANLYS_US_MN17".
+   Row at import was: GNANLYS_US_AZ18=4 GNANLYS_US_MN17=14 GNANLYS_US_MN10=0 GNANLYS_US_MN51=0 GNANLYS_US_DCW=0 GNANLYS_US_FL51=150"
+--03-26T14:20  e704548    rename replica "GNANLYS_US_AZ18.deleted"
+  "Changed name of replica from "GNANLYS_US_AZ18" to "GNANLYS_US_AZ18.deleted".
+   Destroyed replica "GNANLYS_US_AZ18"."
+--03-26T14:20  e704548    destroy replica in versioned object base "\GNANLYS_US"
+  "Destroyed replica "GNANLYS_US_AZ18"."
+--03-26T14:20  e704548    change master to "GNANLYS_US_DCW" of replica "GNANLYS_US_DCW"
+  "Changed master replica from "GNANLYS_US_AZ18" to "GNANLYS_US_DCW"."
+--03-26T14:20  e704548    change master to "GNANLYS_US_DCW" of replica "GNANLYS_US_FL51"
+  "Changed master replica from "GNANLYS_US_AZ18" to "GNANLYS_US_DCW"."
+--03-26T14:20  e704548    change master to "GNANLYS_US_DCW" of replica "GNANLYS_US_MN51"
+  "Changed master replica from "GNANLYS_US_AZ18" to "GNANLYS_US_DCW"."
+--03-26T14:20  e704548    change master to "GNANLYS_US_DCW" of replica "GNANLYS_US_MN10"
+  "Changed master replica from "GNANLYS_US_AZ18" to "GNANLYS_US_DCW"."
+--03-25T11:42  clearcase_nm75 export sync from replica "GNANLYS_US_FL51" to replica "GNANLYS_US_DCW"
+  "Exported synchronization information for replica "GNANLYS_US_DCW".
+   Row at export was: GNANLYS_US_DCW=0 GNANLYS_US_MN17=14 GNANLYS_US_AZ18=3 GNANLYS_US_FL51=150 GNANLYS_US_MN10=0 GNANLYS_US_MN51=0"
+--02-13T13:10  clearcase_nm75 import sync from replica "GNANLYS_US_MN10" to replica "GNANLYS_US_FL51"
+  "Imported synchronization information from replica "GNANLYS_US_MN10".
+   Row at import was: GNANLYS_US_AZ18=4 GNANLYS_US_MN17=14 GNANLYS_US_MN10=0 GNANLYS_US_MN51=0 GNANLYS_US_DCW=0 GNANLYS_US_FL51=150"
+--02-12T13:30  clearcase_nm75 import sync from replica "GNANLYS_US_MN51" to replica "GNANLYS_US_FL51"
+  "Imported synchronization information from replica "GNANLYS_US_MN51".
+   Row at import was: GNANLYS_US_AZ18=4 GNANLYS_US_MN17=14 GNANLYS_US_MN10=0 GNANLYS_US_MN51=0 GNANLYS_US_DCW=0 GNANLYS_US_FL51=150"
+--02-12T13:20  clearcase_nm75 import sync from replica "GNANLYS_US_MN17" to replica "GNANLYS_US_FL51"
+  "Imported synchronization information from replica "GNANLYS_US_MN17".
+   Row at import was: GNANLYS_US_AZ18=4 GNANLYS_US_MN17=14 GNANLYS_US_MN10=0 GNANLYS_US_MN51=0 GNANLYS_US_DCW=0 GNANLYS_US_FL51=150"
+--07-29T11:10  clearcase_nm75 import sync from replica "GNANLYS_US_DCW" to replica "GNANLYS_US_FL51"
+  "Imported synchronization information from replica "GNANLYS_US_DCW".
+   Row at import was: GNANLYS_US_AZ18=4 GNANLYS_US_MN17=14 GNANLYS_US_MN10=0 GNANLYS_US_MN51=0 GNANLYS_US_DCW=0 GNANLYS_US_FL51=150"
+--07-26T15:20  clearcase_nm75 import sync from replica "GNANLYS_US_AZ18.deleted" to replica "GNANLYS_US_FL51"
+  "Imported synchronization information from replica "GNANLYS_US_AZ18".
+   Row at import was: GNANLYS_US_AZ18=3 GNANLYS_US_MN17=14 GNANLYS_US_MN10=0 GNANLYS_US_MN51=0 GNANLYS_US_FL51=150"
+--07-26T15:10  root       create replica "GNANLYS_US_DCW"
+2009-06-24     clearcase_nm75 export sync from replica "GNANLYS_US_FL51" to replica "GNANLYS_US_MN51"
+  "Exported synchronization information for replica "GNANLYS_US_MN51".
+   Row at export was: GNANLYS_US_MN17=14 GNANLYS_US_AZ18=3 GNANLYS_US_FL51=129 GNANLYS_US_MN10=0 GNANLYS_US_MN51=0"
+2009-06-24     clearcase_nm75 export sync from replica "GNANLYS_US_FL51" to replica "GNANLYS_US_MN17"
+  "Exported synchronization information for replica "GNANLYS_US_MN17".
+   Row at export was: GNANLYS_US_MN17=14 GNANLYS_US_AZ18=3 GNANLYS_US_FL51=129 GNANLYS_US_MN10=0 GNANLYS_US_MN51=0"
+2009-06-24     clearcase_nm75 export sync from replica "GNANLYS_US_FL51" to replica "GNANLYS_US_MN10"
+  "Exported synchronization information for replica "GNANLYS_US_MN10".
+   Row at export was: GNANLYS_US_MN17=14 GNANLYS_US_AZ18=3 GNANLYS_US_FL51=129 GNANLYS_US_MN10=0 GNANLYS_US_MN51=0"
+2009-06-24     clearcase_nm75 export sync from replica "GNANLYS_US_FL51" to replica "GNANLYS_US_AZ18.deleted"
+  "Exported synchronization information for replica "GNANLYS_US_AZ18".
+   Row at export was: GNANLYS_US_MN17=14 GNANLYS_US_AZ18=3 GNANLYS_US_FL51=129 GNANLYS_US_MN10=0 GNANLYS_US_MN51=0"
+2009-06-24     e704656    create directory version "M:\admin_view\GNANLYS_US\Anaylst_CE@@\main\e704656_ANLYS_CE_DEV\1\binasc@@\main\e704656_ANLYS_CE_DEV\7"
+  "Added file element "binasc.dsp"."
+2009-06-24     e704656    add name to directory version "M:\admin_view\GNANLYS_US\Anaylst_CE@@\main\e704656_ANLYS_CE_DEV\1\binasc@@\main\e704656_ANLYS_CE_DEV\7"
+  "Added file element "binasc.dsp"."
+2009-06-24     e704656    make hyperlink "Change" on version "M:\admin_view\GNANLYS_US\Anaylst_CE@@\main\e704656_ANLYS_CE_DEV\1\binasc\main\e704656_ANLYS_CE_DEV\7\binasc.dsp@@\main\e704656_ANLYS_CE_DEV\1"
+  "Attached hyperlink "Change@197@\GNANLYS_US_PVOB"."
+2009-06-24     e704656    create version "M:\admin_view\GNANLYS_US\Anaylst_CE@@\main\e704656_ANLYS_CE_DEV\1\binasc\main\e704656_ANLYS_CE_DEV\7\binasc.dsp@@\main\e704656_ANLYS_CE_DEV\1"
+2009-06-24     e704656    create version "M:\admin_view\GNANLYS_US\Anaylst_CE@@\main\e704656_ANLYS_CE_DEV\1\binasc\main\e704656_ANLYS_CE_DEV\7\binasc.dsp@@\main\e704656_ANLYS_CE_DEV\0"
+2009-06-24     e704656    create branch "M:\admin_view\GNANLYS_US\Anaylst_CE@@\main\e704656_ANLYS_CE_DEV\1\binasc\main\e704656_ANLYS_CE_DEV\7\binasc.dsp@@\main\e704656_ANLYS_CE_DEV"
+2009-06-24     e704656    create version "M:\admin_view\GNANLYS_US\Anaylst_CE@@\main\e704656_ANLYS_CE_DEV\1\binasc\main\e704656_ANLYS_CE_DEV\7\binasc.dsp@@\main\0"
+2009-06-24     e704656    create branch "M:\admin_view\GNANLYS_US\Anaylst_CE@@\main\e704656_ANLYS_CE_DEV\1\binasc\main\e704656_ANLYS_CE_DEV\7\binasc.dsp@@\main"
+2009-06-24     e704656    create file element "M:\admin_view\GNANLYS_US\Anaylst_CE@@\main\e704656_ANLYS_CE_DEV\1\binasc\main\e704656_ANLYS_CE_DEV\7\binasc.dsp@@"
+2009-06-24     e704656    make hyperlink "Change" on directory version "M:\admin_view\GNANLYS_US\Anaylst_CE@@\main\e704656_ANLYS_CE_DEV\1\binasc@@\main\e704656_ANLYS_CE_DEV\7"
+  "Attached hyperlink "Change@196@\GNANLYS_US_PVOB"."
+2009-06-24     e704656    add name to directory version "M:\admin_view\GNANLYS_US\Anaylst_CE@@\main\e704656_ANLYS_CE_DEV\1\binasc@@\main\e704656_ANLYS_CE_DEV\6"
+  "Added symbolic link "earth.f90"."
+2009-06-24     e704656    make hyperlink "Change" on directory version "M:\admin_view\GNANLYS_US\Anaylst_CE@@\main\e704656_ANLYS_CE_DEV\1\binasc@@\main\e704656_ANLYS_CE_DEV\6"
+  "Attached hyperlink "Change@195@\GNANLYS_US_PVOB"."
+2009-06-24     e704656    create directory version "M:\admin_view\GNANLYS_US\Anaylst_CE@@\main\e704656_ANLYS_CE_DEV\1\binasc@@\main\e704656_ANLYS_CE_DEV\6"
+  "Added symbolic link "earth.f90"."
+2009-06-24     e704656    create symbolic link "M:\admin_view\GNANLYS_US\Anaylst_CE@@\main\e704656_ANLYS_CE_DEV\1\binasc\main\e704656_ANLYS_CE_DEV\6\earth.f90" -> ../../common/earth.f90
+2009-06-24     e704656    add name to directory version "M:\admin_view\GNANLYS_US\Anaylst_CE@@\main\e704656_ANLYS_CE_DEV\1\binasc@@\main\e704656_ANLYS_CE_DEV\5"
+  "Added symbolic link "MatrixMath.f90"."
+2009-06-24     e704656    add name to directory version "M:\admin_view\GNANLYS_US\Anaylst_CE@@\main\e704656_ANLYS_CE_DEV\1\binasc@@\main\e704656_ANLYS_CE_DEV\5"
+  "Added symbolic link "matlabtohnx.f90"."
+2009-06-24     e704656    make hyperlink "Change" on directory version "M:\admin_view\GNANLYS_US\Anaylst_CE@@\main\e704656_ANLYS_CE_DEV\1\binasc@@\main\e704656_ANLYS_CE_DEV\5"
+  "Attached hyperlink "Change@194@\GNANLYS_US_PVOB"."
+2009-06-24     e704656    create directory version "M:\admin_view\GNANLYS_US\Anaylst_CE@@\main\e704656_ANLYS_CE_DEV\1\binasc@@\main\e704656_ANLYS_CE_DEV\5"
+  "Added symbolic link "matlabtohnx.f90".
+   Added symbolic link "MatrixMath.f90"."
+2009-06-24     e704656    create symbolic link "M:\admin_view\GNANLYS_US\Anaylst_CE@@\main\e704656_ANLYS_CE_DEV\1\binasc\main\e704656_ANLYS_CE_DEV\5\MatrixMath.f90" -> ../../common/MatrixMath.f90
+2009-06-24     e704656    create symbolic link "M:\admin_view\GNANLYS_US\Anaylst_CE@@\main\e704656_ANLYS_CE_DEV\1\binasc\main\e704656_ANLYS_CE_DEV\5\matlabtohnx.f90" -> ../../common/matlabtohnx.f90
+2009-06-24     e704656    add name to directory version "M:\admin_view\GNANLYS_US\Anaylst_CE@@\main\e704656_ANLYS_CE_DEV\1\binasc@@\main\e704656_ANLYS_CE_DEV\4"
+  "Added symbolic link "WindUtilitiesAPI.f90"."

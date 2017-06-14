@@ -1,0 +1,3 @@
+for /f "delims=" %%i in ('hostname') do @set myhost=%%i
+
+echo mkview pcms_view -host %myhost% -hpath %myhost%:c:\CC_VIEWS\pcms_view.vws -gpath \\%2\CC_VIEWS

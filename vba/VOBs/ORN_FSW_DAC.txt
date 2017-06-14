@@ -1,0 +1,129 @@
+--06-30T10:42  clearcase_nm75 protect directory element "M:\admin_view\ORN_FSW_DAC\.@@"
+  "CHMOD 775"
+--06-20T09:26  clearcase_nm75 import sync from replica "ORN_FSW_DAC_DCW" to replica "ORN_FSW_DAC_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_DAC_DCW".
+   Row at import was: ORN_FSW_DAC_AZ18.deleted=42096 ORN_FSW_DAC_TX0Z.deleted=1 ORN_FSW_DAC_FL1.deleted=0 ORN_FSW_DAC_AZ75.deleted=35 ORN_FSW_DAC_NM75.deleted=0 ORN_FSW_DAC_AZ75=133623 ORN_FSW_DAC_TX0Z.deleted.1=0 ORN_FSW_DAC_FL1.deleted.1=0 ORN_FSW_DAC_NM75.deleted.1=12 ORN_FSW_DAC_DCW=0 ORN_FSW_DAC_FL51_new=0"
+--06-20T09:21  clearcase_nm75 export sync from replica "ORN_FSW_DAC_FL51_new" to replica "ORN_FSW_DAC_DCW"
+  "Exported synchronization information for replica "ORN_FSW_DAC_DCW".
+   Row at export was: ORN_FSW_DAC_TX0Z.deleted=1 ORN_FSW_DAC_AZ18.deleted=42096 ORN_FSW_DAC_AZ75.deleted=35 ORN_FSW_DAC_FL1.deleted=0 ORN_FSW_DAC_NM75.deleted.1=12 ORN_FSW_DAC_AZ75=133622 ORN_FSW_DAC_FL1.deleted.1=0 ORN_FSW_DAC_TX0Z.deleted.1=0 ORN_FSW_DAC_NM75.deleted=0 ORN_FSW_DAC_FL51_new=0 ORN_FSW_DAC_DCW=0"
+--06-20T09:20  clearcase_nm75 import sync from replica "ORN_FSW_DAC_AZ75" to replica "ORN_FSW_DAC_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_DAC_AZ75".
+   Row at import was: ORN_FSW_DAC_AZ18.deleted=42096 ORN_FSW_DAC_TX0Z.deleted=1 ORN_FSW_DAC_FL1.deleted=0 ORN_FSW_DAC_AZ75.deleted=35 ORN_FSW_DAC_NM75.deleted=0 ORN_FSW_DAC_AZ75=133622 ORN_FSW_DAC_TX0Z.deleted.1=0 ORN_FSW_DAC_FL1.deleted.1=0 ORN_FSW_DAC_NM75=12 ORN_FSW_DAC_DCW=0 ORN_FSW_DAC_FL51_new=0"
+--06-20T09:16  root       rename replica "ORN_FSW_DAC_NM75.deleted.1"
+  "Changed name of replica from "ORN_FSW_DAC_NM75" to "ORN_FSW_DAC_NM75.deleted.1".
+   Destroyed replica "ORN_FSW_DAC_NM75"."
+--06-20T09:16  root       destroy replica in versioned object base "\ORN_FSW_DAC"
+  "Destroyed replica "ORN_FSW_DAC_NM75"."
+--06-19T15:57  clearcase_nm75 protect directory element "M:\admin_view\ORN_FSW_DAC\.@@"
+  "CHMOD 770"
+--06-19T15:57  clearcase_nm75 protect directory element "M:\admin_view\ORN_FSW_DAC\.@@"
+  "CHMOD 775"
+--05-15T12:53  clearcase_nm75 export sync from replica "ORN_FSW_DAC_FL51_new" to replica "ORN_FSW_DAC_DCW"
+  "Exported synchronization information for replica "ORN_FSW_DAC_DCW".
+   Row at export was: ORN_FSW_DAC_TX0Z.deleted=1 ORN_FSW_DAC_AZ18.deleted=42096 ORN_FSW_DAC_AZ75.deleted=35 ORN_FSW_DAC_FL1.deleted=0 ORN_FSW_DAC_NM75=12 ORN_FSW_DAC_AZ75=133620 ORN_FSW_DAC_FL1.deleted.1=0 ORN_FSW_DAC_TX0Z.deleted.1=0 ORN_FSW_DAC_NM75.deleted=0 ORN_FSW_DAC_FL51_new=0 ORN_FSW_DAC_DCW=0"
+--05-15T11:06  clearcase_nm75 import sync from replica "ORN_FSW_DAC_DCW" to replica "ORN_FSW_DAC_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_DAC_DCW".
+   Row at import was: ORN_FSW_DAC_AZ18.deleted=42096 ORN_FSW_DAC_TX0Z.deleted=1 ORN_FSW_DAC_FL1.deleted=0 ORN_FSW_DAC_AZ75.deleted=35 ORN_FSW_DAC_NM75.deleted=0 ORN_FSW_DAC_AZ75=133622 ORN_FSW_DAC_TX0Z.deleted.1=0 ORN_FSW_DAC_FL1.deleted.1=0 ORN_FSW_DAC_NM75=12 ORN_FSW_DAC_DCW=0 ORN_FSW_DAC_FL51_new=0"
+--05-15T11:00  clearcase_nm75 import sync from replica "ORN_FSW_DAC_AZ75" to replica "ORN_FSW_DAC_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_DAC_AZ75".
+   Row at import was: ORN_FSW_DAC_AZ18.deleted=42096 ORN_FSW_DAC_TX0Z.deleted=1 ORN_FSW_DAC_FL1.deleted=0 ORN_FSW_DAC_AZ75.deleted=35 ORN_FSW_DAC_NM75.deleted=0 ORN_FSW_DAC_AZ75=133621 ORN_FSW_DAC_TX0Z.deleted.1=0 ORN_FSW_DAC_FL1.deleted.1=0 ORN_FSW_DAC_NM75=12 ORN_FSW_DAC_DCW=0 ORN_FSW_DAC_FL51_new=0"
+--05-15T11:00  root       change master to "ORN_FSW_DAC_DCW" of replica "ORN_FSW_DAC_DCW"
+  "Changed master replica from "ORN_FSW_DAC_AZ75" to "ORN_FSW_DAC_DCW"."
+--05-15T10:59  clearcase_nm75 import sync from replica "ORN_FSW_DAC_AZ75" to replica "ORN_FSW_DAC_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_DAC_AZ75".
+   Row at import was: ORN_FSW_DAC_AZ18=42096 ORN_FSW_DAC_TX0Z.deleted=1 ORN_FSW_DAC_FL1.deleted=0 ORN_FSW_DAC_AZ75.deleted=35 ORN_FSW_DAC_NM75.deleted=0 ORN_FSW_DAC_AZ75=133620 ORN_FSW_DAC_TX0Z.deleted.1=0 ORN_FSW_DAC_FL1.deleted.1=0 ORN_FSW_DAC_NM75=12 ORN_FSW_DAC_DCW=0 ORN_FSW_DAC_FL51_new=0"
+--05-15T10:59  root       rename replica "ORN_FSW_DAC_AZ18.deleted"
+  "Changed name of replica from "ORN_FSW_DAC_AZ18" to "ORN_FSW_DAC_AZ18.deleted".
+   Destroyed replica "ORN_FSW_DAC_AZ18"."
+--05-15T10:59  root       destroy replica in versioned object base "\ORN_FSW_DAC"
+  "Destroyed replica "ORN_FSW_DAC_AZ18"."
+--03-22T09:20  clearcase_nm75 import sync from replica "ORN_FSW_DAC_TX0Z.deleted.1" to replica "ORN_FSW_DAC_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_DAC_TX0Z.deleted.1".
+   Row at import was: ORN_FSW_DAC_AZ18=42096 ORN_FSW_DAC_TX0Z.deleted=1 ORN_FSW_DAC_FL1.deleted=0 ORN_FSW_DAC_AZ75.deleted=35 ORN_FSW_DAC_NM75.deleted=0 ORN_FSW_DAC_AZ75=133620 ORN_FSW_DAC_TX0Z.deleted.1=0 ORN_FSW_DAC_FL1.deleted.1=0 ORN_FSW_DAC_NM75=12 ORN_FSW_DAC_DCW=0 ORN_FSW_DAC_FL51_new=0"
+--03-21T12:06  clearcase_nm75 export sync from replica "ORN_FSW_DAC_FL51_new" to replica "ORN_FSW_DAC_DCW"
+  "Exported synchronization information for replica "ORN_FSW_DAC_DCW".
+   Row at export was: ORN_FSW_DAC_TX0Z.deleted=1 ORN_FSW_DAC_AZ18=42085 ORN_FSW_DAC_AZ75.deleted=35 ORN_FSW_DAC_FL1.deleted=0 ORN_FSW_DAC_NM75=12 ORN_FSW_DAC_AZ75=133619 ORN_FSW_DAC_FL1.deleted.1=0 ORN_FSW_DAC_TX0Z.deleted.1=0 ORN_FSW_DAC_NM75.deleted=0 ORN_FSW_DAC_FL51_new=0 ORN_FSW_DAC_DCW=0"
+--03-19T13:01  clearcase_nm75 export sync from replica "ORN_FSW_DAC_FL51_new" to replica "ORN_FSW_DAC_AZ18.deleted"
+  "Exported synchronization information for replica "ORN_FSW_DAC_AZ18".
+   Row at export was: ORN_FSW_DAC_TX0Z.deleted=1 ORN_FSW_DAC_AZ18=42096 ORN_FSW_DAC_AZ75.deleted=35 ORN_FSW_DAC_FL1.deleted=0 ORN_FSW_DAC_NM75=12 ORN_FSW_DAC_AZ75=133619 ORN_FSW_DAC_FL1.deleted.1=0 ORN_FSW_DAC_TX0Z.deleted.1=0 ORN_FSW_DAC_NM75.deleted=0 ORN_FSW_DAC_FL51_new=0 ORN_FSW_DAC_DCW=0"
+--03-19T13:00  clearcase_nm75 import sync from replica "ORN_FSW_DAC_DCW" to replica "ORN_FSW_DAC_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_DAC_DCW".
+   Row at import was: ORN_FSW_DAC_AZ18=42096 ORN_FSW_DAC_TX0Z.deleted=1 ORN_FSW_DAC_FL1.deleted=0 ORN_FSW_DAC_AZ75.deleted=35 ORN_FSW_DAC_NM75.deleted=0 ORN_FSW_DAC_AZ75=133620 ORN_FSW_DAC_TX0Z.deleted.1=0 ORN_FSW_DAC_FL1.deleted.1=0 ORN_FSW_DAC_NM75=12 ORN_FSW_DAC_DCW=0 ORN_FSW_DAC_FL51_new=0"
+--03-19T13:00  clearcase_nm75 import sync from replica "ORN_FSW_DAC_AZ75" to replica "ORN_FSW_DAC_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_DAC_AZ75".
+   Row at import was: ORN_FSW_DAC_AZ18=42096 ORN_FSW_DAC_TX0Z.deleted=1 ORN_FSW_DAC_FL1.deleted=0 ORN_FSW_DAC_AZ75.deleted=35 ORN_FSW_DAC_NM75.deleted=0 ORN_FSW_DAC_AZ75=133619 ORN_FSW_DAC_TX0Z=0 ORN_FSW_DAC_FL1.deleted.1=0 ORN_FSW_DAC_NM75=12 ORN_FSW_DAC_DCW=0 ORN_FSW_DAC_FL51_new=0"
+--03-19T12:50  clearcase_nm75 import sync from replica "ORN_FSW_DAC_DCW" to replica "ORN_FSW_DAC_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_DAC_DCW".
+   Row at import was: ORN_FSW_DAC_AZ18=42096 ORN_FSW_DAC_TX0Z.deleted=1 ORN_FSW_DAC_FL1.deleted=0 ORN_FSW_DAC_AZ75.deleted=35 ORN_FSW_DAC_NM75.deleted=0 ORN_FSW_DAC_AZ75=133619 ORN_FSW_DAC_TX0Z=0 ORN_FSW_DAC_FL1.deleted.1=0 ORN_FSW_DAC_NM75=12 ORN_FSW_DAC_DCW=0 ORN_FSW_DAC_FL51_new=0"
+--03-19T12:50  clearcase_nm75 import sync from replica "ORN_FSW_DAC_AZ75" to replica "ORN_FSW_DAC_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_DAC_AZ75".
+   Row at import was: ORN_FSW_DAC_AZ18=42096 ORN_FSW_DAC_TX0Z.deleted=1 ORN_FSW_DAC_FL1.deleted=0 ORN_FSW_DAC_AZ75.deleted=35 ORN_FSW_DAC_NM75.deleted=0 ORN_FSW_DAC_AZ75=133619 ORN_FSW_DAC_TX0Z=0 ORN_FSW_DAC_FL1.deleted.1=0 ORN_FSW_DAC_NM75=12 ORN_FSW_DAC_DCW=0 ORN_FSW_DAC_FL51_new=0"
+--03-19T12:45  root       rename replica "ORN_FSW_DAC_TX0Z.deleted.1"
+  "Changed name of replica from "ORN_FSW_DAC_TX0Z" to "ORN_FSW_DAC_TX0Z.deleted.1".
+   Destroyed replica "ORN_FSW_DAC_TX0Z"."
+--03-19T12:45  root       destroy replica in versioned object base "\ORN_FSW_DAC"
+  "Destroyed replica "ORN_FSW_DAC_TX0Z"."
+--03-19T12:40  clearcase_nm75 import sync from replica "ORN_FSW_DAC_AZ18.deleted" to replica "ORN_FSW_DAC_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_DAC_AZ18".
+   Row at import was: ORN_FSW_DAC_AZ18=42086 ORN_FSW_DAC_TX0Z.deleted=1 ORN_FSW_DAC_FL1.deleted=0 ORN_FSW_DAC_AZ75.deleted=35 ORN_FSW_DAC_NM75.deleted=0 ORN_FSW_DAC_AZ75=133619 ORN_FSW_DAC_TX0Z=0 ORN_FSW_DAC_FL1.deleted.1=0 ORN_FSW_DAC_NM75=12 ORN_FSW_DAC_DCW=0 ORN_FSW_DAC_FL51_new=0"
+--03-19T12:25  root       change master to "ORN_FSW_DAC_AZ75" of replica "ORN_FSW_DAC_DCW"
+  "Changed master replica from "ORN_FSW_DAC_AZ18" to "ORN_FSW_DAC_AZ75"."
+--03-19T12:25  root       change master to "ORN_FSW_DAC_AZ75" of replica "ORN_FSW_DAC_FL51_new"
+  "Changed master replica from "ORN_FSW_DAC_AZ18" to "ORN_FSW_DAC_AZ75"."
+--03-19T12:25  root       change master to "ORN_FSW_DAC_AZ75" of replica "ORN_FSW_DAC_NM75.deleted.1"
+  "Changed master replica from "ORN_FSW_DAC_AZ18" to "ORN_FSW_DAC_AZ75"."
+--03-19T12:25  root       change master to "ORN_FSW_DAC_AZ75" of replica "ORN_FSW_DAC_FL1.deleted.1"
+  "Changed master replica from "ORN_FSW_DAC_AZ18" to "ORN_FSW_DAC_AZ75"."
+--03-19T12:25  root       change master to "ORN_FSW_DAC_AZ75" of replica "ORN_FSW_DAC_TX0Z.deleted.1"
+  "Changed master replica from "ORN_FSW_DAC_AZ18" to "ORN_FSW_DAC_AZ75"."
+--03-19T12:25  root       change master to "ORN_FSW_DAC_AZ75" of replica "ORN_FSW_DAC_NM75.deleted"
+  "Changed master replica from "ORN_FSW_DAC_AZ18" to "ORN_FSW_DAC_AZ75"."
+--03-19T12:25  root       change master to "ORN_FSW_DAC_AZ75" of replica "ORN_FSW_DAC_FL1.deleted"
+  "Changed master replica from "ORN_FSW_DAC_AZ18" to "ORN_FSW_DAC_AZ75"."
+--03-19T12:25  root       change master to "ORN_FSW_DAC_AZ75" of replica "ORN_FSW_DAC_TX0Z.deleted"
+  "Changed master replica from "ORN_FSW_DAC_AZ18" to "ORN_FSW_DAC_AZ75"."
+--03-19T12:25  root       change master to "ORN_FSW_DAC_AZ75" of replica "ORN_FSW_DAC_AZ18.deleted"
+  "Changed master replica from "ORN_FSW_DAC_AZ18" to "ORN_FSW_DAC_AZ75"."
+--03-19T12:14  root       change master to "ORN_FSW_DAC_AZ75" of branch type "main"
+  "Changed master replica from "ORN_FSW_DAC_AZ18" to "ORN_FSW_DAC_AZ75"."
+--09-11T17:40  clearcase_nm75 import sync from replica "ORN_FSW_DAC_DCW" to replica "ORN_FSW_DAC_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_DAC_DCW".
+   Row at import was: ORN_FSW_DAC_AZ18=42086 ORN_FSW_DAC_TX0Z.deleted=1 ORN_FSW_DAC_FL1.deleted=0 ORN_FSW_DAC_AZ75.deleted=35 ORN_FSW_DAC_NM75.deleted=0 ORN_FSW_DAC_AZ75=133619 ORN_FSW_DAC_TX0Z=0 ORN_FSW_DAC_FL1.deleted.1=0 ORN_FSW_DAC_NM75=12 ORN_FSW_DAC_DCW=0 ORN_FSW_DAC_FL51_new=0"
+--09-11T13:00  clearcase_nm75 import sync from replica "ORN_FSW_DAC_AZ75" to replica "ORN_FSW_DAC_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_DAC_AZ75".
+   Row at import was: ORN_FSW_DAC_AZ18=42086 ORN_FSW_DAC_TX0Z.deleted=1 ORN_FSW_DAC_FL1.deleted=0 ORN_FSW_DAC_AZ75.deleted=35 ORN_FSW_DAC_NM75.deleted=0 ORN_FSW_DAC_AZ75=133619 ORN_FSW_DAC_TX0Z=0 ORN_FSW_DAC_FL1.deleted.1=0 ORN_FSW_DAC_NM75=12 ORN_FSW_DAC_DCW=0 ORN_FSW_DAC_FL51_new=0"
+--09-11T13:00  clearcase_nm75 import sync from replica "ORN_FSW_DAC_AZ18.deleted" to replica "ORN_FSW_DAC_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_DAC_AZ18".
+   Row at import was: ORN_FSW_DAC_AZ18=42086 ORN_FSW_DAC_TX0Z.deleted=1 ORN_FSW_DAC_FL1.deleted=0 ORN_FSW_DAC_AZ75.deleted=35 ORN_FSW_DAC_NM75.deleted=0 ORN_FSW_DAC_AZ75=133619 ORN_FSW_DAC_TX0Z=0 ORN_FSW_DAC_FL1.deleted.1=0 ORN_FSW_DAC_NM75=12 ORN_FSW_DAC_DCW=0 ORN_FSW_DAC_FL51_new=0"
+--09-11T12:50  clearcase_nm75 import sync from replica "ORN_FSW_DAC_TX0Z.deleted.1" to replica "ORN_FSW_DAC_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_DAC_TX0Z".
+   Row at import was: ORN_FSW_DAC_AZ18=42086 ORN_FSW_DAC_TX0Z.deleted=1 ORN_FSW_DAC_FL1.deleted=0 ORN_FSW_DAC_AZ75.deleted=35 ORN_FSW_DAC_NM75.deleted=0 ORN_FSW_DAC_AZ75=133619 ORN_FSW_DAC_TX0Z=0 ORN_FSW_DAC_FL1.deleted.1=0 ORN_FSW_DAC_NM75=12 ORN_FSW_DAC_DCW=0 ORN_FSW_DAC_FL51_new=0"
+--09-11T12:50  clearcase_nm75 import sync from replica "ORN_FSW_DAC_AZ18.deleted" to replica "ORN_FSW_DAC_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_DAC_AZ18".
+   Row at import was: ORN_FSW_DAC_AZ18=42085 ORN_FSW_DAC_TX0Z.deleted=1 ORN_FSW_DAC_FL1.deleted=0 ORN_FSW_DAC_AZ75.deleted=35 ORN_FSW_DAC_NM75.deleted=0 ORN_FSW_DAC_AZ75=133619 ORN_FSW_DAC_TX0Z=0 ORN_FSW_DAC_FL1.deleted.1=0 ORN_FSW_DAC_NM75=12 ORN_FSW_DAC_FL51_new=0"
+--09-11T12:34  root       create replica "ORN_FSW_DAC_DCW"
+--08-29T10:10  clearcase_nm75 import sync from replica "ORN_FSW_DAC_AZ18.deleted" to replica "ORN_FSW_DAC_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_DAC_AZ18".
+   Row at import was: ORN_FSW_DAC_AZ18=42085 ORN_FSW_DAC_TX0Z.deleted=1 ORN_FSW_DAC_FL1.deleted=0 ORN_FSW_DAC_AZ75.deleted=35 ORN_FSW_DAC_NM75.deleted=0 ORN_FSW_DAC_AZ75=133619 ORN_FSW_DAC_TX0Z=0 ORN_FSW_DAC_FL1.deleted.1=0 ORN_FSW_DAC_NM75=12 ORN_FSW_DAC_FL51_new=0"
+--08-29T10:00  clearcase_nm75 export sync from replica "ORN_FSW_DAC_FL51_new" to replica "ORN_FSW_DAC_AZ18.deleted"
+  "Exported synchronization information for replica "ORN_FSW_DAC_AZ18".
+   Row at export was: ORN_FSW_DAC_TX0Z.deleted=1 ORN_FSW_DAC_AZ18=42085 ORN_FSW_DAC_AZ75.deleted=35 ORN_FSW_DAC_FL1.deleted=0 ORN_FSW_DAC_NM75=5 ORN_FSW_DAC_AZ75=133619 ORN_FSW_DAC_FL1.deleted.1=0 ORN_FSW_DAC_TX0Z=0 ORN_FSW_DAC_NM75.deleted=0 ORN_FSW_DAC_FL51_new=0"
+--08-29T10:00  clearcase_nm75 import sync from replica "ORN_FSW_DAC_TX0Z.deleted.1" to replica "ORN_FSW_DAC_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_DAC_TX0Z".
+   Row at import was: ORN_FSW_DAC_AZ18=42085 ORN_FSW_DAC_TX0Z.deleted=1 ORN_FSW_DAC_FL1.deleted=0 ORN_FSW_DAC_AZ75.deleted=35 ORN_FSW_DAC_NM75.deleted=0 ORN_FSW_DAC_AZ75=133619 ORN_FSW_DAC_TX0Z=0 ORN_FSW_DAC_FL1.deleted.1=0 ORN_FSW_DAC_NM75=12 ORN_FSW_DAC_FL51_new=0"
+--08-29T10:00  clearcase_nm75 import sync from replica "ORN_FSW_DAC_AZ75" to replica "ORN_FSW_DAC_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_DAC_AZ75".
+   Row at import was: ORN_FSW_DAC_AZ18=42085 ORN_FSW_DAC_TX0Z.deleted=1 ORN_FSW_DAC_FL1.deleted=0 ORN_FSW_DAC_AZ75.deleted=35 ORN_FSW_DAC_NM75.deleted=0 ORN_FSW_DAC_AZ75=133619 ORN_FSW_DAC_TX0Z=0 ORN_FSW_DAC_FL1.deleted.1=0 ORN_FSW_DAC_NM75=5 ORN_FSW_DAC_FL51_new=0"
+--08-29T09:33  e721877    change master to "ORN_FSW_DAC_AZ75" of branch type "DAOrtiz_DAC_DOC_SRS"
+  "Changed master replica from "ORN_FSW_DAC_NM75" to "ORN_FSW_DAC_AZ75"."
+--08-29T09:32  e721877    change master to "ORN_FSW_DAC_AZ75" of hyperlink "GlobalDefinition@389@\ORN_FSW_DAC"
+  "Changed master replica from "ORN_FSW_DAC_NM75" to "ORN_FSW_DAC_AZ75"."
+2012-12-14     clearcase_nm75 import sync from replica "ORN_FSW_DAC_TX0Z.deleted.1" to replica "ORN_FSW_DAC_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_DAC_TX0Z".
+   Row at import was: ORN_FSW_DAC_AZ18=42085 ORN_FSW_DAC_TX0Z.deleted=1 ORN_FSW_DAC_FL1.deleted=0 ORN_FSW_DAC_AZ75.deleted=35 ORN_FSW_DAC_NM75.deleted=0 ORN_FSW_DAC_AZ75=133619 ORN_FSW_DAC_TX0Z=0 ORN_FSW_DAC_FL1.deleted.1=0 ORN_FSW_DAC_NM75=5 ORN_FSW_DAC_FL51_new=0"
+2012-12-14     clearcase_nm75 import sync from replica "ORN_FSW_DAC_AZ18.deleted" to replica "ORN_FSW_DAC_FL51_new"
+  "Imported synchronization information from replica "ORN_FSW_DAC_AZ18".
+   Row at import was: ORN_FSW_DAC_AZ18=42085 ORN_FSW_DAC_TX0Z.deleted=1 ORN_FSW_DAC_FL1.deleted=0 ORN_FSW_DAC_AZ75.deleted=35 ORN_FSW_DAC_NM75.deleted=0 ORN_FSW_DAC_AZ75=133619 ORN_FSW_DAC_TX0Z=0 ORN_FSW_DAC_FL1.deleted.1=0 ORN_FSW_DAC_NM75=5 ORN_FSW_DAC_FL51_new=0"
+2012-12-14     clearcase_nm75 export sync from replica "ORN_FSW_DAC_FL51_new" to replica "ORN_FSW_DAC_AZ18.deleted"
+  "Exported synchronization information for replica "ORN_FSW_DAC_AZ18".
+   Row at export was: ORN_FSW_DAC_TX0Z.deleted=1 ORN_FSW_DAC_AZ18=42085 ORN_FSW_DAC_AZ75.deleted=35 ORN_FSW_DAC_FL1.deleted=0 ORN_FSW_DAC_NM75=5 ORN_FSW_DAC_AZ75=133527 ORN_FSW_DAC_FL1.deleted.1=0 ORN_FSW_DAC_TX0Z=0 ORN_FSW_DAC_NM75.deleted=0 ORN_FSW_DAC_FL51_new=0"

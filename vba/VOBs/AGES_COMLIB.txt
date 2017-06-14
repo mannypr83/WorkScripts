@@ -1,0 +1,132 @@
+--06-30T10:44  clearcase_nm75 protect directory element "M:\admin_view\AGES_COMLIB\.@@"
+  "CHMOD 775"
+--06-19T17:13  clearcase_nm75 protect directory element "M:\admin_view\AGES_COMLIB\.@@"
+  "CHMOD 770"
+--06-19T17:13  clearcase_nm75 protect directory element "M:\admin_view\AGES_COMLIB\.@@"
+  "CHMOD 775"
+--03-25T16:10  clearcase_nm75 import sync from replica "AGES_COMLIB_DCW" to replica "AGES_COMLIB_FL51"
+  "Imported synchronization information from replica "AGES_COMLIB_DCW".
+   Row at import was: AGES_COMLIB_MN17=12 AGES_COMLIB_AZ18.deleted=1 AGES_COMLIB_PR08.deleted=4 AGES_COMLIB_AZ18.deleted.1=2 AGES_COMLIB_DCW=0 AGES_COMLIB_FL51=0"
+--03-25T16:01  clearcase_nm75 export sync from replica "AGES_COMLIB_FL51" to replica "AGES_COMLIB_DCW"
+  "Exported synchronization information for replica "AGES_COMLIB_DCW".
+   Row at export was: AGES_COMLIB_PR08.deleted=4 AGES_COMLIB_AZ18.deleted=1 AGES_COMLIB_DCW=0 AGES_COMLIB_AZ18.deleted.1=2 AGES_COMLIB_FL51=0 AGES_COMLIB_MN17=9"
+--03-25T15:57  clearcase_nm75 import sync from replica "AGES_COMLIB_MN17" to replica "AGES_COMLIB_FL51"
+  "Imported synchronization information from replica "AGES_COMLIB_MN17".
+   Row at import was: AGES_COMLIB_MN17=9 AGES_COMLIB_AZ18.deleted=1 AGES_COMLIB_PR08.deleted=4 AGES_COMLIB_AZ18=2 AGES_COMLIB_DCW=0 AGES_COMLIB_FL51=0"
+--03-25T15:53  e704548    rename replica "AGES_COMLIB_AZ18.deleted.1"
+  "Changed name of replica from "AGES_COMLIB_AZ18" to "AGES_COMLIB_AZ18.deleted.1".
+   Destroyed replica "AGES_COMLIB_AZ18"."
+--03-25T15:53  e704548    destroy replica in versioned object base "\AGES_COMLIB"
+  "Destroyed replica "AGES_COMLIB_AZ18"."
+--03-25T15:53  e704548    change master to "AGES_COMLIB_DCW" of replica "AGES_COMLIB_DCW"
+  "Changed master replica from "AGES_COMLIB_AZ18" to "AGES_COMLIB_DCW"."
+--03-25T15:53  e704548    change master to "AGES_COMLIB_DCW" of replica "AGES_COMLIB_PR08.deleted"
+  "Changed master replica from "AGES_COMLIB_AZ18" to "AGES_COMLIB_DCW"."
+--03-25T11:35  clearcase_nm75 export sync from replica "AGES_COMLIB_FL51" to replica "AGES_COMLIB_DCW"
+  "Exported synchronization information for replica "AGES_COMLIB_DCW".
+   Row at export was: AGES_COMLIB_PR08.deleted=4 AGES_COMLIB_AZ18.deleted=1 AGES_COMLIB_DCW=0 AGES_COMLIB_AZ18=1 AGES_COMLIB_FL51=0 AGES_COMLIB_MN17=9"
+--07-25T15:00  clearcase_nm75 import sync from replica "AGES_COMLIB_DCW" to replica "AGES_COMLIB_FL51"
+  "Imported synchronization information from replica "AGES_COMLIB_DCW".
+   Row at import was: AGES_COMLIB_MN17=9 AGES_COMLIB_AZ18.deleted=1 AGES_COMLIB_PR08.deleted=4 AGES_COMLIB_AZ18=2 AGES_COMLIB_DCW=0 AGES_COMLIB_FL51=0"
+--07-23T11:40  clearcase_nm75 import sync from replica "AGES_COMLIB_MN17" to replica "AGES_COMLIB_FL51"
+  "Imported synchronization information from replica "AGES_COMLIB_MN17".
+   Row at import was: AGES_COMLIB_MN17=9 AGES_COMLIB_AZ18.deleted=1 AGES_COMLIB_PR08.deleted=4 AGES_COMLIB_AZ18=2 AGES_COMLIB_DCW=0 AGES_COMLIB_FL51=0"
+--07-23T11:40  clearcase_nm75 import sync from replica "AGES_COMLIB_AZ18.deleted.1" to replica "AGES_COMLIB_FL51"
+  "Imported synchronization information from replica "AGES_COMLIB_AZ18".
+   Row at import was: AGES_COMLIB_MN17=9 AGES_COMLIB_AZ18.deleted=1 AGES_COMLIB_PR08.deleted=4 AGES_COMLIB_AZ18=1 AGES_COMLIB_FL51=0"
+--07-23T11:28  root       create replica "AGES_COMLIB_DCW"
+2013-06-11     clearcase_nm75 import sync from replica "AGES_COMLIB_MN17" to replica "AGES_COMLIB_FL51"
+  "Imported synchronization information from replica "AGES_COMLIB_MN17".
+   Row at import was: AGES_COMLIB_MN17=9 AGES_COMLIB_AZ18.deleted=1 AGES_COMLIB_PR08.deleted=4 AGES_COMLIB_AZ18=1 AGES_COMLIB_FL51=0"
+2013-06-11     clearcase_nm75 import sync from replica "AGES_COMLIB_AZ18.deleted.1" to replica "AGES_COMLIB_FL51"
+  "Imported synchronization information from replica "AGES_COMLIB_AZ18".
+   Row at import was: AGES_COMLIB_MN17=9 AGES_COMLIB_AZ18.deleted=1 AGES_COMLIB_PR08=4 AGES_COMLIB_AZ18=0 AGES_COMLIB_FL51=0"
+2013-06-11     root       rename replica "AGES_COMLIB_PR08.deleted"
+  "Changed name of replica from "AGES_COMLIB_PR08" to "AGES_COMLIB_PR08.deleted".
+   Destroyed replica "AGES_COMLIB_PR08"."
+2013-06-11     root       destroy replica in versioned object base "\AGES_COMLIB"
+  "Destroyed replica "AGES_COMLIB_PR08"."
+2013-06-11     clearcase_nm75 import sync from replica "AGES_COMLIB_AZ18.deleted.1" to replica "AGES_COMLIB_FL51"
+  "Imported synchronization information from replica "AGES_COMLIB_AZ18".
+   Row at import was: AGES_COMLIB_MN17=9 AGES_COMLIB_AZ18.deleted=1 AGES_COMLIB_PR08=4 AGES_COMLIB_AZ18=0 AGES_COMLIB_FL51=0"
+2013-06-11     clearcase_nm75 export sync from replica "AGES_COMLIB_FL51" to replica "AGES_COMLIB_AZ18.deleted.1"
+  "Exported synchronization information for replica "AGES_COMLIB_AZ18".
+   Row at export was: AGES_COMLIB_PR08=3 AGES_COMLIB_AZ18.deleted=1 AGES_COMLIB_AZ18=0 AGES_COMLIB_FL51=0 AGES_COMLIB_MN17=9"
+2013-06-11     clearcase_nm75 import sync from replica "AGES_COMLIB_PR08.deleted" to replica "AGES_COMLIB_FL51"
+  "Imported synchronization information from replica "AGES_COMLIB_PR08".
+   Row at import was: AGES_COMLIB_MN17=9 AGES_COMLIB_AZ18.deleted=1 AGES_COMLIB_PR08=4 AGES_COMLIB_AZ18=0 AGES_COMLIB_FL51=0"
+2013-06-11     clearcase_nm75 import sync from replica "AGES_COMLIB_MN17" to replica "AGES_COMLIB_FL51"
+  "Imported synchronization information from replica "AGES_COMLIB_MN17".
+   Row at import was: AGES_COMLIB_MN17=9 AGES_COMLIB_AZ18.deleted=1 AGES_COMLIB_PR08=3 AGES_COMLIB_AZ18=0 AGES_COMLIB_FL51=0"
+2013-06-11     e721877    change master to "AGES_COMLIB_AZ18.deleted.1" of replica "AGES_COMLIB_PR08.deleted"
+  "Changed master replica from "AGES_COMLIB_PR08" to "AGES_COMLIB_AZ18"."
+2013-06-03     e564406    lock trigger type "NO_RMTYPE" (locked)
+  "Locked for all users."
+2013-06-03     e564406    destroy type in versioned object base "\AGES_COMLIB"
+  "Destroyed trigger type "NO_RMTRIGGER"."
+2013-06-03     e564406    modify trigger type "NO_RMTYPE" (locked)
+  "Changed definition of type.
+   Disallow removal of types"
+2013-06-03     e564406    unlock trigger type "NO_RMTYPE" (locked)
+2013-04-12     clearcase_nm75 import sync from replica "AGES_COMLIB_MN17" to replica "AGES_COMLIB_FL51"
+  "Imported synchronization information from replica "AGES_COMLIB_MN17".
+   Row at import was: AGES_COMLIB_MN17=9 AGES_COMLIB_AZ18.deleted=1 AGES_COMLIB_PR08=3 AGES_COMLIB_AZ18=0 AGES_COMLIB_FL51=0"
+2013-04-12     clearcase_nm75 import sync from replica "AGES_COMLIB_AZ18.deleted.1" to replica "AGES_COMLIB_FL51"
+  "Imported synchronization information from replica "AGES_COMLIB_AZ18".
+   Row at import was: AGES_COMLIB_MN17=9 AGES_COMLIB_AZ18.deleted=1 AGES_COMLIB_PR08=3 AGES_COMLIB_AZ18=0 AGES_COMLIB_FL51=0"
+2013-04-12     clearcase_nm75 export sync from replica "AGES_COMLIB_FL51" to replica "AGES_COMLIB_AZ18.deleted.1"
+  "Exported synchronization information for replica "AGES_COMLIB_AZ18".
+   Row at export was: AGES_COMLIB_PR08=2 AGES_COMLIB_AZ18.deleted=1 AGES_COMLIB_AZ18=0 AGES_COMLIB_FL51=0 AGES_COMLIB_MN17=9"
+2013-04-12     clearcase_nm75 import sync from replica "AGES_COMLIB_PR08.deleted" to replica "AGES_COMLIB_FL51"
+  "Imported synchronization information from replica "AGES_COMLIB_PR08".
+   Row at import was: AGES_COMLIB_MN17=9 AGES_COMLIB_AZ18.deleted=1 AGES_COMLIB_PR08=2 AGES_COMLIB_AZ18=0 AGES_COMLIB_FL51=0"
+2013-04-12     sv-das_cc_albd import sync to replica "AGES_COMLIB_PR08.deleted"
+  "Changed information associated with replica."
+2013-04-12     clearcase_nm75 import sync from replica "AGES_COMLIB_MN17" to replica "AGES_COMLIB_FL51"
+  "Imported synchronization information from replica "AGES_COMLIB_MN17".
+   Row at import was: AGES_COMLIB_MN17=9 AGES_COMLIB_AZ18.deleted=1 AGES_COMLIB_PR08=2 AGES_COMLIB_AZ18=0 AGES_COMLIB_FL51=0"
+2013-04-12     clearcase_nm75 import sync from replica "AGES_COMLIB_AZ18.deleted.1" to replica "AGES_COMLIB_FL51"
+  "Imported synchronization information from replica "AGES_COMLIB_AZ18".
+   Row at import was: AGES_COMLIB_MN17=9 AGES_COMLIB_AZ18.deleted=1 AGES_COMLIB_PR08=2 AGES_COMLIB_AZ18=0 AGES_COMLIB_FL51=0"
+2013-04-12     clearcase_nm75 export sync from replica "AGES_COMLIB_FL51" to replica "AGES_COMLIB_AZ18.deleted.1"
+  "Exported synchronization information for replica "AGES_COMLIB_AZ18".
+   Row at export was: AGES_COMLIB_PR08=1 AGES_COMLIB_AZ18.deleted=1 AGES_COMLIB_AZ18=0 AGES_COMLIB_FL51=0 AGES_COMLIB_MN17=9"
+2013-04-12     clearcase_nm75 import sync from replica "AGES_COMLIB_PR08.deleted" to replica "AGES_COMLIB_FL51"
+  "Imported synchronization information from replica "AGES_COMLIB_PR08".
+   Row at import was: AGES_COMLIB_MN17=9 AGES_COMLIB_AZ18.deleted=1 AGES_COMLIB_PR08=1 AGES_COMLIB_AZ18=0 AGES_COMLIB_FL51=0"
+2013-04-12     clearcase_nm75 import sync from replica "AGES_COMLIB_MN17" to replica "AGES_COMLIB_FL51"
+  "Imported synchronization information from replica "AGES_COMLIB_MN17".
+   Row at import was: AGES_COMLIB_MN17=9 AGES_COMLIB_AZ18.deleted=1 AGES_COMLIB_PR08=1 AGES_COMLIB_AZ18=0 AGES_COMLIB_FL51=0"
+2013-04-12     clearcase_nm75 import sync from replica "AGES_COMLIB_AZ18.deleted.1" to replica "AGES_COMLIB_FL51"
+  "Imported synchronization information from replica "AGES_COMLIB_AZ18".
+   Row at import was: AGES_COMLIB_MN17=9 AGES_COMLIB_AZ18.deleted=1 AGES_COMLIB_PR08=1 AGES_COMLIB_AZ18=0 AGES_COMLIB_FL51=0"
+2013-04-12     clearcase_nm75 export sync from replica "AGES_COMLIB_FL51" to replica "AGES_COMLIB_AZ18.deleted.1"
+  "Exported synchronization information for replica "AGES_COMLIB_AZ18".
+   Row at export was: AGES_COMLIB_PR08=0 AGES_COMLIB_AZ18.deleted=1 AGES_COMLIB_AZ18=0 AGES_COMLIB_FL51=0 AGES_COMLIB_MN17=9"
+2013-04-12     clearcase_nm75 import sync from replica "AGES_COMLIB_PR08.deleted" to replica "AGES_COMLIB_FL51"
+  "Imported synchronization information from replica "AGES_COMLIB_PR08".
+   Row at import was: AGES_COMLIB_MN17=9 AGES_COMLIB_AZ18.deleted=1 AGES_COMLIB_PR08=0 AGES_COMLIB_AZ18=0 AGES_COMLIB_FL51=0"
+2013-04-12     sv-das_cc_albd import sync to replica "AGES_COMLIB_PR08.deleted"
+  "Changed information associated with replica."
+2013-04-12     sv-das_cc_albd import sync to replica "AGES_COMLIB_PR08.deleted"
+  "Changed information associated with replica."
+2013-04-12     clearcase_nm75 import sync from replica "AGES_COMLIB_PR08.deleted" to replica "AGES_COMLIB_FL51"
+  "Imported synchronization information from replica "AGES_COMLIB_PR08".
+   Row at import was: AGES_COMLIB_MN17=9 AGES_COMLIB_AZ18.deleted=1 AGES_COMLIB_PR08=0 AGES_COMLIB_AZ18=0 AGES_COMLIB_FL51=0"
+2013-04-12     clearcase_nm75 import sync from replica "AGES_COMLIB_AZ18.deleted.1" to replica "AGES_COMLIB_FL51"
+  "Imported synchronization information from replica "AGES_COMLIB_AZ18".
+   Row at import was: AGES_COMLIB_MN17=9 AGES_COMLIB_AZ18.deleted=1 AGES_COMLIB_PR08=0 AGES_COMLIB_AZ18=0 AGES_COMLIB_FL51=0"
+2013-04-12     clearcase_nm75 export sync from replica "AGES_COMLIB_FL51" to replica "AGES_COMLIB_AZ18.deleted.1"
+  "Exported synchronization information for replica "AGES_COMLIB_AZ18".
+   Row at export was: AGES_COMLIB_PR08=0 AGES_COMLIB_AZ18.deleted=1 AGES_COMLIB_AZ18=0 AGES_COMLIB_FL51=0 AGES_COMLIB_MN17=8"
+2013-04-12     clearcase_nm75 import sync from replica "AGES_COMLIB_MN17" to replica "AGES_COMLIB_FL51"
+  "Imported synchronization information from replica "AGES_COMLIB_MN17".
+   Row at import was: AGES_COMLIB_MN17=8 AGES_COMLIB_AZ18.deleted=1 AGES_COMLIB_PR08=0 AGES_COMLIB_AZ18=0 AGES_COMLIB_FL51=0"
+2013-04-12     e463300    change master to "AGES_COMLIB_PR08.deleted" of replica "AGES_COMLIB_PR08.deleted"
+  "Changed master replica from "AGES_COMLIB_MN17" to "AGES_COMLIB_PR08"."
+2012-11-20     clearcase_nm75 import sync from replica "AGES_COMLIB_PR08.deleted" to replica "AGES_COMLIB_FL51"
+  "Imported synchronization information from replica "AGES_COMLIB_PR08".
+   Row at import was: AGES_COMLIB_MN17=8 AGES_COMLIB_AZ18.deleted=1 AGES_COMLIB_PR08=0 AGES_COMLIB_AZ18=0 AGES_COMLIB_FL51=0"
+2012-11-20     clearcase_nm75 import sync from replica "AGES_COMLIB_AZ18.deleted.1" to replica "AGES_COMLIB_FL51"
+  "Imported synchronization information from replica "AGES_COMLIB_AZ18".
+   Row at import was: AGES_COMLIB_MN17=8 AGES_COMLIB_AZ18.deleted=1 AGES_COMLIB_PR08=0 AGES_COMLIB_AZ18=0 AGES_COMLIB_FL51=0"

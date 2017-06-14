@@ -1,0 +1,125 @@
+--06-30T10:43  clearcase_nm75 protect directory element "M:\admin_view\GOLDTEST_PCSIM\.@@"
+  "CHMOD 775"
+--06-19T16:13  clearcase_nm75 protect directory element "M:\admin_view\GOLDTEST_PCSIM\.@@"
+  "CHMOD 770"
+--06-19T16:13  clearcase_nm75 protect directory element "M:\admin_view\GOLDTEST_PCSIM\.@@"
+  "CHMOD 775"
+--04-30T12:46  clearcase_nm75 import sync from replica "GOLDTEST_PCSIM_DCW" to replica "GOLDTEST_PCSIM_FL51"
+  "Imported synchronization information from replica "GOLDTEST_PCSIM_DCW".
+   Row at import was: GOLDTEST_PCSIM_MN17=14 GOLDTEST_PCSIM_AZ18.deleted=1 GOLDTEST_PCSIM_MN51=0 GOLDTEST_PCSIM_MN10=0 GOLDTEST_PCSIM_PR08=14 GOLDTEST_PCSIM_DCW=0 GOLDTEST_PCSIM_FL51=0"
+--04-30T12:41  clearcase_nm75 import sync from replica "GOLDTEST_PCSIM_MN10" to replica "GOLDTEST_PCSIM_FL51"
+  "Imported synchronization information from replica "GOLDTEST_PCSIM_MN10".
+   Row at import was: GOLDTEST_PCSIM_MN17=14 GOLDTEST_PCSIM_AZ18.deleted=1 GOLDTEST_PCSIM_MN51=0 GOLDTEST_PCSIM_MN10=0 GOLDTEST_PCSIM_PR08=14 GOLDTEST_PCSIM_DCW=0 GOLDTEST_PCSIM_FL51=0"
+--04-30T12:41  clearcase_nm75 export sync from replica "GOLDTEST_PCSIM_FL51" to replica "GOLDTEST_PCSIM_DCW"
+  "Exported synchronization information for replica "GOLDTEST_PCSIM_DCW".
+   Row at export was: GOLDTEST_PCSIM_DCW=0 GOLDTEST_PCSIM_MN51=0 GOLDTEST_PCSIM_AZ18.deleted=1 GOLDTEST_PCSIM_MN17=10 GOLDTEST_PCSIM_MN10=0 GOLDTEST_PCSIM_FL51=0 GOLDTEST_PCSIM_PR08=14"
+--04-30T12:40  clearcase_nm75 import sync from replica "GOLDTEST_PCSIM_PR08" to replica "GOLDTEST_PCSIM_FL51"
+  "Imported synchronization information from replica "GOLDTEST_PCSIM_PR08".
+   Row at import was: GOLDTEST_PCSIM_MN17=14 GOLDTEST_PCSIM_AZ18.deleted=1 GOLDTEST_PCSIM_MN51=0 GOLDTEST_PCSIM_MN10=0 GOLDTEST_PCSIM_PR08=14 GOLDTEST_PCSIM_DCW=0 GOLDTEST_PCSIM_FL51=0"
+--04-30T12:39  clearcase_nm75 import sync from replica "GOLDTEST_PCSIM_MN51" to replica "GOLDTEST_PCSIM_FL51"
+  "Imported synchronization information from replica "GOLDTEST_PCSIM_MN51".
+   Row at import was: GOLDTEST_PCSIM_MN17=14 GOLDTEST_PCSIM_AZ18.deleted=1 GOLDTEST_PCSIM_MN51=0 GOLDTEST_PCSIM_MN10=0 GOLDTEST_PCSIM_PR08=14 GOLDTEST_PCSIM_DCW=0 GOLDTEST_PCSIM_FL51=0"
+--04-30T12:36  clearcase_nm75 import sync from replica "GOLDTEST_PCSIM_DCW" to replica "GOLDTEST_PCSIM_FL51"
+  "Imported synchronization information from replica "GOLDTEST_PCSIM_DCW".
+   Row at import was: GOLDTEST_PCSIM_MN17=14 GOLDTEST_PCSIM_AZ18.deleted=1 GOLDTEST_PCSIM_MN51=0 GOLDTEST_PCSIM_MN10=0 GOLDTEST_PCSIM_PR08=14 GOLDTEST_PCSIM_DCW=0 GOLDTEST_PCSIM_FL51=0"
+--04-30T12:33  clearcase_nm75 import sync from replica "GOLDTEST_PCSIM_MN17" to replica "GOLDTEST_PCSIM_FL51"
+  "Imported synchronization information from replica "GOLDTEST_PCSIM_MN17".
+   Row at import was: GOLDTEST_PCSIM_MN17=13 GOLDTEST_PCSIM_AZ18.deleted=1 GOLDTEST_PCSIM_MN51=0 GOLDTEST_PCSIM_MN10=0 GOLDTEST_PCSIM_PR08=14 GOLDTEST_PCSIM_DCW=0 GOLDTEST_PCSIM_FL51=0"
+--04-30T12:33  e704548    change master to "GOLDTEST_PCSIM_DCW" of replica "GOLDTEST_PCSIM_DCW"
+  "Changed master replica from "GOLDTEST_PCSIM_MN17" to "GOLDTEST_PCSIM_DCW"."
+--04-30T12:33  clearcase_nm75 import sync from replica "GOLDTEST_PCSIM_MN17" to replica "GOLDTEST_PCSIM_FL51"
+  "Imported synchronization information from replica "GOLDTEST_PCSIM_MN17".
+   Row at import was: GOLDTEST_PCSIM_MN17=10 GOLDTEST_PCSIM_AZ18=1 GOLDTEST_PCSIM_MN51=0 GOLDTEST_PCSIM_MN10=0 GOLDTEST_PCSIM_PR08=14 GOLDTEST_PCSIM_DCW=0 GOLDTEST_PCSIM_FL51=0"
+--04-30T12:33  e704548    rename replica "GOLDTEST_PCSIM_AZ18.deleted"
+  "Changed name of replica from "GOLDTEST_PCSIM_AZ18" to "GOLDTEST_PCSIM_AZ18.deleted".
+   Destroyed replica "GOLDTEST_PCSIM_AZ18"."
+--04-30T12:33  e704548    destroy replica in versioned object base "\GOLDTEST_PCSIM"
+  "Destroyed replica "GOLDTEST_PCSIM_AZ18"."
+--04-30T12:33  e704548    change master to "GOLDTEST_PCSIM_MN17" of replica "GOLDTEST_PCSIM_DCW"
+  "Changed master replica from "GOLDTEST_PCSIM_AZ18" to "GOLDTEST_PCSIM_MN17"."
+--04-30T12:33  e704548    change master to "GOLDTEST_PCSIM_MN17" of replica "GOLDTEST_PCSIM_AZ18.deleted"
+  "Changed master replica from "GOLDTEST_PCSIM_AZ18" to "GOLDTEST_PCSIM_MN17"."
+--03-25T12:12  clearcase_nm75 export sync from replica "GOLDTEST_PCSIM_FL51" to replica "GOLDTEST_PCSIM_DCW"
+  "Exported synchronization information for replica "GOLDTEST_PCSIM_DCW".
+   Row at export was: GOLDTEST_PCSIM_DCW=0 GOLDTEST_PCSIM_MN51=0 GOLDTEST_PCSIM_AZ18=0 GOLDTEST_PCSIM_MN17=10 GOLDTEST_PCSIM_MN10=0 GOLDTEST_PCSIM_FL51=0 GOLDTEST_PCSIM_PR08=14"
+--02-13T14:00  clearcase_nm75 import sync from replica "GOLDTEST_PCSIM_MN10" to replica "GOLDTEST_PCSIM_FL51"
+  "Imported synchronization information from replica "GOLDTEST_PCSIM_MN10".
+   Row at import was: GOLDTEST_PCSIM_MN17=10 GOLDTEST_PCSIM_AZ18=1 GOLDTEST_PCSIM_MN51=0 GOLDTEST_PCSIM_MN10=0 GOLDTEST_PCSIM_PR08=14 GOLDTEST_PCSIM_DCW=0 GOLDTEST_PCSIM_FL51=0"
+--02-13T09:30  clearcase_nm75 import sync from replica "GOLDTEST_PCSIM_MN51" to replica "GOLDTEST_PCSIM_FL51"
+  "Imported synchronization information from replica "GOLDTEST_PCSIM_MN51".
+   Row at import was: GOLDTEST_PCSIM_MN17=10 GOLDTEST_PCSIM_AZ18=1 GOLDTEST_PCSIM_MN51=0 GOLDTEST_PCSIM_MN10=0 GOLDTEST_PCSIM_PR08=14 GOLDTEST_PCSIM_DCW=0 GOLDTEST_PCSIM_FL51=0"
+--02-13T09:20  clearcase_nm75 import sync from replica "GOLDTEST_PCSIM_MN17" to replica "GOLDTEST_PCSIM_FL51"
+  "Imported synchronization information from replica "GOLDTEST_PCSIM_MN17".
+   Row at import was: GOLDTEST_PCSIM_MN17=10 GOLDTEST_PCSIM_AZ18=1 GOLDTEST_PCSIM_MN51=0 GOLDTEST_PCSIM_MN10=0 GOLDTEST_PCSIM_PR08=14 GOLDTEST_PCSIM_DCW=0 GOLDTEST_PCSIM_FL51=0"
+2013-06-27     clearcase_nm75 import sync from replica "GOLDTEST_PCSIM_PR08" to replica "GOLDTEST_PCSIM_FL51"
+  "Imported synchronization information from replica "GOLDTEST_PCSIM_PR08".
+   Row at import was: GOLDTEST_PCSIM_MN17=10 GOLDTEST_PCSIM_AZ18=1 GOLDTEST_PCSIM_MN51=0 GOLDTEST_PCSIM_MN10=0 GOLDTEST_PCSIM_PR08=14 GOLDTEST_PCSIM_DCW=0 GOLDTEST_PCSIM_FL51=0"
+2013-06-19     clearcase_nm75 import sync from replica "GOLDTEST_PCSIM_PR08" to replica "GOLDTEST_PCSIM_FL51"
+  "Imported synchronization information from replica "GOLDTEST_PCSIM_PR08".
+   Row at import was: GOLDTEST_PCSIM_MN17=10 GOLDTEST_PCSIM_AZ18=1 GOLDTEST_PCSIM_MN51=0 GOLDTEST_PCSIM_MN10=0 GOLDTEST_PCSIM_PR08=14 GOLDTEST_PCSIM_DCW=0 GOLDTEST_PCSIM_FL51=0"
+2013-06-13     clearcase_nm75 import sync from replica "GOLDTEST_PCSIM_DCW" to replica "GOLDTEST_PCSIM_FL51"
+  "Imported synchronization information from replica "GOLDTEST_PCSIM_DCW".
+   Row at import was: GOLDTEST_PCSIM_MN17=10 GOLDTEST_PCSIM_AZ18=1 GOLDTEST_PCSIM_MN51=0 GOLDTEST_PCSIM_MN10=0 GOLDTEST_PCSIM_PR08=14 GOLDTEST_PCSIM_DCW=0 GOLDTEST_PCSIM_FL51=0"
+2013-06-13     clearcase_nm75 import sync from replica "GOLDTEST_PCSIM_AZ18.deleted" to replica "GOLDTEST_PCSIM_FL51"
+  "Imported synchronization information from replica "GOLDTEST_PCSIM_AZ18".
+   Row at import was: GOLDTEST_PCSIM_MN17=10 GOLDTEST_PCSIM_AZ18=0 GOLDTEST_PCSIM_MN51=0 GOLDTEST_PCSIM_MN10=0 GOLDTEST_PCSIM_PR08=14 GOLDTEST_PCSIM_FL51=0"
+2013-06-13     root       create replica "GOLDTEST_PCSIM_DCW"
+2013-06-13     clearcase_nm75 import sync from replica "GOLDTEST_PCSIM_AZ18.deleted" to replica "GOLDTEST_PCSIM_FL51"
+  "Imported synchronization information from replica "GOLDTEST_PCSIM_AZ18".
+   Row at import was: GOLDTEST_PCSIM_MN17=10 GOLDTEST_PCSIM_AZ18=0 GOLDTEST_PCSIM_MN51=0 GOLDTEST_PCSIM_MN10=0 GOLDTEST_PCSIM_PR08=13 GOLDTEST_PCSIM_FL51=0"
+2013-06-13     e721877    import sync to replica "GOLDTEST_PCSIM_PR08"
+  "Changed information associated with replica."
+2013-04-12     clearcase_nm75 import sync from replica "GOLDTEST_PCSIM_AZ18.deleted" to replica "GOLDTEST_PCSIM_FL51"
+  "Imported synchronization information from replica "GOLDTEST_PCSIM_AZ18".
+   Row at import was: GOLDTEST_PCSIM_MN17=10 GOLDTEST_PCSIM_AZ18=0 GOLDTEST_PCSIM_MN51=0 GOLDTEST_PCSIM_MN10=0 GOLDTEST_PCSIM_PR08=12 GOLDTEST_PCSIM_FL51=0"
+2013-04-12     sv-das_cc_albd import sync to replica "GOLDTEST_PCSIM_PR08"
+  "Changed information associated with replica."
+2013-04-12     clearcase_nm75 import sync from replica "GOLDTEST_PCSIM_AZ18.deleted" to replica "GOLDTEST_PCSIM_FL51"
+  "Imported synchronization information from replica "GOLDTEST_PCSIM_AZ18".
+   Row at import was: GOLDTEST_PCSIM_MN17=10 GOLDTEST_PCSIM_AZ18=0 GOLDTEST_PCSIM_MN51=0 GOLDTEST_PCSIM_MN10=0 GOLDTEST_PCSIM_PR08=11 GOLDTEST_PCSIM_FL51=0"
+2013-04-12     clearcase_nm75 import sync from replica "GOLDTEST_PCSIM_AZ18.deleted" to replica "GOLDTEST_PCSIM_FL51"
+  "Imported synchronization information from replica "GOLDTEST_PCSIM_AZ18".
+   Row at import was: GOLDTEST_PCSIM_MN17=10 GOLDTEST_PCSIM_AZ18=0 GOLDTEST_PCSIM_MN51=0 GOLDTEST_PCSIM_MN10=0 GOLDTEST_PCSIM_PR08=10 GOLDTEST_PCSIM_FL51=0"
+2013-04-12     sv-das_cc_albd import sync to replica "GOLDTEST_PCSIM_PR08"
+  "Changed information associated with replica."
+2013-04-12     sv-das_cc_albd import sync to replica "GOLDTEST_PCSIM_PR08"
+  "Changed information associated with replica."
+2011-09-07     clearcase_nm75 import sync from replica "GOLDTEST_PCSIM_AZ18.deleted" to replica "GOLDTEST_PCSIM_FL51"
+  "Imported synchronization information from replica "GOLDTEST_PCSIM_AZ18".
+   Row at import was: GOLDTEST_PCSIM_MN17=10 GOLDTEST_PCSIM_AZ18=0 GOLDTEST_PCSIM_MN51=0 GOLDTEST_PCSIM_MN10=0 GOLDTEST_PCSIM_PR08=5 GOLDTEST_PCSIM_FL51=0"
+2011-09-07     E445881    create directory version "M:\admin_view\GOLDTEST_PCSIM\scripts@@\main\hjruiz_COMMON_G\1"
+2011-09-07     clearcase_nm75 make hyperlink "Change" on directory version "M:\admin_view\GOLDTEST_PCSIM\scripts@@\main\hjruiz_COMMON_G\1"
+2011-09-02     clearcase_nm75 import sync from replica "GOLDTEST_PCSIM_AZ18.deleted" to replica "GOLDTEST_PCSIM_FL51"
+  "Imported synchronization information from replica "GOLDTEST_PCSIM_AZ18".
+   Row at import was: GOLDTEST_PCSIM_MN17=10 GOLDTEST_PCSIM_AZ18=0 GOLDTEST_PCSIM_MN51=0 GOLDTEST_PCSIM_MN10=0 GOLDTEST_PCSIM_PR08=0 GOLDTEST_PCSIM_FL51=0"
+2011-09-02     E445881    create directory version "M:\admin_view\GOLDTEST_PCSIM\scripts@@\main\hjruiz_COMMON_G\0"
+2011-09-02     E445881    create branch "M:\admin_view\GOLDTEST_PCSIM\scripts@@\main\hjruiz_COMMON_G"
+2011-09-02     E445881    make hyperlink "GlobalDefinition" on branch type "hjruiz_COMMON_G"
+  "Automatically created branch type from global definition in VOB "\PCSIM_PVOB"."
+2011-09-02     E445881    create hyperlink "GlobalDefinition@64@\GOLDTEST_PCSIM"
+  "Automatically created branch type from global definition in VOB "\PCSIM_PVOB"."
+2011-09-02     E445881    create branch type "hjruiz_COMMON_G"
+  "Automatically created branch type from global definition in VOB "\PCSIM_PVOB"."
+2010-08-02     clearcase_nm75 import sync from replica "GOLDTEST_PCSIM_AZ18.deleted" to replica "GOLDTEST_PCSIM_FL51"
+  "Imported synchronization information from replica "GOLDTEST_PCSIM_AZ18".
+   Row at import was: GOLDTEST_PCSIM_MN17=10 GOLDTEST_PCSIM_AZ18=0 GOLDTEST_PCSIM_MN51=0 GOLDTEST_PCSIM_MN10=0 GOLDTEST_PCSIM_PR08=0 GOLDTEST_PCSIM_FL51=0"
+2010-07-29     clearcase_nm75 export sync from replica "GOLDTEST_PCSIM_FL51" to replica "GOLDTEST_PCSIM_PR08"
+  "Exported synchronization information for replica "GOLDTEST_PCSIM_PR08".
+   Row at export was: GOLDTEST_PCSIM_MN51=0 GOLDTEST_PCSIM_AZ18=0 GOLDTEST_PCSIM_MN17=8 GOLDTEST_PCSIM_MN10=0 GOLDTEST_PCSIM_FL51=0 GOLDTEST_PCSIM_PR08=0"
+2010-07-29     clearcase_nm75 export sync from replica "GOLDTEST_PCSIM_FL51" to replica "GOLDTEST_PCSIM_MN51"
+  "Exported synchronization information for replica "GOLDTEST_PCSIM_MN51".
+   Row at export was: GOLDTEST_PCSIM_MN51=0 GOLDTEST_PCSIM_AZ18=0 GOLDTEST_PCSIM_MN17=4 GOLDTEST_PCSIM_MN10=0 GOLDTEST_PCSIM_FL51=0 GOLDTEST_PCSIM_PR08=0"
+2010-07-29     clearcase_nm75 export sync from replica "GOLDTEST_PCSIM_FL51" to replica "GOLDTEST_PCSIM_MN10"
+  "Exported synchronization information for replica "GOLDTEST_PCSIM_MN10".
+   Row at export was: GOLDTEST_PCSIM_MN51=0 GOLDTEST_PCSIM_AZ18=0 GOLDTEST_PCSIM_MN17=6 GOLDTEST_PCSIM_MN10=0 GOLDTEST_PCSIM_FL51=0 GOLDTEST_PCSIM_PR08=0"
+2010-07-29     clearcase_nm75 export sync from replica "GOLDTEST_PCSIM_FL51" to replica "GOLDTEST_PCSIM_AZ18.deleted"
+  "Exported synchronization information for replica "GOLDTEST_PCSIM_AZ18".
+   Row at export was: GOLDTEST_PCSIM_MN51=0 GOLDTEST_PCSIM_AZ18=0 GOLDTEST_PCSIM_MN17=2 GOLDTEST_PCSIM_MN10=0 GOLDTEST_PCSIM_FL51=0 GOLDTEST_PCSIM_PR08=0"
+2010-07-29     clearcase_nm75 import sync from replica "GOLDTEST_PCSIM_MN17" to replica "GOLDTEST_PCSIM_FL51"
+  "Imported synchronization information from replica "GOLDTEST_PCSIM_MN17".
+   Row at import was: GOLDTEST_PCSIM_MN17=4 GOLDTEST_PCSIM_AZ18=0 GOLDTEST_PCSIM_FL51=0"
+2010-07-29     clearcase_nm75 import sync from replica "GOLDTEST_PCSIM_MN17" to replica "GOLDTEST_PCSIM_FL51"
+  "Imported synchronization information from replica "GOLDTEST_PCSIM_MN17".
+   Row at import was: GOLDTEST_PCSIM_MN17=3 GOLDTEST_PCSIM_AZ18=0 GOLDTEST_PCSIM_FL51=0"
+2010-07-29     e702445    protect directory element "M:\admin_view\GOLDTEST_PCSIM\report@@"
+  "CHMOD 770; CHOWN e702445; CHGRP aero.ecoe.ies.pcsim"

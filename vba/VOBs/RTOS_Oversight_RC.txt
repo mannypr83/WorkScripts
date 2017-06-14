@@ -1,0 +1,142 @@
+--06-30T10:45  clearcase_nm75 protect directory element "M:\admin_view\RTOS_Oversight_RC\.@@"
+  "CHMOD 775"
+--06-24T13:41  clearcase_nm75 import sync from replica "RTOS_Oversight_RC_NM75" to replica "RTOS_Oversight_RC_FL51"
+  "Imported synchronization information from replica "RTOS_Oversight_RC_NM75".
+   Row at import was: RTOS_Oversight_RC_AZ75=26234 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_FL51=0"
+--06-24T13:40  clearcase_nm75 import sync from replica "RTOS_Oversight_RC_AZ10" to replica "RTOS_Oversight_RC_FL51"
+  "Imported synchronization information from replica "RTOS_Oversight_RC_AZ10".
+   Row at import was: RTOS_Oversight_RC_AZ75=26234 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_FL51=0"
+--06-24T13:40  clearcase_nm75 export sync from replica "RTOS_Oversight_RC_FL51" to replica "RTOS_Oversight_RC_DCW"
+  "Exported synchronization information for replica "RTOS_Oversight_RC_DCW".
+   Row at export was: RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ75=26231 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_FL51=0"
+--06-24T13:35  clearcase_nm75 import sync from replica "RTOS_Oversight_RC_DCW" to replica "RTOS_Oversight_RC_FL51"
+  "Imported synchronization information from replica "RTOS_Oversight_RC_DCW".
+   Row at import was: RTOS_Oversight_RC_AZ75=26234 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_FL51=0"
+--06-24T13:31  clearcase_nm75 import sync from replica "RTOS_Oversight_RC_AZ75" to replica "RTOS_Oversight_RC_FL51"
+  "Imported synchronization information from replica "RTOS_Oversight_RC_AZ75".
+   Row at import was: RTOS_Oversight_RC_AZ75=26231 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_FL51=0"
+--06-24T13:11  clearcase_nm75 import sync from replica "RTOS_Oversight_RC_NM75" to replica "RTOS_Oversight_RC_FL51"
+  "Imported synchronization information from replica "RTOS_Oversight_RC_NM75".
+   Row at import was: RTOS_Oversight_RC_AZ75=26231 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_FL51=0"
+--06-24T13:10  clearcase_nm75 import sync from replica "RTOS_Oversight_RC_AZ10" to replica "RTOS_Oversight_RC_FL51"
+  "Imported synchronization information from replica "RTOS_Oversight_RC_AZ10".
+   Row at import was: RTOS_Oversight_RC_AZ75=26231 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_FL51=0"
+--06-24T13:10  clearcase_nm75 export sync from replica "RTOS_Oversight_RC_FL51" to replica "RTOS_Oversight_RC_DCW"
+  "Exported synchronization information for replica "RTOS_Oversight_RC_DCW".
+   Row at export was: RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ75=26228 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_FL51=0"
+--06-24T13:05  clearcase_nm75 import sync from replica "RTOS_Oversight_RC_DCW" to replica "RTOS_Oversight_RC_FL51"
+  "Imported synchronization information from replica "RTOS_Oversight_RC_DCW".
+   Row at import was: RTOS_Oversight_RC_AZ75=26231 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_FL51=0"
+--06-24T13:03  clearcase_nm75 import sync from replica "RTOS_Oversight_RC_AZ75" to replica "RTOS_Oversight_RC_FL51"
+  "Imported synchronization information from replica "RTOS_Oversight_RC_AZ75".
+   Row at import was: RTOS_Oversight_RC_AZ75=26228 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_FL51=0"
+--06-23T16:01  clearcase_nm75 import sync from replica "RTOS_Oversight_RC_NM75" to replica "RTOS_Oversight_RC_FL51"
+  "Imported synchronization information from replica "RTOS_Oversight_RC_NM75".
+   Row at import was: RTOS_Oversight_RC_AZ75=26228 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_FL51=0"
+--06-23T16:01  clearcase_nm75 import sync from replica "RTOS_Oversight_RC_AZ10" to replica "RTOS_Oversight_RC_FL51"
+  "Imported synchronization information from replica "RTOS_Oversight_RC_AZ10".
+   Row at import was: RTOS_Oversight_RC_AZ75=26228 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_FL51=0"
+--06-23T15:56  clearcase_nm75 export sync from replica "RTOS_Oversight_RC_FL51" to replica "RTOS_Oversight_RC_DCW"
+  "Exported synchronization information for replica "RTOS_Oversight_RC_DCW".
+   Row at export was: RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ75=26227 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_FL51=0"
+--06-23T15:55  clearcase_nm75 import sync from replica "RTOS_Oversight_RC_DCW" to replica "RTOS_Oversight_RC_FL51"
+  "Imported synchronization information from replica "RTOS_Oversight_RC_DCW".
+   Row at import was: RTOS_Oversight_RC_AZ75=26228 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_FL51=0"
+--06-23T15:51  clearcase_nm75 import sync from replica "RTOS_Oversight_RC_AZ75" to replica "RTOS_Oversight_RC_FL51"
+  "Imported synchronization information from replica "RTOS_Oversight_RC_AZ75".
+   Row at import was: RTOS_Oversight_RC_AZ75=26227 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_FL51=0"
+--06-23T15:48  h101503    create version "M:\admin_view\RTOS_Oversight_RC\Products\usb\ehci-class-library\branches\mainline\code\ehci_pci.c@@\main\2"
+--06-23T15:00  clearcase_nm75 export sync from replica "RTOS_Oversight_RC_FL51" to replica "RTOS_Oversight_RC_DCW"
+  "Exported synchronization information for replica "RTOS_Oversight_RC_DCW".
+   Row at export was: RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ75=26226 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_FL51=0"
+--06-23T15:00  clearcase_nm75 import sync from replica "RTOS_Oversight_RC_NM75" to replica "RTOS_Oversight_RC_FL51"
+  "Imported synchronization information from replica "RTOS_Oversight_RC_NM75".
+   Row at import was: RTOS_Oversight_RC_AZ75=26227 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_FL51=0"
+--06-23T14:55  clearcase_nm75 import sync from replica "RTOS_Oversight_RC_DCW" to replica "RTOS_Oversight_RC_FL51"
+  "Imported synchronization information from replica "RTOS_Oversight_RC_DCW".
+   Row at import was: RTOS_Oversight_RC_AZ75=26227 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_FL51=0"
+--06-23T14:51  clearcase_nm75 import sync from replica "RTOS_Oversight_RC_AZ10" to replica "RTOS_Oversight_RC_FL51"
+  "Imported synchronization information from replica "RTOS_Oversight_RC_AZ10".
+   Row at import was: RTOS_Oversight_RC_AZ75=26227 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_FL51=0"
+--06-23T14:51  clearcase_nm75 import sync from replica "RTOS_Oversight_RC_AZ75" to replica "RTOS_Oversight_RC_FL51"
+  "Imported synchronization information from replica "RTOS_Oversight_RC_AZ75".
+   Row at import was: RTOS_Oversight_RC_AZ75=26226 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_FL51=0"
+--06-23T13:30  clearcase_nm75 import sync from replica "RTOS_Oversight_RC_AZ10" to replica "RTOS_Oversight_RC_FL51"
+  "Imported synchronization information from replica "RTOS_Oversight_RC_AZ10".
+   Row at import was: RTOS_Oversight_RC_AZ75=26226 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_FL51=0"
+--06-23T13:21  clearcase_nm75 import sync from replica "RTOS_Oversight_RC_NM75" to replica "RTOS_Oversight_RC_FL51"
+  "Imported synchronization information from replica "RTOS_Oversight_RC_NM75".
+   Row at import was: RTOS_Oversight_RC_AZ75=26226 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_FL51=0"
+--06-23T13:20  clearcase_nm75 export sync from replica "RTOS_Oversight_RC_FL51" to replica "RTOS_Oversight_RC_DCW"
+  "Exported synchronization information for replica "RTOS_Oversight_RC_DCW".
+   Row at export was: RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ75=26224 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_FL51=0"
+--06-23T13:15  clearcase_nm75 import sync from replica "RTOS_Oversight_RC_DCW" to replica "RTOS_Oversight_RC_FL51"
+  "Imported synchronization information from replica "RTOS_Oversight_RC_DCW".
+   Row at import was: RTOS_Oversight_RC_AZ75=26226 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_FL51=0"
+--06-23T13:13  clearcase_nm75 import sync from replica "RTOS_Oversight_RC_AZ75" to replica "RTOS_Oversight_RC_FL51"
+  "Imported synchronization information from replica "RTOS_Oversight_RC_AZ75".
+   Row at import was: RTOS_Oversight_RC_AZ75=26224 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_FL51=0"
+--06-23T13:06  h101503    create version "M:\admin_view\RTOS_Oversight_RC\Products\usb\ehci-class-library\branches\mainline\configure.ac@@\main\2"
+--06-20T16:31  clearcase_nm75 import sync from replica "RTOS_Oversight_RC_NM75" to replica "RTOS_Oversight_RC_FL51"
+  "Imported synchronization information from replica "RTOS_Oversight_RC_NM75".
+   Row at import was: RTOS_Oversight_RC_AZ75=26224 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_FL51=0"
+--06-20T16:31  clearcase_nm75 import sync from replica "RTOS_Oversight_RC_AZ10" to replica "RTOS_Oversight_RC_FL51"
+  "Imported synchronization information from replica "RTOS_Oversight_RC_AZ10".
+   Row at import was: RTOS_Oversight_RC_AZ75=26224 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_FL51=0"
+--06-20T16:30  clearcase_nm75 export sync from replica "RTOS_Oversight_RC_FL51" to replica "RTOS_Oversight_RC_DCW"
+  "Exported synchronization information for replica "RTOS_Oversight_RC_DCW".
+   Row at export was: RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ75=26220 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_FL51=0"
+--06-20T16:25  clearcase_nm75 import sync from replica "RTOS_Oversight_RC_DCW" to replica "RTOS_Oversight_RC_FL51"
+  "Imported synchronization information from replica "RTOS_Oversight_RC_DCW".
+   Row at import was: RTOS_Oversight_RC_AZ75=26224 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_FL51=0"
+--06-20T16:21  clearcase_nm75 import sync from replica "RTOS_Oversight_RC_AZ75" to replica "RTOS_Oversight_RC_FL51"
+  "Imported synchronization information from replica "RTOS_Oversight_RC_AZ75".
+   Row at import was: RTOS_Oversight_RC_AZ75=26220 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_FL51=0"
+--06-19T22:10  clearcase_nm75 protect directory element "M:\admin_view\RTOS_Oversight_RC\.@@"
+  "CHMOD 770"
+--06-19T22:10  clearcase_nm75 protect directory element "M:\admin_view\RTOS_Oversight_RC\.@@"
+  "CHMOD 775"
+--06-18T19:01  clearcase_nm75 import sync from replica "RTOS_Oversight_RC_NM75" to replica "RTOS_Oversight_RC_FL51"
+  "Imported synchronization information from replica "RTOS_Oversight_RC_NM75".
+   Row at import was: RTOS_Oversight_RC_AZ75=26220 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_FL51=0"
+--06-18T19:00  clearcase_nm75 export sync from replica "RTOS_Oversight_RC_FL51" to replica "RTOS_Oversight_RC_DCW"
+  "Exported synchronization information for replica "RTOS_Oversight_RC_DCW".
+   Row at export was: RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ75=26218 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_FL51=0"
+--06-18T18:55  clearcase_nm75 import sync from replica "RTOS_Oversight_RC_DCW" to replica "RTOS_Oversight_RC_FL51"
+  "Imported synchronization information from replica "RTOS_Oversight_RC_DCW".
+   Row at import was: RTOS_Oversight_RC_AZ75=26220 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_FL51=0"
+--06-18T18:52  clearcase_nm75 import sync from replica "RTOS_Oversight_RC_AZ10" to replica "RTOS_Oversight_RC_FL51"
+  "Imported synchronization information from replica "RTOS_Oversight_RC_AZ10".
+   Row at import was: RTOS_Oversight_RC_AZ75=26220 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_FL51=0"
+--06-18T18:51  clearcase_nm75 import sync from replica "RTOS_Oversight_RC_AZ75" to replica "RTOS_Oversight_RC_FL51"
+  "Imported synchronization information from replica "RTOS_Oversight_RC_AZ75".
+   Row at import was: RTOS_Oversight_RC_AZ75=26218 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_FL51=0"
+--06-18T18:45  e821673    create directory version "M:\admin_view\RTOS_Oversight_RC\Products\usb\interface-library\branches\mainline@@\main\3"
+--06-16T16:21  clearcase_nm75 import sync from replica "RTOS_Oversight_RC_NM75" to replica "RTOS_Oversight_RC_FL51"
+  "Imported synchronization information from replica "RTOS_Oversight_RC_NM75".
+   Row at import was: RTOS_Oversight_RC_AZ75=26218 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_FL51=0"
+--06-16T16:20  clearcase_nm75 export sync from replica "RTOS_Oversight_RC_FL51" to replica "RTOS_Oversight_RC_DCW"
+  "Exported synchronization information for replica "RTOS_Oversight_RC_DCW".
+   Row at export was: RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ75=26066 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_FL51=0"
+--06-16T16:20  clearcase_nm75 import sync from replica "RTOS_Oversight_RC_NM75" to replica "RTOS_Oversight_RC_FL51"
+  "Imported synchronization information from replica "RTOS_Oversight_RC_NM75".
+   Row at import was: RTOS_Oversight_RC_AZ75=26218 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_FL51=0"
+--06-16T16:15  clearcase_nm75 import sync from replica "RTOS_Oversight_RC_DCW" to replica "RTOS_Oversight_RC_FL51"
+  "Imported synchronization information from replica "RTOS_Oversight_RC_DCW".
+   Row at import was: RTOS_Oversight_RC_AZ75=26218 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_FL51=0"
+--06-16T16:12  clearcase_nm75 import sync from replica "RTOS_Oversight_RC_AZ10" to replica "RTOS_Oversight_RC_FL51"
+  "Imported synchronization information from replica "RTOS_Oversight_RC_AZ10".
+   Row at import was: RTOS_Oversight_RC_AZ75=26218 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_FL51=0"
+--06-16T16:11  clearcase_nm75 import sync from replica "RTOS_Oversight_RC_AZ75" to replica "RTOS_Oversight_RC_FL51"
+  "Imported synchronization information from replica "RTOS_Oversight_RC_AZ75".
+   Row at import was: RTOS_Oversight_RC_AZ75=26066 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_FL51=0"
+--06-16T16:10  clearcase_nm75 export sync from replica "RTOS_Oversight_RC_FL51" to replica "RTOS_Oversight_RC_DCW"
+  "Exported synchronization information for replica "RTOS_Oversight_RC_DCW".
+   Row at export was: RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ75=26063 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_FL51=0"
+--06-16T16:10  e198614    create directory version "M:\admin_view\RTOS_Oversight_RC\Products\usb@@\main\4"
+  " 
+   Added directory element "stack".
+   Added directory element "interface-library"."
+--06-16T16:10  clearcase_nm75 import sync from replica "RTOS_Oversight_RC_AZ75" to replica "RTOS_Oversight_RC_FL51"
+  "Imported synchronization information from replica "RTOS_Oversight_RC_AZ75".
+   Row at import was: RTOS_Oversight_RC_AZ75=26063 RTOS_Oversight_RC_NM75=19 RTOS_Oversight_RC_AZ18.deleted=4 RTOS_Oversight_RC_MN17=0 RTOS_Oversight_RC_DCW=0 RTOS_Oversight_RC_AZ10=1 RTOS_Oversight_RC_FL51=0"

@@ -1,0 +1,121 @@
+--06-30T10:41  clearcase_nm75 protect directory element "M:\admin_view\MBD_US_PVOB\.@@"
+  "CHMOD 775"
+--06-30T10:37  clearcase_nm75 protect directory element "M:\admin_view\MBD_US_PVOB\.@@"
+  "CHMOD 770"
+--06-30T10:37  clearcase_nm75 protect directory element "M:\admin_view\MBD_US_PVOB\.@@"
+  "CHMOD 775"
+--06-30T10:35  clearcase_nm75 protect directory element "M:\admin_view\MBD_US_PVOB\.@@"
+  "CHMOD 770"
+--06-30T10:35  clearcase_nm75 protect directory element "M:\admin_view\MBD_US_PVOB\.@@"
+  "CHMOD 775"
+--06-17T18:00  clearcase_nm75 protect directory element "M:\admin_view\MBD_US_PVOB\.@@"
+  "CHMOD 770"
+--06-17T18:00  clearcase_nm75 protect directory element "M:\admin_view\MBD_US_PVOB\.@@"
+  "CHMOD 775"
+--05-01T14:05  clearcase_nm75 import sync from replica "MBD_US_PVOB_DCW" to replica "MBD_US_PVOB_FL51"
+  "Imported synchronization information from replica "MBD_US_PVOB_DCW".
+   Row at import was: MBD_US_PVOB_AZ18.deleted=6 MBD_US_PVOB_MN17=7 MBD_US_PVOB_MN10=0 MBD_US_PVOB_MN51=0 MBD_US_PVOB_PR08=4 MBD_US_PVOB_DCW=0 MBD_US_PVOB_FL51=0"
+--05-01T14:00  clearcase_nm75 export sync from replica "MBD_US_PVOB_FL51" to replica "MBD_US_PVOB_DCW"
+  "Exported synchronization information for replica "MBD_US_PVOB_DCW".
+   Row at export was: MBD_US_PVOB_DCW=0 MBD_US_PVOB_PR08=4 MBD_US_PVOB_FL51=0 MBD_US_PVOB_MN17=1 MBD_US_PVOB_MN51=0 MBD_US_PVOB_MN10=0 MBD_US_PVOB_AZ18.deleted=6"
+--05-01T14:00  clearcase_nm75 import sync from replica "MBD_US_PVOB_MN17" to replica "MBD_US_PVOB_FL51"
+  "Imported synchronization information from replica "MBD_US_PVOB_MN17".
+   Row at import was: MBD_US_PVOB_AZ18.deleted=6 MBD_US_PVOB_MN17=6 MBD_US_PVOB_MN10=0 MBD_US_PVOB_MN51=0 MBD_US_PVOB_PR08=4 MBD_US_PVOB_DCW=0 MBD_US_PVOB_FL51=0"
+--05-01T13:57  clearcase_nm75 import sync from replica "MBD_US_PVOB_MN17" to replica "MBD_US_PVOB_FL51"
+  "Imported synchronization information from replica "MBD_US_PVOB_MN17".
+   Row at import was: MBD_US_PVOB_AZ18=6 MBD_US_PVOB_MN17=1 MBD_US_PVOB_MN10=0 MBD_US_PVOB_MN51=0 MBD_US_PVOB_PR08=4 MBD_US_PVOB_DCW=0 MBD_US_PVOB_FL51=0"
+--05-01T13:57  e704548    change master to "MBD_US_PVOB_DCW" of replica "MBD_US_PVOB_DCW"
+  "Changed master replica from "MBD_US_PVOB_MN17" to "MBD_US_PVOB_DCW"."
+--05-01T13:56  e704548    rename replica "MBD_US_PVOB_AZ18.deleted"
+  "Changed name of replica from "MBD_US_PVOB_AZ18" to "MBD_US_PVOB_AZ18.deleted".
+   Destroyed replica "MBD_US_PVOB_AZ18"."
+--05-01T13:56  e704548    destroy replica in versioned object base "\MBD_US_PVOB"
+  "Destroyed replica "MBD_US_PVOB_AZ18"."
+--05-01T13:56  e704548    change master to "MBD_US_PVOB_MN17" of replica "MBD_US_PVOB_DCW"
+  "Changed master replica from "MBD_US_PVOB_AZ18" to "MBD_US_PVOB_MN17"."
+--05-01T13:56  e704548    change master to "MBD_US_PVOB_MN17" of replica "MBD_US_PVOB_FL51"
+  "Changed master replica from "MBD_US_PVOB_AZ18" to "MBD_US_PVOB_MN17"."
+--05-01T13:56  e704548    change master to "MBD_US_PVOB_MN17" of replica "MBD_US_PVOB_MN51"
+  "Changed master replica from "MBD_US_PVOB_AZ18" to "MBD_US_PVOB_MN17"."
+--05-01T13:56  e704548    change master to "MBD_US_PVOB_MN17" of replica "MBD_US_PVOB_MN10"
+  "Changed master replica from "MBD_US_PVOB_AZ18" to "MBD_US_PVOB_MN17"."
+--03-25T11:52  clearcase_nm75 export sync from replica "MBD_US_PVOB_FL51" to replica "MBD_US_PVOB_DCW"
+  "Exported synchronization information for replica "MBD_US_PVOB_DCW".
+   Row at export was: MBD_US_PVOB_DCW=0 MBD_US_PVOB_PR08=4 MBD_US_PVOB_FL51=0 MBD_US_PVOB_MN17=1 MBD_US_PVOB_MN51=0 MBD_US_PVOB_MN10=0 MBD_US_PVOB_AZ18=5"
+--07-22T15:00  clearcase_nm75 import sync from replica "MBD_US_PVOB_DCW" to replica "MBD_US_PVOB_FL51"
+  "Imported synchronization information from replica "MBD_US_PVOB_DCW".
+   Row at import was: MBD_US_PVOB_AZ18=6 MBD_US_PVOB_MN17=1 MBD_US_PVOB_MN10=0 MBD_US_PVOB_MN51=0 MBD_US_PVOB_PR08=4 MBD_US_PVOB_DCW=0 MBD_US_PVOB_FL51=0"
+--07-22T11:00  clearcase_nm75 import sync from replica "MBD_US_PVOB_AZ18.deleted" to replica "MBD_US_PVOB_FL51"
+  "Imported synchronization information from replica "MBD_US_PVOB_AZ18".
+   Row at import was: MBD_US_PVOB_AZ18=5 MBD_US_PVOB_MN17=1 MBD_US_PVOB_MN10=0 MBD_US_PVOB_MN51=0 MBD_US_PVOB_PR08=4 MBD_US_PVOB_FL51=0"
+--07-22T10:45  root       create replica "MBD_US_PVOB_DCW"
+--07-01T10:01  clearcase_nm75 export sync from replica "MBD_US_PVOB_FL51" to replica "MBD_US_PVOB_AZ18.deleted"
+  "Exported synchronization information for replica "MBD_US_PVOB_AZ18".
+   Row at export was: MBD_US_PVOB_PR08=3 MBD_US_PVOB_FL51=0 MBD_US_PVOB_MN17=1 MBD_US_PVOB_MN51=0 MBD_US_PVOB_MN10=0 MBD_US_PVOB_AZ18=5"
+--07-01T10:00  clearcase_nm75 import sync from replica "MBD_US_PVOB_PR08" to replica "MBD_US_PVOB_FL51"
+  "Imported synchronization information from replica "MBD_US_PVOB_PR08".
+   Row at import was: MBD_US_PVOB_AZ18=5 MBD_US_PVOB_MN17=1 MBD_US_PVOB_MN10=0 MBD_US_PVOB_MN51=0 MBD_US_PVOB_PR08=3 MBD_US_PVOB_FL51=0"
+2013-06-11     e721877    import sync to replica "MBD_US_PVOB_PR08"
+  "Changed information associated with replica."
+2013-04-12     clearcase_nm75 import sync from replica "MBD_US_PVOB_AZ18.deleted" to replica "MBD_US_PVOB_FL51"
+  "Imported synchronization information from replica "MBD_US_PVOB_AZ18".
+   Row at import was: MBD_US_PVOB_AZ18=5 MBD_US_PVOB_MN17=1 MBD_US_PVOB_MN10=0 MBD_US_PVOB_MN51=0 MBD_US_PVOB_PR08=2 MBD_US_PVOB_FL51=0"
+2013-04-12     sv-das_cc_albd import sync to replica "MBD_US_PVOB_PR08"
+  "Changed information associated with replica."
+2013-04-12     clearcase_nm75 import sync from replica "MBD_US_PVOB_AZ18.deleted" to replica "MBD_US_PVOB_FL51"
+  "Imported synchronization information from replica "MBD_US_PVOB_AZ18".
+   Row at import was: MBD_US_PVOB_AZ18=5 MBD_US_PVOB_MN17=1 MBD_US_PVOB_MN10=0 MBD_US_PVOB_MN51=0 MBD_US_PVOB_PR08=1 MBD_US_PVOB_FL51=0"
+2013-04-12     clearcase_nm75 import sync from replica "MBD_US_PVOB_AZ18.deleted" to replica "MBD_US_PVOB_FL51"
+  "Imported synchronization information from replica "MBD_US_PVOB_AZ18".
+   Row at import was: MBD_US_PVOB_AZ18=5 MBD_US_PVOB_MN17=1 MBD_US_PVOB_MN10=0 MBD_US_PVOB_MN51=0 MBD_US_PVOB_PR08=0 MBD_US_PVOB_FL51=0"
+2013-04-12     sv-das_cc_albd import sync to replica "MBD_US_PVOB_PR08"
+  "Changed information associated with replica."
+2013-04-12     clearcase_nm75 import sync from replica "MBD_US_PVOB_AZ18.deleted" to replica "MBD_US_PVOB_FL51"
+  "Imported synchronization information from replica "MBD_US_PVOB_AZ18".
+   Row at import was: MBD_US_PVOB_AZ18=4 MBD_US_PVOB_MN17=1 MBD_US_PVOB_MN10=0 MBD_US_PVOB_MN51=0 MBD_US_PVOB_PR08=0 MBD_US_PVOB_FL51=0"
+2013-04-12     sv-das_cc_albd import sync to replica "MBD_US_PVOB_PR08"
+  "Changed information associated with replica."
+2013-04-12     root       change master to "MBD_US_PVOB_PR08" of replica "MBD_US_PVOB_PR08"
+  "Changed master replica from "MBD_US_PVOB_AZ18" to "MBD_US_PVOB_PR08"."
+2009-05-13     clearcase_nm75 import sync from replica "MBD_US_PVOB_AZ18.deleted" to replica "MBD_US_PVOB_FL51"
+  "Imported synchronization information from replica "MBD_US_PVOB_AZ18".
+   Row at import was: MBD_US_PVOB_AZ18=4 MBD_US_PVOB_MN17=1 MBD_US_PVOB_MN10=0 MBD_US_PVOB_MN51=0 MBD_US_PVOB_PR08=0 MBD_US_PVOB_FL51=0"
+2009-02-17     clearcase_nm75 export sync from replica "MBD_US_PVOB_FL51" to replica "MBD_US_PVOB_MN51"
+  "Exported synchronization information for replica "MBD_US_PVOB_MN51".
+   Row at export was: MBD_US_PVOB_PR08=0 MBD_US_PVOB_FL51=0 MBD_US_PVOB_MN17=1 MBD_US_PVOB_MN51=0 MBD_US_PVOB_MN10=0 MBD_US_PVOB_AZ18=3"
+2009-02-17     clearcase_nm75 export sync from replica "MBD_US_PVOB_FL51" to replica "MBD_US_PVOB_MN17"
+  "Exported synchronization information for replica "MBD_US_PVOB_MN17".
+   Row at export was: MBD_US_PVOB_PR08=0 MBD_US_PVOB_FL51=0 MBD_US_PVOB_MN17=1 MBD_US_PVOB_MN51=0 MBD_US_PVOB_MN10=0 MBD_US_PVOB_AZ18=3"
+2009-02-17     clearcase_nm75 export sync from replica "MBD_US_PVOB_FL51" to replica "MBD_US_PVOB_MN10"
+  "Exported synchronization information for replica "MBD_US_PVOB_MN10".
+   Row at export was: MBD_US_PVOB_PR08=0 MBD_US_PVOB_FL51=0 MBD_US_PVOB_MN17=1 MBD_US_PVOB_MN51=0 MBD_US_PVOB_MN10=0 MBD_US_PVOB_AZ18=3"
+2009-02-17     clearcase_nm75 import sync to replica "MBD_US_PVOB_FL51"
+  "Imported synchronization information from replica "h©"p©"!".
+   Row at import was: MBD_US_PVOB_AZ18=3 MBD_US_PVOB_MN17=1 MBD_US_PVOB_MN10=0 MBD_US_PVOB_MN51=0 MBD_US_PVOB_FL51=0"
+2009-02-10     clearcase_nm75 export sync from replica "MBD_US_PVOB_FL51" to replica "MBD_US_PVOB_MN51"
+  "Exported synchronization information for replica "MBD_US_PVOB_MN51".
+   Row at export was: MBD_US_PVOB_FL51=0 MBD_US_PVOB_MN17=1 MBD_US_PVOB_MN51=0 MBD_US_PVOB_MN10=0 MBD_US_PVOB_AZ18=1"
+2009-02-10     clearcase_nm75 export sync from replica "MBD_US_PVOB_FL51" to replica "MBD_US_PVOB_MN17"
+  "Exported synchronization information for replica "MBD_US_PVOB_MN17".
+   Row at export was: MBD_US_PVOB_FL51=0 MBD_US_PVOB_MN17=1 MBD_US_PVOB_MN51=0 MBD_US_PVOB_MN10=0 MBD_US_PVOB_AZ18=0"
+2009-02-10     clearcase_nm75 export sync from replica "MBD_US_PVOB_FL51" to replica "MBD_US_PVOB_MN10"
+  "Exported synchronization information for replica "MBD_US_PVOB_MN10".
+   Row at export was: MBD_US_PVOB_FL51=0 MBD_US_PVOB_MN17=1 MBD_US_PVOB_MN51=0 MBD_US_PVOB_MN10=0 MBD_US_PVOB_AZ18=0"
+2009-02-06     e704548    modify replica "MBD_US_PVOB_FL51"
+  "Enable requests for mastership."
+2009-02-06     e704548    protect directory element "M:\admin_view\MBD_US_PVOB\processes@@"
+  "CHMOD 770; CHOWN e730056; CHGRP global\aero.utils.us"
+2009-02-06     e704548    protect directory element "M:\admin_view\MBD_US_PVOB\lost+found@@"
+  "CHMOD 770; CHOWN e730056; CHGRP global\aero.utils.us"
+2009-02-06     e704548    protect directory element "M:\admin_view\MBD_US_PVOB\.@@"
+  "CHMOD 770; CHOWN e730056; CHGRP global\aero.utils.us"
+2009-02-06     e704548    protect file element "M:\admin_view\MBD_US_PVOB\processes\internal.pdo@@"
+  "CHMOD 770; CHOWN e730056; CHGRP global\aero.utils.us"
+2009-02-06     e704548    protect file element "M:\admin_view\MBD_US_PVOB\processes\timeline.pdo@@"
+  "CHMOD 770; CHOWN e730056; CHGRP global\aero.utils.us"
+2009-02-06     e704548    protect file element "M:\admin_view\MBD_US_PVOB\processes\component.pdo@@"
+  "CHMOD 770; CHOWN e730056; CHGRP global\aero.utils.us"
+2009-02-06     e704548    protect file element "M:\admin_view\MBD_US_PVOB\processes\sum-root.pdo@@"
+  "CHMOD 770; CHOWN e730056; CHGRP global\aero.utils.us"
+2009-02-06     e704548    protect file element "M:\admin_view\MBD_US_PVOB\processes\stream.pdo@@"
+  "CHMOD 770; CHOWN e730056; CHGRP global\aero.utils.us"

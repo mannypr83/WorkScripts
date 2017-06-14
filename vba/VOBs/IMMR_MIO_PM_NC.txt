@@ -1,0 +1,131 @@
+--06-30T10:46  clearcase_nm75 protect directory element "M:\admin_view\IMMR_MIO_PM_NC\.@@"
+  "CHMOD 775"
+--06-27T12:41  clearcase_nm75 export sync from replica "IMMR_MIO_PM_NC_FL51" to replica "IMMR_MIO_PM_NC_KS07"
+  "Exported synchronization information for replica "IMMR_MIO_PM_NC_KS07".
+   Row at export was: IMMR_MIO_PM_NC_AZ10=22 IMMR_MIO_PM_NC_AZ18=0 IMMR_MIO_PM_NC_IE1A=1 IMMR_MIO_PM_NC_AZ75=0 IMMR_MIO_PM_NC_FL51=106 IMMR_MIO_PM_NC_KS07=0 IMMR_MIO_PM_NC_IE1F=1"
+--06-27T12:40  clearcase_nm75 export sync from replica "IMMR_MIO_PM_NC_FL51" to replica "IMMR_MIO_PM_NC_IE1F"
+  "Exported synchronization information for replica "IMMR_MIO_PM_NC_IE1F".
+   Row at export was: IMMR_MIO_PM_NC_AZ10=22 IMMR_MIO_PM_NC_AZ18=0 IMMR_MIO_PM_NC_IE1A=1 IMMR_MIO_PM_NC_AZ75=0 IMMR_MIO_PM_NC_FL51=106 IMMR_MIO_PM_NC_KS07=0 IMMR_MIO_PM_NC_IE1F=1"
+--06-27T12:40  clearcase_nm75 export sync from replica "IMMR_MIO_PM_NC_FL51" to replica "IMMR_MIO_PM_NC_IE1A"
+  "Exported synchronization information for replica "IMMR_MIO_PM_NC_IE1A".
+   Row at export was: IMMR_MIO_PM_NC_AZ10=22 IMMR_MIO_PM_NC_AZ18=0 IMMR_MIO_PM_NC_IE1A=1 IMMR_MIO_PM_NC_AZ75=0 IMMR_MIO_PM_NC_FL51=106 IMMR_MIO_PM_NC_KS07=0 IMMR_MIO_PM_NC_IE1F=1"
+--06-27T12:40  clearcase_nm75 export sync from replica "IMMR_MIO_PM_NC_FL51" to replica "IMMR_MIO_PM_NC_AZ75"
+  "Exported synchronization information for replica "IMMR_MIO_PM_NC_AZ75".
+   Row at export was: IMMR_MIO_PM_NC_AZ10=22 IMMR_MIO_PM_NC_AZ18=0 IMMR_MIO_PM_NC_IE1A=1 IMMR_MIO_PM_NC_AZ75=0 IMMR_MIO_PM_NC_FL51=106 IMMR_MIO_PM_NC_KS07=0 IMMR_MIO_PM_NC_IE1F=1"
+--06-27T12:40  clearcase_nm75 export sync from replica "IMMR_MIO_PM_NC_FL51" to replica "IMMR_MIO_PM_NC_AZ18"
+  "Exported synchronization information for replica "IMMR_MIO_PM_NC_AZ18".
+   Row at export was: IMMR_MIO_PM_NC_AZ10=22 IMMR_MIO_PM_NC_AZ18=0 IMMR_MIO_PM_NC_IE1A=1 IMMR_MIO_PM_NC_AZ75=0 IMMR_MIO_PM_NC_FL51=106 IMMR_MIO_PM_NC_KS07=0 IMMR_MIO_PM_NC_IE1F=1"
+--06-27T12:40  clearcase_nm75 export sync from replica "IMMR_MIO_PM_NC_FL51" to replica "IMMR_MIO_PM_NC_AZ10"
+  "Exported synchronization information for replica "IMMR_MIO_PM_NC_AZ10".
+   Row at export was: IMMR_MIO_PM_NC_AZ10=22 IMMR_MIO_PM_NC_AZ18=0 IMMR_MIO_PM_NC_IE1A=1 IMMR_MIO_PM_NC_AZ75=0 IMMR_MIO_PM_NC_FL51=106 IMMR_MIO_PM_NC_KS07=0 IMMR_MIO_PM_NC_IE1F=1"
+--06-27T12:36  e725459    create directory version "M:\admin_view\IMMR_MIO_PM_NC\ProjectManagement\EnvironmentNeedsLog@@\main\2"
+  "initial check in
+    
+   Added file element "EnvironmentNeeds_IMMR_GNSS.xlsx"."
+--06-27T12:36  e725459    protect file element "M:\admin_view\IMMR_MIO_PM_NC\ProjectManagement\EnvironmentNeedsLog\EnvironmentNeeds_IMMR_GNSS.xlsx@@"
+  "CHMOD 770; CHOWN E582601; CHGRP aero.cc.immr_mio_nc"
+--06-27T12:36  e725459    add name to directory version "M:\admin_view\IMMR_MIO_PM_NC\ProjectManagement\EnvironmentNeedsLog@@\main\2"
+  "Added file element "EnvironmentNeeds_IMMR_GNSS.xlsx".
+   initial check in"
+--06-27T12:36  e725459    create version "M:\admin_view\IMMR_MIO_PM_NC\ProjectManagement\EnvironmentNeedsLog\EnvironmentNeeds_IMMR_GNSS.xlsx@@\main\1"
+  "initial check in"
+--06-27T12:36  e725459    create version "M:\admin_view\IMMR_MIO_PM_NC\ProjectManagement\EnvironmentNeedsLog\EnvironmentNeeds_IMMR_GNSS.xlsx@@\main\0"
+--06-27T12:36  e725459    create branch "M:\admin_view\IMMR_MIO_PM_NC\ProjectManagement\EnvironmentNeedsLog\EnvironmentNeeds_IMMR_GNSS.xlsx@@\main"
+--06-27T12:36  e725459    create file element "M:\admin_view\IMMR_MIO_PM_NC\ProjectManagement\EnvironmentNeedsLog\EnvironmentNeeds_IMMR_GNSS.xlsx@@"
+  "initial check in"
+--06-26T17:43  clearcase_nm75 import sync from replica "IMMR_MIO_PM_NC_AZ75" to replica "IMMR_MIO_PM_NC_FL51"
+  "Imported synchronization information from replica "IMMR_MIO_PM_NC_AZ75".
+   Row at import was: IMMR_MIO_PM_NC_AZ10=22 IMMR_MIO_PM_NC_AZ18=0 IMMR_MIO_PM_NC_KS07=0 IMMR_MIO_PM_NC_AZ75=0 IMMR_MIO_PM_NC_IE1F=1 IMMR_MIO_PM_NC_IE1A=1 IMMR_MIO_PM_NC_FL51=106"
+--06-26T17:35  clearcase_nm75 import sync from replica "IMMR_MIO_PM_NC_AZ18" to replica "IMMR_MIO_PM_NC_FL51"
+  "Imported synchronization information from replica "IMMR_MIO_PM_NC_AZ18".
+   Row at import was: IMMR_MIO_PM_NC_AZ10=22 IMMR_MIO_PM_NC_AZ18=0 IMMR_MIO_PM_NC_KS07=0 IMMR_MIO_PM_NC_AZ75=0 IMMR_MIO_PM_NC_IE1F=1 IMMR_MIO_PM_NC_IE1A=1 IMMR_MIO_PM_NC_FL51=106"
+--06-26T17:33  clearcase_nm75 export sync from replica "IMMR_MIO_PM_NC_FL51" to replica "IMMR_MIO_PM_NC_KS07"
+  "Exported synchronization information for replica "IMMR_MIO_PM_NC_KS07".
+   Row at export was: IMMR_MIO_PM_NC_AZ10=20 IMMR_MIO_PM_NC_AZ18=0 IMMR_MIO_PM_NC_IE1A=1 IMMR_MIO_PM_NC_AZ75=0 IMMR_MIO_PM_NC_FL51=106 IMMR_MIO_PM_NC_KS07=0 IMMR_MIO_PM_NC_IE1F=1"
+--06-26T17:33  clearcase_nm75 export sync from replica "IMMR_MIO_PM_NC_FL51" to replica "IMMR_MIO_PM_NC_IE1F"
+  "Exported synchronization information for replica "IMMR_MIO_PM_NC_IE1F".
+   Row at export was: IMMR_MIO_PM_NC_AZ10=20 IMMR_MIO_PM_NC_AZ18=0 IMMR_MIO_PM_NC_IE1A=1 IMMR_MIO_PM_NC_AZ75=0 IMMR_MIO_PM_NC_FL51=106 IMMR_MIO_PM_NC_KS07=0 IMMR_MIO_PM_NC_IE1F=1"
+--06-26T17:33  clearcase_nm75 export sync from replica "IMMR_MIO_PM_NC_FL51" to replica "IMMR_MIO_PM_NC_IE1A"
+  "Exported synchronization information for replica "IMMR_MIO_PM_NC_IE1A".
+   Row at export was: IMMR_MIO_PM_NC_AZ10=20 IMMR_MIO_PM_NC_AZ18=0 IMMR_MIO_PM_NC_IE1A=1 IMMR_MIO_PM_NC_AZ75=0 IMMR_MIO_PM_NC_FL51=106 IMMR_MIO_PM_NC_KS07=0 IMMR_MIO_PM_NC_IE1F=1"
+--06-26T17:33  clearcase_nm75 export sync from replica "IMMR_MIO_PM_NC_FL51" to replica "IMMR_MIO_PM_NC_AZ75"
+  "Exported synchronization information for replica "IMMR_MIO_PM_NC_AZ75".
+   Row at export was: IMMR_MIO_PM_NC_AZ10=20 IMMR_MIO_PM_NC_AZ18=0 IMMR_MIO_PM_NC_IE1A=1 IMMR_MIO_PM_NC_AZ75=0 IMMR_MIO_PM_NC_FL51=106 IMMR_MIO_PM_NC_KS07=0 IMMR_MIO_PM_NC_IE1F=1"
+--06-26T17:33  clearcase_nm75 export sync from replica "IMMR_MIO_PM_NC_FL51" to replica "IMMR_MIO_PM_NC_AZ18"
+  "Exported synchronization information for replica "IMMR_MIO_PM_NC_AZ18".
+   Row at export was: IMMR_MIO_PM_NC_AZ10=20 IMMR_MIO_PM_NC_AZ18=0 IMMR_MIO_PM_NC_IE1A=1 IMMR_MIO_PM_NC_AZ75=0 IMMR_MIO_PM_NC_FL51=106 IMMR_MIO_PM_NC_KS07=0 IMMR_MIO_PM_NC_IE1F=1"
+--06-26T17:32  clearcase_nm75 import sync from replica "IMMR_MIO_PM_NC_KS07" to replica "IMMR_MIO_PM_NC_FL51"
+  "Imported synchronization information from replica "IMMR_MIO_PM_NC_KS07".
+   Row at import was: IMMR_MIO_PM_NC_AZ10=22 IMMR_MIO_PM_NC_AZ18=0 IMMR_MIO_PM_NC_KS07=0 IMMR_MIO_PM_NC_AZ75=0 IMMR_MIO_PM_NC_IE1F=1 IMMR_MIO_PM_NC_IE1A=1 IMMR_MIO_PM_NC_FL51=106"
+--06-26T17:31  clearcase_nm75 import sync from replica "IMMR_MIO_PM_NC_AZ10" to replica "IMMR_MIO_PM_NC_FL51"
+  "Imported synchronization information from replica "IMMR_MIO_PM_NC_AZ10".
+   Row at import was: IMMR_MIO_PM_NC_AZ10=20 IMMR_MIO_PM_NC_AZ18=0 IMMR_MIO_PM_NC_KS07=0 IMMR_MIO_PM_NC_AZ75=0 IMMR_MIO_PM_NC_IE1F=1 IMMR_MIO_PM_NC_IE1A=1 IMMR_MIO_PM_NC_FL51=106"
+--06-26T17:27  e725459    create version "M:\admin_view\IMMR_MIO_PM_NC\ProjectManagement\ActionItemLog\IMMR_WorkScope_Action_Log.xls@@\main\4"
+  "Added action from 6/23/14 technical meeting with CNS/SWCOE."
+--06-19T22:17  clearcase_nm75 protect directory element "M:\admin_view\IMMR_MIO_PM_NC\.@@"
+  "CHMOD 770"
+--06-19T22:17  clearcase_nm75 protect directory element "M:\admin_view\IMMR_MIO_PM_NC\.@@"
+  "CHMOD 775"
+--06-13T11:10  clearcase_nm75 export sync from replica "IMMR_MIO_PM_NC_FL51" to replica "IMMR_MIO_PM_NC_KS07"
+  "Exported synchronization information for replica "IMMR_MIO_PM_NC_KS07".
+   Row at export was: IMMR_MIO_PM_NC_AZ10=20 IMMR_MIO_PM_NC_AZ18=0 IMMR_MIO_PM_NC_IE1A=1 IMMR_MIO_PM_NC_AZ75=0 IMMR_MIO_PM_NC_FL51=101 IMMR_MIO_PM_NC_KS07=0 IMMR_MIO_PM_NC_IE1F=1"
+--06-13T11:10  clearcase_nm75 export sync from replica "IMMR_MIO_PM_NC_FL51" to replica "IMMR_MIO_PM_NC_IE1F"
+  "Exported synchronization information for replica "IMMR_MIO_PM_NC_IE1F".
+   Row at export was: IMMR_MIO_PM_NC_AZ10=20 IMMR_MIO_PM_NC_AZ18=0 IMMR_MIO_PM_NC_IE1A=1 IMMR_MIO_PM_NC_AZ75=0 IMMR_MIO_PM_NC_FL51=101 IMMR_MIO_PM_NC_KS07=0 IMMR_MIO_PM_NC_IE1F=1"
+--06-13T11:10  clearcase_nm75 export sync from replica "IMMR_MIO_PM_NC_FL51" to replica "IMMR_MIO_PM_NC_IE1A"
+  "Exported synchronization information for replica "IMMR_MIO_PM_NC_IE1A".
+   Row at export was: IMMR_MIO_PM_NC_AZ10=20 IMMR_MIO_PM_NC_AZ18=0 IMMR_MIO_PM_NC_IE1A=1 IMMR_MIO_PM_NC_AZ75=0 IMMR_MIO_PM_NC_FL51=101 IMMR_MIO_PM_NC_KS07=0 IMMR_MIO_PM_NC_IE1F=1"
+--06-13T11:10  clearcase_nm75 export sync from replica "IMMR_MIO_PM_NC_FL51" to replica "IMMR_MIO_PM_NC_AZ75"
+  "Exported synchronization information for replica "IMMR_MIO_PM_NC_AZ75".
+   Row at export was: IMMR_MIO_PM_NC_AZ10=20 IMMR_MIO_PM_NC_AZ18=0 IMMR_MIO_PM_NC_IE1A=1 IMMR_MIO_PM_NC_AZ75=0 IMMR_MIO_PM_NC_FL51=101 IMMR_MIO_PM_NC_KS07=0 IMMR_MIO_PM_NC_IE1F=1"
+--06-13T11:10  clearcase_nm75 export sync from replica "IMMR_MIO_PM_NC_FL51" to replica "IMMR_MIO_PM_NC_AZ18"
+  "Exported synchronization information for replica "IMMR_MIO_PM_NC_AZ18".
+   Row at export was: IMMR_MIO_PM_NC_AZ10=20 IMMR_MIO_PM_NC_AZ18=0 IMMR_MIO_PM_NC_IE1A=1 IMMR_MIO_PM_NC_AZ75=0 IMMR_MIO_PM_NC_FL51=101 IMMR_MIO_PM_NC_KS07=0 IMMR_MIO_PM_NC_IE1F=1"
+--06-13T11:10  clearcase_nm75 export sync from replica "IMMR_MIO_PM_NC_FL51" to replica "IMMR_MIO_PM_NC_AZ10"
+  "Exported synchronization information for replica "IMMR_MIO_PM_NC_AZ10".
+   Row at export was: IMMR_MIO_PM_NC_AZ10=20 IMMR_MIO_PM_NC_AZ18=0 IMMR_MIO_PM_NC_IE1A=1 IMMR_MIO_PM_NC_AZ75=0 IMMR_MIO_PM_NC_FL51=101 IMMR_MIO_PM_NC_KS07=0 IMMR_MIO_PM_NC_IE1F=1"
+--06-13T11:01  e725459    create directory version "M:\admin_view\IMMR_MIO_PM_NC\ProjectManagement\ActionItemLog@@\main\3"
+  "Initial check in of action log for migration from Rose to Rhapsody
+    
+   Added file element "IMMR_Rhapsody_Migration_Action_Log.xls"."
+--06-13T11:01  e725459    protect file element "M:\admin_view\IMMR_MIO_PM_NC\ProjectManagement\ActionItemLog\IMMR_Rhapsody_Migration_Action_Log.xls@@"
+  "CHMOD 770; CHOWN E582601; CHGRP aero.cc.immr_mio_nc"
+--06-13T11:01  e725459    add name to directory version "M:\admin_view\IMMR_MIO_PM_NC\ProjectManagement\ActionItemLog@@\main\3"
+  "Added file element "IMMR_Rhapsody_Migration_Action_Log.xls".
+   Initial check in of action log for migration from Rose to Rhapsody"
+--06-13T11:01  e725459    create version "M:\admin_view\IMMR_MIO_PM_NC\ProjectManagement\ActionItemLog\IMMR_Rhapsody_Migration_Action_Log.xls@@\main\1"
+  "Initial check in of action log for migration from Rose to Rhapsody"
+--06-13T11:01  e725459    create version "M:\admin_view\IMMR_MIO_PM_NC\ProjectManagement\ActionItemLog\IMMR_Rhapsody_Migration_Action_Log.xls@@\main\0"
+--06-13T11:01  e725459    create branch "M:\admin_view\IMMR_MIO_PM_NC\ProjectManagement\ActionItemLog\IMMR_Rhapsody_Migration_Action_Log.xls@@\main"
+--06-13T11:01  e725459    create file element "M:\admin_view\IMMR_MIO_PM_NC\ProjectManagement\ActionItemLog\IMMR_Rhapsody_Migration_Action_Log.xls@@"
+  "Initial check in of action log for migration from Rose to Rhapsody"
+--06-13T10:10  clearcase_nm75 export sync from replica "IMMR_MIO_PM_NC_FL51" to replica "IMMR_MIO_PM_NC_KS07"
+  "Exported synchronization information for replica "IMMR_MIO_PM_NC_KS07".
+   Row at export was: IMMR_MIO_PM_NC_AZ10=20 IMMR_MIO_PM_NC_AZ18=0 IMMR_MIO_PM_NC_IE1A=1 IMMR_MIO_PM_NC_AZ75=0 IMMR_MIO_PM_NC_FL51=92 IMMR_MIO_PM_NC_KS07=0 IMMR_MIO_PM_NC_IE1F=1"
+--06-13T10:10  clearcase_nm75 export sync from replica "IMMR_MIO_PM_NC_FL51" to replica "IMMR_MIO_PM_NC_IE1F"
+  "Exported synchronization information for replica "IMMR_MIO_PM_NC_IE1F".
+   Row at export was: IMMR_MIO_PM_NC_AZ10=20 IMMR_MIO_PM_NC_AZ18=0 IMMR_MIO_PM_NC_IE1A=1 IMMR_MIO_PM_NC_AZ75=0 IMMR_MIO_PM_NC_FL51=92 IMMR_MIO_PM_NC_KS07=0 IMMR_MIO_PM_NC_IE1F=1"
+--06-13T10:10  clearcase_nm75 export sync from replica "IMMR_MIO_PM_NC_FL51" to replica "IMMR_MIO_PM_NC_IE1A"
+  "Exported synchronization information for replica "IMMR_MIO_PM_NC_IE1A".
+   Row at export was: IMMR_MIO_PM_NC_AZ10=20 IMMR_MIO_PM_NC_AZ18=0 IMMR_MIO_PM_NC_IE1A=1 IMMR_MIO_PM_NC_AZ75=0 IMMR_MIO_PM_NC_FL51=92 IMMR_MIO_PM_NC_KS07=0 IMMR_MIO_PM_NC_IE1F=1"
+--06-13T10:10  clearcase_nm75 export sync from replica "IMMR_MIO_PM_NC_FL51" to replica "IMMR_MIO_PM_NC_AZ75"
+  "Exported synchronization information for replica "IMMR_MIO_PM_NC_AZ75".
+   Row at export was: IMMR_MIO_PM_NC_AZ10=20 IMMR_MIO_PM_NC_AZ18=0 IMMR_MIO_PM_NC_IE1A=1 IMMR_MIO_PM_NC_AZ75=0 IMMR_MIO_PM_NC_FL51=92 IMMR_MIO_PM_NC_KS07=0 IMMR_MIO_PM_NC_IE1F=1"
+--06-13T10:10  clearcase_nm75 export sync from replica "IMMR_MIO_PM_NC_FL51" to replica "IMMR_MIO_PM_NC_AZ18"
+  "Exported synchronization information for replica "IMMR_MIO_PM_NC_AZ18".
+   Row at export was: IMMR_MIO_PM_NC_AZ10=20 IMMR_MIO_PM_NC_AZ18=0 IMMR_MIO_PM_NC_IE1A=1 IMMR_MIO_PM_NC_AZ75=0 IMMR_MIO_PM_NC_FL51=92 IMMR_MIO_PM_NC_KS07=0 IMMR_MIO_PM_NC_IE1F=1"
+--06-13T10:10  clearcase_nm75 export sync from replica "IMMR_MIO_PM_NC_FL51" to replica "IMMR_MIO_PM_NC_AZ10"
+  "Exported synchronization information for replica "IMMR_MIO_PM_NC_AZ10".
+   Row at export was: IMMR_MIO_PM_NC_AZ10=20 IMMR_MIO_PM_NC_AZ18=0 IMMR_MIO_PM_NC_IE1A=1 IMMR_MIO_PM_NC_AZ75=0 IMMR_MIO_PM_NC_FL51=92 IMMR_MIO_PM_NC_KS07=0 IMMR_MIO_PM_NC_IE1F=1"
+--06-13T10:04  e725459    create directory version "M:\admin_view\IMMR_MIO_PM_NC\ProjectManagement@@\main\CHECKEDOUT.166\Risk@@\main\2"
+  "Initial checkin of risk register
+    
+   Added file element "AF-0354_KC_IMMR.xlsm"."
+--06-13T10:04  e725459    protect file element "M:\admin_view\IMMR_MIO_PM_NC\ProjectManagement@@\main\CHECKEDOUT.166\Risk\main\2\AF-0354_KC_IMMR.xlsm@@"
+  "CHMOD 770; CHOWN E582601; CHGRP aero.cc.immr_mio_nc"
+--06-13T10:04  e725459    add name to directory version "M:\admin_view\IMMR_MIO_PM_NC\ProjectManagement@@\main\CHECKEDOUT.166\Risk@@\main\2"
+  "Added file element "AF-0354_KC_IMMR.xlsm".
+   Initial checkin of risk register"
+--06-13T10:04  e725459    create version "M:\admin_view\IMMR_MIO_PM_NC\ProjectManagement@@\main\CHECKEDOUT.166\Risk\main\2\AF-0354_KC_IMMR.xlsm@@\main\1"
+  "Initial checkin of risk register"
+--06-13T10:04  e725459    create version "M:\admin_view\IMMR_MIO_PM_NC\ProjectManagement@@\main\CHECKEDOUT.166\Risk\main\2\AF-0354_KC_IMMR.xlsm@@\main\0"

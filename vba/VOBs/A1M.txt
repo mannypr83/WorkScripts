@@ -1,0 +1,172 @@
+--06-30T10:44  clearcase_nm75 protect directory element "M:\admin_view\A1M\.@@"
+  "CHMOD 775"
+--06-30T08:50  clearcase_nm75 import sync from replica "A1M_DCW" to replica "A1M_FL51"
+  "Imported synchronization information from replica "A1M_DCW".
+   Row at import was: A1M_AZ18.deleted=1 A1M_PR08=954 A1M_DCW=0 A1M_FL51=601"
+--06-19T17:40  clearcase_nm75 export sync from replica "A1M_FL51" to replica "A1M_DCW"
+  "Exported synchronization information for replica "A1M_DCW".
+   Row at export was: A1M_FL51=599 A1M_PR08=954 A1M_AZ18.deleted=1 A1M_DCW=0"
+--06-19T17:37  clearcase_nm75 protect directory element "M:\admin_view\A1M\.@@"
+  "CHMOD 770"
+--06-19T17:37  clearcase_nm75 protect directory element "M:\admin_view\A1M\.@@"
+  "CHMOD 775"
+--06-19T17:20  clearcase_nm75 export sync from replica "A1M_FL51" to replica "A1M_DCW"
+  "Exported synchronization information for replica "A1M_DCW".
+   Row at export was: A1M_FL51=597 A1M_PR08=954 A1M_AZ18.deleted=1 A1M_DCW=0"
+--06-19T17:15  clearcase_nm75 protect directory element "M:\admin_view\A1M\.@@"
+  "CHMOD 770"
+--06-19T17:15  clearcase_nm75 protect directory element "M:\admin_view\A1M\.@@"
+  "CHMOD 775"
+--04-09T15:00  clearcase_nm75 export sync from replica "A1M_FL51" to replica "A1M_DCW"
+  "Exported synchronization information for replica "A1M_DCW".
+   Row at export was: A1M_FL51=597 A1M_PR08=950 A1M_AZ18.deleted=1 A1M_DCW=0"
+--04-09T14:55  clearcase_nm75 import sync from replica "A1M_PR08" to replica "A1M_FL51"
+  "Imported synchronization information from replica "A1M_PR08".
+   Row at import was: A1M_AZ18.deleted=1 A1M_PR08=953 A1M_DCW=0 A1M_FL51=597"
+--04-09T14:55  e704548    change master to "A1M_DCW" of replica "A1M_DCW"
+  "Changed master replica from "A1M_PR08" to "A1M_DCW"."
+--04-09T14:54  clearcase_nm75 import sync from replica "A1M_PR08" to replica "A1M_FL51"
+  "Imported synchronization information from replica "A1M_PR08".
+   Row at import was: A1M_AZ18=1 A1M_PR08=950 A1M_DCW=0 A1M_FL51=597"
+--04-09T14:53  e704548    rename replica "A1M_AZ18.deleted"
+  "Changed name of replica from "A1M_AZ18" to "A1M_AZ18.deleted".
+   Destroyed replica "A1M_AZ18"."
+--04-09T14:53  e704548    destroy replica in versioned object base "\A1M"
+  "Destroyed replica "A1M_AZ18"."
+--04-09T14:53  e704548    change master to "A1M_PR08" of replica "A1M_DCW"
+  "Changed master replica from "A1M_AZ18" to "A1M_PR08"."
+--04-09T14:53  e704548    change master to "A1M_PR08" of replica "A1M_AZ18.deleted"
+  "Changed master replica from "A1M_AZ18" to "A1M_PR08"."
+--03-24T16:30  clearcase_nm75 export sync from replica "A1M_FL51" to replica "A1M_DCW"
+  "Exported synchronization information for replica "A1M_DCW".
+   Row at export was: A1M_FL51=597 A1M_PR08=950 A1M_AZ18=0 A1M_DCW=0"
+2013-06-21     clearcase_nm75 import sync from replica "A1M_PR08" to replica "A1M_FL51"
+  "Imported synchronization information from replica "A1M_PR08".
+   Row at import was: A1M_AZ18=1 A1M_PR08=950 A1M_DCW=0 A1M_FL51=597"
+2013-06-21     clearcase_nm75 import sync from replica "A1M_AZ18.deleted" to replica "A1M_FL51"
+  "Imported synchronization information from replica "A1M_AZ18".
+   Row at import was: A1M_AZ18=0 A1M_PR08=950 A1M_FL51=597"
+2013-06-21     root       create replica "A1M_DCW"
+2013-06-19     clearcase_nm75 import sync from replica "A1M_PR08" to replica "A1M_FL51"
+  "Imported synchronization information from replica "A1M_PR08".
+   Row at import was: A1M_AZ18=0 A1M_PR08=950 A1M_FL51=597"
+2013-06-13     clearcase_nm75 import sync from replica "A1M_AZ18.deleted" to replica "A1M_FL51"
+  "Imported synchronization information from replica "A1M_AZ18".
+   Row at import was: A1M_AZ18=0 A1M_PR08=949 A1M_FL51=597"
+2013-06-13     e721877    import sync to replica "A1M_PR08"
+  "Changed information associated with replica."
+2013-06-03     e564406    destroy type in versioned object base "\A1M"
+  "Destroyed trigger type "NO_RMTRIGGER"."
+2013-06-03     e564406    lock trigger type "NO_RMTYPE" (locked)
+  "Locked for all users."
+2013-06-03     e564406    modify trigger type "NO_RMTYPE" (locked)
+  "Changed definition of type.
+   Disallow removal of types"
+2013-06-03     e564406    unlock trigger type "NO_RMTYPE" (locked)
+2013-04-12     clearcase_nm75 export sync from replica "A1M_FL51" to replica "A1M_AZ18.deleted"
+  "Exported synchronization information for replica "A1M_AZ18".
+   Row at export was: A1M_FL51=597 A1M_PR08=948 A1M_AZ18=0"
+2013-04-12     clearcase_nm75 import sync from replica "A1M_PR08" to replica "A1M_FL51"
+  "Imported synchronization information from replica "A1M_PR08".
+   Row at import was: A1M_AZ18=0 A1M_PR08=948 A1M_FL51=597"
+2013-04-12     sv-das_cc_albd import sync to replica "A1M_PR08"
+  "Changed information associated with replica."
+2013-04-12     clearcase_nm75 import sync from replica "A1M_AZ18.deleted" to replica "A1M_FL51"
+  "Imported synchronization information from replica "A1M_AZ18".
+   Row at import was: A1M_AZ18=0 A1M_PR08=948 A1M_FL51=597"
+2013-04-12     clearcase_nm75 export sync from replica "A1M_FL51" to replica "A1M_AZ18.deleted"
+  "Exported synchronization information for replica "A1M_AZ18".
+   Row at export was: A1M_FL51=597 A1M_PR08=947 A1M_AZ18=0"
+2013-04-12     clearcase_nm75 import sync from replica "A1M_PR08" to replica "A1M_FL51"
+  "Imported synchronization information from replica "A1M_PR08".
+   Row at import was: A1M_AZ18=0 A1M_PR08=947 A1M_FL51=597"
+2013-04-12     clearcase_nm75 import sync from replica "A1M_AZ18.deleted" to replica "A1M_FL51"
+  "Imported synchronization information from replica "A1M_AZ18".
+   Row at import was: A1M_AZ18=0 A1M_PR08=947 A1M_FL51=597"
+2013-04-12     clearcase_nm75 export sync from replica "A1M_FL51" to replica "A1M_AZ18.deleted"
+  "Exported synchronization information for replica "A1M_AZ18".
+   Row at export was: A1M_FL51=597 A1M_PR08=946 A1M_AZ18=0"
+2013-04-12     clearcase_nm75 import sync from replica "A1M_PR08" to replica "A1M_FL51"
+  "Imported synchronization information from replica "A1M_PR08".
+   Row at import was: A1M_AZ18=0 A1M_PR08=946 A1M_FL51=597"
+2013-04-12     sv-das_cc_albd import sync to replica "A1M_PR08"
+  "Changed information associated with replica."
+2013-04-12     sv-das_cc_albd import sync to replica "A1M_PR08"
+  "Changed information associated with replica."
+2012-10-03     clearcase_nm75 export sync from replica "A1M_FL51" to replica "A1M_AZ18.deleted"
+  "Exported synchronization information for replica "A1M_AZ18".
+   Row at export was: A1M_FL51=593 A1M_PR08=946 A1M_AZ18=0"
+2012-10-03     e702445    make hyperlink "ComponentRootDir" on directory element "M:\admin_view\A1M\Build_Files@@"
+  "Attached hyperlink "ComponentRootDir@508@\A1M_PVOB".
+   Link component "Build_Files" with its root directory element"
+2012-10-03     e702445    create directory version "M:\admin_view\A1M\Build_Files@@\main\0"
+2012-10-03     e702445    create branch "M:\admin_view\A1M\Build_Files@@\main"
+2012-10-03     e702445    add name to directory version "M:\admin_view\A1M\.@@\main\0"
+  "Added directory element "Build_Files".
+   Create component "Build_Files" root directory in VOB root"
+2012-10-03     e702445    create directory element "M:\admin_view\A1M\Build_Files@@"
+  "Create component "Build_Files" root directory in VOB root"
+2012-09-21     clearcase_nm75 export sync from replica "A1M_FL51" to replica "A1M_AZ18.deleted"
+  "Exported synchronization information for replica "A1M_AZ18".
+   Row at export was: A1M_FL51=589 A1M_PR08=946 A1M_AZ18=0"
+2012-09-21     E582601    make hyperlink "BaselineLbtype" on label type "A1M_9_21_2012"
+  "Attached hyperlink "BaselineLbtype@501@\A1M_PVOB"."
+2012-09-21     E582601    rename label type "A1M_9_21_2012"
+  "Changed name of label type from "A1M_9_21_2012_in_progress" to "A1M_9_21_2012"."
+2012-09-21     E582601    create label type "A1M_9_21_2012"
+2012-09-21     clearcase_nm75 export sync from replica "A1M_FL51" to replica "A1M_AZ18.deleted"
+  "Exported synchronization information for replica "A1M_AZ18".
+   Row at export was: A1M_FL51=325 A1M_PR08=946 A1M_AZ18=0"
+2012-09-21     E582601    create directory version "M:\admin_view\A1M\OFP@@\main\A1M_Integration\1" (A1M_9_21_2012)
+  "Added file element "BCRT_1553.ADB".
+   Added file element "BCRT_1553.ADS".
+   Added file element "BIT_ENGINE.ADB".
+   Added file element "BIT_ENGINE.ADS".
+   Added file element "BIT_TESTS.ADB".
+   Added file element "BIT_TESTS.ADS".
+   Added file element "COMPUTE_1553.ADB".
+   Added file element "COMPUTE_1553.ADS".
+   Added file element "COMPUTE_COMMON_IO.ADB".
+   Added file element "ECOS.ADS".
+   Added file element "ECOS_PROCESSES.ADB".
+   Added file element "EEPROM_DATA_TRANSFER.ADB".
+   Added file element "GEM_CORE.ADB".
+   Added file element "GEM_CORE.ADS".
+   Added file element "GEM_IO.ADB".
+   Added file element "GEM_IO.ADS".
+   Added file element "GPS.ADS".
+   Added file element "GPS_KALMAN.ADB".
+   Added file element "GPS_KALMAN.ADS".
+   Added file element "GPS_LOS.ADB".
+   Added file element "GPS_LOS.ADS".
+   Added file element "IBIT.ADB".
+   Added file element "KF_BACKGROUND.ADB".
+   Added file element "MAGVAR.ADB".
+   Added file element "MAGVAR.ADS".
+   Added file element "MATRIX_MATH.ADS".
+   Added file element "MISC_PARAMS.ADB".
+   Added file element "MISSIONIZATION_PARAMETERS.ADS".
+   Added file element "MODE_CHANGE_INITIATION.ADB".
+   Added file element "PASS_DATA.ADB".
+   Added file element "POWER_UP_DOWN.ADB".
+   Added file element "PROCESSES.ADB".
+   Added file element "PROCESS_D01.ADA".
+   Added file element "PROCESS_I01.ADA".
+   Added file element "PROCESS_I06.ADA".
+   Added file element "PROCESS_I07.ADA".
+   Added file element "PROCESS_IO.ADB".
+   Added file element "PROCESS_IO.ADS".
+   Added file element "RAS.ADB".
+   Added file element "RAS.ADS".
+   Added file element "SERIAL_B.ADB".
+   Added file element "SERIAL_B.ADS".
+   Added file element "SPEC_1553.ADS".
+   Added file element "TEMP_COMPENSATION.ADB".
+   Added file element "TEMP_COMPENSATION.ADS".
+   Added file element "TIME_SYNCH.ADB".
+   Added file element "TIME_SYNCH.ADS".
+   Added file element "UNIQUE_IO.ADB".
+   Added file element "UNIQUE_IO.ADS".
+   Added file element "USC.ADB".
+   Added file element "USC.ADS".
+   Added file element "VENDOR_IO.ADB"."

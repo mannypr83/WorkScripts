@@ -1,0 +1,16 @@
+@echo off
+
+if "%PCMS_STARTUP%" == "1" (
+	setx PCMS_STARTUP "" /M
+	:loop
+	set RET=
+	for /f "delims=" %%i in ('query session PCMS') do set RET=%%i
+
+	if "%RET%" == "" (
+		ping -n 11 127.0.0.1 > nul
+		goto :loop
+	)
+	for /f "tokens=3" %%G IN ("%RET%") DO set RET=%%G
+	set RET=
+	tsdiscon %RET%
+)

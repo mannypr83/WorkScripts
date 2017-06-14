@@ -1,0 +1,91 @@
+--06-30T10:42  clearcase_nm75 protect directory element "M:\admin_view\ectoscope_US_VOB\.@@"
+  "CHMOD 775"
+--06-19T16:10  clearcase_nm75 protect directory element "M:\admin_view\ectoscope_US_VOB\.@@"
+  "CHMOD 770"
+--06-19T16:10  clearcase_nm75 protect directory element "M:\admin_view\ectoscope_US_VOB\.@@"
+  "CHMOD 775"
+--04-29T13:01  clearcase_nm75 import sync from replica "ectoscope_US_VOB_DCW" to replica "ectoscope_US_VOB_FL51"
+  "Imported synchronization information from replica "ectoscope_US_VOB_DCW".
+   Row at import was: ectoscope_US_VOB_MN17=2897 ectoscope_US_VOB_AZ18=1 ectoscope_US_VOB_ectoscope_US_VOB_FL51.deleted=0 ectoscope_US_VOB_MN10=26 ectoscope_US_VOB_PR08=4 ectoscope_US_VOB_DCW=0 ectoscope_US_VOB_FL51=1"
+--04-29T12:52  clearcase_nm75 import sync from replica "ectoscope_US_VOB_MN10" to replica "ectoscope_US_VOB_FL51"
+  "Imported synchronization information from replica "ectoscope_US_VOB_MN10".
+   Row at import was: ectoscope_US_VOB_MN17=2897 ectoscope_US_VOB_AZ18=1 ectoscope_US_VOB_ectoscope_US_VOB_FL51.deleted=0 ectoscope_US_VOB_MN10=26 ectoscope_US_VOB_PR08=4 ectoscope_US_VOB_DCW=0 ectoscope_US_VOB_FL51=1"
+--04-29T12:51  clearcase_nm75 export sync from replica "ectoscope_US_VOB_FL51" to replica "ectoscope_US_VOB_DCW"
+  "Exported synchronization information for replica "ectoscope_US_VOB_DCW".
+   Row at export was: ectoscope_US_VOB_DCW=0 ectoscope_US_VOB_MN10=26 ectoscope_US_VOB_PR08=4 ectoscope_US_VOB_AZ18=1 ectoscope_US_VOB_MN17=2895 ectoscope_US_VOB_ectoscope_US_VOB_FL51.deleted=0 ectoscope_US_VOB_FL51=1"
+--04-29T12:50  clearcase_nm75 import sync from replica "ectoscope_US_VOB_PR08" to replica "ectoscope_US_VOB_FL51"
+  "Imported synchronization information from replica "ectoscope_US_VOB_PR08".
+   Row at import was: ectoscope_US_VOB_MN17=2897 ectoscope_US_VOB_AZ18=1 ectoscope_US_VOB_ectoscope_US_VOB_FL51.deleted=0 ectoscope_US_VOB_MN10=26 ectoscope_US_VOB_PR08=4 ectoscope_US_VOB_DCW=0 ectoscope_US_VOB_FL51=1"
+--04-29T12:46  clearcase_nm75 import sync from replica "ectoscope_US_VOB_MN17" to replica "ectoscope_US_VOB_FL51"
+  "Imported synchronization information from replica "ectoscope_US_VOB_MN17".
+   Row at import was: ectoscope_US_VOB_MN17=2896 ectoscope_US_VOB_AZ18=1 ectoscope_US_VOB_ectoscope_US_VOB_FL51.deleted=0 ectoscope_US_VOB_MN10=26 ectoscope_US_VOB_PR08=4 ectoscope_US_VOB_DCW=0 ectoscope_US_VOB_FL51=1"
+--04-29T12:45  e704548    change master to "ectoscope_US_VOB_DCW" of replica "ectoscope_US_VOB_DCW"
+  "Changed master replica from "ectoscope_US_VOB_MN17" to "ectoscope_US_VOB_DCW"."
+--04-29T12:45  clearcase_nm75 import sync from replica "ectoscope_US_VOB_MN17" to replica "ectoscope_US_VOB_FL51"
+  "Imported synchronization information from replica "ectoscope_US_VOB_MN17".
+   Row at import was: ectoscope_US_VOB_MN17=2895 ectoscope_US_VOB_AZ18=1 ectoscope_US_VOB_ectoscope_US_VOB_FL51.deleted=0 ectoscope_US_VOB_MN10=26 ectoscope_US_VOB_PR08=4 ectoscope_US_VOB_DCW=0 ectoscope_US_VOB_FL51=1"
+--04-29T12:45  e704548    change master to "ectoscope_US_VOB_MN17" of replica "ectoscope_US_VOB_DCW"
+  "Changed master replica from "ectoscope_US_VOB_AZ18" to "ectoscope_US_VOB_MN17"."
+--03-25T11:42  clearcase_nm75 export sync from replica "ectoscope_US_VOB_FL51" to replica "ectoscope_US_VOB_DCW"
+  "Exported synchronization information for replica "ectoscope_US_VOB_DCW".
+   Row at export was: ectoscope_US_VOB_DCW=0 ectoscope_US_VOB_MN10=26 ectoscope_US_VOB_PR08=4 ectoscope_US_VOB_AZ18=0 ectoscope_US_VOB_MN17=2874 ectoscope_US_VOB_ectoscope_US_VOB_FL51.deleted=0 ectoscope_US_VOB_FL51=1"
+--02-13T13:19  clearcase_nm75 import sync from replica "ectoscope_US_VOB_MN10" to replica "ectoscope_US_VOB_FL51"
+  "Imported synchronization information from replica "ectoscope_US_VOB_MN10".
+   Row at import was: ectoscope_US_VOB_MN17=2895 ectoscope_US_VOB_AZ18=1 ectoscope_US_VOB_ectoscope_US_VOB_FL51.deleted=0 ectoscope_US_VOB_MN10=26 ectoscope_US_VOB_PR08=4 ectoscope_US_VOB_DCW=0 ectoscope_US_VOB_FL51=1"
+--02-13T13:19  clearcase_nm75 import sync from replica "ectoscope_US_VOB_MN10" to replica "ectoscope_US_VOB_FL51"
+  "Imported synchronization information from replica "ectoscope_US_VOB_MN10".
+   Row at import was: ectoscope_US_VOB_MN17=2895 ectoscope_US_VOB_AZ18=1 ectoscope_US_VOB_ectoscope_US_VOB_FL51.deleted=0 ectoscope_US_VOB_MN10=26 ectoscope_US_VOB_PR08=4 ectoscope_US_VOB_DCW=0 ectoscope_US_VOB_FL51=1"
+--02-05T12:10  clearcase_nm75 import sync from replica "ectoscope_US_VOB_PR08" to replica "ectoscope_US_VOB_FL51"
+  "Imported synchronization information from replica "ectoscope_US_VOB_PR08".
+   Row at import was: ectoscope_US_VOB_MN17=2895 ectoscope_US_VOB_AZ18=1 ectoscope_US_VOB_ectoscope_US_VOB_FL51.deleted=0 ectoscope_US_VOB_MN10=26 ectoscope_US_VOB_PR08=4 ectoscope_US_VOB_DCW=0 ectoscope_US_VOB_FL51=1"
+--02-05T12:01  clearcase_nm75 export sync from replica "ectoscope_US_VOB_FL51" to replica "ectoscope_US_VOB_AZ18"
+  "Exported synchronization information for replica "ectoscope_US_VOB_AZ18".
+   Row at export was: ectoscope_US_VOB_DCW=0 ectoscope_US_VOB_MN10=26 ectoscope_US_VOB_PR08=4 ectoscope_US_VOB_AZ18=1 ectoscope_US_VOB_MN17=2874 ectoscope_US_VOB_ectoscope_US_VOB_FL51.deleted=0 ectoscope_US_VOB_FL51=1"
+--02-05T12:00  clearcase_nm75 import sync from replica "ectoscope_US_VOB_PR08" to replica "ectoscope_US_VOB_FL51"
+  "Imported synchronization information from replica "ectoscope_US_VOB_PR08".
+   Row at import was: ectoscope_US_VOB_MN17=2895 ectoscope_US_VOB_AZ18=1 ectoscope_US_VOB_ectoscope_US_VOB_FL51.deleted=0 ectoscope_US_VOB_MN10=26 ectoscope_US_VOB_PR08=4 ectoscope_US_VOB_DCW=0 ectoscope_US_VOB_FL51=1"
+--02-05T12:00  clearcase_nm75 import sync from replica "ectoscope_US_VOB_MN17" to replica "ectoscope_US_VOB_FL51"
+  "Imported synchronization information from replica "ectoscope_US_VOB_MN17".
+   Row at import was: ectoscope_US_VOB_MN17=2874 ectoscope_US_VOB_AZ18=1 ectoscope_US_VOB_ectoscope_US_VOB_FL51.deleted=0 ectoscope_US_VOB_MN10=26 ectoscope_US_VOB_PR08=4 ectoscope_US_VOB_DCW=0 ectoscope_US_VOB_FL51=1"
+--02-05T11:51  clearcase_nm75 export sync from replica "ectoscope_US_VOB_FL51" to replica "ectoscope_US_VOB_AZ18"
+  "Exported synchronization information for replica "ectoscope_US_VOB_AZ18".
+   Row at export was: ectoscope_US_VOB_DCW=0 ectoscope_US_VOB_MN10=26 ectoscope_US_VOB_PR08=4 ectoscope_US_VOB_AZ18=1 ectoscope_US_VOB_MN17=2854 ectoscope_US_VOB_ectoscope_US_VOB_FL51.deleted=0 ectoscope_US_VOB_FL51=1"
+--02-05T11:50  clearcase_nm75 import sync from replica "ectoscope_US_VOB_MN17" to replica "ectoscope_US_VOB_FL51"
+  "Imported synchronization information from replica "ectoscope_US_VOB_MN17".
+   Row at import was: ectoscope_US_VOB_MN17=2874 ectoscope_US_VOB_AZ18=1 ectoscope_US_VOB_ectoscope_US_VOB_FL51.deleted=0 ectoscope_US_VOB_MN10=26 ectoscope_US_VOB_PR08=4 ectoscope_US_VOB_DCW=0 ectoscope_US_VOB_FL51=1"
+--02-05T11:50  clearcase_nm75 import sync from replica "ectoscope_US_VOB_DCW" to replica "ectoscope_US_VOB_FL51"
+  "Imported synchronization information from replica "ectoscope_US_VOB_DCW".
+   Row at import was: ectoscope_US_VOB_MN17=2854 ectoscope_US_VOB_AZ18=1 ectoscope_US_VOB_ectoscope_US_VOB_FL51.deleted=0 ectoscope_US_VOB_MN10=26 ectoscope_US_VOB_PR08=4 ectoscope_US_VOB_DCW=0 ectoscope_US_VOB_FL51=1"
+--02-05T11:46  clearcase_nm75 make hyperlink "BaselineLbtype" on label type "deliverbl.nly_escope.20130905.145048.5112"
+--02-05T11:46  clearcase_nm75 rename label type "deliverbl.nly_escope.20130905.145048.5112"
+  "Changed name of label type from "deliverbl.nly_escope.20130905.145048.5112_in_progress" to "deliverbl.nly_escope.20130905.145048.5112"."
+--02-05T11:46  E144999    create label type "deliverbl.nly_escope.20130905.145048.5112"
+--02-05T11:46  clearcase_nm75 make hyperlink "BaselineLbtype" on label type "deliverbl.nly_escope.20130905.145048.5116"
+--02-05T11:46  clearcase_nm75 rename label type "deliverbl.nly_escope.20130905.145048.5116"
+  "Changed name of label type from "deliverbl.nly_escope.20130905.145048.5116_in_progress" to "deliverbl.nly_escope.20130905.145048.5116"."
+--02-05T11:46  E144999    make hyperlink "IncrementalLbtype" on label type "deliverbl.nly_escope.20130905.145048.5116"
+--02-05T11:46  E144999    make hyperlink "IncrementalLbtype" on label type "ectoscope_6_11_2013_ESPL200083473.1246"
+--02-05T11:46  E144999    create hyperlink "IncrementalLbtype@6604@\ectoscope_US_VOB"
+--02-05T11:46  E144999    create label type "deliverbl.nly_escope.20130905.145048.5116"
+--02-05T11:46  clearcase_nm75 make hyperlink "BaselineLbtype" on label type "deliverbl.nly_escope.20140205.104304"
+--02-05T11:46  clearcase_nm75 rename label type "deliverbl.nly_escope.20140205.104304"
+  "Changed name of label type from "deliverbl.nly_escope.20140205.104304_in_progress" to "deliverbl.nly_escope.20140205.104304"."
+--02-05T11:46  E144999    make hyperlink "IncrementalLbtype" on label type "deliverbl.nly_escope.20140205.104304"
+--02-05T11:46  E144999    make hyperlink "IncrementalLbtype" on label type "ectoscope_6_11_2013_ESPL200083473.1243"
+--02-05T11:46  E144999    create hyperlink "IncrementalLbtype@6602@\ectoscope_US_VOB"
+--02-05T11:46  E144999    create label type "deliverbl.nly_escope.20140205.104304"
+--02-05T11:43  E144999    create directory version "M:\admin_view\ectoscope_US_VOB\SDL@@\main\nly_ectoscope\1\04_SW_Audits@@\main\ectoscope_Integration\escope_Integration\1"
+  "Added file element "eScope-INS GPS PC Tester01092014.docx"."
+--02-05T11:43  E144999    create version "M:\admin_view\ectoscope_US_VOB\SDL@@\main\nly_ectoscope\1\04_SW_Audits\main\ectoscope_Integration\nly_escope\1\eScope-INS GPS PC Tester01092014.docx@@\main\escope_Integration\1"
+--02-05T11:43  E144999    make hyperlink "Merge" on version "M:\admin_view\ectoscope_US_VOB\SDL@@\main\nly_ectoscope\1\04_SW_Audits\main\ectoscope_Integration\nly_escope\1\eScope-INS GPS PC Tester01092014.docx@@\main\escope_Integration\1"
+--02-05T11:43  E144999    make hyperlink "Merge" on version "M:\admin_view\ectoscope_US_VOB\SDL@@\main\nly_ectoscope\1\04_SW_Audits\main\ectoscope_Integration\nly_escope\1\eScope-INS GPS PC Tester01092014.docx@@\main\nly_escope\1" (deliverbl.nly_escope.20140205.104304)
+--02-05T11:43  E144999    create hyperlink "Merge@6600@\ectoscope_US_VOB"
+--02-05T11:43  clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\ectoscope_US_VOB\SDL@@\main\nly_ectoscope\1\04_SW_Audits\main\ectoscope_Integration\nly_escope\1\eScope-INS GPS PC Tester01092014.docx@@\main\escope_Integration\1"
+--02-05T11:43  E144999    make hyperlink "Merge" on directory version "M:\admin_view\ectoscope_US_VOB\SDL@@\main\nly_ectoscope\1\04_SW_Audits@@\main\ectoscope_Integration\escope_Integration\1"
+--02-05T11:43  clearcase_nm75 add name to directory version "M:\admin_view\ectoscope_US_VOB\SDL@@\main\nly_ectoscope\1\04_SW_Audits@@\main\ectoscope_Integration\escope_Integration\1"
+--02-05T11:43  E144999    create version "M:\admin_view\ectoscope_US_VOB\SDL@@\main\nly_ectoscope\1\04_SW_Audits\main\ectoscope_Integration\nly_escope\1\eScope-INS GPS PC Tester01092014.docx@@\main\escope_Integration\0"
+--02-05T11:43  E144999    create branch "M:\admin_view\ectoscope_US_VOB\SDL@@\main\nly_ectoscope\1\04_SW_Audits\main\ectoscope_Integration\nly_escope\1\eScope-INS GPS PC Tester01092014.docx@@\main\escope_Integration"
+--02-05T11:43  E144999    make hyperlink "Merge" on directory version "M:\admin_view\ectoscope_US_VOB\SDL@@\main\nly_ectoscope\1\04_SW_Audits@@\main\ectoscope_Integration\nly_escope\1" (deliverbl.nly_escope.20140205.104304)
+--02-05T11:43  E144999    create hyperlink "Merge@6596@\ectoscope_US_VOB"
+--02-05T11:43  clearcase_nm75 make hyperlink "Change" on directory version "M:\admin_view\ectoscope_US_VOB\SDL@@\main\nly_ectoscope\1\04_SW_Audits@@\main\ectoscope_Integration\escope_Integration\1"
+--02-05T11:43  E144999    create directory version "M:\admin_view\ectoscope_US_VOB\SDL@@\main\nly_ectoscope\1\04_SW_Audits@@\main\ectoscope_Integration\escope_Integration\0"

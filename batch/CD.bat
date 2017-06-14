@@ -1,0 +1,1 @@
+cd %RATIONAL_HOME%\ClearCase\etc\utils

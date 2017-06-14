@@ -1,0 +1,81 @@
+--06-30T10:43  clearcase_nm75 protect directory element "M:\admin_view\RTOS_AERO_NC\.@@"
+  "CHMOD 775"
+--06-27T05:01  clearcase_nm75 import sync from replica "RTOS_AERO_NC_AZ10" to replica "RTOS_AERO_NC_FL51"
+  "Imported synchronization information from replica "RTOS_AERO_NC_AZ10".
+   Row at import was: RTOS_AERO_NC_AZ18.deleted=17 RTOS_AERO_NC_NM75=33 RTOS_AERO_NC_IE1A.deleted=0 RTOS_AERO_NC_MN17=0 RTOS_AERO_NC_AZ75=64085 RTOS_AERO_NC_CH01.deleted=0 RTOS_AERO_NC_IE1A=3 RTOS_AERO_NC_CH01=12551 RTOS_AERO_NC_DCW=0 RTOS_AERO_NC_AZ10=3 RTOS_AERO_NC_FL51=6"
+--06-27T04:56  clearcase_nm75 import sync from replica "RTOS_AERO_NC_DCW" to replica "RTOS_AERO_NC_FL51"
+  "Imported synchronization information from replica "RTOS_AERO_NC_DCW".
+   Row at import was: RTOS_AERO_NC_AZ18.deleted=17 RTOS_AERO_NC_NM75=33 RTOS_AERO_NC_IE1A.deleted=0 RTOS_AERO_NC_MN17=0 RTOS_AERO_NC_AZ75=64085 RTOS_AERO_NC_CH01.deleted=0 RTOS_AERO_NC_IE1A=3 RTOS_AERO_NC_CH01=12550 RTOS_AERO_NC_DCW=0 RTOS_AERO_NC_AZ10=3 RTOS_AERO_NC_FL51=6"
+--06-27T04:51  clearcase_nm75 import sync from replica "RTOS_AERO_NC_AZ10" to replica "RTOS_AERO_NC_FL51"
+  "Imported synchronization information from replica "RTOS_AERO_NC_AZ10".
+   Row at import was: RTOS_AERO_NC_AZ18.deleted=17 RTOS_AERO_NC_NM75=33 RTOS_AERO_NC_IE1A.deleted=0 RTOS_AERO_NC_MN17=0 RTOS_AERO_NC_AZ75=64085 RTOS_AERO_NC_CH01.deleted=0 RTOS_AERO_NC_IE1A=3 RTOS_AERO_NC_CH01=12550 RTOS_AERO_NC_DCW=0 RTOS_AERO_NC_AZ10=3 RTOS_AERO_NC_FL51=6"
+--06-27T04:46  E379373    create version "M:\admin_view\RTOS_AERO_NC\products\usb\stack\branches\mainline\tests\code\tpk000\makefile.mk@@\main\2"
+--06-27T04:46  clearcase_nm75 import sync from replica "RTOS_AERO_NC_DCW" to replica "RTOS_AERO_NC_FL51"
+  "Imported synchronization information from replica "RTOS_AERO_NC_DCW".
+   Row at import was: RTOS_AERO_NC_AZ18.deleted=17 RTOS_AERO_NC_NM75=33 RTOS_AERO_NC_IE1A.deleted=0 RTOS_AERO_NC_MN17=0 RTOS_AERO_NC_AZ75=64085 RTOS_AERO_NC_CH01.deleted=0 RTOS_AERO_NC_IE1A=3 RTOS_AERO_NC_CH01=12549 RTOS_AERO_NC_DCW=0 RTOS_AERO_NC_AZ10=3 RTOS_AERO_NC_FL51=6"
+--06-27T04:40  clearcase_nm75 import sync from replica "RTOS_AERO_NC_AZ10" to replica "RTOS_AERO_NC_FL51"
+  "Imported synchronization information from replica "RTOS_AERO_NC_AZ10".
+   Row at import was: RTOS_AERO_NC_AZ18.deleted=17 RTOS_AERO_NC_NM75=33 RTOS_AERO_NC_IE1A.deleted=0 RTOS_AERO_NC_MN17=0 RTOS_AERO_NC_AZ75=64085 RTOS_AERO_NC_CH01.deleted=0 RTOS_AERO_NC_IE1A=3 RTOS_AERO_NC_CH01=12549 RTOS_AERO_NC_DCW=0 RTOS_AERO_NC_AZ10=3 RTOS_AERO_NC_FL51=6"
+--06-27T04:36  clearcase_nm75 import sync from replica "RTOS_AERO_NC_DCW" to replica "RTOS_AERO_NC_FL51"
+  "Imported synchronization information from replica "RTOS_AERO_NC_DCW".
+   Row at import was: RTOS_AERO_NC_AZ18.deleted=17 RTOS_AERO_NC_NM75=33 RTOS_AERO_NC_IE1A.deleted=0 RTOS_AERO_NC_MN17=0 RTOS_AERO_NC_AZ75=64085 RTOS_AERO_NC_CH01.deleted=0 RTOS_AERO_NC_IE1A=3 RTOS_AERO_NC_CH01=12544 RTOS_AERO_NC_DCW=0 RTOS_AERO_NC_AZ10=3 RTOS_AERO_NC_FL51=6"
+--06-27T04:33  E379373    create version "M:\admin_view\RTOS_AERO_NC\products\usb\stack\branches\mainline\tests\docs\test-howto.htm@@\main\3"
+--06-27T04:28  E379373    create version "M:\admin_view\RTOS_AERO_NC\products\usb\stack\branches\mainline\tests\code\tpk001\makefile.mk@@\main\2"
+--06-27T04:25  E379373    create version "M:\admin_view\RTOS_AERO_NC\products\usb\stack\branches\mainline\tests\docs\test-howto.htm@@\main\2"
+--06-27T04:01  clearcase_nm75 import sync from replica "RTOS_AERO_NC_AZ10" to replica "RTOS_AERO_NC_FL51"
+  "Imported synchronization information from replica "RTOS_AERO_NC_AZ10".
+   Row at import was: RTOS_AERO_NC_AZ18.deleted=17 RTOS_AERO_NC_NM75=33 RTOS_AERO_NC_IE1A.deleted=0 RTOS_AERO_NC_MN17=0 RTOS_AERO_NC_AZ75=64085 RTOS_AERO_NC_CH01.deleted=0 RTOS_AERO_NC_IE1A=3 RTOS_AERO_NC_CH01=12544 RTOS_AERO_NC_DCW=0 RTOS_AERO_NC_AZ10=3 RTOS_AERO_NC_FL51=6"
+--06-27T03:56  clearcase_nm75 import sync from replica "RTOS_AERO_NC_DCW" to replica "RTOS_AERO_NC_FL51"
+  "Imported synchronization information from replica "RTOS_AERO_NC_DCW".
+   Row at import was: RTOS_AERO_NC_AZ18.deleted=17 RTOS_AERO_NC_NM75=33 RTOS_AERO_NC_IE1A.deleted=0 RTOS_AERO_NC_MN17=0 RTOS_AERO_NC_AZ75=64085 RTOS_AERO_NC_CH01.deleted=0 RTOS_AERO_NC_IE1A=3 RTOS_AERO_NC_CH01=12536 RTOS_AERO_NC_DCW=0 RTOS_AERO_NC_AZ10=3 RTOS_AERO_NC_FL51=6"
+--06-27T03:48  E379373    create directory version "M:\admin_view\RTOS_AERO_NC\products\usb\stack\branches\mainline\tests\docs@@\main\3"
+  "Added file element "test-howto.htm"."
+--06-27T03:48  E379373    add name to directory version "M:\admin_view\RTOS_AERO_NC\products\usb\stack\branches\mainline\tests\docs@@\main\3"
+--06-27T03:48  E379373    create version "M:\admin_view\RTOS_AERO_NC\products\usb\stack\branches\mainline\tests\docs\test-howto.htm@@\main\1"
+--06-27T03:48  E379373    create version "M:\admin_view\RTOS_AERO_NC\products\usb\stack\branches\mainline\tests\docs\test-howto.htm@@\main\0"
+--06-27T03:48  E379373    create branch "M:\admin_view\RTOS_AERO_NC\products\usb\stack\branches\mainline\tests\docs\test-howto.htm@@\main"
+--06-27T03:48  E379373    create file element "M:\admin_view\RTOS_AERO_NC\products\usb\stack\branches\mainline\tests\docs\test-howto.htm@@"
+--06-26T22:41  clearcase_nm75 import sync from replica "RTOS_AERO_NC_AZ10" to replica "RTOS_AERO_NC_FL51"
+  "Imported synchronization information from replica "RTOS_AERO_NC_AZ10".
+   Row at import was: RTOS_AERO_NC_AZ18.deleted=17 RTOS_AERO_NC_NM75=33 RTOS_AERO_NC_IE1A.deleted=0 RTOS_AERO_NC_MN17=0 RTOS_AERO_NC_AZ75=64085 RTOS_AERO_NC_CH01.deleted=0 RTOS_AERO_NC_IE1A=3 RTOS_AERO_NC_CH01=12536 RTOS_AERO_NC_DCW=0 RTOS_AERO_NC_AZ10=3 RTOS_AERO_NC_FL51=6"
+--06-26T22:36  clearcase_nm75 import sync from replica "RTOS_AERO_NC_DCW" to replica "RTOS_AERO_NC_FL51"
+  "Imported synchronization information from replica "RTOS_AERO_NC_DCW".
+   Row at import was: RTOS_AERO_NC_AZ18.deleted=17 RTOS_AERO_NC_NM75=33 RTOS_AERO_NC_IE1A.deleted=0 RTOS_AERO_NC_MN17=0 RTOS_AERO_NC_AZ75=64085 RTOS_AERO_NC_CH01.deleted=0 RTOS_AERO_NC_IE1A=3 RTOS_AERO_NC_CH01=12481 RTOS_AERO_NC_DCW=0 RTOS_AERO_NC_AZ10=3 RTOS_AERO_NC_FL51=6"
+--06-26T22:25  E379373    create directory version "M:\admin_view\RTOS_AERO_NC\products\usb\upanjit-class-library\branches\mainline\tests\common\test-utils\scripts@@\main\2"
+  "Added file element "factor_vpath.py".
+   Added file element "generateTestFP.py".
+   Added file element "hack_registry.py"."
+--06-26T22:25  E379373    add name to directory version "M:\admin_view\RTOS_AERO_NC\products\usb\upanjit-class-library\branches\mainline\tests\common\test-utils\scripts@@\main\2"
+--06-26T22:25  E379373    create version "M:\admin_view\RTOS_AERO_NC\products\usb\upanjit-class-library\branches\mainline\tests\common\test-utils\scripts\hack_registry.py@@\main\1"
+--06-26T22:25  E379373    create version "M:\admin_view\RTOS_AERO_NC\products\usb\upanjit-class-library\branches\mainline\tests\common\test-utils\scripts\hack_registry.py@@\main\0"
+--06-26T22:25  E379373    create branch "M:\admin_view\RTOS_AERO_NC\products\usb\upanjit-class-library\branches\mainline\tests\common\test-utils\scripts\hack_registry.py@@\main"
+--06-26T22:25  E379373    create file element "M:\admin_view\RTOS_AERO_NC\products\usb\upanjit-class-library\branches\mainline\tests\common\test-utils\scripts\hack_registry.py@@"
+--06-26T22:25  E379373    add name to directory version "M:\admin_view\RTOS_AERO_NC\products\usb\upanjit-class-library\branches\mainline\tests\common\test-utils\scripts@@\main\2"
+--06-26T22:25  E379373    create version "M:\admin_view\RTOS_AERO_NC\products\usb\upanjit-class-library\branches\mainline\tests\common\test-utils\scripts\generateTestFP.py@@\main\1"
+--06-26T22:25  E379373    create version "M:\admin_view\RTOS_AERO_NC\products\usb\upanjit-class-library\branches\mainline\tests\common\test-utils\scripts\generateTestFP.py@@\main\0"
+--06-26T22:25  E379373    create branch "M:\admin_view\RTOS_AERO_NC\products\usb\upanjit-class-library\branches\mainline\tests\common\test-utils\scripts\generateTestFP.py@@\main"
+--06-26T22:25  E379373    create file element "M:\admin_view\RTOS_AERO_NC\products\usb\upanjit-class-library\branches\mainline\tests\common\test-utils\scripts\generateTestFP.py@@"
+--06-26T22:25  E379373    add name to directory version "M:\admin_view\RTOS_AERO_NC\products\usb\upanjit-class-library\branches\mainline\tests\common\test-utils\scripts@@\main\2"
+--06-26T22:25  E379373    create version "M:\admin_view\RTOS_AERO_NC\products\usb\upanjit-class-library\branches\mainline\tests\common\test-utils\scripts\factor_vpath.py@@\main\1"
+--06-26T22:25  E379373    create version "M:\admin_view\RTOS_AERO_NC\products\usb\upanjit-class-library\branches\mainline\tests\common\test-utils\scripts\factor_vpath.py@@\main\0"
+--06-26T22:25  E379373    create branch "M:\admin_view\RTOS_AERO_NC\products\usb\upanjit-class-library\branches\mainline\tests\common\test-utils\scripts\factor_vpath.py@@\main"
+--06-26T22:25  E379373    create file element "M:\admin_view\RTOS_AERO_NC\products\usb\upanjit-class-library\branches\mainline\tests\common\test-utils\scripts\factor_vpath.py@@"
+--06-26T22:25  E379373    create directory version "M:\admin_view\RTOS_AERO_NC\products\usb\upanjit-class-library\branches\mainline\tests\common\test-utils\etc@@\main\2"
+  "Added file element "acFTP.fp.xml".
+   Added file element "addl-pages-of-ram.fp.xml".
+   Added file element "regression-mips.cfg".
+   Added file element "regression-ppc.cfg".
+   Added file element "regression-x86.cfg".
+   Added file element "run-tests.sh"."
+--06-26T22:25  E379373    add name to directory version "M:\admin_view\RTOS_AERO_NC\products\usb\upanjit-class-library\branches\mainline\tests\common\test-utils\etc@@\main\2"
+--06-26T22:25  E379373    create version "M:\admin_view\RTOS_AERO_NC\products\usb\upanjit-class-library\branches\mainline\tests\common\test-utils\etc\run-tests.sh@@\main\1"
+--06-26T22:25  E379373    create version "M:\admin_view\RTOS_AERO_NC\products\usb\upanjit-class-library\branches\mainline\tests\common\test-utils\etc\run-tests.sh@@\main\0"
+--06-26T22:25  E379373    create branch "M:\admin_view\RTOS_AERO_NC\products\usb\upanjit-class-library\branches\mainline\tests\common\test-utils\etc\run-tests.sh@@\main"
+--06-26T22:25  E379373    create file element "M:\admin_view\RTOS_AERO_NC\products\usb\upanjit-class-library\branches\mainline\tests\common\test-utils\etc\run-tests.sh@@"
+--06-26T22:25  E379373    add name to directory version "M:\admin_view\RTOS_AERO_NC\products\usb\upanjit-class-library\branches\mainline\tests\common\test-utils\etc@@\main\2"
+--06-26T22:25  E379373    create version "M:\admin_view\RTOS_AERO_NC\products\usb\upanjit-class-library\branches\mainline\tests\common\test-utils\etc\regression-x86.cfg@@\main\1"
+--06-26T22:25  E379373    create version "M:\admin_view\RTOS_AERO_NC\products\usb\upanjit-class-library\branches\mainline\tests\common\test-utils\etc\regression-x86.cfg@@\main\0"
+--06-26T22:25  E379373    create branch "M:\admin_view\RTOS_AERO_NC\products\usb\upanjit-class-library\branches\mainline\tests\common\test-utils\etc\regression-x86.cfg@@\main"
+--06-26T22:25  E379373    create file element "M:\admin_view\RTOS_AERO_NC\products\usb\upanjit-class-library\branches\mainline\tests\common\test-utils\etc\regression-x86.cfg@@"
+--06-26T22:25  E379373    add name to directory version "M:\admin_view\RTOS_AERO_NC\products\usb\upanjit-class-library\branches\mainline\tests\common\test-utils\etc@@\main\2"
+--06-26T22:25  E379373    create version "M:\admin_view\RTOS_AERO_NC\products\usb\upanjit-class-library\branches\mainline\tests\common\test-utils\etc\regression-ppc.cfg@@\main\1"

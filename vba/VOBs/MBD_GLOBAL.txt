@@ -1,0 +1,127 @@
+--06-30T10:41  clearcase_nm75 protect directory element "M:\admin_view\MBD_GLOBAL\.@@"
+  "CHMOD 775"
+--06-30T10:37  clearcase_nm75 protect directory element "M:\admin_view\MBD_GLOBAL\.@@"
+  "CHMOD 770"
+--06-30T10:37  clearcase_nm75 protect directory element "M:\admin_view\MBD_GLOBAL\.@@"
+  "CHMOD 775"
+--06-30T10:35  clearcase_nm75 protect directory element "M:\admin_view\MBD_GLOBAL\.@@"
+  "CHMOD 770"
+--06-30T10:35  clearcase_nm75 protect directory element "M:\admin_view\MBD_GLOBAL\.@@"
+  "CHMOD 775"
+--06-19T15:31  clearcase_nm75 protect directory element "M:\admin_view\MBD_GLOBAL\.@@"
+  "CHMOD 770"
+--06-19T15:31  clearcase_nm75 protect directory element "M:\admin_view\MBD_GLOBAL\.@@"
+  "CHMOD 775"
+--05-01T14:01  clearcase_nm75 import sync from replica "MBD_GLOBAL_PR08" to replica "MBD_GLOBAL_FL51_new"
+  "Imported synchronization information from replica "MBD_GLOBAL_PR08".
+   Row at import was: MBD_GLOBAL_AZ18.deleted=8 MBD_GLOBAL_MN17=676 MBD_GLOBAL_CZ21.deleted=0 MBD_GLOBAL_MN10.deleted=0 MBD_GLOBAL_MN51=0 MBD_GLOBAL_FL51.deleted=0 MBD_GLOBAL_PR08=5 MBD_GLOBAL_MN10=294 MBD_GLOBAL_CZ21=1 MBD_GLOBAL_IE10=0 MBD_GLOBAL_DCW=0 MBD_GLOBAL_FL51_new=0"
+--05-01T14:00  clearcase_nm75 export sync from replica "MBD_GLOBAL_FL51_new" to replica "MBD_GLOBAL_DCW"
+  "Exported synchronization information for replica "MBD_GLOBAL_DCW".
+   Row at export was: MBD_GLOBAL_MN51=0 MBD_GLOBAL_AZ18.deleted=8 MBD_GLOBAL_DCW=0 MBD_GLOBAL_IE10=0 MBD_GLOBAL_FL51_new=0 MBD_GLOBAL_CZ21=1 MBD_GLOBAL_CZ21.deleted=0 MBD_GLOBAL_MN10.deleted=0 MBD_GLOBAL_MN10=294 MBD_GLOBAL_MN17=669 MBD_GLOBAL_PR08=5 MBD_GLOBAL_FL51.deleted=0"
+--05-01T13:56  clearcase_nm75 import sync from replica "MBD_GLOBAL_DCW" to replica "MBD_GLOBAL_FL51_new"
+  "Imported synchronization information from replica "MBD_GLOBAL_DCW".
+   Row at import was: MBD_GLOBAL_AZ18.deleted=8 MBD_GLOBAL_MN17=676 MBD_GLOBAL_CZ21.deleted=0 MBD_GLOBAL_MN10.deleted=0 MBD_GLOBAL_MN51=0 MBD_GLOBAL_FL51.deleted=0 MBD_GLOBAL_PR08=5 MBD_GLOBAL_MN10=294 MBD_GLOBAL_CZ21=1 MBD_GLOBAL_IE10=0 MBD_GLOBAL_DCW=0 MBD_GLOBAL_FL51_new=0"
+--05-01T13:54  clearcase_nm75 import sync from replica "MBD_GLOBAL_CZ21" to replica "MBD_GLOBAL_FL51_new"
+  "Imported synchronization information from replica "MBD_GLOBAL_CZ21".
+   Row at import was: MBD_GLOBAL_AZ18.deleted=8 MBD_GLOBAL_MN17=676 MBD_GLOBAL_CZ21.deleted=0 MBD_GLOBAL_MN10.deleted=0 MBD_GLOBAL_MN51=0 MBD_GLOBAL_FL51.deleted=0 MBD_GLOBAL_PR08=5 MBD_GLOBAL_MN10=294 MBD_GLOBAL_CZ21=1 MBD_GLOBAL_IE10=0 MBD_GLOBAL_DCW=0 MBD_GLOBAL_FL51_new=0"
+--05-01T13:52  clearcase_nm75 import sync from replica "MBD_GLOBAL_MN17" to replica "MBD_GLOBAL_FL51_new"
+  "Imported synchronization information from replica "MBD_GLOBAL_MN17".
+   Row at import was: MBD_GLOBAL_AZ18.deleted=8 MBD_GLOBAL_MN17=675 MBD_GLOBAL_CZ21.deleted=0 MBD_GLOBAL_MN10.deleted=0 MBD_GLOBAL_MN51=0 MBD_GLOBAL_FL51.deleted=0 MBD_GLOBAL_PR08=5 MBD_GLOBAL_MN10=294 MBD_GLOBAL_CZ21=1 MBD_GLOBAL_IE10=0 MBD_GLOBAL_DCW=0 MBD_GLOBAL_FL51_new=0"
+--05-01T13:51  e704548    change master to "MBD_GLOBAL_DCW" of replica "MBD_GLOBAL_DCW"
+  "Changed master replica from "MBD_GLOBAL_MN17" to "MBD_GLOBAL_DCW"."
+--05-01T13:51  clearcase_nm75 import sync from replica "MBD_GLOBAL_MN17" to replica "MBD_GLOBAL_FL51_new"
+  "Imported synchronization information from replica "MBD_GLOBAL_MN17".
+   Row at import was: MBD_GLOBAL_AZ18=8 MBD_GLOBAL_MN17=669 MBD_GLOBAL_CZ21.deleted=0 MBD_GLOBAL_MN10.deleted=0 MBD_GLOBAL_MN51=0 MBD_GLOBAL_FL51.deleted=0 MBD_GLOBAL_PR08=5 MBD_GLOBAL_MN10=294 MBD_GLOBAL_CZ21=1 MBD_GLOBAL_IE10=0 MBD_GLOBAL_DCW=0 MBD_GLOBAL_FL51_new=0"
+--05-01T13:50  e704548    rename replica "MBD_GLOBAL_AZ18.deleted"
+  "Changed name of replica from "MBD_GLOBAL_AZ18" to "MBD_GLOBAL_AZ18.deleted".
+   Destroyed replica "MBD_GLOBAL_AZ18"."
+--05-01T13:50  e704548    destroy replica in versioned object base "\MBD_GLOBAL"
+  "Destroyed replica "MBD_GLOBAL_AZ18"."
+--05-01T13:49  e704548    change master to "MBD_GLOBAL_MN17" of replica "MBD_GLOBAL_DCW"
+  "Changed master replica from "MBD_GLOBAL_AZ18" to "MBD_GLOBAL_MN17"."
+--05-01T13:49  e704548    change master to "MBD_GLOBAL_MN17" of replica "MBD_GLOBAL_IE10"
+  "Changed master replica from "MBD_GLOBAL_AZ18" to "MBD_GLOBAL_MN17"."
+--05-01T13:49  e704548    change master to "MBD_GLOBAL_MN17" of replica "MBD_GLOBAL_FL51_new"
+  "Changed master replica from "MBD_GLOBAL_AZ18" to "MBD_GLOBAL_MN17"."
+--05-01T13:49  e704548    change master to "MBD_GLOBAL_MN17" of replica "MBD_GLOBAL_MN10"
+  "Changed master replica from "MBD_GLOBAL_AZ18" to "MBD_GLOBAL_MN17"."
+--05-01T13:49  e704548    change master to "MBD_GLOBAL_MN17" of replica "MBD_GLOBAL_CZ21.deleted"
+  "Changed master replica from "MBD_GLOBAL_AZ18" to "MBD_GLOBAL_MN17"."
+--03-25T11:52  clearcase_nm75 export sync from replica "MBD_GLOBAL_FL51_new" to replica "MBD_GLOBAL_DCW"
+  "Exported synchronization information for replica "MBD_GLOBAL_DCW".
+   Row at export was: MBD_GLOBAL_MN51=0 MBD_GLOBAL_AZ18=7 MBD_GLOBAL_DCW=0 MBD_GLOBAL_IE10=0 MBD_GLOBAL_FL51_new=0 MBD_GLOBAL_CZ21=1 MBD_GLOBAL_CZ21.deleted=0 MBD_GLOBAL_MN10.deleted=0 MBD_GLOBAL_MN10=294 MBD_GLOBAL_MN17=669 MBD_GLOBAL_PR08=5 MBD_GLOBAL_FL51.deleted=0"
+--12-17T11:00  clearcase_nm75 import sync from replica "MBD_GLOBAL_CZ21" to replica "MBD_GLOBAL_FL51_new"
+  "Imported synchronization information from replica "MBD_GLOBAL_CZ21".
+   Row at import was: MBD_GLOBAL_AZ18=8 MBD_GLOBAL_MN17=669 MBD_GLOBAL_CZ21.deleted=0 MBD_GLOBAL_MN10.deleted=0 MBD_GLOBAL_MN51=0 MBD_GLOBAL_FL51.deleted=0 MBD_GLOBAL_PR08=5 MBD_GLOBAL_MN10=294 MBD_GLOBAL_CZ21=1 MBD_GLOBAL_IE10=0 MBD_GLOBAL_DCW=0 MBD_GLOBAL_FL51_new=0"
+--07-29T13:10  clearcase_nm75 import sync from replica "MBD_GLOBAL_DCW" to replica "MBD_GLOBAL_FL51_new"
+  "Imported synchronization information from replica "MBD_GLOBAL_DCW".
+   Row at import was: MBD_GLOBAL_AZ18=8 MBD_GLOBAL_MN17=669 MBD_GLOBAL_CZ21.deleted=0 MBD_GLOBAL_MN10.deleted=0 MBD_GLOBAL_MN51=0 MBD_GLOBAL_FL51.deleted=0 MBD_GLOBAL_PR08=5 MBD_GLOBAL_MN10=294 MBD_GLOBAL_CZ21=1 MBD_GLOBAL_IE10=0 MBD_GLOBAL_DCW=0 MBD_GLOBAL_FL51_new=0"
+--07-29T11:40  clearcase_nm75 import sync from replica "MBD_GLOBAL_PR08" to replica "MBD_GLOBAL_FL51_new"
+  "Imported synchronization information from replica "MBD_GLOBAL_PR08".
+   Row at import was: MBD_GLOBAL_AZ18=8 MBD_GLOBAL_MN17=669 MBD_GLOBAL_CZ21.deleted=0 MBD_GLOBAL_MN10.deleted=0 MBD_GLOBAL_MN51=0 MBD_GLOBAL_FL51.deleted=0 MBD_GLOBAL_PR08=5 MBD_GLOBAL_MN10=294 MBD_GLOBAL_CZ21=1 MBD_GLOBAL_IE10=0 MBD_GLOBAL_DCW=0 MBD_GLOBAL_FL51_new=0"
+--07-29T11:30  clearcase_nm75 import sync from replica "MBD_GLOBAL_AZ18.deleted" to replica "MBD_GLOBAL_FL51_new"
+  "Imported synchronization information from replica "MBD_GLOBAL_AZ18".
+   Row at import was: MBD_GLOBAL_AZ18=7 MBD_GLOBAL_MN17=669 MBD_GLOBAL_CZ21.deleted=0 MBD_GLOBAL_MN10.deleted=0 MBD_GLOBAL_MN51=0 MBD_GLOBAL_FL51.deleted=0 MBD_GLOBAL_PR08=5 MBD_GLOBAL_MN10=294 MBD_GLOBAL_CZ21=1 MBD_GLOBAL_IE10=0 MBD_GLOBAL_FL51_new=0"
+--07-29T11:14  root       create replica "MBD_GLOBAL_DCW"
+2013-06-19     clearcase_nm75 import sync from replica "MBD_GLOBAL_PR08" to replica "MBD_GLOBAL_FL51_new"
+  "Imported synchronization information from replica "MBD_GLOBAL_PR08".
+   Row at import was: MBD_GLOBAL_AZ18=7 MBD_GLOBAL_MN17=669 MBD_GLOBAL_CZ21.deleted=0 MBD_GLOBAL_MN10.deleted=0 MBD_GLOBAL_MN51=0 MBD_GLOBAL_FL51.deleted=0 MBD_GLOBAL_PR08=5 MBD_GLOBAL_MN10=294 MBD_GLOBAL_CZ21=1 MBD_GLOBAL_IE10=0 MBD_GLOBAL_FL51_new=0"
+2013-06-12     clearcase_nm75 import sync from replica "MBD_GLOBAL_AZ18.deleted" to replica "MBD_GLOBAL_FL51_new"
+  "Imported synchronization information from replica "MBD_GLOBAL_AZ18".
+   Row at import was: MBD_GLOBAL_AZ18=7 MBD_GLOBAL_MN17=669 MBD_GLOBAL_CZ21.deleted=0 MBD_GLOBAL_MN10.deleted=0 MBD_GLOBAL_MN51=0 MBD_GLOBAL_FL51.deleted=0 MBD_GLOBAL_PR08=4 MBD_GLOBAL_MN10=294 MBD_GLOBAL_CZ21=1 MBD_GLOBAL_IE10=0 MBD_GLOBAL_FL51_new=0"
+2013-06-12     e721877    import sync to replica "MBD_GLOBAL_PR08"
+  "Changed information associated with replica."
+2013-04-12     clearcase_nm75 import sync from replica "MBD_GLOBAL_AZ18.deleted" to replica "MBD_GLOBAL_FL51_new"
+  "Imported synchronization information from replica "MBD_GLOBAL_AZ18".
+   Row at import was: MBD_GLOBAL_AZ18=7 MBD_GLOBAL_MN17=669 MBD_GLOBAL_CZ21.deleted=0 MBD_GLOBAL_MN10.deleted=0 MBD_GLOBAL_MN51=0 MBD_GLOBAL_FL51.deleted=0 MBD_GLOBAL_PR08=3 MBD_GLOBAL_MN10=294 MBD_GLOBAL_CZ21=1 MBD_GLOBAL_IE10=0 MBD_GLOBAL_FL51_new=0"
+2013-04-12     sv-das_cc_albd import sync to replica "MBD_GLOBAL_PR08"
+  "Changed information associated with replica."
+2013-04-12     clearcase_nm75 import sync from replica "MBD_GLOBAL_AZ18.deleted" to replica "MBD_GLOBAL_FL51_new"
+  "Imported synchronization information from replica "MBD_GLOBAL_AZ18".
+   Row at import was: MBD_GLOBAL_AZ18=7 MBD_GLOBAL_MN17=669 MBD_GLOBAL_CZ21.deleted=0 MBD_GLOBAL_MN10.deleted=0 MBD_GLOBAL_MN51=0 MBD_GLOBAL_FL51.deleted=0 MBD_GLOBAL_PR08=1 MBD_GLOBAL_MN10=294 MBD_GLOBAL_CZ21=1 MBD_GLOBAL_IE10=0 MBD_GLOBAL_FL51_new=0"
+2013-04-12     clearcase_nm75 import sync from replica "MBD_GLOBAL_AZ18.deleted" to replica "MBD_GLOBAL_FL51_new"
+  "Imported synchronization information from replica "MBD_GLOBAL_AZ18".
+   Row at import was: MBD_GLOBAL_AZ18=7 MBD_GLOBAL_MN17=669 MBD_GLOBAL_CZ21.deleted=0 MBD_GLOBAL_MN10.deleted=0 MBD_GLOBAL_MN51=0 MBD_GLOBAL_FL51.deleted=0 MBD_GLOBAL_PR08=0 MBD_GLOBAL_MN10=294 MBD_GLOBAL_CZ21=1 MBD_GLOBAL_IE10=0 MBD_GLOBAL_FL51_new=0"
+2013-04-12     sv-das_cc_albd import sync to replica "MBD_GLOBAL_PR08"
+  "Changed information associated with replica."
+2013-04-12     sv-das_cc_albd import sync to replica "MBD_GLOBAL_PR08"
+  "Changed information associated with replica."
+2013-04-12     sv-das_cc_albd import sync to replica "MBD_GLOBAL_PR08"
+  "Changed information associated with replica."
+2013-04-12     clearcase_nm75 import sync from replica "MBD_GLOBAL_AZ18.deleted" to replica "MBD_GLOBAL_FL51_new"
+  "Imported synchronization information from replica "MBD_GLOBAL_AZ18".
+   Row at import was: MBD_GLOBAL_AZ18=7 MBD_GLOBAL_MN17=668 MBD_GLOBAL_CZ21.deleted=0 MBD_GLOBAL_MN10.deleted=0 MBD_GLOBAL_MN51=0 MBD_GLOBAL_FL51.deleted=0 MBD_GLOBAL_PR08=0 MBD_GLOBAL_MN10=294 MBD_GLOBAL_CZ21=1 MBD_GLOBAL_IE10=0 MBD_GLOBAL_FL51_new=0"
+2013-04-12     e463300    change master to "MBD_GLOBAL_PR08" of replica "MBD_GLOBAL_PR08"
+  "Changed master replica from "MBD_GLOBAL_MN17" to "MBD_GLOBAL_PR08"."
+2010-03-13     clearcase_nm75 import sync from replica "MBD_GLOBAL_MN51" to replica "MBD_GLOBAL_FL51_new"
+  "Imported synchronization information from replica "MBD_GLOBAL_MN51".
+   Row at import was: MBD_GLOBAL_AZ18=7 MBD_GLOBAL_MN17=668 MBD_GLOBAL_CZ21.deleted=0 MBD_GLOBAL_MN10.deleted=0 MBD_GLOBAL_MN51=0 MBD_GLOBAL_FL51.deleted=0 MBD_GLOBAL_PR08=0 MBD_GLOBAL_MN10=294 MBD_GLOBAL_CZ21=1 MBD_GLOBAL_IE10=0 MBD_GLOBAL_FL51_new=0"
+2010-03-13     clearcase_nm75 export sync from replica "MBD_GLOBAL_FL51_new" to replica "MBD_GLOBAL_PR08"
+  "Exported synchronization information for replica "MBD_GLOBAL_PR08".
+   Row at export was: MBD_GLOBAL_MN51=0 MBD_GLOBAL_AZ18=7 MBD_GLOBAL_IE10=0 MBD_GLOBAL_FL51_new=0 MBD_GLOBAL_CZ21=0 MBD_GLOBAL_CZ21.deleted=0 MBD_GLOBAL_MN10.deleted=0 MBD_GLOBAL_MN10=294 MBD_GLOBAL_MN17=668 MBD_GLOBAL_PR08=0 MBD_GLOBAL_FL51.deleted=0"
+2010-03-13     clearcase_nm75 export sync from replica "MBD_GLOBAL_FL51_new" to replica "MBD_GLOBAL_MN51"
+  "Exported synchronization information for replica "MBD_GLOBAL_MN51".
+   Row at export was: MBD_GLOBAL_MN51=0 MBD_GLOBAL_AZ18=7 MBD_GLOBAL_IE10=0 MBD_GLOBAL_FL51_new=0 MBD_GLOBAL_CZ21=0 MBD_GLOBAL_CZ21.deleted=0 MBD_GLOBAL_MN10.deleted=0 MBD_GLOBAL_MN10=294 MBD_GLOBAL_MN17=668 MBD_GLOBAL_PR08=0 MBD_GLOBAL_FL51.deleted=0"
+2010-03-13     clearcase_nm75 export sync from replica "MBD_GLOBAL_FL51_new" to replica "MBD_GLOBAL_MN17"
+  "Exported synchronization information for replica "MBD_GLOBAL_MN17".
+   Row at export was: MBD_GLOBAL_MN51=0 MBD_GLOBAL_AZ18=7 MBD_GLOBAL_IE10=0 MBD_GLOBAL_FL51_new=0 MBD_GLOBAL_CZ21=0 MBD_GLOBAL_CZ21.deleted=0 MBD_GLOBAL_MN10.deleted=0 MBD_GLOBAL_MN10=294 MBD_GLOBAL_MN17=668 MBD_GLOBAL_PR08=0 MBD_GLOBAL_FL51.deleted=0"
+2010-03-13     clearcase_nm75 export sync from replica "MBD_GLOBAL_FL51_new" to replica "MBD_GLOBAL_MN10"
+  "Exported synchronization information for replica "MBD_GLOBAL_MN10".
+   Row at export was: MBD_GLOBAL_MN51=0 MBD_GLOBAL_AZ18=7 MBD_GLOBAL_IE10=0 MBD_GLOBAL_FL51_new=0 MBD_GLOBAL_CZ21=0 MBD_GLOBAL_CZ21.deleted=0 MBD_GLOBAL_MN10.deleted=0 MBD_GLOBAL_MN10=294 MBD_GLOBAL_MN17=668 MBD_GLOBAL_PR08=0 MBD_GLOBAL_FL51.deleted=0"
+2010-03-13     clearcase_nm75 export sync from replica "MBD_GLOBAL_FL51_new" to replica "MBD_GLOBAL_IE10"
+  "Exported synchronization information for replica "MBD_GLOBAL_IE10".
+   Row at export was: MBD_GLOBAL_MN51=0 MBD_GLOBAL_AZ18=7 MBD_GLOBAL_IE10=0 MBD_GLOBAL_FL51_new=0 MBD_GLOBAL_CZ21=0 MBD_GLOBAL_CZ21.deleted=0 MBD_GLOBAL_MN10.deleted=0 MBD_GLOBAL_MN10=294 MBD_GLOBAL_MN17=668 MBD_GLOBAL_PR08=0 MBD_GLOBAL_FL51.deleted=0"
+2010-03-13     clearcase_nm75 import sync from replica "MBD_GLOBAL_MN17" to replica "MBD_GLOBAL_FL51_new"
+  "Imported synchronization information from replica "MBD_GLOBAL_MN17".
+   Row at import was: MBD_GLOBAL_AZ18=7 MBD_GLOBAL_MN17=668 MBD_GLOBAL_CZ21.deleted=0 MBD_GLOBAL_MN10.deleted=0 MBD_GLOBAL_MN51=0 MBD_GLOBAL_FL51.deleted=0 MBD_GLOBAL_PR08=0 MBD_GLOBAL_MN10=294 MBD_GLOBAL_CZ21=1 MBD_GLOBAL_IE10=0 MBD_GLOBAL_FL51_new=0"
+2010-03-13     clearcase_nm75 import sync from replica "MBD_GLOBAL_AZ18.deleted" to replica "MBD_GLOBAL_FL51_new"
+  "Imported synchronization information from replica "MBD_GLOBAL_AZ18".
+   Row at import was: MBD_GLOBAL_AZ18=7 MBD_GLOBAL_MN17=668 MBD_GLOBAL_CZ21.deleted=0 MBD_GLOBAL_MN10.deleted=0 MBD_GLOBAL_MN51=0 MBD_GLOBAL_FL51.deleted=0 MBD_GLOBAL_PR08=0 MBD_GLOBAL_MN10=294 MBD_GLOBAL_CZ21=0 MBD_GLOBAL_IE10=0 MBD_GLOBAL_FL51_new=0"
+2010-03-13     CZ09-VobAdm import sync to replica "MBD_GLOBAL_CZ21"
+  "Changed information associated with replica."
+2010-03-11     clearcase_nm75 import sync from replica "MBD_GLOBAL_MN51" to replica "MBD_GLOBAL_FL51_new"
+  "Imported synchronization information from replica "MBD_GLOBAL_MN51".
+   Row at import was: MBD_GLOBAL_AZ18=7 MBD_GLOBAL_MN17=668 MBD_GLOBAL_CZ21.deleted=0 MBD_GLOBAL_MN10.deleted=0 MBD_GLOBAL_MN51=0 MBD_GLOBAL_FL51.deleted=0 MBD_GLOBAL_PR08=0 MBD_GLOBAL_MN10=294 MBD_GLOBAL_CZ21=0 MBD_GLOBAL_IE10=0 MBD_GLOBAL_FL51_new=0"
+2010-03-11     clearcase_nm75 export sync from replica "MBD_GLOBAL_FL51_new" to replica "MBD_GLOBAL_PR08"
+  "Exported synchronization information for replica "MBD_GLOBAL_PR08".
+   Row at export was: MBD_GLOBAL_MN51=0 MBD_GLOBAL_AZ18=6 MBD_GLOBAL_IE10=0 MBD_GLOBAL_FL51_new=0 MBD_GLOBAL_CZ21=0 MBD_GLOBAL_CZ21.deleted=0 MBD_GLOBAL_MN10.deleted=0 MBD_GLOBAL_MN10=294 MBD_GLOBAL_MN17=668 MBD_GLOBAL_PR08=0 MBD_GLOBAL_FL51.deleted=0"

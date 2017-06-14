@@ -1,0 +1,108 @@
+--06-30T10:44  clearcase_nm75 protect directory element "M:\admin_view\AGES_PVOB\.@@"
+  "CHMOD 775"
+--06-19T17:13  clearcase_nm75 protect directory element "M:\admin_view\AGES_PVOB\.@@"
+  "CHMOD 770"
+--06-19T17:13  clearcase_nm75 protect directory element "M:\admin_view\AGES_PVOB\.@@"
+  "CHMOD 775"
+--03-27T11:11  clearcase_nm75 import sync from replica "AGES_PVOB_DCW" to replica "AGES_PVOB_FL51"
+  "Imported synchronization information from replica "AGES_PVOB_DCW".
+   Row at import was: AGES_PVOB_MN17=335 AGES_PVOB_AZ18.deleted=1 AGES_PVOB_DCW=0 AGES_PVOB_FL51=0"
+--03-27T11:01  clearcase_nm75 import sync from replica "AGES_PVOB_DCW" to replica "AGES_PVOB_FL51"
+  "Imported synchronization information from replica "AGES_PVOB_DCW".
+   Row at import was: AGES_PVOB_MN17=335 AGES_PVOB_AZ18.deleted=1 AGES_PVOB_DCW=0 AGES_PVOB_FL51=0"
+--03-27T11:01  clearcase_nm75 export sync from replica "AGES_PVOB_FL51" to replica "AGES_PVOB_DCW"
+  "Exported synchronization information for replica "AGES_PVOB_DCW".
+   Row at export was: AGES_PVOB_DCW=0 AGES_PVOB_MN17=331 AGES_PVOB_FL51=0 AGES_PVOB_AZ18.deleted=1"
+--03-27T11:00  clearcase_nm75 import sync from replica "AGES_PVOB_MN17" to replica "AGES_PVOB_FL51"
+  "Imported synchronization information from replica "AGES_PVOB_MN17".
+   Row at import was: AGES_PVOB_MN17=334 AGES_PVOB_AZ18.deleted=1 AGES_PVOB_DCW=0 AGES_PVOB_FL51=0"
+--03-27T10:57  e704548    change master to "AGES_PVOB_DCW" of replica "AGES_PVOB_DCW"
+  "Changed master replica from "AGES_PVOB_MN17" to "AGES_PVOB_DCW"."
+--03-27T10:54  clearcase_nm75 import sync from replica "AGES_PVOB_MN17" to replica "AGES_PVOB_FL51"
+  "Imported synchronization information from replica "AGES_PVOB_MN17".
+   Row at import was: AGES_PVOB_MN17=331 AGES_PVOB_AZ18=1 AGES_PVOB_DCW=0 AGES_PVOB_FL51=0"
+--03-27T10:53  e704548    rename replica "AGES_PVOB_AZ18.deleted"
+  "Changed name of replica from "AGES_PVOB_AZ18" to "AGES_PVOB_AZ18.deleted".
+   Destroyed replica "AGES_PVOB_AZ18"."
+--03-27T10:53  e704548    destroy replica in versioned object base "\AGES_PVOB"
+  "Destroyed replica "AGES_PVOB_AZ18"."
+--03-27T10:53  e704548    change master to "AGES_PVOB_MN17" of replica "AGES_PVOB_DCW"
+  "Changed master replica from "AGES_PVOB_AZ18" to "AGES_PVOB_MN17"."
+--03-27T10:53  e704548    change master to "AGES_PVOB_MN17" of replica "AGES_PVOB_AZ18.deleted"
+  "Changed master replica from "AGES_PVOB_AZ18" to "AGES_PVOB_MN17"."
+--03-25T11:35  clearcase_nm75 export sync from replica "AGES_PVOB_FL51" to replica "AGES_PVOB_DCW"
+  "Exported synchronization information for replica "AGES_PVOB_DCW".
+   Row at export was: AGES_PVOB_DCW=0 AGES_PVOB_MN17=331 AGES_PVOB_FL51=0 AGES_PVOB_AZ18=0"
+--07-29T11:10  clearcase_nm75 import sync from replica "AGES_PVOB_DCW" to replica "AGES_PVOB_FL51"
+  "Imported synchronization information from replica "AGES_PVOB_DCW".
+   Row at import was: AGES_PVOB_MN17=331 AGES_PVOB_AZ18=1 AGES_PVOB_DCW=0 AGES_PVOB_FL51=0"
+--07-26T15:30  clearcase_nm75 import sync from replica "AGES_PVOB_MN17" to replica "AGES_PVOB_FL51"
+  "Imported synchronization information from replica "AGES_PVOB_MN17".
+   Row at import was: AGES_PVOB_MN17=331 AGES_PVOB_AZ18=1 AGES_PVOB_DCW=0 AGES_PVOB_FL51=0"
+--07-26T15:30  clearcase_nm75 import sync from replica "AGES_PVOB_AZ18.deleted" to replica "AGES_PVOB_FL51"
+  "Imported synchronization information from replica "AGES_PVOB_AZ18".
+   Row at import was: AGES_PVOB_MN17=331 AGES_PVOB_AZ18=0 AGES_PVOB_FL51=0"
+--07-26T15:11  root       create replica "AGES_PVOB_DCW"
+2013-06-03     e564406    lock trigger type "NO_RMTYPE" (locked)
+  "Locked for all users."
+2013-06-03     e564406    destroy type in versioned object base "\AGES_PVOB"
+  "Destroyed trigger type "NO_RMTRIGGER"."
+2013-06-03     e564406    modify trigger type "NO_RMTYPE" (locked)
+  "Changed definition of type.
+   Disallow removal of types"
+2013-06-03     e564406    unlock trigger type "NO_RMTYPE" (locked)
+2012-11-20     clearcase_nm75 import sync from replica "AGES_PVOB_MN17" to replica "AGES_PVOB_FL51"
+  "Imported synchronization information from replica "AGES_PVOB_MN17".
+   Row at import was: AGES_PVOB_MN17=331 AGES_PVOB_AZ18=0 AGES_PVOB_FL51=0"
+2012-03-16     clearcase_nm75 import sync from replica "AGES_PVOB_AZ18.deleted" to replica "AGES_PVOB_FL51"
+  "Imported synchronization information from replica "AGES_PVOB_AZ18".
+   Row at import was: AGES_PVOB_MN17=327 AGES_PVOB_AZ18=0 AGES_PVOB_FL51=0"
+2012-03-16     e702445    set process variable on activity "AGES_SDL_Integration"
+  "Set activity process variable named "UCM_STREAM_RECBLS"."
+2012-03-16     e702445    make hyperlink "BaselineLbtype" on baseline "AGES_SDL_3_16_2012"
+2012-03-16     e702445    create hyperlink "BaselineLbtype@339@\AGES_PVOB"
+2012-03-16     e702445    make attribute "PromotionLevel" on baseline "AGES_SDL_3_16_2012"
+  "Added attribute "PromotionLevel" with value "INITIAL"."
+2012-03-16     e702445    make baseline "AGES_SDL_3_16_2012"
+2012-03-08     e730056    lock trigger type "NO_RMNAME" (locked)
+  "Locked except for users: e730056 e702445 e704548 e712432 e721877 e721598"
+2012-03-08     e730056    lock trigger type "NO_RMLOCK" (locked)
+  "Locked except for users: e730056 e702445 e704548 e712432 e721877 e721598"
+2012-03-08     e730056    lock trigger type "NO_RMTYPE" (locked)
+  "Locked except for users: e730056 e702445 e704548 e712432 e721877 e721598"
+2012-03-08     e730056    lock trigger type "NO_MKTRIGGER" (locked)
+  "Locked except for users: e730056 e702445 e704548 e712432 e721877 e721598"
+2012-03-08     e730056    lock trigger type "NO_EVIL_TWIN_MKELEM" (locked)
+  "Locked except for users: e730056 e702445 e704548 e712432 e721877 e721598"
+2012-03-08     e730056    lock trigger type "NO_RMELEM" (locked)
+  "Locked except for users: e730056 e702445 e704548 e712432 e721877 e721598"
+2012-03-08     e730056    lock trigger type "CHOWN" (locked)
+  "Locked except for users: e730056 e702445 e704548 e712432 e721877 e721598"
+2012-03-08     e730056    lock trigger type "NO_RMVER" (locked)
+  "Locked except for users: e730056 e702445 e704548 e712432 e721877 e721598"
+2012-03-08     e730056    lock trigger type "ChangeLbtypeOwner" (locked)
+  "Locked except for users: e730056 e702445 e704548 e712432 e721877 e721598"
+2012-03-08     e730056    lock trigger type "ChangeHltypeOwner" (locked)
+  "Locked except for users: e730056 e702445 e704548 e712432 e721877 e721598"
+2012-03-08     e730056    lock trigger type "ChangeAttypeOwner" (locked)
+  "Locked except for users: e730056 e702445 e704548 e712432 e721877 e721598"
+2012-03-08     e730056    lock trigger type "ChangeTrtypeOwner" (locked)
+  "Locked except for users: e730056 e702445 e704548 e712432 e721877 e721598"
+2012-03-08     e730056    protect trigger type "NO_RMNAME" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.sgn.csp.ages.rc"
+2012-03-08     e730056    protect trigger type "NO_RMLOCK" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.sgn.csp.ages.rc"
+2012-03-08     e730056    protect trigger type "NO_RMTYPE" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.sgn.csp.ages.rc"
+2012-03-08     e730056    protect trigger type "NO_MKTRIGGER" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.sgn.csp.ages.rc"
+2012-03-08     e730056    protect trigger type "NO_EVIL_TWIN_MKELEM" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.sgn.csp.ages.rc"
+2012-03-08     e730056    protect trigger type "NO_RMVER" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.sgn.csp.ages.rc"
+2012-03-08     e730056    protect trigger type "NO_RMELEM" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.sgn.csp.ages.rc"
+2012-03-08     e730056    protect trigger type "CHOWN" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.sgn.csp.ages.rc"
+2012-03-08     e730056    protect trigger type "ChangeLbtypeOwner" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.sgn.csp.ages.rc"

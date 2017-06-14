@@ -1,0 +1,105 @@
+--06-30T10:42  clearcase_nm75 protect directory element "M:\admin_view\PlatformServices\.@@"
+  "CHMOD 775"
+--06-24T18:11  clearcase_nm75 import sync from replica "PlatformServices_AZ10" to replica "PlatformServices_FL51_new"
+  "Imported synchronization information from replica "PlatformServices_AZ10".
+   Row at import was: PlatformServices_TUS04.deleted=10384 abq_platformservices=9070 PlatformServices_FL51.deleted=0 PlatformServices_AZ18.deleted=2 PlatformServices_AZ10=444 P30_systems_AZ18.deleted=0 P30_systems_AZ10.deleted=0 PlatformServices_TUS04_DCW=0 PlatformServices_FL51_new=1"
+--06-24T18:05  clearcase_nm75 import sync from replica "PlatformServices_TUS04_DCW" to replica "PlatformServices_FL51_new"
+  "Imported synchronization information from replica "PlatformServices_TUS04_DCW".
+   Row at import was: PlatformServices_TUS04.deleted=10384 abq_platformservices=9070 PlatformServices_FL51.deleted=0 PlatformServices_AZ18.deleted=2 PlatformServices_AZ10=444 P30_systems_AZ18.deleted=0 P30_systems_AZ10.deleted=0 PlatformServices_TUS04_DCW=0 PlatformServices_FL51_new=1"
+--06-24T18:04  clearcase_nm75 export sync from replica "PlatformServices_FL51_new" to replica "PlatformServices_TUS04_DCW"
+  "Exported synchronization information for replica "PlatformServices_TUS04_DCW".
+   Row at export was: PlatformServices_TUS04.deleted=10384 P30_systems_AZ10.deleted=0 PlatformServices_FL51_new=1 PlatformServices_FL51.deleted=0 PlatformServices_TUS04_DCW=0 PlatformServices_AZ18.deleted=2 abq_platformservices=9068 P30_systems_AZ18.deleted=0 PlatformServices_AZ10=444"
+--06-24T18:01  clearcase_nm75 import sync from replica "abq_platformservices" to replica "PlatformServices_FL51_new"
+  "Imported synchronization information from replica "abq_platformservices".
+   Row at import was: PlatformServices_TUS04.deleted=10384 abq_platformservices=9068 PlatformServices_FL51.deleted=0 PlatformServices_AZ18.deleted=2 PlatformServices_AZ10=444 P30_systems_AZ18.deleted=0 P30_systems_AZ10.deleted=0 PlatformServices_TUS04_DCW=0 PlatformServices_FL51_new=1"
+--06-24T18:00  clearcase_nm75 import sync from replica "PlatformServices_AZ10" to replica "PlatformServices_FL51_new"
+  "Imported synchronization information from replica "PlatformServices_AZ10".
+   Row at import was: PlatformServices_TUS04.deleted=10384 abq_platformservices=9068 PlatformServices_FL51.deleted=0 PlatformServices_AZ18.deleted=2 PlatformServices_AZ10=444 P30_systems_AZ18.deleted=0 P30_systems_AZ10.deleted=0 PlatformServices_TUS04_DCW=0 PlatformServices_FL51_new=1"
+--06-24T17:55  clearcase_nm75 import sync from replica "PlatformServices_TUS04_DCW" to replica "PlatformServices_FL51_new"
+  "Imported synchronization information from replica "PlatformServices_TUS04_DCW".
+   Row at import was: PlatformServices_TUS04.deleted=10384 abq_platformservices=9068 PlatformServices_FL51.deleted=0 PlatformServices_AZ18.deleted=2 PlatformServices_AZ10=444 P30_systems_AZ18.deleted=0 P30_systems_AZ10.deleted=0 PlatformServices_TUS04_DCW=0 PlatformServices_FL51_new=1"
+--06-24T17:55  clearcase_nm75 export sync from replica "PlatformServices_FL51_new" to replica "PlatformServices_TUS04_DCW"
+  "Exported synchronization information for replica "PlatformServices_TUS04_DCW".
+   Row at export was: PlatformServices_TUS04.deleted=10384 P30_systems_AZ10.deleted=0 PlatformServices_FL51_new=1 PlatformServices_FL51.deleted=0 PlatformServices_TUS04_DCW=0 PlatformServices_AZ18.deleted=2 abq_platformservices=9064 P30_systems_AZ18.deleted=0 PlatformServices_AZ10=444"
+--06-24T17:51  E435996    make label "INTERIM_RELEASE_140624" on directory version "M:\admin_view\PlatformServices\IOL\Software\Source\GlobalDefs\code@@\main\7" (INTERIM_RELEASE_140624, INTERIM_RELEASE_140530, cSDS_Build2, PD8536769-100, IOL_120817, ...)
+--06-24T17:51  clearcase_nm75 import sync from replica "abq_platformservices" to replica "PlatformServices_FL51_new"
+  "Imported synchronization information from replica "abq_platformservices".
+   Row at import was: PlatformServices_TUS04.deleted=10384 abq_platformservices=9064 PlatformServices_FL51.deleted=0 PlatformServices_AZ18.deleted=2 PlatformServices_AZ10=444 P30_systems_AZ18.deleted=0 P30_systems_AZ10.deleted=0 PlatformServices_TUS04_DCW=0 PlatformServices_FL51_new=1"
+--06-24T17:51  E435996    make label "INTERIM_RELEASE_140624" on directory version "M:\admin_view\PlatformServices\IOL\Software\Source\GlobalDefs@@\main\2" (INTERIM_RELEASE_140624, INTERIM_RELEASE_140530, PD8536769-100, IOL_04.00, IOL_03.00, ...)
+--06-24T17:50  E435996    make label "INTERIM_RELEASE_140624" on directory version "M:\admin_view\PlatformServices\IOL\Software\Source@@\main\6" (INTERIM_RELEASE_140624, INTERIM_RELEASE_140530, PD8536770-109, PD8536769-100, IOL_04.00, ...)
+--06-24T17:50  E435996    make label "INTERIM_RELEASE_140624" on directory version "M:\admin_view\PlatformServices\IOL\Software@@\main\5" (INTERIM_RELEASE_140624, INTERIM_RELEASE_140530, PD8536770-109, PD8536769-100, IOL_04.00, ...)
+--06-24T17:50  E435996    make label "INTERIM_RELEASE_140624" on directory version "M:\admin_view\PlatformServices\IOL@@\main\2" (INTERIM_RELEASE_140624, INTERIM_RELEASE_140530, PD8536770-109, PD8536769-100, IOL_04.00, ...)
+--06-24T17:50  E435996    make label "INTERIM_RELEASE_140624" on directory version "M:\admin_view\PlatformServices\.@@\main\12" (INTERIM_RELEASE_140624, INTERIM_RELEASE_140530, PD8536770-109, PD8536769-100)
+--06-20T15:20  clearcase_nm75 export sync from replica "PlatformServices_FL51_new" to replica "PlatformServices_TUS04_DCW"
+  "Exported synchronization information for replica "PlatformServices_TUS04_DCW".
+   Row at export was: PlatformServices_TUS04.deleted=10384 P30_systems_AZ10.deleted=0 PlatformServices_FL51_new=1 PlatformServices_FL51.deleted=0 PlatformServices_TUS04_DCW=0 PlatformServices_AZ18.deleted=2 abq_platformservices=9063 P30_systems_AZ18.deleted=0 PlatformServices_AZ10=444"
+--06-20T15:20  clearcase_nm75 import sync from replica "PlatformServices_AZ10" to replica "PlatformServices_FL51_new"
+  "Imported synchronization information from replica "PlatformServices_AZ10".
+   Row at import was: PlatformServices_TUS04.deleted=10384 abq_platformservices=9064 PlatformServices_FL51.deleted=0 PlatformServices_AZ18.deleted=2 PlatformServices_AZ10=444 P30_systems_AZ18.deleted=0 P30_systems_AZ10.deleted=0 PlatformServices_TUS04_DCW=0 PlatformServices_FL51_new=1"
+--06-20T15:15  clearcase_nm75 import sync from replica "PlatformServices_TUS04_DCW" to replica "PlatformServices_FL51_new"
+  "Imported synchronization information from replica "PlatformServices_TUS04_DCW".
+   Row at import was: PlatformServices_TUS04.deleted=10384 abq_platformservices=9064 PlatformServices_FL51.deleted=0 PlatformServices_AZ18.deleted=2 PlatformServices_AZ10=444 P30_systems_AZ18.deleted=0 P30_systems_AZ10.deleted=0 PlatformServices_TUS04_DCW=0 PlatformServices_FL51_new=1"
+--06-20T15:10  clearcase_nm75 import sync from replica "abq_platformservices" to replica "PlatformServices_FL51_new"
+  "Imported synchronization information from replica "abq_platformservices".
+   Row at import was: PlatformServices_TUS04.deleted=10384 abq_platformservices=9063 PlatformServices_FL51.deleted=0 PlatformServices_AZ18.deleted=2 PlatformServices_AZ10=444 P30_systems_AZ18.deleted=0 P30_systems_AZ10.deleted=0 PlatformServices_TUS04_DCW=0 PlatformServices_FL51_new=1"
+--06-20T15:01  E435996    checkout version "M:\admin_view\PlatformServices\IOL\Software\code\clickMake.bat" from \main\F16_iPDG\1 (unreserved)
+--06-20T14:10  clearcase_nm75 export sync from replica "PlatformServices_FL51_new" to replica "PlatformServices_TUS04_DCW"
+  "Exported synchronization information for replica "PlatformServices_TUS04_DCW".
+   Row at export was: PlatformServices_TUS04.deleted=10384 P30_systems_AZ10.deleted=0 PlatformServices_FL51_new=1 PlatformServices_FL51.deleted=0 PlatformServices_TUS04_DCW=0 PlatformServices_AZ18.deleted=2 abq_platformservices=9049 P30_systems_AZ18.deleted=0 PlatformServices_AZ10=444"
+--06-20T14:05  clearcase_nm75 import sync from replica "PlatformServices_TUS04_DCW" to replica "PlatformServices_FL51_new"
+  "Imported synchronization information from replica "PlatformServices_TUS04_DCW".
+   Row at import was: PlatformServices_TUS04.deleted=10384 abq_platformservices=9063 PlatformServices_FL51.deleted=0 PlatformServices_AZ18.deleted=2 PlatformServices_AZ10=444 P30_systems_AZ18.deleted=0 P30_systems_AZ10.deleted=0 PlatformServices_TUS04_DCW=0 PlatformServices_FL51_new=1"
+--06-20T14:00  clearcase_nm75 import sync from replica "PlatformServices_AZ10" to replica "PlatformServices_FL51_new"
+  "Imported synchronization information from replica "PlatformServices_AZ10".
+   Row at import was: PlatformServices_TUS04.deleted=10384 abq_platformservices=9063 PlatformServices_FL51.deleted=0 PlatformServices_AZ18.deleted=2 PlatformServices_AZ10=444 P30_systems_AZ18.deleted=0 P30_systems_AZ10.deleted=0 PlatformServices_TUS04_DCW=0 PlatformServices_FL51_new=1"
+--06-20T14:00  clearcase_nm75 import sync from replica "abq_platformservices" to replica "PlatformServices_FL51_new"
+  "Imported synchronization information from replica "abq_platformservices".
+   Row at import was: PlatformServices_TUS04.deleted=10384 abq_platformservices=9049 PlatformServices_FL51.deleted=0 PlatformServices_AZ18.deleted=2 PlatformServices_AZ10=444 P30_systems_AZ18.deleted=0 P30_systems_AZ10.deleted=0 PlatformServices_TUS04_DCW=0 PlatformServices_FL51_new=1"
+--06-20T13:58  E435996    make label "cSDS_Build3" on version "M:\admin_view\PlatformServices\IOL\Software\code\libiol.gpj@@\main\F16_iPDG\1" (cSDS_Build3)
+--06-20T13:58  E435996    make label "cSDS_Build3" on version "M:\admin_view\PlatformServices\IOL\Software\code\IOL.gpj@@\main\F16_iPDG\1" (cSDS_Build3)
+--06-20T13:58  E435996    make label "cSDS_Build3" on version "M:\admin_view\PlatformServices\IOL\Software\Source\GlobalDefs\code\iol_units.h@@\main\5" (cSDS_Build3, INTERIM_RELEASE_140624, INTERIM_RELEASE_140530, cSDS_Build2, PD8536769-107, ...)
+--06-20T13:58  E435996    make label "cSDS_Build3" on version "M:\admin_view\PlatformServices\IOL\Software\Source\GlobalDefs\code\iol_types.h@@\main\F16_iPDG\2" (cSDS_Build3, INTERIM_RELEASE_140624, INTERIM_RELEASE_140530, cSDS_Build2)
+--06-20T13:58  E435996    make label "cSDS_Build3" on version "M:\admin_view\PlatformServices\IOL\Software\Source\GlobalDefs\code\iol_limits.h@@\main\3" (cSDS_Build3, INTERIM_RELEASE_140624, INTERIM_RELEASE_140530, cSDS_Build2, PD8536769-107, ...)
+--06-20T13:58  E435996    make label "cSDS_Build3" on version "M:\admin_view\PlatformServices\IOL\Software\Source\GlobalDefs\code\iol_float.h@@\main\2" (cSDS_Build3, INTERIM_RELEASE_140624, INTERIM_RELEASE_140530, cSDS_Build2, PD8536769-107, ...)
+--06-20T13:58  E435996    make label "cSDS_Build3" on version "M:\admin_view\PlatformServices\IOL\Software\Source\1553\code\AS1553_Types.h@@\main\OH\4" (cSDS_Build3, cSDS_Build2, PD8536769-107, OH58_MIOM_Build2.MP, OH58_MIOM_Build2.MM, ...)
+--06-20T13:58  E435996    make label "cSDS_Build3" on version "M:\admin_view\PlatformServices\IOL\Software\Source\1553\code\MicroAceDDCChannel.h@@\main\OH\10" (cSDS_Build3, cSDS_Build2, PD8536769-107, OH58_MIOM_Build2.MP, OH58_MIOM_Build2.MM, ...)
+--06-20T13:58  E435996    make label "cSDS_Build3" on version "M:\admin_view\PlatformServices\IOL\Software\Source\1553\code\MicroAceDDCChannel.cpp@@\main\OH\F16_iPDG\3" (cSDS_Build3)
+--06-20T13:58  E435996    make label "cSDS_Build3" on version "M:\admin_view\PlatformServices\IOL\Software\Source\1553\code\AS1553Controller.h@@\main\OH\4" (cSDS_Build3, cSDS_Build2, PD8536769-107, OH58_MIOM_Build2.MP, OH58_MIOM_Build2.MM, ...)
+--06-20T13:58  E435996    make label "cSDS_Build3" on version "M:\admin_view\PlatformServices\IOL\Software\Source\1553\code\AS1553Controller.cpp@@\main\OH\6" (cSDS_Build3, cSDS_Build2, PD8536769-107, OH58_MIOM_Build2.MP, OH58_MIOM_Build2.MM, ...)
+--06-20T13:58  E435996    make label "cSDS_Build3" on version "M:\admin_view\PlatformServices\IOL\Software\Source\1553\code\AS1553Channel.h@@\main\OH\7" (cSDS_Build3, cSDS_Build2, PD8536769-107, OH58_MIOM_Build2.MP, OH58_MIOM_Build2.MM, ...)
+--06-20T13:58  E435996    make label "cSDS_Build3" on version "M:\admin_view\PlatformServices\IOL\Software\Source\1553\code\AS1553Channel.cpp@@\main\OH\4" (cSDS_Build3, cSDS_Build2, PD8536769-107, OH58_MIOM_Build2.MP, OH58_MIOM_Build2.MM, ...)
+--06-20T13:58  E435996    create label type "cSDS_Build3"
+  "cSDS Build 3 Delivery to LM Aero"
+--06-20T10:40  clearcase_nm75 export sync from replica "PlatformServices_FL51_new" to replica "PlatformServices_TUS04_DCW"
+  "Exported synchronization information for replica "PlatformServices_TUS04_DCW".
+   Row at export was: PlatformServices_TUS04.deleted=10384 P30_systems_AZ10.deleted=0 PlatformServices_FL51_new=1 PlatformServices_FL51.deleted=0 PlatformServices_TUS04_DCW=0 PlatformServices_AZ18.deleted=2 abq_platformservices=9048 P30_systems_AZ18.deleted=0 PlatformServices_AZ10=444"
+--06-20T10:35  clearcase_nm75 import sync from replica "PlatformServices_TUS04_DCW" to replica "PlatformServices_FL51_new"
+  "Imported synchronization information from replica "PlatformServices_TUS04_DCW".
+   Row at import was: PlatformServices_TUS04.deleted=10384 abq_platformservices=9049 PlatformServices_FL51.deleted=0 PlatformServices_AZ18.deleted=2 PlatformServices_AZ10=444 P30_systems_AZ18.deleted=0 P30_systems_AZ10.deleted=0 PlatformServices_TUS04_DCW=0 PlatformServices_FL51_new=1"
+--06-20T10:30  clearcase_nm75 import sync from replica "PlatformServices_AZ10" to replica "PlatformServices_FL51_new"
+  "Imported synchronization information from replica "PlatformServices_AZ10".
+   Row at import was: PlatformServices_TUS04.deleted=10384 abq_platformservices=9049 PlatformServices_FL51.deleted=0 PlatformServices_AZ18.deleted=2 PlatformServices_AZ10=444 P30_systems_AZ18.deleted=0 P30_systems_AZ10.deleted=0 PlatformServices_TUS04_DCW=0 PlatformServices_FL51_new=1"
+--06-20T10:30  clearcase_nm75 import sync from replica "abq_platformservices" to replica "PlatformServices_FL51_new"
+  "Imported synchronization information from replica "abq_platformservices".
+   Row at import was: PlatformServices_TUS04.deleted=10384 abq_platformservices=9048 PlatformServices_FL51.deleted=0 PlatformServices_AZ18.deleted=2 PlatformServices_AZ10=444 P30_systems_AZ18.deleted=0 P30_systems_AZ10.deleted=0 PlatformServices_TUS04_DCW=0 PlatformServices_FL51_new=1"
+--06-20T10:28  e724337    rename label type "INTERIM_RELEASE_140624"
+  "Changed name of label type from "cSDS_Build3" to "INTERIM_RELEASE_140624"."
+--06-19T20:25  clearcase_nm75 import sync from replica "PlatformServices_TUS04_DCW" to replica "PlatformServices_FL51_new"
+  "Imported synchronization information from replica "PlatformServices_TUS04_DCW".
+   Row at import was: PlatformServices_TUS04.deleted=10384 abq_platformservices=9048 PlatformServices_FL51.deleted=0 PlatformServices_AZ18.deleted=2 PlatformServices_AZ10=444 P30_systems_AZ18.deleted=0 P30_systems_AZ10.deleted=0 PlatformServices_TUS04_DCW=0 PlatformServices_FL51_new=1"
+--06-19T20:21  clearcase_nm75 import sync from replica "PlatformServices_AZ10" to replica "PlatformServices_FL51_new"
+  "Imported synchronization information from replica "PlatformServices_AZ10".
+   Row at import was: PlatformServices_TUS04.deleted=10384 abq_platformservices=9048 PlatformServices_FL51.deleted=0 PlatformServices_AZ18.deleted=2 PlatformServices_AZ10=444 P30_systems_AZ18.deleted=0 P30_systems_AZ10.deleted=0 PlatformServices_TUS04_DCW=0 PlatformServices_FL51_new=1"
+--06-19T20:20  clearcase_nm75 export sync from replica "PlatformServices_FL51_new" to replica "PlatformServices_TUS04_DCW"
+  "Exported synchronization information for replica "PlatformServices_TUS04_DCW".
+   Row at export was: PlatformServices_TUS04.deleted=10384 P30_systems_AZ10.deleted=0 PlatformServices_FL51_new=1 PlatformServices_FL51.deleted=0 PlatformServices_TUS04_DCW=0 PlatformServices_AZ18.deleted=2 abq_platformservices=9047 P30_systems_AZ18.deleted=0 PlatformServices_AZ10=444"
+--06-19T20:20  clearcase_nm75 import sync from replica "abq_platformservices" to replica "PlatformServices_FL51_new"
+  "Imported synchronization information from replica "abq_platformservices".
+   Row at import was: PlatformServices_TUS04.deleted=10384 abq_platformservices=9047 PlatformServices_FL51.deleted=0 PlatformServices_AZ18.deleted=2 PlatformServices_AZ10=444 P30_systems_AZ18.deleted=0 P30_systems_AZ10.deleted=0 PlatformServices_TUS04_DCW=0 PlatformServices_FL51_new=1"
+--06-19T20:15  clearcase_nm75 import sync from replica "PlatformServices_TUS04_DCW" to replica "PlatformServices_FL51_new"
+  "Imported synchronization information from replica "PlatformServices_TUS04_DCW".
+   Row at import was: PlatformServices_TUS04.deleted=10384 abq_platformservices=9047 PlatformServices_FL51.deleted=0 PlatformServices_AZ18.deleted=2 PlatformServices_AZ10=444 P30_systems_AZ18.deleted=0 P30_systems_AZ10.deleted=0 PlatformServices_TUS04_DCW=0 PlatformServices_FL51_new=1"
+--06-19T20:11  e724337    make label "INTERIM_RELEASE_140624" on version "M:\admin_view\PlatformServices\IOL\Software\Source\GlobalDefs\code\iol_units.h@@\main\5" (cSDS_Build3, INTERIM_RELEASE_140624, INTERIM_RELEASE_140530, cSDS_Build2, PD8536769-107, ...)
+--06-19T20:11  clearcase_nm75 import sync from replica "PlatformServices_AZ10" to replica "PlatformServices_FL51_new"
+  "Imported synchronization information from replica "PlatformServices_AZ10".
+   Row at import was: PlatformServices_TUS04.deleted=10384 abq_platformservices=9047 PlatformServices_FL51.deleted=0 PlatformServices_AZ18.deleted=2 PlatformServices_AZ10=444 P30_systems_AZ18.deleted=0 P30_systems_AZ10.deleted=0 PlatformServices_TUS04_DCW=0 PlatformServices_FL51_new=1"

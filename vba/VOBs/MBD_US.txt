@@ -1,0 +1,129 @@
+--06-30T10:41  clearcase_nm75 protect directory element "M:\admin_view\MBD_US\.@@"
+  "CHMOD 775"
+--06-30T10:37  clearcase_nm75 protect directory element "M:\admin_view\MBD_US\.@@"
+  "CHMOD 770"
+--06-30T10:37  clearcase_nm75 protect directory element "M:\admin_view\MBD_US\.@@"
+  "CHMOD 775"
+--06-30T10:35  clearcase_nm75 protect directory element "M:\admin_view\MBD_US\.@@"
+  "CHMOD 770"
+--06-30T10:35  clearcase_nm75 protect directory element "M:\admin_view\MBD_US\.@@"
+  "CHMOD 775"
+--06-17T18:00  clearcase_nm75 protect directory element "M:\admin_view\MBD_US\.@@"
+  "CHMOD 770"
+--06-17T18:00  clearcase_nm75 protect directory element "M:\admin_view\MBD_US\.@@"
+  "CHMOD 775"
+--05-01T14:05  clearcase_nm75 import sync from replica "MBD_US_DCW" to replica "MBD_US_FL51"
+  "Imported synchronization information from replica "MBD_US_DCW".
+   Row at import was: MBD_US_AZ18.deleted=6 MBD_US_MN17=7 MBD_US_MN10=0 MBD_US_MN51=5 MBD_US_PR08=4 MBD_US_DCW=0 MBD_US_FL51=0"
+--05-01T14:01  clearcase_nm75 import sync from replica "MBD_US_PR08" to replica "MBD_US_FL51"
+  "Imported synchronization information from replica "MBD_US_PR08".
+   Row at import was: MBD_US_AZ18.deleted=6 MBD_US_MN17=7 MBD_US_MN10=0 MBD_US_MN51=5 MBD_US_PR08=4 MBD_US_DCW=0 MBD_US_FL51=0"
+--05-01T14:00  clearcase_nm75 export sync from replica "MBD_US_FL51" to replica "MBD_US_DCW"
+  "Exported synchronization information for replica "MBD_US_DCW".
+   Row at export was: MBD_US_MN51=5 MBD_US_FL51=0 MBD_US_MN10=0 MBD_US_DCW=0 MBD_US_PR08=4 MBD_US_MN17=1 MBD_US_AZ18.deleted=6"
+--05-01T14:00  clearcase_nm75 import sync from replica "MBD_US_MN17" to replica "MBD_US_FL51"
+  "Imported synchronization information from replica "MBD_US_MN17".
+   Row at import was: MBD_US_AZ18.deleted=6 MBD_US_MN17=6 MBD_US_MN10=0 MBD_US_MN51=5 MBD_US_PR08=4 MBD_US_DCW=0 MBD_US_FL51=0"
+--05-01T14:00  clearcase_nm75 import sync from replica "MBD_US_MN17" to replica "MBD_US_FL51"
+  "Imported synchronization information from replica "MBD_US_MN17".
+   Row at import was: MBD_US_AZ18=6 MBD_US_MN17=1 MBD_US_MN10=0 MBD_US_MN51=5 MBD_US_PR08=4 MBD_US_DCW=0 MBD_US_FL51=0"
+--05-01T13:55  e704548    change master to "MBD_US_DCW" of replica "MBD_US_DCW"
+  "Changed master replica from "MBD_US_MN17" to "MBD_US_DCW"."
+--05-01T13:54  e704548    rename replica "MBD_US_AZ18.deleted"
+  "Changed name of replica from "MBD_US_AZ18" to "MBD_US_AZ18.deleted".
+   Destroyed replica "MBD_US_AZ18"."
+--05-01T13:54  e704548    destroy replica in versioned object base "\MBD_US"
+  "Destroyed replica "MBD_US_AZ18"."
+--05-01T13:54  e704548    change master to "MBD_US_MN17" of replica "MBD_US_DCW"
+  "Changed master replica from "MBD_US_AZ18" to "MBD_US_MN17"."
+--05-01T13:54  e704548    change master to "MBD_US_MN17" of replica "MBD_US_FL51"
+  "Changed master replica from "MBD_US_AZ18" to "MBD_US_MN17"."
+--05-01T13:54  e704548    change master to "MBD_US_MN17" of replica "MBD_US_MN51"
+  "Changed master replica from "MBD_US_AZ18" to "MBD_US_MN17"."
+--05-01T13:54  e704548    change master to "MBD_US_MN17" of replica "MBD_US_MN10"
+  "Changed master replica from "MBD_US_AZ18" to "MBD_US_MN17"."
+--03-25T11:52  clearcase_nm75 export sync from replica "MBD_US_FL51" to replica "MBD_US_DCW"
+  "Exported synchronization information for replica "MBD_US_DCW".
+   Row at export was: MBD_US_MN51=5 MBD_US_FL51=0 MBD_US_MN10=0 MBD_US_DCW=0 MBD_US_PR08=4 MBD_US_MN17=1 MBD_US_AZ18=5"
+--07-22T15:00  clearcase_nm75 import sync from replica "MBD_US_DCW" to replica "MBD_US_FL51"
+  "Imported synchronization information from replica "MBD_US_DCW".
+   Row at import was: MBD_US_AZ18=6 MBD_US_MN17=1 MBD_US_MN10=0 MBD_US_MN51=5 MBD_US_PR08=4 MBD_US_DCW=0 MBD_US_FL51=0"
+--07-22T11:10  clearcase_nm75 import sync from replica "MBD_US_PR08" to replica "MBD_US_FL51"
+  "Imported synchronization information from replica "MBD_US_PR08".
+   Row at import was: MBD_US_AZ18=6 MBD_US_MN17=1 MBD_US_MN10=0 MBD_US_MN51=5 MBD_US_PR08=4 MBD_US_DCW=0 MBD_US_FL51=0"
+--07-22T11:00  clearcase_nm75 import sync from replica "MBD_US_AZ18.deleted" to replica "MBD_US_FL51"
+  "Imported synchronization information from replica "MBD_US_AZ18".
+   Row at import was: MBD_US_AZ18=5 MBD_US_MN17=1 MBD_US_MN10=0 MBD_US_MN51=5 MBD_US_PR08=4 MBD_US_FL51=0"
+--07-22T10:45  root       create replica "MBD_US_DCW"
+2013-06-19     clearcase_nm75 import sync from replica "MBD_US_PR08" to replica "MBD_US_FL51"
+  "Imported synchronization information from replica "MBD_US_PR08".
+   Row at import was: MBD_US_AZ18=5 MBD_US_MN17=1 MBD_US_MN10=0 MBD_US_MN51=5 MBD_US_PR08=4 MBD_US_FL51=0"
+2013-06-13     clearcase_nm75 import sync from replica "MBD_US_AZ18.deleted" to replica "MBD_US_FL51"
+  "Imported synchronization information from replica "MBD_US_AZ18".
+   Row at import was: MBD_US_AZ18=5 MBD_US_MN17=1 MBD_US_MN10=0 MBD_US_MN51=5 MBD_US_PR08=3 MBD_US_FL51=0"
+2013-06-13     e721877    import sync to replica "MBD_US_PR08"
+  "Changed information associated with replica."
+2013-04-12     clearcase_nm75 import sync from replica "MBD_US_AZ18.deleted" to replica "MBD_US_FL51"
+  "Imported synchronization information from replica "MBD_US_AZ18".
+   Row at import was: MBD_US_AZ18=5 MBD_US_MN17=1 MBD_US_MN10=0 MBD_US_MN51=5 MBD_US_PR08=2 MBD_US_FL51=0"
+2013-04-12     sv-das_cc_albd import sync to replica "MBD_US_PR08"
+  "Changed information associated with replica."
+2013-04-12     clearcase_nm75 import sync from replica "MBD_US_AZ18.deleted" to replica "MBD_US_FL51"
+  "Imported synchronization information from replica "MBD_US_AZ18".
+   Row at import was: MBD_US_AZ18=5 MBD_US_MN17=1 MBD_US_MN10=0 MBD_US_MN51=5 MBD_US_PR08=1 MBD_US_FL51=0"
+2013-04-12     clearcase_nm75 import sync from replica "MBD_US_AZ18.deleted" to replica "MBD_US_FL51"
+  "Imported synchronization information from replica "MBD_US_AZ18".
+   Row at import was: MBD_US_AZ18=5 MBD_US_MN17=1 MBD_US_MN10=0 MBD_US_MN51=5 MBD_US_PR08=0 MBD_US_FL51=0"
+2013-04-12     sv-das_cc_albd import sync to replica "MBD_US_PR08"
+  "Changed information associated with replica."
+2013-04-12     clearcase_nm75 import sync from replica "MBD_US_AZ18.deleted" to replica "MBD_US_FL51"
+  "Imported synchronization information from replica "MBD_US_AZ18".
+   Row at import was: MBD_US_AZ18=4 MBD_US_MN17=1 MBD_US_MN10=0 MBD_US_MN51=5 MBD_US_PR08=0 MBD_US_FL51=0"
+2013-04-12     sv-das_cc_albd import sync to replica "MBD_US_PR08"
+  "Changed information associated with replica."
+2013-04-12     root       change master to "MBD_US_PR08" of replica "MBD_US_PR08"
+  "Changed master replica from "MBD_US_AZ18" to "MBD_US_PR08"."
+2012-05-03     clearcase_nm75 import sync from replica "MBD_US_AZ18.deleted" to replica "MBD_US_FL51"
+  "Imported synchronization information from replica "MBD_US_AZ18".
+   Row at import was: MBD_US_AZ18=4 MBD_US_MN17=1 MBD_US_MN10=0 MBD_US_MN51=4 MBD_US_PR08=0 MBD_US_FL51=0"
+2010-02-21     clearcase_nm75 export sync from replica "MBD_US_FL51" to replica "MBD_US_PR08"
+  "Exported synchronization information for replica "MBD_US_PR08".
+   Row at export was: MBD_US_MN51=0 MBD_US_FL51=0 MBD_US_MN10=0 MBD_US_PR08=0 MBD_US_MN17=1 MBD_US_AZ18=4"
+2010-02-21     clearcase_nm75 export sync from replica "MBD_US_FL51" to replica "MBD_US_MN17"
+  "Exported synchronization information for replica "MBD_US_MN17".
+   Row at export was: MBD_US_MN51=0 MBD_US_FL51=0 MBD_US_MN10=0 MBD_US_PR08=0 MBD_US_MN17=1 MBD_US_AZ18=4"
+2010-02-21     clearcase_nm75 export sync from replica "MBD_US_FL51" to replica "MBD_US_MN10"
+  "Exported synchronization information for replica "MBD_US_MN10".
+   Row at export was: MBD_US_MN51=0 MBD_US_FL51=0 MBD_US_MN10=0 MBD_US_PR08=0 MBD_US_MN17=1 MBD_US_AZ18=4"
+2010-02-21     clearcase_nm75 export sync from replica "MBD_US_FL51" to replica "MBD_US_AZ18.deleted"
+  "Exported synchronization information for replica "MBD_US_AZ18".
+   Row at export was: MBD_US_MN51=0 MBD_US_FL51=0 MBD_US_MN10=0 MBD_US_PR08=0 MBD_US_MN17=1 MBD_US_AZ18=4"
+2010-02-17     clearcase_nm75 import sync from replica "MBD_US_MN17" to replica "MBD_US_FL51"
+  "Imported synchronization information from replica "MBD_US_MN17".
+   Row at import was: MBD_US_AZ18=4 MBD_US_MN17=1 MBD_US_MN10=0 MBD_US_MN51=4 MBD_US_PR08=0 MBD_US_FL51=0"
+2010-02-17     clearcase_nm75 import sync from replica "MBD_US_AZ18.deleted" to replica "MBD_US_FL51"
+  "Imported synchronization information from replica "MBD_US_AZ18".
+   Row at import was: MBD_US_AZ18=4 MBD_US_MN17=1 MBD_US_MN10=0 MBD_US_MN51=4 MBD_US_PR08=0 MBD_US_FL51=0"
+2010-02-17     clearcase_nm75 import sync from replica "MBD_US_MN51" to replica "MBD_US_FL51"
+  "Imported synchronization information from replica "MBD_US_MN51".
+   Row at import was: MBD_US_AZ18=4 MBD_US_MN17=1 MBD_US_MN10=0 MBD_US_MN51=0 MBD_US_PR08=0 MBD_US_FL51=0"
+2010-02-15     E704548    destroy element in versioned object base "\MBD_US"
+  "Destroyed element "M:\e704548_2029_view\MBD_US\lost+found\joni_test.2c246c611eae41319ec17e3f825d6cec"."
+2010-02-15     E704548    remove name from directory version "M:\admin_view\MBD_US\lost+found@@\main\0"
+  "Uncataloged file element "joni_test.2c246c611eae41319ec17e3f825d6cec".
+   Destroyed element "M:\e704548_2029_view\MBD_US\lost+found\joni_test.2c246c611eae41319ec17e3f825d6cec"."
+2010-02-15     E704548    add name to directory version "M:\admin_view\MBD_US\lost+found@@\main\0"
+  "Added file element "joni_test.2c246c611eae41319ec17e3f825d6cec".
+   Uncataloged file element "joni_test"."
+2009-05-13     clearcase_nm75 import sync from replica "MBD_US_AZ18.deleted" to replica "MBD_US_FL51"
+  "Imported synchronization information from replica "MBD_US_AZ18".
+   Row at import was: MBD_US_AZ18=4 MBD_US_MN17=1 MBD_US_MN10=0 MBD_US_MN51=0 MBD_US_PR08=0 MBD_US_FL51=0"
+2009-02-17     clearcase_nm75 export sync from replica "MBD_US_FL51" to replica "MBD_US_MN51"
+  "Exported synchronization information for replica "MBD_US_MN51".
+   Row at export was: MBD_US_MN51=0 MBD_US_FL51=0 MBD_US_MN10=0 MBD_US_PR08=0 MBD_US_MN17=1 MBD_US_AZ18=3"
+2009-02-17     clearcase_nm75 export sync from replica "MBD_US_FL51" to replica "MBD_US_MN17"
+  "Exported synchronization information for replica "MBD_US_MN17".
+   Row at export was: MBD_US_MN51=0 MBD_US_FL51=0 MBD_US_MN10=0 MBD_US_PR08=0 MBD_US_MN17=1 MBD_US_AZ18=3"
+2009-02-17     clearcase_nm75 export sync from replica "MBD_US_FL51" to replica "MBD_US_MN10"
+  "Exported synchronization information for replica "MBD_US_MN10".
+   Row at export was: MBD_US_MN51=0 MBD_US_FL51=0 MBD_US_MN10=0 MBD_US_PR08=0 MBD_US_MN17=1 MBD_US_AZ18=3"

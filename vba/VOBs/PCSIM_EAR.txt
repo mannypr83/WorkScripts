@@ -1,0 +1,126 @@
+--06-30T10:41  clearcase_nm75 protect directory element "M:\admin_view\PCSIM_EAR\.@@"
+  "CHMOD 775"
+--06-30T10:37  clearcase_nm75 protect directory element "M:\admin_view\PCSIM_EAR\.@@"
+  "CHMOD 770"
+--06-30T10:37  clearcase_nm75 protect directory element "M:\admin_view\PCSIM_EAR\.@@"
+  "CHMOD 775"
+--06-30T10:35  clearcase_nm75 protect directory element "M:\admin_view\PCSIM_EAR\.@@"
+  "CHMOD 770"
+--06-30T10:35  clearcase_nm75 protect directory element "M:\admin_view\PCSIM_EAR\.@@"
+  "CHMOD 775"
+--06-17T17:18  clearcase_nm75 protect directory element "M:\admin_view\PCSIM_EAR\.@@"
+  "CHMOD 770"
+--06-17T17:18  clearcase_nm75 protect directory element "M:\admin_view\PCSIM_EAR\.@@"
+  "CHMOD 775"
+--05-02T14:43  e704548    change epoch of replica "PCSIM_EAR_MN17"
+  "Changed epoch row for replica
+   Old row was: PCSIM_EAR_AZ18.deleted=4 PCSIM_EAR_MN17=15 PCSIM_EAR_MN10=0 PCSIM_EAR_MN51=0 PCSIM_EAR_FL51=0 PCSIM_EAR_PR08=0 PCSIM_EAR_DCW=0
+   New row is: PCSIM_EAR_AZ18.deleted=6 PCSIM_EAR_MN17=15 PCSIM_EAR_MN10=0 PCSIM_EAR_MN51=7 PCSIM_EAR_FL51=0 PCSIM_EAR_PR08=4 PCSIM_EAR_DCW=0"
+--05-02T14:43  e704548    change epoch of replica "PCSIM_EAR_PR08"
+  "Changed epoch row for replica
+   Old row was: PCSIM_EAR_AZ18.deleted=4 PCSIM_EAR_MN17=1 PCSIM_EAR_MN10=0 PCSIM_EAR_MN51=0 PCSIM_EAR_FL51=0 PCSIM_EAR_PR08=4 PCSIM_EAR_DCW=0
+   New row is: PCSIM_EAR_AZ18.deleted=6 PCSIM_EAR_MN17=15 PCSIM_EAR_MN10=0 PCSIM_EAR_MN51=7 PCSIM_EAR_FL51=0 PCSIM_EAR_PR08=4 PCSIM_EAR_DCW=0"
+--05-02T14:42  e704548    change epoch of replica "PCSIM_EAR_MN51"
+  "Changed epoch row for replica
+   Old row was: PCSIM_EAR_AZ18.deleted=4 PCSIM_EAR_MN17=1 PCSIM_EAR_MN10=0 PCSIM_EAR_MN51=7 PCSIM_EAR_FL51=0 PCSIM_EAR_PR08=0 PCSIM_EAR_DCW=0
+   New row is: PCSIM_EAR_AZ18.deleted=6 PCSIM_EAR_MN17=15 PCSIM_EAR_MN10=0 PCSIM_EAR_MN51=7 PCSIM_EAR_FL51=0 PCSIM_EAR_PR08=4 PCSIM_EAR_DCW=0"
+--05-02T14:42  e704548    change epoch of replica "PCSIM_EAR_MN10"
+  "Changed epoch row for replica
+   Old row was: PCSIM_EAR_AZ18.deleted=4 PCSIM_EAR_MN17=1 PCSIM_EAR_MN10=0 PCSIM_EAR_MN51=0 PCSIM_EAR_FL51=0 PCSIM_EAR_PR08=0 PCSIM_EAR_DCW=0
+   New row is: PCSIM_EAR_AZ18.deleted=6 PCSIM_EAR_MN17=15 PCSIM_EAR_MN10=0 PCSIM_EAR_MN51=7 PCSIM_EAR_FL51=0 PCSIM_EAR_PR08=4 PCSIM_EAR_DCW=0"
+--05-01T14:55  clearcase_nm75 import sync from replica "PCSIM_EAR_DCW" to replica "PCSIM_EAR_FL51"
+  "Imported synchronization information from replica "PCSIM_EAR_DCW".
+   Row at import was: PCSIM_EAR_AZ18.deleted=6 PCSIM_EAR_MN17=15 PCSIM_EAR_MN10=0 PCSIM_EAR_MN51=7 PCSIM_EAR_PR08=4 PCSIM_EAR_DCW=0 PCSIM_EAR_FL51=0"
+--05-01T14:50  clearcase_nm75 import sync from replica "PCSIM_EAR_PR08" to replica "PCSIM_EAR_FL51"
+  "Imported synchronization information from replica "PCSIM_EAR_PR08".
+   Row at import was: PCSIM_EAR_AZ18.deleted=6 PCSIM_EAR_MN17=15 PCSIM_EAR_MN10=0 PCSIM_EAR_MN51=7 PCSIM_EAR_PR08=4 PCSIM_EAR_DCW=0 PCSIM_EAR_FL51=0"
+--05-01T14:50  clearcase_nm75 export sync from replica "PCSIM_EAR_FL51" to replica "PCSIM_EAR_DCW"
+  "Exported synchronization information for replica "PCSIM_EAR_DCW".
+   Row at export was: PCSIM_EAR_MN17=8 PCSIM_EAR_FL51=0 PCSIM_EAR_PR08=4 PCSIM_EAR_MN51=7 PCSIM_EAR_AZ18.deleted=6 PCSIM_EAR_MN10=0 PCSIM_EAR_DCW=0"
+--05-01T14:45  clearcase_nm75 import sync from replica "PCSIM_EAR_MN17" to replica "PCSIM_EAR_FL51"
+  "Imported synchronization information from replica "PCSIM_EAR_MN17".
+   Row at import was: PCSIM_EAR_AZ18.deleted=6 PCSIM_EAR_MN17=14 PCSIM_EAR_MN10=0 PCSIM_EAR_MN51=7 PCSIM_EAR_PR08=4 PCSIM_EAR_DCW=0 PCSIM_EAR_FL51=0"
+--05-01T14:45  e704548    change master to "PCSIM_EAR_DCW" of replica "PCSIM_EAR_DCW"
+  "Changed master replica from "PCSIM_EAR_MN17" to "PCSIM_EAR_DCW"."
+--05-01T14:45  clearcase_nm75 import sync from replica "PCSIM_EAR_MN17" to replica "PCSIM_EAR_FL51"
+  "Imported synchronization information from replica "PCSIM_EAR_MN17".
+   Row at import was: PCSIM_EAR_AZ18=6 PCSIM_EAR_MN17=8 PCSIM_EAR_MN10=0 PCSIM_EAR_MN51=7 PCSIM_EAR_PR08=4 PCSIM_EAR_DCW=0 PCSIM_EAR_FL51=0"
+--05-01T14:44  e704548    rename replica "PCSIM_EAR_AZ18.deleted"
+  "Changed name of replica from "PCSIM_EAR_AZ18" to "PCSIM_EAR_AZ18.deleted".
+   Destroyed replica "PCSIM_EAR_AZ18"."
+--05-01T14:44  e704548    destroy replica in versioned object base "\PCSIM_EAR"
+  "Destroyed replica "PCSIM_EAR_AZ18"."
+--05-01T14:44  e704548    change master to "PCSIM_EAR_MN17" of replica "PCSIM_EAR_DCW"
+  "Changed master replica from "PCSIM_EAR_AZ18" to "PCSIM_EAR_MN17"."
+--05-01T14:44  e704548    change master to "PCSIM_EAR_MN17" of replica "PCSIM_EAR_FL51"
+  "Changed master replica from "PCSIM_EAR_AZ18" to "PCSIM_EAR_MN17"."
+--05-01T14:44  e704548    change master to "PCSIM_EAR_MN17" of replica "PCSIM_EAR_MN51"
+  "Changed master replica from "PCSIM_EAR_AZ18" to "PCSIM_EAR_MN17"."
+--05-01T14:44  e704548    change master to "PCSIM_EAR_MN17" of replica "PCSIM_EAR_MN10"
+  "Changed master replica from "PCSIM_EAR_AZ18" to "PCSIM_EAR_MN17"."
+--05-01T14:44  e704548    change master to "PCSIM_EAR_MN17" of replica "PCSIM_EAR_AZ18.deleted"
+  "Changed master replica from "PCSIM_EAR_AZ18" to "PCSIM_EAR_MN17"."
+--03-25T11:50  clearcase_nm75 export sync from replica "PCSIM_EAR_FL51" to replica "PCSIM_EAR_DCW"
+  "Exported synchronization information for replica "PCSIM_EAR_DCW".
+   Row at export was: PCSIM_EAR_MN17=8 PCSIM_EAR_FL51=0 PCSIM_EAR_PR08=4 PCSIM_EAR_MN51=7 PCSIM_EAR_AZ18=5 PCSIM_EAR_MN10=0 PCSIM_EAR_DCW=0"
+--07-22T15:00  clearcase_nm75 import sync from replica "PCSIM_EAR_DCW" to replica "PCSIM_EAR_FL51"
+  "Imported synchronization information from replica "PCSIM_EAR_DCW".
+   Row at import was: PCSIM_EAR_AZ18=6 PCSIM_EAR_MN17=8 PCSIM_EAR_MN10=0 PCSIM_EAR_MN51=7 PCSIM_EAR_PR08=4 PCSIM_EAR_DCW=0 PCSIM_EAR_FL51=0"
+--07-22T11:10  clearcase_nm75 import sync from replica "PCSIM_EAR_PR08" to replica "PCSIM_EAR_FL51"
+  "Imported synchronization information from replica "PCSIM_EAR_PR08".
+   Row at import was: PCSIM_EAR_AZ18=6 PCSIM_EAR_MN17=8 PCSIM_EAR_MN10=0 PCSIM_EAR_MN51=7 PCSIM_EAR_PR08=4 PCSIM_EAR_DCW=0 PCSIM_EAR_FL51=0"
+--07-22T11:00  clearcase_nm75 import sync from replica "PCSIM_EAR_AZ18.deleted" to replica "PCSIM_EAR_FL51"
+  "Imported synchronization information from replica "PCSIM_EAR_AZ18".
+   Row at import was: PCSIM_EAR_AZ18=5 PCSIM_EAR_MN17=8 PCSIM_EAR_MN10=0 PCSIM_EAR_MN51=7 PCSIM_EAR_PR08=4 PCSIM_EAR_FL51=0"
+--07-22T10:45  root       create replica "PCSIM_EAR_DCW"
+2013-06-19     clearcase_nm75 import sync from replica "PCSIM_EAR_PR08" to replica "PCSIM_EAR_FL51"
+  "Imported synchronization information from replica "PCSIM_EAR_PR08".
+   Row at import was: PCSIM_EAR_AZ18=5 PCSIM_EAR_MN17=8 PCSIM_EAR_MN10=0 PCSIM_EAR_MN51=7 PCSIM_EAR_PR08=4 PCSIM_EAR_FL51=0"
+2013-06-13     clearcase_nm75 import sync from replica "PCSIM_EAR_AZ18.deleted" to replica "PCSIM_EAR_FL51"
+  "Imported synchronization information from replica "PCSIM_EAR_AZ18".
+   Row at import was: PCSIM_EAR_AZ18=5 PCSIM_EAR_MN17=8 PCSIM_EAR_MN10=0 PCSIM_EAR_MN51=7 PCSIM_EAR_PR08=3 PCSIM_EAR_FL51=0"
+2013-06-13     e721877    import sync to replica "PCSIM_EAR_PR08"
+  "Changed information associated with replica."
+2013-04-12     clearcase_nm75 import sync from replica "PCSIM_EAR_AZ18.deleted" to replica "PCSIM_EAR_FL51"
+  "Imported synchronization information from replica "PCSIM_EAR_AZ18".
+   Row at import was: PCSIM_EAR_AZ18=5 PCSIM_EAR_MN17=8 PCSIM_EAR_MN10=0 PCSIM_EAR_MN51=7 PCSIM_EAR_PR08=2 PCSIM_EAR_FL51=0"
+2013-04-12     sv-das_cc_albd import sync to replica "PCSIM_EAR_PR08"
+  "Changed information associated with replica."
+2013-04-12     clearcase_nm75 import sync from replica "PCSIM_EAR_AZ18.deleted" to replica "PCSIM_EAR_FL51"
+  "Imported synchronization information from replica "PCSIM_EAR_AZ18".
+   Row at import was: PCSIM_EAR_AZ18=5 PCSIM_EAR_MN17=8 PCSIM_EAR_MN10=0 PCSIM_EAR_MN51=7 PCSIM_EAR_PR08=0 PCSIM_EAR_FL51=0"
+2013-04-12     sv-das_cc_albd import sync to replica "PCSIM_EAR_PR08"
+  "Changed information associated with replica."
+2013-04-12     sv-das_cc_albd import sync to replica "PCSIM_EAR_PR08"
+  "Changed information associated with replica."
+2013-04-12     clearcase_nm75 import sync from replica "PCSIM_EAR_AZ18.deleted" to replica "PCSIM_EAR_FL51"
+  "Imported synchronization information from replica "PCSIM_EAR_AZ18".
+   Row at import was: PCSIM_EAR_AZ18=4 PCSIM_EAR_MN17=8 PCSIM_EAR_MN10=0 PCSIM_EAR_MN51=7 PCSIM_EAR_PR08=0 PCSIM_EAR_FL51=0"
+2013-04-12     root       change master to "PCSIM_EAR_PR08" of replica "PCSIM_EAR_PR08"
+  "Changed master replica from "PCSIM_EAR_AZ18" to "PCSIM_EAR_PR08"."
+2012-05-03     clearcase_nm75 import sync from replica "PCSIM_EAR_AZ18.deleted" to replica "PCSIM_EAR_FL51"
+  "Imported synchronization information from replica "PCSIM_EAR_AZ18".
+   Row at import was: PCSIM_EAR_AZ18=4 PCSIM_EAR_MN17=8 PCSIM_EAR_MN10=0 PCSIM_EAR_MN51=1 PCSIM_EAR_PR08=0 PCSIM_EAR_FL51=0"
+2011-02-10     clearcase_nm75 import sync from replica "PCSIM_EAR_AZ18.deleted" to replica "PCSIM_EAR_FL51"
+  "Imported synchronization information from replica "PCSIM_EAR_AZ18".
+   Row at import was: PCSIM_EAR_AZ18=4 PCSIM_EAR_MN17=2 PCSIM_EAR_MN10=0 PCSIM_EAR_MN51=1 PCSIM_EAR_PR08=0 PCSIM_EAR_FL51=0"
+2011-02-10     e704548    change master to "PCSIM_EAR_AZ18.deleted" of replica "PCSIM_EAR_AZ18.deleted"
+  "Changed master replica from "PCSIM_EAR_MN17" to "PCSIM_EAR_AZ18"."
+2011-02-10     e704548    destroy element in versioned object base "\PCSIM_EAR"
+  "Destroyed element "M:\e704548_view\PCSIM_EAR\test.txt"."
+2011-02-10     e704548    remove name from directory version "M:\admin_view\PCSIM_EAR\.@@\main\1"
+  "Uncataloged file element "test.txt".
+   Destroyed element "M:\e704548_view\PCSIM_EAR\test.txt"."
+2011-02-10     clearcase_nm75 import sync from replica "PCSIM_EAR_AZ18.deleted" to replica "PCSIM_EAR_FL51"
+  "Imported synchronization information from replica "PCSIM_EAR_AZ18".
+   Row at import was: PCSIM_EAR_AZ18=4 PCSIM_EAR_MN17=1 PCSIM_EAR_MN10=0 PCSIM_EAR_MN51=0 PCSIM_EAR_PR08=0 PCSIM_EAR_FL51=0"
+2011-02-10     clearcase_nm75 add name to directory version "M:\admin_view\PCSIM_EAR\.@@\main\1"
+2011-02-10     e704548    create directory version "M:\admin_view\PCSIM_EAR\.@@\main\1"
+  "Added file element "test.txt"."
+2011-02-10     E704548    destroy element in versioned object base "\PCSIM_EAR"
+  "Destroyed element "M:\e704548_view3\PCSIM_EAR\lost+found\test.txt.1e763dc274fd4490bfaa3232683b3aa5"."
+2011-02-10     E704548    remove name from directory version "M:\admin_view\PCSIM_EAR\lost+found@@\main\0"
+  "Uncataloged file element "test.txt.1e763dc274fd4490bfaa3232683b3aa5".
+   Destroyed element "M:\e704548_view3\PCSIM_EAR\lost+found\test.txt.1e763dc274fd4490bfaa3232683b3aa5"."
+2011-02-10     clearcase_nm75 add name to directory version "M:\admin_view\PCSIM_EAR\lost+found@@\main\0"
+  "Added file element "test.txt.1e763dc274fd4490bfaa3232683b3aa5"."

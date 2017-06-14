@@ -1,0 +1,117 @@
+--06-30T10:42  clearcase_nm75 protect directory element "M:\admin_view\SWCOE_Military\.@@"
+  "CHMOD 775"
+--06-27T17:46  clearcase_nm75 import sync from replica "SWCOE_Military_TUS04_DCW" to replica "SWCOE_Military_FL51_new"
+  "Imported synchronization information from replica "SWCOE_Military_TUS04_DCW".
+   Row at import was: SWCOE_Military_TUS04.deleted=57 abq_SWCOE_Military.deleted=90732 SWCOE_Military_FL51.deleted=0 SWCOE_Military_AZ18.deleted=4 SWCOE_Military_AZ10.deleted=11126 SWCOE_Military_PR08.deleted=97 SWCOE_Military_NM75=6815 SWCOE_Military_PR08=0 SWCOE_Military_TUS04_DCW=0 SWCOE_Military_FL51_new=1"
+--06-27T17:45  clearcase_nm75 export sync from replica "SWCOE_Military_FL51_new" to replica "SWCOE_Military_TUS04_DCW"
+  "Exported synchronization information for replica "SWCOE_Military_TUS04_DCW".
+   Row at export was: SWCOE_Military_AZ10.deleted=11126 SWCOE_Military_NM75=6814 SWCOE_Military_PR08.deleted=97 SWCOE_Military_TUS04_DCW=0 SWCOE_Military_PR08=0 SWCOE_Military_FL51_new=1 SWCOE_Military_AZ18.deleted=4 SWCOE_Military_TUS04.deleted=57 abq_SWCOE_Military.deleted=90732 SWCOE_Military_FL51.deleted=0"
+--06-27T17:41  clearcase_nm75 import sync from replica "SWCOE_Military_PR08" to replica "SWCOE_Military_FL51_new"
+  "Imported synchronization information from replica "SWCOE_Military_PR08".
+   Row at import was: SWCOE_Military_TUS04.deleted=57 abq_SWCOE_Military.deleted=90732 SWCOE_Military_FL51.deleted=0 SWCOE_Military_AZ18.deleted=4 SWCOE_Military_AZ10.deleted=11126 SWCOE_Military_PR08.deleted=97 SWCOE_Military_NM75=6815 SWCOE_Military_PR08=0 SWCOE_Military_TUS04_DCW=0 SWCOE_Military_FL51_new=1"
+--06-27T17:40  clearcase_nm75 import sync from replica "SWCOE_Military_NM75" to replica "SWCOE_Military_FL51_new"
+  "Imported synchronization information from replica "SWCOE_Military_NM75".
+   Row at import was: SWCOE_Military_TUS04.deleted=57 abq_SWCOE_Military.deleted=90732 SWCOE_Military_FL51.deleted=0 SWCOE_Military_AZ18.deleted=4 SWCOE_Military_AZ10.deleted=11126 SWCOE_Military_PR08.deleted=97 SWCOE_Military_NM75=6814 SWCOE_Military_PR08=0 SWCOE_Military_TUS04_DCW=0 SWCOE_Military_FL51_new=1"
+--06-27T17:36  e724337    checkout version "M:\admin_view\SWCOE_Military\ISP_Software\Mezzanine_IO_Manager\project\main.cpp" from \main\OH\F16_iPDG\1 (unreserved)
+--06-27T15:56  clearcase_nm75 import sync from replica "SWCOE_Military_TUS04_DCW" to replica "SWCOE_Military_FL51_new"
+  "Imported synchronization information from replica "SWCOE_Military_TUS04_DCW".
+   Row at import was: SWCOE_Military_TUS04.deleted=57 abq_SWCOE_Military.deleted=90732 SWCOE_Military_FL51.deleted=0 SWCOE_Military_AZ18.deleted=4 SWCOE_Military_AZ10.deleted=11126 SWCOE_Military_PR08.deleted=97 SWCOE_Military_NM75=6814 SWCOE_Military_PR08=0 SWCOE_Military_TUS04_DCW=0 SWCOE_Military_FL51_new=1"
+--06-27T15:55  clearcase_nm75 export sync from replica "SWCOE_Military_FL51_new" to replica "SWCOE_Military_TUS04_DCW"
+  "Exported synchronization information for replica "SWCOE_Military_TUS04_DCW".
+   Row at export was: SWCOE_Military_AZ10.deleted=11126 SWCOE_Military_NM75=6812 SWCOE_Military_PR08.deleted=97 SWCOE_Military_TUS04_DCW=0 SWCOE_Military_PR08=0 SWCOE_Military_FL51_new=1 SWCOE_Military_AZ18.deleted=4 SWCOE_Military_TUS04.deleted=57 abq_SWCOE_Military.deleted=90732 SWCOE_Military_FL51.deleted=0"
+--06-27T15:51  clearcase_nm75 import sync from replica "SWCOE_Military_PR08" to replica "SWCOE_Military_FL51_new"
+  "Imported synchronization information from replica "SWCOE_Military_PR08".
+   Row at import was: SWCOE_Military_TUS04.deleted=57 abq_SWCOE_Military.deleted=90732 SWCOE_Military_FL51.deleted=0 SWCOE_Military_AZ18.deleted=4 SWCOE_Military_AZ10.deleted=11126 SWCOE_Military_PR08.deleted=97 SWCOE_Military_NM75=6814 SWCOE_Military_PR08=0 SWCOE_Military_TUS04_DCW=0 SWCOE_Military_FL51_new=1"
+--06-27T15:50  clearcase_nm75 import sync from replica "SWCOE_Military_NM75" to replica "SWCOE_Military_FL51_new"
+  "Imported synchronization information from replica "SWCOE_Military_NM75".
+   Row at import was: SWCOE_Military_TUS04.deleted=57 abq_SWCOE_Military.deleted=90732 SWCOE_Military_FL51.deleted=0 SWCOE_Military_AZ18.deleted=4 SWCOE_Military_AZ10.deleted=11126 SWCOE_Military_PR08.deleted=97 SWCOE_Military_NM75=6812 SWCOE_Military_PR08=0 SWCOE_Military_TUS04_DCW=0 SWCOE_Military_FL51_new=1"
+--06-26T18:06  clearcase_nm75 import sync from replica "SWCOE_Military_TUS04_DCW" to replica "SWCOE_Military_FL51_new"
+  "Imported synchronization information from replica "SWCOE_Military_TUS04_DCW".
+   Row at import was: SWCOE_Military_TUS04.deleted=57 abq_SWCOE_Military.deleted=90732 SWCOE_Military_FL51.deleted=0 SWCOE_Military_AZ18.deleted=4 SWCOE_Military_AZ10.deleted=11126 SWCOE_Military_PR08.deleted=97 SWCOE_Military_NM75=6812 SWCOE_Military_PR08=0 SWCOE_Military_TUS04_DCW=0 SWCOE_Military_FL51_new=1"
+--06-26T18:05  clearcase_nm75 export sync from replica "SWCOE_Military_FL51_new" to replica "SWCOE_Military_TUS04_DCW"
+  "Exported synchronization information for replica "SWCOE_Military_TUS04_DCW".
+   Row at export was: SWCOE_Military_AZ10.deleted=11126 SWCOE_Military_NM75=6811 SWCOE_Military_PR08.deleted=97 SWCOE_Military_TUS04_DCW=0 SWCOE_Military_PR08=0 SWCOE_Military_FL51_new=1 SWCOE_Military_AZ18.deleted=4 SWCOE_Military_TUS04.deleted=57 abq_SWCOE_Military.deleted=90732 SWCOE_Military_FL51.deleted=0"
+--06-26T18:01  clearcase_nm75 import sync from replica "SWCOE_Military_PR08" to replica "SWCOE_Military_FL51_new"
+  "Imported synchronization information from replica "SWCOE_Military_PR08".
+   Row at import was: SWCOE_Military_TUS04.deleted=57 abq_SWCOE_Military.deleted=90732 SWCOE_Military_FL51.deleted=0 SWCOE_Military_AZ18.deleted=4 SWCOE_Military_AZ10.deleted=11126 SWCOE_Military_PR08.deleted=97 SWCOE_Military_NM75=6812 SWCOE_Military_PR08=0 SWCOE_Military_TUS04_DCW=0 SWCOE_Military_FL51_new=1"
+--06-26T18:01  clearcase_nm75 import sync from replica "SWCOE_Military_NM75" to replica "SWCOE_Military_FL51_new"
+  "Imported synchronization information from replica "SWCOE_Military_NM75".
+   Row at import was: SWCOE_Military_TUS04.deleted=57 abq_SWCOE_Military.deleted=90732 SWCOE_Military_FL51.deleted=0 SWCOE_Military_AZ18.deleted=4 SWCOE_Military_AZ10.deleted=11126 SWCOE_Military_PR08.deleted=97 SWCOE_Military_NM75=6811 SWCOE_Military_PR08=0 SWCOE_Military_TUS04_DCW=0 SWCOE_Military_FL51_new=1"
+--06-26T18:00  E435996    checkout version "M:\admin_view\SWCOE_Military\ISP_Software\IO_Library\F16\libiol.a" from \main\F16_iPDG\2 (unreserved)
+--06-25T17:37  clearcase_nm75 export sync from replica "SWCOE_Military_FL51_new" to replica "SWCOE_Military_TUS04_DCW"
+  "Exported synchronization information for replica "SWCOE_Military_TUS04_DCW".
+   Row at export was: SWCOE_Military_AZ10.deleted=11126 SWCOE_Military_NM75=6808 SWCOE_Military_PR08.deleted=97 SWCOE_Military_TUS04_DCW=0 SWCOE_Military_PR08=0 SWCOE_Military_FL51_new=1 SWCOE_Military_AZ18.deleted=4 SWCOE_Military_TUS04.deleted=57 abq_SWCOE_Military.deleted=90732 SWCOE_Military_FL51.deleted=0"
+--06-25T17:31  clearcase_nm75 import sync from replica "SWCOE_Military_PR08" to replica "SWCOE_Military_FL51_new"
+  "Imported synchronization information from replica "SWCOE_Military_PR08".
+   Row at import was: SWCOE_Military_TUS04.deleted=57 abq_SWCOE_Military.deleted=90732 SWCOE_Military_FL51.deleted=0 SWCOE_Military_AZ18.deleted=4 SWCOE_Military_AZ10.deleted=11126 SWCOE_Military_PR08.deleted=97 SWCOE_Military_NM75=6811 SWCOE_Military_PR08=0 SWCOE_Military_TUS04_DCW=0 SWCOE_Military_FL51_new=1"
+--06-25T17:27  clearcase_nm75 import sync from replica "SWCOE_Military_TUS04_DCW" to replica "SWCOE_Military_FL51_new"
+  "Imported synchronization information from replica "SWCOE_Military_TUS04_DCW".
+   Row at import was: SWCOE_Military_TUS04.deleted=57 abq_SWCOE_Military.deleted=90732 SWCOE_Military_FL51.deleted=0 SWCOE_Military_AZ18.deleted=4 SWCOE_Military_AZ10.deleted=11126 SWCOE_Military_PR08.deleted=97 SWCOE_Military_NM75=6811 SWCOE_Military_PR08=0 SWCOE_Military_TUS04_DCW=0 SWCOE_Military_FL51_new=1"
+--06-25T17:21  clearcase_nm75 import sync from replica "SWCOE_Military_NM75" to replica "SWCOE_Military_FL51_new"
+  "Imported synchronization information from replica "SWCOE_Military_NM75".
+   Row at import was: SWCOE_Military_TUS04.deleted=57 abq_SWCOE_Military.deleted=90732 SWCOE_Military_FL51.deleted=0 SWCOE_Military_AZ18.deleted=4 SWCOE_Military_AZ10.deleted=11126 SWCOE_Military_PR08.deleted=97 SWCOE_Military_NM75=6808 SWCOE_Military_PR08=0 SWCOE_Military_TUS04_DCW=0 SWCOE_Military_FL51_new=1"
+--06-25T17:12  e724337    checkout version "M:\admin_view\SWCOE_Military\ISP_Software\Mezzanine_IO_Manager\src\manager\code\miom_manager.cpp" from \main\OH\F16_iPDG\6 (unreserved)
+--06-25T17:02  clearcase_nm75 export sync from replica "SWCOE_Military_FL51_new" to replica "SWCOE_Military_TUS04_DCW"
+  "Exported synchronization information for replica "SWCOE_Military_TUS04_DCW".
+   Row at export was: SWCOE_Military_AZ10.deleted=11126 SWCOE_Military_NM75=6805 SWCOE_Military_PR08.deleted=97 SWCOE_Military_TUS04_DCW=0 SWCOE_Military_PR08=0 SWCOE_Military_FL51_new=1 SWCOE_Military_AZ18.deleted=4 SWCOE_Military_TUS04.deleted=57 abq_SWCOE_Military.deleted=90732 SWCOE_Military_FL51.deleted=0"
+--06-25T16:46  clearcase_nm75 import sync from replica "SWCOE_Military_TUS04_DCW" to replica "SWCOE_Military_FL51_new"
+  "Imported synchronization information from replica "SWCOE_Military_TUS04_DCW".
+   Row at import was: SWCOE_Military_TUS04.deleted=57 abq_SWCOE_Military.deleted=90732 SWCOE_Military_FL51.deleted=0 SWCOE_Military_AZ18.deleted=4 SWCOE_Military_AZ10.deleted=11126 SWCOE_Military_PR08.deleted=97 SWCOE_Military_NM75=6808 SWCOE_Military_PR08=0 SWCOE_Military_TUS04_DCW=0 SWCOE_Military_FL51_new=1"
+--06-25T16:42  clearcase_nm75 import sync from replica "SWCOE_Military_PR08" to replica "SWCOE_Military_FL51_new"
+  "Imported synchronization information from replica "SWCOE_Military_PR08".
+   Row at import was: SWCOE_Military_TUS04.deleted=57 abq_SWCOE_Military.deleted=90732 SWCOE_Military_FL51.deleted=0 SWCOE_Military_AZ18.deleted=4 SWCOE_Military_AZ10.deleted=11126 SWCOE_Military_PR08.deleted=97 SWCOE_Military_NM75=6808 SWCOE_Military_PR08=0 SWCOE_Military_TUS04_DCW=0 SWCOE_Military_FL51_new=1"
+--06-25T16:41  clearcase_nm75 import sync from replica "SWCOE_Military_NM75" to replica "SWCOE_Military_FL51_new"
+  "Imported synchronization information from replica "SWCOE_Military_NM75".
+   Row at import was: SWCOE_Military_TUS04.deleted=57 abq_SWCOE_Military.deleted=90732 SWCOE_Military_FL51.deleted=0 SWCOE_Military_AZ18.deleted=4 SWCOE_Military_AZ10.deleted=11126 SWCOE_Military_PR08.deleted=97 SWCOE_Military_NM75=6805 SWCOE_Military_PR08=0 SWCOE_Military_TUS04_DCW=0 SWCOE_Military_FL51_new=1"
+--06-25T16:41  e724337    checkout version "M:\admin_view\SWCOE_Military\ISP_Software\Mezzanine_IO_Manager\project\miom.gpj" from \main\F16_iPDG\6 (unreserved)
+--06-24T17:58  clearcase_nm75 export sync from replica "SWCOE_Military_FL51_new" to replica "SWCOE_Military_TUS04_DCW"
+  "Exported synchronization information for replica "SWCOE_Military_TUS04_DCW".
+   Row at export was: SWCOE_Military_AZ10.deleted=11126 SWCOE_Military_NM75=6803 SWCOE_Military_PR08.deleted=97 SWCOE_Military_TUS04_DCW=0 SWCOE_Military_PR08=0 SWCOE_Military_FL51_new=1 SWCOE_Military_AZ18.deleted=4 SWCOE_Military_TUS04.deleted=57 abq_SWCOE_Military.deleted=90732 SWCOE_Military_FL51.deleted=0"
+--06-24T17:56  clearcase_nm75 import sync from replica "SWCOE_Military_TUS04_DCW" to replica "SWCOE_Military_FL51_new"
+  "Imported synchronization information from replica "SWCOE_Military_TUS04_DCW".
+   Row at import was: SWCOE_Military_TUS04.deleted=57 abq_SWCOE_Military.deleted=90732 SWCOE_Military_FL51.deleted=0 SWCOE_Military_AZ18.deleted=4 SWCOE_Military_AZ10.deleted=11126 SWCOE_Military_PR08.deleted=97 SWCOE_Military_NM75=6805 SWCOE_Military_PR08=0 SWCOE_Military_TUS04_DCW=0 SWCOE_Military_FL51_new=1"
+--06-24T17:51  clearcase_nm75 import sync from replica "SWCOE_Military_PR08" to replica "SWCOE_Military_FL51_new"
+  "Imported synchronization information from replica "SWCOE_Military_PR08".
+   Row at import was: SWCOE_Military_TUS04.deleted=57 abq_SWCOE_Military.deleted=90732 SWCOE_Military_FL51.deleted=0 SWCOE_Military_AZ18.deleted=4 SWCOE_Military_AZ10.deleted=11126 SWCOE_Military_PR08.deleted=97 SWCOE_Military_NM75=6805 SWCOE_Military_PR08=0 SWCOE_Military_TUS04_DCW=0 SWCOE_Military_FL51_new=1"
+--06-24T17:51  clearcase_nm75 import sync from replica "SWCOE_Military_NM75" to replica "SWCOE_Military_FL51_new"
+  "Imported synchronization information from replica "SWCOE_Military_NM75".
+   Row at import was: SWCOE_Military_TUS04.deleted=57 abq_SWCOE_Military.deleted=90732 SWCOE_Military_FL51.deleted=0 SWCOE_Military_AZ18.deleted=4 SWCOE_Military_AZ10.deleted=11126 SWCOE_Military_PR08.deleted=97 SWCOE_Military_NM75=6803 SWCOE_Military_PR08=0 SWCOE_Military_TUS04_DCW=0 SWCOE_Military_FL51_new=1"
+--06-24T17:48  E435996    make label "INTERIM_RELEASE_140624" on directory version "M:\admin_view\SWCOE_Military\ISP_Software\common\arinc_653\code@@\main\1" (INTERIM_RELEASE_140624, INTERIM_RELEASE_140530, cSDS_Build2, PD8536769-105, PD8536769-100)
+--06-24T17:47  E435996    make label "INTERIM_RELEASE_140624" on directory version "M:\admin_view\SWCOE_Military\ISP_Software\common\arinc_653@@\main\4" (INTERIM_RELEASE_140624)
+--06-24T17:36  clearcase_nm75 import sync from replica "SWCOE_Military_TUS04_DCW" to replica "SWCOE_Military_FL51_new"
+  "Imported synchronization information from replica "SWCOE_Military_TUS04_DCW".
+   Row at import was: SWCOE_Military_TUS04.deleted=57 abq_SWCOE_Military.deleted=90732 SWCOE_Military_FL51.deleted=0 SWCOE_Military_AZ18.deleted=4 SWCOE_Military_AZ10.deleted=11126 SWCOE_Military_PR08.deleted=97 SWCOE_Military_NM75=6803 SWCOE_Military_PR08=0 SWCOE_Military_TUS04_DCW=0 SWCOE_Military_FL51_new=1"
+--06-24T17:35  clearcase_nm75 export sync from replica "SWCOE_Military_FL51_new" to replica "SWCOE_Military_TUS04_DCW"
+  "Exported synchronization information for replica "SWCOE_Military_TUS04_DCW".
+   Row at export was: SWCOE_Military_AZ10.deleted=11126 SWCOE_Military_NM75=6800 SWCOE_Military_PR08.deleted=97 SWCOE_Military_TUS04_DCW=0 SWCOE_Military_PR08=0 SWCOE_Military_FL51_new=1 SWCOE_Military_AZ18.deleted=4 SWCOE_Military_TUS04.deleted=57 abq_SWCOE_Military.deleted=90732 SWCOE_Military_FL51.deleted=0"
+--06-24T17:31  clearcase_nm75 import sync from replica "SWCOE_Military_PR08" to replica "SWCOE_Military_FL51_new"
+  "Imported synchronization information from replica "SWCOE_Military_PR08".
+   Row at import was: SWCOE_Military_TUS04.deleted=57 abq_SWCOE_Military.deleted=90732 SWCOE_Military_FL51.deleted=0 SWCOE_Military_AZ18.deleted=4 SWCOE_Military_AZ10.deleted=11126 SWCOE_Military_PR08.deleted=97 SWCOE_Military_NM75=6803 SWCOE_Military_PR08=0 SWCOE_Military_TUS04_DCW=0 SWCOE_Military_FL51_new=1"
+--06-24T17:31  clearcase_nm75 import sync from replica "SWCOE_Military_NM75" to replica "SWCOE_Military_FL51_new"
+  "Imported synchronization information from replica "SWCOE_Military_NM75".
+   Row at import was: SWCOE_Military_TUS04.deleted=57 abq_SWCOE_Military.deleted=90732 SWCOE_Military_FL51.deleted=0 SWCOE_Military_AZ18.deleted=4 SWCOE_Military_AZ10.deleted=11126 SWCOE_Military_PR08.deleted=97 SWCOE_Military_NM75=6800 SWCOE_Military_PR08=0 SWCOE_Military_TUS04_DCW=0 SWCOE_Military_FL51_new=1"
+--06-24T17:29  E435996    make label "INTERIM_RELEASE_140624" on directory version "M:\admin_view\SWCOE_Military\ISP_Software\VME_IO_MANAGER\src\manager\code@@\main\12" (INTERIM_RELEASE_140624, INTERIM_RELEASE_140530, cSDS_Build2, PD8536770-100, PD8536770-109, ...)
+--06-24T17:28  E435996    make label "INTERIM_RELEASE_140624" on directory version "M:\admin_view\SWCOE_Military\ISP_Software\VME_IO_MANAGER\src\cpu1\code@@\main\3" (INTERIM_RELEASE_140624, INTERIM_RELEASE_140530, cSDS_Build2, PD8536770-100, PD8536770-109, ...)
+--06-24T17:28  E435996    make label "INTERIM_RELEASE_140624" on directory version "M:\admin_view\SWCOE_Military\ISP_Software\VME_IO_MANAGER\src\1553\code@@\main\5" (INTERIM_RELEASE_140624, INTERIM_RELEASE_140530, cSDS_Build2, PD8536770-100, PD8536770-109, ...)
+--06-24T16:37  clearcase_nm75 export sync from replica "SWCOE_Military_FL51_new" to replica "SWCOE_Military_TUS04_DCW"
+  "Exported synchronization information for replica "SWCOE_Military_TUS04_DCW".
+   Row at export was: SWCOE_Military_AZ10.deleted=11126 SWCOE_Military_NM75=6792 SWCOE_Military_PR08.deleted=97 SWCOE_Military_TUS04_DCW=0 SWCOE_Military_PR08=0 SWCOE_Military_FL51_new=1 SWCOE_Military_AZ18.deleted=4 SWCOE_Military_TUS04.deleted=57 abq_SWCOE_Military.deleted=90732 SWCOE_Military_FL51.deleted=0"
+--06-24T16:36  clearcase_nm75 import sync from replica "SWCOE_Military_TUS04_DCW" to replica "SWCOE_Military_FL51_new"
+  "Imported synchronization information from replica "SWCOE_Military_TUS04_DCW".
+   Row at import was: SWCOE_Military_TUS04.deleted=57 abq_SWCOE_Military.deleted=90732 SWCOE_Military_FL51.deleted=0 SWCOE_Military_AZ18.deleted=4 SWCOE_Military_AZ10.deleted=11126 SWCOE_Military_PR08.deleted=97 SWCOE_Military_NM75=6800 SWCOE_Military_PR08=0 SWCOE_Military_TUS04_DCW=0 SWCOE_Military_FL51_new=1"
+--06-24T16:31  clearcase_nm75 import sync from replica "SWCOE_Military_PR08" to replica "SWCOE_Military_FL51_new"
+  "Imported synchronization information from replica "SWCOE_Military_PR08".
+   Row at import was: SWCOE_Military_TUS04.deleted=57 abq_SWCOE_Military.deleted=90732 SWCOE_Military_FL51.deleted=0 SWCOE_Military_AZ18.deleted=4 SWCOE_Military_AZ10.deleted=11126 SWCOE_Military_PR08.deleted=97 SWCOE_Military_NM75=6800 SWCOE_Military_PR08=0 SWCOE_Military_TUS04_DCW=0 SWCOE_Military_FL51_new=1"
+--06-24T16:31  clearcase_nm75 import sync from replica "SWCOE_Military_NM75" to replica "SWCOE_Military_FL51_new"
+  "Imported synchronization information from replica "SWCOE_Military_NM75".
+   Row at import was: SWCOE_Military_TUS04.deleted=57 abq_SWCOE_Military.deleted=90732 SWCOE_Military_FL51.deleted=0 SWCOE_Military_AZ18.deleted=4 SWCOE_Military_AZ10.deleted=11126 SWCOE_Military_PR08.deleted=97 SWCOE_Military_NM75=6792 SWCOE_Military_PR08=0 SWCOE_Military_TUS04_DCW=0 SWCOE_Military_FL51_new=1"
+--06-24T16:26  clearcase_nm75 import sync from replica "SWCOE_Military_TUS04_DCW" to replica "SWCOE_Military_FL51_new"
+  "Imported synchronization information from replica "SWCOE_Military_TUS04_DCW".
+   Row at import was: SWCOE_Military_TUS04.deleted=57 abq_SWCOE_Military.deleted=90732 SWCOE_Military_FL51.deleted=0 SWCOE_Military_AZ18.deleted=4 SWCOE_Military_AZ10.deleted=11126 SWCOE_Military_PR08.deleted=97 SWCOE_Military_NM75=6791 SWCOE_Military_PR08=0 SWCOE_Military_TUS04_DCW=0 SWCOE_Military_FL51_new=1"
+--06-24T16:24  E435996    make label "INTERIM_RELEASE_140624" on directory version "M:\admin_view\SWCOE_Military\ISP_Software\VME_IO_MANAGER\src\manager@@\main\3" (INTERIM_RELEASE_140624, INTERIM_RELEASE_140530, PD8536770-109, OH58_IOM_Build1)
+--06-24T16:24  E435996    make label "INTERIM_RELEASE_140624" on directory version "M:\admin_view\SWCOE_Military\ISP_Software\VME_IO_MANAGER\src\cpu1@@\main\3" (INTERIM_RELEASE_140624, INTERIM_RELEASE_140530, PD8536770-109, OH58_IOM_Build1)
+--06-24T16:23  E435996    make label "INTERIM_RELEASE_140624" on directory version "M:\admin_view\SWCOE_Military\ISP_Software\VME_IO_MANAGER\src\1553@@\main\3" (INTERIM_RELEASE_140624, INTERIM_RELEASE_140530, PD8536770-109, OH58_IOM_Build1)
+--06-24T16:23  E435996    make label "INTERIM_RELEASE_140624" on directory version "M:\admin_view\SWCOE_Military\ISP_Software\VME_IO_MANAGER\src@@\main\11" (INTERIM_RELEASE_140624, INTERIM_RELEASE_140530, PD8536770-109, OH58_IOM_Build1)
+--06-24T16:23  E435996    make label "INTERIM_RELEASE_140624" on directory version "M:\admin_view\SWCOE_Military\ISP_Software\VME_IO_MANAGER@@\main\5" (INTERIM_RELEASE_140624, INTERIM_RELEASE_140530, PD8536770-109)
+--06-24T16:22  E435996    make label "INTERIM_RELEASE_140624" on directory version "M:\admin_view\SWCOE_Military\ISP_Software\common\interprocessor\code@@\main\5" (INTERIM_RELEASE_140624, INTERIM_RELEASE_140530, cSDS_Build2, PD8536769-105, PD8536769-100)
+--06-24T16:22  E435996    make label "INTERIM_RELEASE_140624" on directory version "M:\admin_view\SWCOE_Military\ISP_Software\common\interprocessor@@\main\4" (INTERIM_RELEASE_140624)

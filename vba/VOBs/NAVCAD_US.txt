@@ -1,0 +1,198 @@
+--06-30T12:17  clearcase_nm75 protect directory element "M:\admin_view\NAVCAD_US\.@@"
+  "CHMOD 775"
+--06-30T12:15  clearcase_nm75 protect directory element "M:\admin_view\NAVCAD_US\.@@"
+  "CHMOD 770"
+--06-30T12:15  clearcase_nm75 protect directory element "M:\admin_view\NAVCAD_US\.@@"
+  "CHMOD 775"
+--06-30T12:15  clearcase_nm75 protect directory element "M:\admin_view\NAVCAD_US\.@@"
+  "CHMOD 770"
+--06-30T12:15  clearcase_nm75 protect directory element "M:\admin_view\NAVCAD_US\.@@"
+  "CHMOD 775"
+--06-30T12:14  clearcase_nm75 protect directory element "M:\admin_view\NAVCAD_US\.@@"
+  "CHMOD 770"
+--06-30T12:14  clearcase_nm75 protect directory element "M:\admin_view\NAVCAD_US\.@@"
+  "CHMOD 775"
+--06-30T10:41  clearcase_nm75 protect directory element "M:\admin_view\NAVCAD_US\.@@"
+  "CHMOD 770"
+--06-30T10:41  clearcase_nm75 protect directory element "M:\admin_view\NAVCAD_US\.@@"
+  "CHMOD 775"
+--06-30T10:37  clearcase_nm75 protect directory element "M:\admin_view\NAVCAD_US\.@@"
+  "CHMOD 770"
+--06-30T10:37  clearcase_nm75 protect directory element "M:\admin_view\NAVCAD_US\.@@"
+  "CHMOD 775"
+--06-30T10:35  clearcase_nm75 protect directory element "M:\admin_view\NAVCAD_US\.@@"
+  "CHMOD 770"
+--06-30T10:35  clearcase_nm75 protect directory element "M:\admin_view\NAVCAD_US\.@@"
+  "CHMOD 775"
+--06-17T17:41  clearcase_nm75 protect directory element "M:\admin_view\NAVCAD_US\.@@"
+  "CHMOD 770"
+--06-17T17:41  clearcase_nm75 protect directory element "M:\admin_view\NAVCAD_US\.@@"
+  "CHMOD 775"
+--05-01T14:50  clearcase_nm75 import sync from replica "NAVCAD_US_PR08" to replica "NAVCAD_US_FL51"
+  "Imported synchronization information from replica "NAVCAD_US_PR08".
+   Row at import was: NAVCAD_US_AZ18.deleted=6 NAVCAD_US_MN17=2720 NAVCAD_US_PR08=4 NAVCAD_US_MN10=93 NAVCAD_US_MN51=0 NAVCAD_US_DCW=0 NAVCAD_US_FL51=0"
+--05-01T14:45  clearcase_nm75 import sync from replica "NAVCAD_US_DCW" to replica "NAVCAD_US_FL51"
+  "Imported synchronization information from replica "NAVCAD_US_DCW".
+   Row at import was: NAVCAD_US_AZ18.deleted=6 NAVCAD_US_MN17=2720 NAVCAD_US_PR08=4 NAVCAD_US_MN10=93 NAVCAD_US_MN51=0 NAVCAD_US_DCW=0 NAVCAD_US_FL51=0"
+--05-01T14:40  clearcase_nm75 export sync from replica "NAVCAD_US_FL51" to replica "NAVCAD_US_DCW"
+  "Exported synchronization information for replica "NAVCAD_US_DCW".
+   Row at export was: NAVCAD_US_AZ18.deleted=6 NAVCAD_US_FL51=0 NAVCAD_US_MN10=93 NAVCAD_US_MN17=2714 NAVCAD_US_DCW=0 NAVCAD_US_PR08=4 NAVCAD_US_MN51=0"
+--05-01T14:40  clearcase_nm75 import sync from replica "NAVCAD_US_MN17" to replica "NAVCAD_US_FL51"
+  "Imported synchronization information from replica "NAVCAD_US_MN17".
+   Row at import was: NAVCAD_US_AZ18.deleted=6 NAVCAD_US_MN17=2719 NAVCAD_US_PR08=4 NAVCAD_US_MN10=93 NAVCAD_US_MN51=0 NAVCAD_US_DCW=0 NAVCAD_US_FL51=0"
+--05-01T14:40  e704548    change master to "NAVCAD_US_DCW" of replica "NAVCAD_US_DCW"
+  "Changed master replica from "NAVCAD_US_MN17" to "NAVCAD_US_DCW"."
+--05-01T14:40  clearcase_nm75 import sync from replica "NAVCAD_US_PR08" to replica "NAVCAD_US_FL51"
+  "Imported synchronization information from replica "NAVCAD_US_PR08".
+   Row at import was: NAVCAD_US_AZ18.deleted=6 NAVCAD_US_MN17=2719 NAVCAD_US_PR08=4 NAVCAD_US_MN10=93 NAVCAD_US_MN51=0 NAVCAD_US_DCW=0 NAVCAD_US_FL51=0"
+--05-01T14:35  clearcase_nm75 import sync from replica "NAVCAD_US_DCW" to replica "NAVCAD_US_FL51"
+  "Imported synchronization information from replica "NAVCAD_US_DCW".
+   Row at import was: NAVCAD_US_AZ18.deleted=6 NAVCAD_US_MN17=2719 NAVCAD_US_PR08=4 NAVCAD_US_MN10=93 NAVCAD_US_MN51=0 NAVCAD_US_DCW=0 NAVCAD_US_FL51=0"
+--05-01T14:33  clearcase_nm75 import sync from replica "NAVCAD_US_MN17" to replica "NAVCAD_US_FL51"
+  "Imported synchronization information from replica "NAVCAD_US_MN17".
+   Row at import was: NAVCAD_US_AZ18=6 NAVCAD_US_MN17=2714 NAVCAD_US_PR08=4 NAVCAD_US_MN10=93 NAVCAD_US_MN51=0 NAVCAD_US_DCW=0 NAVCAD_US_FL51=0"
+--05-01T14:24  e704548    rename replica "NAVCAD_US_AZ18.deleted"
+  "Changed name of replica from "NAVCAD_US_AZ18" to "NAVCAD_US_AZ18.deleted".
+   Destroyed replica "NAVCAD_US_AZ18"."
+--05-01T14:24  e704548    destroy replica in versioned object base "\NAVCAD_US"
+  "Destroyed replica "NAVCAD_US_AZ18"."
+--05-01T14:24  e704548    change master to "NAVCAD_US_MN17" of replica "NAVCAD_US_DCW"
+  "Changed master replica from "NAVCAD_US_AZ18" to "NAVCAD_US_MN17"."
+--05-01T14:24  e704548    change master to "NAVCAD_US_MN17" of replica "NAVCAD_US_MN51"
+  "Changed master replica from "NAVCAD_US_AZ18" to "NAVCAD_US_MN17"."
+--05-01T14:24  e704548    change master to "NAVCAD_US_MN17" of replica "NAVCAD_US_MN10"
+  "Changed master replica from "NAVCAD_US_AZ18" to "NAVCAD_US_MN17"."
+--05-01T14:24  e704548    change master to "NAVCAD_US_MN17" of replica "NAVCAD_US_FL51"
+  "Changed master replica from "NAVCAD_US_AZ18" to "NAVCAD_US_MN17"."
+--03-26T09:20  clearcase_nm75 import sync from replica "NAVCAD_US_PR08" to replica "NAVCAD_US_FL51"
+  "Imported synchronization information from replica "NAVCAD_US_PR08".
+   Row at import was: NAVCAD_US_AZ18=6 NAVCAD_US_MN17=2714 NAVCAD_US_PR08=4 NAVCAD_US_MN10=93 NAVCAD_US_MN51=0 NAVCAD_US_DCW=0 NAVCAD_US_FL51=0"
+--03-26T09:00  clearcase_nm75 import sync from replica "NAVCAD_US_DCW" to replica "NAVCAD_US_FL51"
+  "Imported synchronization information from replica "NAVCAD_US_DCW".
+   Row at import was: NAVCAD_US_AZ18=6 NAVCAD_US_MN17=2542 NAVCAD_US_PR08=4 NAVCAD_US_MN10=93 NAVCAD_US_MN51=0 NAVCAD_US_DCW=0 NAVCAD_US_FL51=0"
+--03-25T12:11  clearcase_nm75 export sync from replica "NAVCAD_US_FL51" to replica "NAVCAD_US_DCW"
+  "Exported synchronization information for replica "NAVCAD_US_DCW".
+   Row at export was: NAVCAD_US_AZ18=5 NAVCAD_US_FL51=0 NAVCAD_US_MN10=93 NAVCAD_US_MN17=2542 NAVCAD_US_DCW=0 NAVCAD_US_PR08=4 NAVCAD_US_MN51=0"
+--02-19T22:42  clearcase_nm75 make hyperlink "BaselineLbtype" on label type "NAVCAD_US_2_19_2014.8638"
+--02-19T22:42  clearcase_nm75 rename label type "NAVCAD_US_2_19_2014.8638"
+  "Changed name of label type from "NAVCAD_US_2_19_2014.8638_in_progress" to "NAVCAD_US_2_19_2014.8638"."
+--02-19T22:42  E701411    make hyperlink "IncrementalLbtype" on label type "NAVCAD_US_2_19_2014.8638"
+--02-19T22:42  E701411    make hyperlink "IncrementalLbtype" on label type "NAVCAD_US_03_19_2013.8652"
+--02-19T22:42  E701411    create hyperlink "IncrementalLbtype@2264@\NAVCAD_US"
+--02-19T22:42  E701411    create label type "NAVCAD_US_2_19_2014.8638"
+--02-19T22:12  E701411    create directory version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source@@\main\NAVCAD_US_Integration\8" (NAVCAD_US_2_19_2014.8638)
+  "Added file element "mod.inc".
+   Added file element "navcad.inc"."
+--02-19T22:12  E701411    create version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\9\buildMSnet.unloaded\main\cjvisker_NAVCAD_US_snapshot\2\MSnet2003\main\cjvisker_NAVCAD_US_snapshot\2\navcad.sln@@\main\NAVCAD_US_Integration\2" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:12  E701411    create version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\9\buildMSnet.unloaded\main\cjvisker_NAVCAD_US_snapshot\2\MSnet2003\main\cjvisker_NAVCAD_US_snapshot\2\navcad.vfproj@@\main\NAVCAD_US_Integration\5" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:12  E701411    create version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\1\documents\main\cjvisker_NAVCAD_US_snapshot\5\Navcad.doc@@\main\NAVCAD_US_Integration\9" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:12  E701411    create version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\aid.f@@\main\NAVCAD_US_Integration\7" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:12  E701411    create version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\bloc2c.inc@@\main\NAVCAD_US_Integration\3" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:12  E701411    create version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\cep.inc@@\main\NAVCAD_US_Integration\2" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:12  E701411    create version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\covar.f@@\main\NAVCAD_US_Integration\5" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:12  E701411    create version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\init.f@@\main\NAVCAD_US_Integration\7" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:12  E701411    create version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\model.f@@\main\NAVCAD_US_Integration\4" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:12  E701411    create version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\navcad.f@@\main\NAVCAD_US_Integration\9" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:12  E701411    create version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\out.f@@\main\NAVCAD_US_Integration\6" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:12  E701411    create version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\rprog.f@@\main\NAVCAD_US_Integration\7" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:12  E701411    create version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\sensit.f@@\main\NAVCAD_US_Integration\6" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:12  E701411    create version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\util.f@@\main\NAVCAD_US_Integration\5" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:12  E701411    create version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\4\execute\main\cjvisker_NAVCAD_US_snapshot\4\navcad.exe@@\main\NAVCAD_US_Integration\6" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:12  E701411    create version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\4\execute\main\cjvisker_NAVCAD_US_snapshot\4\runnavcad.bat@@\main\NAVCAD_US_Integration\2" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:12  E701411    create version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\1\documents\main\NAVCAD_US_Integration\sisnyder_NAVCAD_US\1\NAVCAD VDD.doc@@\main\NAVCAD_US_Integration\7" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:12  E701411    create version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\9\buildMSnet.unloaded\main\cjvisker_NAVCAD_US_snapshot\2\MSnet2003\main\NAVCAD_US_Integration\sisnyder_NAVCAD_US\1\navcad.ccscc@@\main\NAVCAD_US_Integration\2" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:12  E701411    create version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\NAVCAD_US_Integration\e701411_NAVCAD_US_sisnyder\1\mod.inc@@\main\NAVCAD_US_Integration\1" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:12  E701411    create version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\NAVCAD_US_Integration\e701411_NAVCAD_US_sisnyder\1\navcad.inc@@\main\NAVCAD_US_Integration\1" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:12  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\NAVCAD_US_Integration\e701411_NAVCAD_US_sisnyder\1\navcad.inc@@\main\NAVCAD_US_Integration\1" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:12  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\NAVCAD_US_Integration\e701411_NAVCAD_US_sisnyder\1\navcad.inc@@\main\e701411_NAVCAD_US_sisnyder\1"
+--02-19T22:12  E701411    create hyperlink "Merge@2262@\NAVCAD_US"
+--02-19T22:11  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\NAVCAD_US_Integration\e701411_NAVCAD_US_sisnyder\1\mod.inc@@\main\NAVCAD_US_Integration\1" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:11  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\NAVCAD_US_Integration\e701411_NAVCAD_US_sisnyder\1\mod.inc@@\main\e701411_NAVCAD_US_sisnyder\1"
+--02-19T22:11  E701411    create hyperlink "Merge@2261@\NAVCAD_US"
+--02-19T22:11  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\9\buildMSnet.unloaded\main\cjvisker_NAVCAD_US_snapshot\2\MSnet2003\main\NAVCAD_US_Integration\sisnyder_NAVCAD_US\1\navcad.ccscc@@\main\NAVCAD_US_Integration\2" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:11  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\9\buildMSnet.unloaded\main\cjvisker_NAVCAD_US_snapshot\2\MSnet2003\main\NAVCAD_US_Integration\sisnyder_NAVCAD_US\1\navcad.ccscc@@\main\NAVCAD_US_Integration\e701411_NAVCAD_US_sisnyder\1"
+--02-19T22:11  E701411    create hyperlink "Merge@2260@\NAVCAD_US"
+--02-19T22:11  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\1\documents\main\NAVCAD_US_Integration\sisnyder_NAVCAD_US\1\NAVCAD VDD.doc@@\main\NAVCAD_US_Integration\7" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:11  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\1\documents\main\NAVCAD_US_Integration\sisnyder_NAVCAD_US\1\NAVCAD VDD.doc@@\main\NAVCAD_US_Integration\e701411_NAVCAD_US_sisnyder\2"
+--02-19T22:11  E701411    create hyperlink "Merge@2259@\NAVCAD_US"
+--02-19T22:10  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\4\execute\main\cjvisker_NAVCAD_US_snapshot\4\runnavcad.bat@@\main\NAVCAD_US_Integration\2" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:10  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\4\execute\main\cjvisker_NAVCAD_US_snapshot\4\runnavcad.bat@@\main\NAVCAD_US_Integration\e701411_NAVCAD_US_sisnyder\1"
+--02-19T22:10  E701411    create hyperlink "Merge@2258@\NAVCAD_US"
+--02-19T22:10  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\4\execute\main\cjvisker_NAVCAD_US_snapshot\4\navcad.exe@@\main\NAVCAD_US_Integration\6" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:10  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\4\execute\main\cjvisker_NAVCAD_US_snapshot\4\navcad.exe@@\main\NAVCAD_US_Integration\e701411_NAVCAD_US_sisnyder\2"
+--02-19T22:10  E701411    create hyperlink "Merge@2257@\NAVCAD_US"
+--02-19T22:09  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\util.f@@\main\NAVCAD_US_Integration\5" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:09  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\util.f@@\main\NAVCAD_US_Integration\e701411_NAVCAD_US_sisnyder\1"
+--02-19T22:09  E701411    create hyperlink "Merge@2256@\NAVCAD_US"
+--02-19T22:08  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\sensit.f@@\main\NAVCAD_US_Integration\6" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:08  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\sensit.f@@\main\NAVCAD_US_Integration\e701411_NAVCAD_US_sisnyder\1"
+--02-19T22:08  E701411    create hyperlink "Merge@2255@\NAVCAD_US"
+--02-19T22:08  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\rprog.f@@\main\NAVCAD_US_Integration\7" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:08  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\rprog.f@@\main\NAVCAD_US_Integration\e701411_NAVCAD_US_sisnyder\2"
+--02-19T22:08  E701411    create hyperlink "Merge@2254@\NAVCAD_US"
+--02-19T22:08  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\out.f@@\main\NAVCAD_US_Integration\6" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:08  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\out.f@@\main\NAVCAD_US_Integration\e701411_NAVCAD_US_sisnyder\1"
+--02-19T22:08  E701411    create hyperlink "Merge@2253@\NAVCAD_US"
+--02-19T22:07  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\navcad.f@@\main\NAVCAD_US_Integration\9" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:07  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\navcad.f@@\main\NAVCAD_US_Integration\e701411_NAVCAD_US_sisnyder\2"
+--02-19T22:07  E701411    create hyperlink "Merge@2252@\NAVCAD_US"
+--02-19T22:06  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\model.f@@\main\NAVCAD_US_Integration\4" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:06  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\model.f@@\main\NAVCAD_US_Integration\e701411_NAVCAD_US_sisnyder\2"
+--02-19T22:06  E701411    create hyperlink "Merge@2251@\NAVCAD_US"
+--02-19T22:06  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\init.f@@\main\NAVCAD_US_Integration\7" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:06  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\init.f@@\main\NAVCAD_US_Integration\e701411_NAVCAD_US_sisnyder\2"
+--02-19T22:06  E701411    create hyperlink "Merge@2250@\NAVCAD_US"
+--02-19T22:06  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\covar.f@@\main\NAVCAD_US_Integration\5" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:06  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\covar.f@@\main\NAVCAD_US_Integration\e701411_NAVCAD_US_sisnyder\1"
+--02-19T22:06  E701411    create hyperlink "Merge@2249@\NAVCAD_US"
+--02-19T22:05  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\cep.inc@@\main\NAVCAD_US_Integration\2" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:05  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\cep.inc@@\main\NAVCAD_US_Integration\e701411_NAVCAD_US_sisnyder\1"
+--02-19T22:05  E701411    create hyperlink "Merge@2248@\NAVCAD_US"
+--02-19T22:05  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\bloc2c.inc@@\main\NAVCAD_US_Integration\3" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:05  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\bloc2c.inc@@\main\NAVCAD_US_Integration\e701411_NAVCAD_US_sisnyder\1"
+--02-19T22:05  E701411    create hyperlink "Merge@2247@\NAVCAD_US"
+--02-19T22:04  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\aid.f@@\main\NAVCAD_US_Integration\7" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:04  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\aid.f@@\main\NAVCAD_US_Integration\e701411_NAVCAD_US_sisnyder\1"
+--02-19T22:04  E701411    create hyperlink "Merge@2246@\NAVCAD_US"
+--02-19T22:03  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\1\documents\main\cjvisker_NAVCAD_US_snapshot\5\Navcad.doc@@\main\NAVCAD_US_Integration\9" (NAVCAD_US_2_19_2014.8638)
+--02-19T22:03  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\1\documents\main\cjvisker_NAVCAD_US_snapshot\5\Navcad.doc@@\main\NAVCAD_US_Integration\e701411_NAVCAD_US_sisnyder\2"
+--02-19T22:03  E701411    create hyperlink "Merge@2245@\NAVCAD_US"
+--02-19T21:59  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\9\buildMSnet.unloaded\main\cjvisker_NAVCAD_US_snapshot\2\MSnet2003\main\cjvisker_NAVCAD_US_snapshot\2\navcad.vfproj@@\main\NAVCAD_US_Integration\5" (NAVCAD_US_2_19_2014.8638)
+--02-19T21:59  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\9\buildMSnet.unloaded\main\cjvisker_NAVCAD_US_snapshot\2\MSnet2003\main\cjvisker_NAVCAD_US_snapshot\2\navcad.vfproj@@\main\NAVCAD_US_Integration\e701411_NAVCAD_US_sisnyder\1"
+--02-19T21:59  E701411    create hyperlink "Merge@2244@\NAVCAD_US"
+--02-19T21:59  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\9\buildMSnet.unloaded\main\cjvisker_NAVCAD_US_snapshot\2\MSnet2003\main\cjvisker_NAVCAD_US_snapshot\2\navcad.sln@@\main\NAVCAD_US_Integration\2" (NAVCAD_US_2_19_2014.8638)
+--02-19T21:59  E701411    make hyperlink "Merge" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\9\buildMSnet.unloaded\main\cjvisker_NAVCAD_US_snapshot\2\MSnet2003\main\cjvisker_NAVCAD_US_snapshot\2\navcad.sln@@\main\NAVCAD_US_Integration\e701411_NAVCAD_US_sisnyder\1"
+--02-19T21:59  E701411    create hyperlink "Merge@2243@\NAVCAD_US"
+--02-19T21:59  clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\NAVCAD_US_Integration\e701411_NAVCAD_US_sisnyder\1\navcad.inc@@\main\NAVCAD_US_Integration\1" (NAVCAD_US_2_19_2014.8638)
+--02-19T21:59  E701411    create version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\NAVCAD_US_Integration\e701411_NAVCAD_US_sisnyder\1\navcad.inc@@\main\NAVCAD_US_Integration\0"
+--02-19T21:59  E701411    create branch "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\NAVCAD_US_Integration\e701411_NAVCAD_US_sisnyder\1\navcad.inc@@\main\NAVCAD_US_Integration"
+--02-19T21:59  clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\NAVCAD_US_Integration\e701411_NAVCAD_US_sisnyder\1\mod.inc@@\main\NAVCAD_US_Integration\1" (NAVCAD_US_2_19_2014.8638)
+--02-19T21:58  E701411    create version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\NAVCAD_US_Integration\e701411_NAVCAD_US_sisnyder\1\mod.inc@@\main\NAVCAD_US_Integration\0"
+--02-19T21:58  E701411    create branch "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\NAVCAD_US_Integration\e701411_NAVCAD_US_sisnyder\1\mod.inc@@\main\NAVCAD_US_Integration"
+--02-19T21:58  clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\9\buildMSnet.unloaded\main\cjvisker_NAVCAD_US_snapshot\2\MSnet2003\main\NAVCAD_US_Integration\sisnyder_NAVCAD_US\1\navcad.ccscc@@\main\NAVCAD_US_Integration\2" (NAVCAD_US_2_19_2014.8638)
+--02-19T21:58  clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\1\documents\main\NAVCAD_US_Integration\sisnyder_NAVCAD_US\1\NAVCAD VDD.doc@@\main\NAVCAD_US_Integration\7" (NAVCAD_US_2_19_2014.8638)
+--02-19T21:58  clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\4\execute\main\cjvisker_NAVCAD_US_snapshot\4\runnavcad.bat@@\main\NAVCAD_US_Integration\2" (NAVCAD_US_2_19_2014.8638)
+--02-19T21:58  clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\4\execute\main\cjvisker_NAVCAD_US_snapshot\4\navcad.exe@@\main\NAVCAD_US_Integration\6" (NAVCAD_US_2_19_2014.8638)
+--02-19T21:58  clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\util.f@@\main\NAVCAD_US_Integration\5" (NAVCAD_US_2_19_2014.8638)
+--02-19T21:57  clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\sensit.f@@\main\NAVCAD_US_Integration\6" (NAVCAD_US_2_19_2014.8638)
+--02-19T21:57  clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\rprog.f@@\main\NAVCAD_US_Integration\7" (NAVCAD_US_2_19_2014.8638)
+--02-19T21:57  clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\out.f@@\main\NAVCAD_US_Integration\6" (NAVCAD_US_2_19_2014.8638)
+--02-19T21:57  clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\navcad.f@@\main\NAVCAD_US_Integration\9" (NAVCAD_US_2_19_2014.8638)
+--02-19T21:56  clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\model.f@@\main\NAVCAD_US_Integration\4" (NAVCAD_US_2_19_2014.8638)
+--02-19T21:56  clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\init.f@@\main\NAVCAD_US_Integration\7" (NAVCAD_US_2_19_2014.8638)
+--02-19T21:56  clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\covar.f@@\main\NAVCAD_US_Integration\5" (NAVCAD_US_2_19_2014.8638)
+--02-19T21:56  clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\cep.inc@@\main\NAVCAD_US_Integration\2" (NAVCAD_US_2_19_2014.8638)
+--02-19T21:56  clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\bloc2c.inc@@\main\NAVCAD_US_Integration\3" (NAVCAD_US_2_19_2014.8638)
+--02-19T21:56  clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source\main\cjvisker_NAVCAD_US_snapshot\4\aid.f@@\main\NAVCAD_US_Integration\7" (NAVCAD_US_2_19_2014.8638)
+--02-19T21:55  clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\1\documents\main\cjvisker_NAVCAD_US_snapshot\5\Navcad.doc@@\main\NAVCAD_US_Integration\9" (NAVCAD_US_2_19_2014.8638)
+--02-19T21:55  clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\9\buildMSnet.unloaded\main\cjvisker_NAVCAD_US_snapshot\2\MSnet2003\main\cjvisker_NAVCAD_US_snapshot\2\navcad.vfproj@@\main\NAVCAD_US_Integration\5" (NAVCAD_US_2_19_2014.8638)
+--02-19T21:55  clearcase_nm75 make hyperlink "Change" on version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\9\buildMSnet.unloaded\main\cjvisker_NAVCAD_US_snapshot\2\MSnet2003\main\cjvisker_NAVCAD_US_snapshot\2\navcad.sln@@\main\NAVCAD_US_Integration\2" (NAVCAD_US_2_19_2014.8638)
+--02-19T21:55  E701411    make hyperlink "Merge" on directory version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source@@\main\NAVCAD_US_Integration\8" (NAVCAD_US_2_19_2014.8638)
+--02-19T21:55  clearcase_nm75 add name to directory version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source@@\main\NAVCAD_US_Integration\8" (NAVCAD_US_2_19_2014.8638)
+--02-19T21:55  clearcase_nm75 add name to directory version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source@@\main\NAVCAD_US_Integration\8" (NAVCAD_US_2_19_2014.8638)
+--02-19T21:55  E701411    make hyperlink "Merge" on directory version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source@@\main\NAVCAD_US_Integration\e701411_NAVCAD_US_sisnyder\1"
+--02-19T21:55  E701411    create hyperlink "Merge@2218@\NAVCAD_US"
+--02-19T21:54  clearcase_nm75 make hyperlink "Change" on directory version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source@@\main\NAVCAD_US_Integration\8" (NAVCAD_US_2_19_2014.8638)
+--02-19T21:52  E701411    create directory version "M:\admin_view\NAVCAD_US\Version_A@@\main\cjvisker_NAVCAD_US_snapshot\3\source@@\main\NAVCAD_US_Integration\e701411_NAVCAD_US_sisnyder\1"
+  "Added file element "mod.inc".
+   Added file element "navcad.inc"."

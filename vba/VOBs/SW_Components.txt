@@ -1,0 +1,134 @@
+--06-30T10:45  clearcase_nm75 protect directory element "M:\admin_view\SW_Components\.@@"
+  "CHMOD 775"
+--06-30T08:43  clearcase_nm75 import sync from replica "SW_Components_AZ75" to replica "SW_Components_FL51"
+  "Imported synchronization information from replica "SW_Components_AZ75".
+   Row at import was: SW_Components_AZ18.deleted=8 SW_Components_TUS04.deleted=23379 SW_Components_AZ10=53330 SW_Components_CZ21=426 SW_Components_IE10=45045 SW_Components_WA05=56 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_PR08=4 SW_Components_CH01=9810 SW_Components_IE1F=1333 SW_Components_NJ06.deleted=0 SW_Components_AZ75=8 SW_Components_NJ06=0 SW_Components_DCW=0 SW_Components_FL51=0"
+--06-30T08:41  clearcase_nm75 export sync from replica "SW_Components_FL51" to replica "SW_Components_DCW"
+  "Exported synchronization information for replica "SW_Components_DCW".
+   Row at export was: SW_Components_IE1F=1333 SW_Components_TUS04.deleted=23379 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_WA05=56 SW_Components_DCW=0 SW_Components_NJ06=0 SW_Components_CZ21=426 SW_Components_PR08=4 SW_Components_FL51=0 SW_Components_CH01=9810 SW_Components_AZ10=53330 SW_Components_AZ18.deleted=8 SW_Components_NJ06.deleted=0 SW_Components_IE10=45040 SW_Components_AZ75=8"
+--06-30T08:36  clearcase_nm75 import sync from replica "SW_Components_DCW" to replica "SW_Components_FL51"
+  "Imported synchronization information from replica "SW_Components_DCW".
+   Row at import was: SW_Components_AZ18.deleted=8 SW_Components_TUS04.deleted=23379 SW_Components_AZ10=53330 SW_Components_CZ21=426 SW_Components_IE10=45045 SW_Components_WA05=56 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_PR08=4 SW_Components_CH01=9810 SW_Components_IE1F=1333 SW_Components_NJ06.deleted=0 SW_Components_AZ75=8 SW_Components_NJ06=0 SW_Components_DCW=0 SW_Components_FL51=0"
+--06-30T08:35  clearcase_nm75 import sync from replica "SW_Components_WA05" to replica "SW_Components_FL51"
+  "Imported synchronization information from replica "SW_Components_WA05".
+   Row at import was: SW_Components_AZ18.deleted=8 SW_Components_TUS04.deleted=23379 SW_Components_AZ10=53330 SW_Components_CZ21=426 SW_Components_IE10=45045 SW_Components_WA05=56 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_PR08=4 SW_Components_CH01=9810 SW_Components_IE1F=1333 SW_Components_NJ06.deleted=0 SW_Components_AZ75=8 SW_Components_NJ06=0 SW_Components_DCW=0 SW_Components_FL51=0"
+--06-30T08:32  clearcase_nm75 import sync from replica "SW_Components_AZ75" to replica "SW_Components_FL51"
+  "Imported synchronization information from replica "SW_Components_AZ75".
+   Row at import was: SW_Components_AZ18.deleted=8 SW_Components_TUS04.deleted=23379 SW_Components_AZ10=53330 SW_Components_CZ21=426 SW_Components_IE10=45045 SW_Components_WA05=56 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_PR08=4 SW_Components_CH01=9810 SW_Components_IE1F=1333 SW_Components_NJ06.deleted=0 SW_Components_AZ75=8 SW_Components_NJ06=0 SW_Components_DCW=0 SW_Components_FL51=0"
+--06-30T08:30  clearcase_nm75 import sync from replica "SW_Components_AZ10" to replica "SW_Components_FL51"
+  "Imported synchronization information from replica "SW_Components_AZ10".
+   Row at import was: SW_Components_AZ18.deleted=8 SW_Components_TUS04.deleted=23379 SW_Components_AZ10=53330 SW_Components_CZ21=426 SW_Components_IE10=45040 SW_Components_WA05=56 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_PR08=4 SW_Components_CH01=9810 SW_Components_IE1F=1333 SW_Components_NJ06.deleted=0 SW_Components_AZ75=8 SW_Components_NJ06=0 SW_Components_DCW=0 SW_Components_FL51=0"
+--06-30T08:26  clearcase_nm75 import sync from replica "SW_Components_DCW" to replica "SW_Components_FL51"
+  "Imported synchronization information from replica "SW_Components_DCW".
+   Row at import was: SW_Components_AZ18.deleted=8 SW_Components_TUS04.deleted=23379 SW_Components_AZ10=53330 SW_Components_CZ21=426 SW_Components_IE10=45040 SW_Components_WA05=56 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_PR08=4 SW_Components_CH01=9810 SW_Components_IE1F=1333 SW_Components_NJ06.deleted=0 SW_Components_AZ75=8 SW_Components_NJ06=0 SW_Components_DCW=0 SW_Components_FL51=0"
+--06-30T08:21  clearcase_nm75 import sync from replica "SW_Components_AZ75" to replica "SW_Components_FL51"
+  "Imported synchronization information from replica "SW_Components_AZ75".
+   Row at import was: SW_Components_AZ18.deleted=8 SW_Components_TUS04.deleted=23379 SW_Components_AZ10=53330 SW_Components_CZ21=426 SW_Components_IE10=45040 SW_Components_WA05=56 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_PR08=4 SW_Components_CH01=9810 SW_Components_IE1F=1333 SW_Components_NJ06.deleted=0 SW_Components_AZ75=8 SW_Components_NJ06=0 SW_Components_DCW=0 SW_Components_FL51=0"
+--06-30T08:20  clearcase_nm75 export sync from replica "SW_Components_FL51" to replica "SW_Components_DCW"
+  "Exported synchronization information for replica "SW_Components_DCW".
+   Row at export was: SW_Components_IE1F=1333 SW_Components_TUS04.deleted=23379 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_WA05=56 SW_Components_DCW=0 SW_Components_NJ06=0 SW_Components_CZ21=426 SW_Components_PR08=4 SW_Components_FL51=0 SW_Components_CH01=9810 SW_Components_AZ10=53329 SW_Components_AZ18.deleted=8 SW_Components_NJ06.deleted=0 SW_Components_IE10=45033 SW_Components_AZ75=8"
+--06-30T08:20  clearcase_nm75 import sync from replica "SW_Components_AZ10" to replica "SW_Components_FL51"
+  "Imported synchronization information from replica "SW_Components_AZ10".
+   Row at import was: SW_Components_AZ18.deleted=8 SW_Components_TUS04.deleted=23379 SW_Components_AZ10=53329 SW_Components_CZ21=426 SW_Components_IE10=45034 SW_Components_WA05=56 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_PR08=4 SW_Components_CH01=9810 SW_Components_IE1F=1333 SW_Components_NJ06.deleted=0 SW_Components_AZ75=8 SW_Components_NJ06=0 SW_Components_DCW=0 SW_Components_FL51=0"
+--06-30T08:20  clearcase_nm75 import sync from replica "SW_Components_WA05" to replica "SW_Components_FL51"
+  "Imported synchronization information from replica "SW_Components_WA05".
+   Row at import was: SW_Components_AZ18.deleted=8 SW_Components_TUS04.deleted=23379 SW_Components_AZ10=53329 SW_Components_CZ21=426 SW_Components_IE10=45034 SW_Components_WA05=56 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_PR08=4 SW_Components_CH01=9810 SW_Components_IE1F=1333 SW_Components_NJ06.deleted=0 SW_Components_AZ75=8 SW_Components_NJ06=0 SW_Components_DCW=0 SW_Components_FL51=0"
+--06-30T08:19  clearcase_nm75 make attribute "PCR" on version "M:\admin_view\SW_Components\RTOS\HeartOSWrapper\design\HeartOSWrapper.cat@@\main\57"
+--06-30T08:19  E815222    create version "M:\admin_view\SW_Components\RTOS\HeartOSWrapper\design\HeartOSWrapper.cat@@\main\57"
+  "PCR#28395"
+--06-30T08:19  clearcase_nm75 make attribute "PCR" on version "M:\admin_view\SW_Components\RTOS\HeartOSWrapper\code\PeriodicTask.h@@\main\20"
+--06-30T08:19  E815222    create version "M:\admin_view\SW_Components\RTOS\HeartOSWrapper\code\PeriodicTask.h@@\main\20"
+  "PCR#28395"
+--06-30T08:16  clearcase_nm75 import sync from replica "SW_Components_DCW" to replica "SW_Components_FL51"
+  "Imported synchronization information from replica "SW_Components_DCW".
+   Row at import was: SW_Components_AZ18.deleted=8 SW_Components_TUS04.deleted=23379 SW_Components_AZ10=53329 SW_Components_CZ21=426 SW_Components_IE10=45034 SW_Components_WA05=56 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_PR08=4 SW_Components_CH01=9810 SW_Components_IE1F=1333 SW_Components_NJ06.deleted=0 SW_Components_AZ75=8 SW_Components_NJ06=0 SW_Components_DCW=0 SW_Components_FL51=0"
+--06-30T08:13  az10_clearcase_albd change master to "SW_Components_IE10" of branch "M:\admin_view\SW_Components\RTOS\HeartOSWrapper\code\PeriodicTask.h@@\main"
+  "Reqmaster changed master replica from "SW_Components_AZ10" to "SW_Components_IE10".
+   Requester: user "PACRIM1\E815222" in domain "PACRIM1" on host "IE11LT30V0CQ1""
+--06-30T08:13  clearcase_nm75 import sync from replica "SW_Components_AZ75" to replica "SW_Components_FL51"
+  "Imported synchronization information from replica "SW_Components_AZ75".
+   Row at import was: SW_Components_AZ18.deleted=8 SW_Components_TUS04.deleted=23379 SW_Components_AZ10=53329 SW_Components_CZ21=426 SW_Components_IE10=45034 SW_Components_WA05=56 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_PR08=4 SW_Components_CH01=9810 SW_Components_IE1F=1333 SW_Components_NJ06.deleted=0 SW_Components_AZ75=8 SW_Components_NJ06=0 SW_Components_DCW=0 SW_Components_FL51=0"
+--06-30T08:10  clearcase_nm75 export sync from replica "SW_Components_FL51" to replica "SW_Components_DCW"
+  "Exported synchronization information for replica "SW_Components_DCW".
+   Row at export was: SW_Components_IE1F=1333 SW_Components_TUS04.deleted=23379 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_WA05=56 SW_Components_DCW=0 SW_Components_NJ06=0 SW_Components_CZ21=426 SW_Components_PR08=4 SW_Components_FL51=0 SW_Components_CH01=9810 SW_Components_AZ10=53329 SW_Components_AZ18.deleted=8 SW_Components_NJ06.deleted=0 SW_Components_IE10=45025 SW_Components_AZ75=8"
+--06-30T08:10  clearcase_nm75 import sync from replica "SW_Components_AZ10" to replica "SW_Components_FL51"
+  "Imported synchronization information from replica "SW_Components_AZ10".
+   Row at import was: SW_Components_AZ18.deleted=8 SW_Components_TUS04.deleted=23379 SW_Components_AZ10=53329 SW_Components_CZ21=426 SW_Components_IE10=45025 SW_Components_WA05=56 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_PR08=4 SW_Components_CH01=9810 SW_Components_IE1F=1333 SW_Components_NJ06.deleted=0 SW_Components_AZ75=8 SW_Components_NJ06=0 SW_Components_DCW=0 SW_Components_FL51=0"
+--06-30T08:06  clearcase_nm75 import sync from replica "SW_Components_DCW" to replica "SW_Components_FL51"
+  "Imported synchronization information from replica "SW_Components_DCW".
+   Row at import was: SW_Components_AZ18.deleted=8 SW_Components_TUS04.deleted=23379 SW_Components_AZ10=53329 SW_Components_CZ21=426 SW_Components_IE10=45025 SW_Components_WA05=56 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_PR08=4 SW_Components_CH01=9810 SW_Components_IE1F=1333 SW_Components_NJ06.deleted=0 SW_Components_AZ75=8 SW_Components_NJ06=0 SW_Components_DCW=0 SW_Components_FL51=0"
+--06-30T08:05  clearcase_nm75 import sync from replica "SW_Components_WA05" to replica "SW_Components_FL51"
+  "Imported synchronization information from replica "SW_Components_WA05".
+   Row at import was: SW_Components_AZ18.deleted=8 SW_Components_TUS04.deleted=23379 SW_Components_AZ10=53329 SW_Components_CZ21=426 SW_Components_IE10=45025 SW_Components_WA05=56 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_PR08=4 SW_Components_CH01=9810 SW_Components_IE1F=1333 SW_Components_NJ06.deleted=0 SW_Components_AZ75=8 SW_Components_NJ06=0 SW_Components_DCW=0 SW_Components_FL51=0"
+--06-30T08:04  clearcase_nm75 make attribute "PCR" on version "M:\admin_view\SW_Components\RTOS\HeartOSWrapper\code\PeriodicTask.cpp@@\main\16"
+--06-30T08:04  E815222    create version "M:\admin_view\SW_Components\RTOS\HeartOSWrapper\code\PeriodicTask.cpp@@\main\16"
+  "PCR#28395"
+--06-30T08:00  clearcase_nm75 export sync from replica "SW_Components_FL51" to replica "SW_Components_DCW"
+  "Exported synchronization information for replica "SW_Components_DCW".
+   Row at export was: SW_Components_IE1F=1333 SW_Components_TUS04.deleted=23379 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_WA05=56 SW_Components_DCW=0 SW_Components_NJ06=0 SW_Components_CZ21=426 SW_Components_PR08=4 SW_Components_FL51=0 SW_Components_CH01=9810 SW_Components_AZ10=53328 SW_Components_AZ18.deleted=8 SW_Components_NJ06.deleted=0 SW_Components_IE10=45025 SW_Components_AZ75=8"
+--06-30T08:00  clearcase_nm75 import sync from replica "SW_Components_AZ10" to replica "SW_Components_FL51"
+  "Imported synchronization information from replica "SW_Components_AZ10".
+   Row at import was: SW_Components_AZ18.deleted=8 SW_Components_TUS04.deleted=23379 SW_Components_AZ10=53328 SW_Components_CZ21=426 SW_Components_IE10=45025 SW_Components_WA05=56 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_PR08=4 SW_Components_CH01=9810 SW_Components_IE1F=1333 SW_Components_NJ06.deleted=0 SW_Components_AZ75=8 SW_Components_NJ06=0 SW_Components_DCW=0 SW_Components_FL51=0"
+--06-30T08:00  az10_clearcase_albd change master to "SW_Components_IE10" of branch "M:\admin_view\SW_Components\RTOS\HeartOSWrapper\code\PeriodicTask.cpp@@\main"
+  "Reqmaster changed master replica from "SW_Components_AZ10" to "SW_Components_IE10".
+   Requester: user "PACRIM1\E815222" in domain "PACRIM1" on host "IE11LT30V0CQ1""
+--06-30T07:35  clearcase_nm75 import sync from replica "SW_Components_WA05" to replica "SW_Components_FL51"
+  "Imported synchronization information from replica "SW_Components_WA05".
+   Row at import was: SW_Components_AZ18.deleted=8 SW_Components_TUS04.deleted=23379 SW_Components_AZ10=53328 SW_Components_CZ21=426 SW_Components_IE10=45025 SW_Components_WA05=56 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_PR08=4 SW_Components_CH01=9810 SW_Components_IE1F=1333 SW_Components_NJ06.deleted=0 SW_Components_AZ75=8 SW_Components_NJ06=0 SW_Components_DCW=0 SW_Components_FL51=0"
+--06-30T07:31  clearcase_nm75 import sync from replica "SW_Components_AZ75" to replica "SW_Components_FL51"
+  "Imported synchronization information from replica "SW_Components_AZ75".
+   Row at import was: SW_Components_AZ18.deleted=8 SW_Components_TUS04.deleted=23379 SW_Components_AZ10=53328 SW_Components_CZ21=426 SW_Components_IE10=45025 SW_Components_WA05=56 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_PR08=4 SW_Components_CH01=9810 SW_Components_IE1F=1333 SW_Components_NJ06.deleted=0 SW_Components_AZ75=8 SW_Components_NJ06=0 SW_Components_DCW=0 SW_Components_FL51=0"
+--06-30T07:26  clearcase_nm75 import sync from replica "SW_Components_DCW" to replica "SW_Components_FL51"
+  "Imported synchronization information from replica "SW_Components_DCW".
+   Row at import was: SW_Components_AZ18.deleted=8 SW_Components_TUS04.deleted=23379 SW_Components_AZ10=53328 SW_Components_CZ21=426 SW_Components_IE10=45025 SW_Components_WA05=56 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_PR08=4 SW_Components_CH01=9810 SW_Components_IE1F=1333 SW_Components_NJ06.deleted=0 SW_Components_AZ75=8 SW_Components_NJ06=0 SW_Components_DCW=0 SW_Components_FL51=0"
+--06-30T07:21  clearcase_nm75 export sync from replica "SW_Components_FL51" to replica "SW_Components_DCW"
+  "Exported synchronization information for replica "SW_Components_DCW".
+   Row at export was: SW_Components_IE1F=1333 SW_Components_TUS04.deleted=23379 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_WA05=56 SW_Components_DCW=0 SW_Components_NJ06=0 SW_Components_CZ21=426 SW_Components_PR08=4 SW_Components_FL51=0 SW_Components_CH01=9810 SW_Components_AZ10=53328 SW_Components_AZ18.deleted=8 SW_Components_NJ06.deleted=0 SW_Components_IE10=45024 SW_Components_AZ75=8"
+--06-30T07:21  clearcase_nm75 import sync from replica "SW_Components_AZ10" to replica "SW_Components_FL51"
+  "Imported synchronization information from replica "SW_Components_AZ10".
+   Row at import was: SW_Components_AZ18.deleted=8 SW_Components_TUS04.deleted=23379 SW_Components_AZ10=53328 SW_Components_CZ21=426 SW_Components_IE10=45024 SW_Components_WA05=56 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_PR08=4 SW_Components_CH01=9810 SW_Components_IE1F=1333 SW_Components_NJ06.deleted=0 SW_Components_AZ75=8 SW_Components_NJ06=0 SW_Components_DCW=0 SW_Components_FL51=0"
+--06-30T07:08  E815222    checkout version "M:\admin_view\SW_Components\RTOS\HeartOSWrapper\test\PeriodicTask_Test.h" from \main\36 (unreserved)
+--06-30T06:00  clearcase_nm75 export sync from replica "SW_Components_FL51" to replica "SW_Components_DCW"
+  "Exported synchronization information for replica "SW_Components_DCW".
+   Row at export was: SW_Components_IE1F=1333 SW_Components_TUS04.deleted=23379 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_WA05=56 SW_Components_DCW=0 SW_Components_NJ06=0 SW_Components_CZ21=426 SW_Components_PR08=4 SW_Components_FL51=0 SW_Components_CH01=9810 SW_Components_AZ10=53328 SW_Components_AZ18.deleted=8 SW_Components_NJ06.deleted=0 SW_Components_IE10=45018 SW_Components_AZ75=8"
+--06-30T03:41  clearcase_nm75 import sync from replica "SW_Components_AZ75" to replica "SW_Components_FL51"
+  "Imported synchronization information from replica "SW_Components_AZ75".
+   Row at import was: SW_Components_AZ18.deleted=8 SW_Components_TUS04.deleted=23379 SW_Components_AZ10=53328 SW_Components_CZ21=426 SW_Components_IE10=45024 SW_Components_WA05=56 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_PR08=4 SW_Components_CH01=9810 SW_Components_IE1F=1333 SW_Components_NJ06.deleted=0 SW_Components_AZ75=8 SW_Components_NJ06=0 SW_Components_DCW=0 SW_Components_FL51=0"
+--06-30T03:36  clearcase_nm75 import sync from replica "SW_Components_DCW" to replica "SW_Components_FL51"
+  "Imported synchronization information from replica "SW_Components_DCW".
+   Row at import was: SW_Components_AZ18.deleted=8 SW_Components_TUS04.deleted=23379 SW_Components_AZ10=53328 SW_Components_CZ21=426 SW_Components_IE10=45024 SW_Components_WA05=56 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_PR08=4 SW_Components_CH01=9810 SW_Components_IE1F=1333 SW_Components_NJ06.deleted=0 SW_Components_AZ75=8 SW_Components_NJ06=0 SW_Components_DCW=0 SW_Components_FL51=0"
+--06-30T03:35  clearcase_nm75 import sync from replica "SW_Components_WA05" to replica "SW_Components_FL51"
+  "Imported synchronization information from replica "SW_Components_WA05".
+   Row at import was: SW_Components_AZ18.deleted=8 SW_Components_TUS04.deleted=23379 SW_Components_AZ10=53328 SW_Components_CZ21=426 SW_Components_IE10=45024 SW_Components_WA05=56 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_PR08=4 SW_Components_CH01=9810 SW_Components_IE1F=1333 SW_Components_NJ06.deleted=0 SW_Components_AZ75=8 SW_Components_NJ06=0 SW_Components_DCW=0 SW_Components_FL51=0"
+--06-30T03:31  clearcase_nm75 import sync from replica "SW_Components_AZ75" to replica "SW_Components_FL51"
+  "Imported synchronization information from replica "SW_Components_AZ75".
+   Row at import was: SW_Components_AZ18.deleted=8 SW_Components_TUS04.deleted=23379 SW_Components_AZ10=53328 SW_Components_CZ21=426 SW_Components_IE10=45024 SW_Components_WA05=56 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_PR08=4 SW_Components_CH01=9810 SW_Components_IE1F=1333 SW_Components_NJ06.deleted=0 SW_Components_AZ75=8 SW_Components_NJ06=0 SW_Components_DCW=0 SW_Components_FL51=0"
+--06-30T03:30  clearcase_nm75 import sync from replica "SW_Components_AZ10" to replica "SW_Components_FL51"
+  "Imported synchronization information from replica "SW_Components_AZ10".
+   Row at import was: SW_Components_AZ18.deleted=8 SW_Components_TUS04.deleted=23379 SW_Components_AZ10=53328 SW_Components_CZ21=426 SW_Components_IE10=45023 SW_Components_WA05=56 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_PR08=4 SW_Components_CH01=9810 SW_Components_IE1F=1333 SW_Components_NJ06.deleted=0 SW_Components_AZ75=8 SW_Components_NJ06=0 SW_Components_DCW=0 SW_Components_FL51=0"
+--06-30T03:26  clearcase_nm75 import sync from replica "SW_Components_DCW" to replica "SW_Components_FL51"
+  "Imported synchronization information from replica "SW_Components_DCW".
+   Row at import was: SW_Components_AZ18.deleted=8 SW_Components_TUS04.deleted=23379 SW_Components_AZ10=53328 SW_Components_CZ21=426 SW_Components_IE10=45023 SW_Components_WA05=56 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_PR08=4 SW_Components_CH01=9810 SW_Components_IE1F=1333 SW_Components_NJ06.deleted=0 SW_Components_AZ75=8 SW_Components_NJ06=0 SW_Components_DCW=0 SW_Components_FL51=0"
+--06-30T03:21  clearcase_nm75 import sync from replica "SW_Components_WA05" to replica "SW_Components_FL51"
+  "Imported synchronization information from replica "SW_Components_WA05".
+   Row at import was: SW_Components_AZ18.deleted=8 SW_Components_TUS04.deleted=23379 SW_Components_AZ10=53328 SW_Components_CZ21=426 SW_Components_IE10=45023 SW_Components_WA05=56 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_PR08=4 SW_Components_CH01=9810 SW_Components_IE1F=1333 SW_Components_NJ06.deleted=0 SW_Components_AZ75=8 SW_Components_NJ06=0 SW_Components_DCW=0 SW_Components_FL51=0"
+--06-30T03:20  clearcase_nm75 import sync from replica "SW_Components_AZ10" to replica "SW_Components_FL51"
+  "Imported synchronization information from replica "SW_Components_AZ10".
+   Row at import was: SW_Components_AZ18.deleted=8 SW_Components_TUS04.deleted=23379 SW_Components_AZ10=53328 SW_Components_CZ21=426 SW_Components_IE10=45020 SW_Components_WA05=56 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_PR08=4 SW_Components_CH01=9810 SW_Components_IE1F=1333 SW_Components_NJ06.deleted=0 SW_Components_AZ75=8 SW_Components_NJ06=0 SW_Components_DCW=0 SW_Components_FL51=0"
+--06-30T03:20  E815222    make attribute "Review_Number" on version "M:\admin_view\SW_Components\Monitor\Serial_HMATS\requirements\Serial_MonitorRequirements.doc@@\main\11"
+  "Added attribute "Review_Number" with value 39098."
+--06-30T03:17  E815222    make attribute "Review_Number" on version "M:\admin_view\SW_Components\RTOS\HeartOSWrapper\code\Scheduler.cpp@@\main\13"
+  "Added attribute "Review_Number" with value 39415."
+--06-30T03:17  E815222    make attribute "Review_Number" on version "M:\admin_view\SW_Components\RTOS\HeartOSWrapper\code\Scheduler.h@@\main\15"
+  "Added attribute "Review_Number" with value 39415."
+--06-30T03:16  E815222    make attribute "Review_Number" on version "M:\admin_view\SW_Components\RTOS\HeartOSWrapper\design\HeartOSWrapper.cat@@\main\56"
+  "Added attribute "Review_Number" with value 39415."
+--06-30T02:43  clearcase_nm75 import sync from replica "SW_Components_AZ75" to replica "SW_Components_FL51"
+  "Imported synchronization information from replica "SW_Components_AZ75".
+   Row at import was: SW_Components_AZ18.deleted=8 SW_Components_TUS04.deleted=23379 SW_Components_AZ10=53328 SW_Components_CZ21=426 SW_Components_IE10=45020 SW_Components_WA05=56 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_PR08=4 SW_Components_CH01=9810 SW_Components_IE1F=1333 SW_Components_NJ06.deleted=0 SW_Components_AZ75=8 SW_Components_NJ06=0 SW_Components_DCW=0 SW_Components_FL51=0"
+--06-30T02:36  clearcase_nm75 import sync from replica "SW_Components_WA05" to replica "SW_Components_FL51"
+  "Imported synchronization information from replica "SW_Components_WA05".
+   Row at import was: SW_Components_AZ18.deleted=8 SW_Components_TUS04.deleted=23379 SW_Components_AZ10=53328 SW_Components_CZ21=426 SW_Components_IE10=45020 SW_Components_WA05=56 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_PR08=4 SW_Components_CH01=9810 SW_Components_IE1F=1333 SW_Components_NJ06.deleted=0 SW_Components_AZ75=8 SW_Components_NJ06=0 SW_Components_DCW=0 SW_Components_FL51=0"
+--06-30T02:26  clearcase_nm75 import sync from replica "SW_Components_DCW" to replica "SW_Components_FL51"
+  "Imported synchronization information from replica "SW_Components_DCW".
+   Row at import was: SW_Components_AZ18.deleted=8 SW_Components_TUS04.deleted=23379 SW_Components_AZ10=53328 SW_Components_CZ21=426 SW_Components_IE10=45020 SW_Components_WA05=56 GV-SPie10nt3ks025.global.ds.honeywell.com_.deleted=0 SW_Components_PR08=4 SW_Components_CH01=9810 SW_Components_IE1F=1333 SW_Components_NJ06.deleted=0 SW_Components_AZ75=8 SW_Components_NJ06=0 SW_Components_DCW=0 SW_Components_FL51=0"

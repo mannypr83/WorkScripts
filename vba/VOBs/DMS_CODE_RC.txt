@@ -1,0 +1,95 @@
+--06-30T10:45  clearcase_nm75 protect directory element "M:\admin_view\DMS_CODE_RC\.@@"
+  "CHMOD 775"
+--06-19T22:12  clearcase_nm75 protect directory element "M:\admin_view\DMS_CODE_RC\.@@"
+  "CHMOD 770"
+--06-19T22:12  clearcase_nm75 protect directory element "M:\admin_view\DMS_CODE_RC\.@@"
+  "CHMOD 775"
+--02-28T12:19  e350975    lock trigger type "NO_MKTRIGGER" (locked)
+  "Locked except for users: e704548 e721877 e730056 e722159 e041467 e564406 e350975"
+--02-28T12:19  e350975    lock trigger type "NO_RMNAME" (locked)
+  "Locked except for users: e704548 e721877 e730056 e722159 e041467 e564406 e350975"
+--02-28T12:18  e350975    lock trigger type "NO_RMLOCK" (locked)
+  "Locked except for users: e704548 e721877 e730056 e722159 e041467 e564406 e350975"
+--02-28T12:18  e350975    lock trigger type "NO_RMTYPE" (locked)
+  "Locked except for users: e704548 e721877 e730056 e722159 e041467 e564406 e350975"
+--02-28T12:18  e350975    lock trigger type "NO_EVIL_TWIN_MKELEM" (locked)
+  "Locked except for users: e704548 e721877 e730056 e722159 e041467 e564406 e350975"
+--02-28T12:18  e350975    lock trigger type "NO_RMVER" (locked)
+  "Locked except for users: e704548 e721877 e730056 e722159 e041467 e564406 e350975"
+--02-28T12:18  e350975    lock trigger type "NO_RMELEM" (locked)
+  "Locked except for users: e704548 e721877 e730056 e722159 e041467 e564406 e350975"
+--02-28T12:18  e350975    lock trigger type "ChangeLbtypeOwner" (locked)
+  "Locked except for users: e704548 e721877 e730056 e722159 e041467 e564406 e350975"
+--02-28T12:18  e350975    lock trigger type "CHOWN" (locked)
+  "Locked except for users: e704548 e721877 e730056 e722159 e041467 e564406 e350975"
+--02-28T12:18  e350975    lock trigger type "ChangeHltypeOwner" (locked)
+  "Locked except for users: e704548 e721877 e730056 e722159 e041467 e564406 e350975"
+--02-28T12:18  e350975    lock trigger type "ChangeAttypeOwner" (locked)
+  "Locked except for users: e704548 e721877 e730056 e722159 e041467 e564406 e350975"
+--02-28T12:18  e350975    lock trigger type "ChangeTrtypeOwner" (locked)
+  "Locked except for users: e704548 e721877 e730056 e722159 e041467 e564406 e350975"
+--02-28T12:18  e350975    protect trigger type "NO_MKTRIGGER" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:18  e350975    protect trigger type "NO_RMNAME" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:18  e350975    protect trigger type "NO_RMLOCK" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:18  e350975    protect trigger type "NO_RMTYPE" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:18  e350975    protect trigger type "NO_EVIL_TWIN_MKELEM" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:18  e350975    protect trigger type "NO_RMVER" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:18  e350975    protect trigger type "NO_RMELEM" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:17  e350975    protect trigger type "ChangeLbtypeOwner" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:17  e350975    protect trigger type "CHOWN" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:17  e350975    protect trigger type "ChangeHltypeOwner" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:17  e350975    protect trigger type "ChangeAttypeOwner" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:17  e350975    protect trigger type "ChangeTrtypeOwner" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:17  e350975    protect trigger type "NO_MKTRIGGER" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:17  e350975    create trigger type "NO_MKTRIGGER" (locked)
+  "Disallow creation of new trigger types"
+--02-28T12:17  e350975    protect trigger type "NO_RMNAME" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:17  e350975    create trigger type "NO_RMNAME" (locked)
+  "Disallow removal of element names"
+--02-28T12:17  e350975    protect trigger type "NO_RMLOCK" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:17  e350975    create trigger type "NO_RMLOCK" (locked)
+  "Disallow unlocking of elements"
+--02-28T12:17  e350975    protect trigger type "NO_RMTYPE" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:17  e350975    create trigger type "NO_RMTYPE" (locked)
+  "Disallow removal of types"
+--02-28T12:17  e350975    protect trigger type "NO_EVIL_TWIN_MKELEM" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:17  e350975    create trigger type "NO_EVIL_TWIN_MKELEM" (locked)
+--02-28T12:16  e350975    protect trigger type "NO_RMVER" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:16  e350975    create trigger type "NO_RMVER" (locked)
+  "Disallow removal of versions"
+--02-28T12:16  e350975    protect trigger type "NO_RMELEM" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:16  e350975    create trigger type "NO_RMELEM" (locked)
+  "Disallow removal of elements"
+--02-28T12:16  e350975    protect trigger type "ChangeLbtypeOwner" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:16  e350975    create trigger type "ChangeLbtypeOwner" (locked)
+--02-28T12:16  e350975    protect trigger type "CHOWN" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:16  e350975    create trigger type "CHOWN" (locked)
+  "Set standard ownership on elements"
+--02-28T12:16  e350975    protect trigger type "ChangeHltypeOwner" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:16  e350975    create trigger type "ChangeHltypeOwner" (locked)
+--02-28T12:16  e350975    protect trigger type "ChangeAttypeOwner" (locked)
+  "CHOWN e350975; CHGRP aero.cc.dms_rc"
+--02-28T12:16  e350975    create trigger type "ChangeAttypeOwner" (locked)
+--02-28T12:16  e350975    create trigger type "ChangeTrtypeOwner" (locked)

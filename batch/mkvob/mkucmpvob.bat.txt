@@ -1,0 +1,12 @@
+@ECHO OFF
+
+Rem Use:
+Rem For use of this script, enter "mkvob" followed by the SITE Code (i.e., AZ75 for DV, AZ10 for Tucson, CZ09 for Brno, and so on) without using any spaces
+
+Rem 
+for /f "delims=" %%i in ('hostname') do @set myhost=%%i
+
+cleartool mkvob -tag \%1_Sandbox_UCM_PVOB -ucm -c "CCCQ Performance Test PVOB" -public -password onemylehigh -stgloc -auto
+cleartool mkvob -tag \%1_Sandbox_UCMVOB -c "CCCQ Performance Test VOB" -public -password onemylehigh -stgloc -auto
+mkview pcms_view -host %myhost% -hpath %myhost%:c:\CC_VIEWS\pcms_view.vws -gpath \\%2\CC_VIEWS\
+cleartool describe vob:\%1

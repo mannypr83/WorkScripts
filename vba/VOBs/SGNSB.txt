@@ -1,0 +1,124 @@
+--06-30T10:44  clearcase_nm75 protect directory element "M:\admin_view\SGNSB\.@@"
+  "CHMOD 775"
+--06-19T17:40  clearcase_nm75 protect directory element "M:\admin_view\SGNSB\.@@"
+  "CHMOD 770"
+--06-19T17:40  clearcase_nm75 protect directory element "M:\admin_view\SGNSB\.@@"
+  "CHMOD 775"
+--06-19T17:17  clearcase_nm75 protect directory element "M:\admin_view\SGNSB\.@@"
+  "CHMOD 770"
+--06-19T17:17  clearcase_nm75 protect directory element "M:\admin_view\SGNSB\.@@"
+  "CHMOD 775"
+--05-15T12:51  clearcase_nm75 export sync from replica "SGNSB_FL51" to replica "SGNSB_NJ06"
+  "Exported synchronization information for replica "SGNSB_NJ06".
+   Row at export was: SGNSB_FL51=88 SGNSB_MN17=248 SGNSB_NJ06=22 SGNSB_PR08=13 SGNSB_NJ06.deleted=10"
+--05-15T12:51  clearcase_nm75 export sync from replica "SGNSB_FL51" to replica "SGNSB_MN17"
+  "Exported synchronization information for replica "SGNSB_MN17".
+   Row at export was: SGNSB_FL51=88 SGNSB_MN17=248 SGNSB_NJ06=22 SGNSB_PR08=13 SGNSB_NJ06.deleted=10"
+--05-11T15:40  clearcase_nm75 import sync from replica "SGNSB_MN17" to replica "SGNSB_FL51"
+  "Imported synchronization information from replica "SGNSB_MN17".
+   Row at import was: SGNSB_NJ06.deleted=10 SGNSB_MN17=248 SGNSB_PR08=16 SGNSB_NJ06=22 SGNSB_FL51=88"
+--05-11T15:37  clearcase_nm75 import sync from replica "SGNSB_NJ06" to replica "SGNSB_FL51"
+  "Imported synchronization information from replica "SGNSB_NJ06".
+   Row at import was: SGNSB_NJ06.deleted=10 SGNSB_MN17=248 SGNSB_PR08=16 SGNSB_NJ06=22 SGNSB_FL51=88"
+--05-11T15:32  clearcase_nm75 import sync from replica "SGNSB_PR08" to replica "SGNSB_FL51"
+  "Imported synchronization information from replica "SGNSB_PR08".
+   Row at import was: SGNSB_NJ06.deleted=10 SGNSB_MN17=248 SGNSB_PR08=15 SGNSB_NJ06=22 SGNSB_FL51=88"
+--05-11T15:25  e433435    make hyperlink "Merge" on version "M:\admin_view\SGNSB\SB10@@\main\CMADS_SGNSB_TRAIN\1\AddToSource_v1.txt@@\main\SGNSB_TRAIN_Integration\E343694_SGNSB_TRAIN_dev\3"
+--05-11T15:25  e433435    make hyperlink "Merge" on version "M:\admin_view\SGNSB\SB10@@\main\CMADS_SGNSB_TRAIN\1\AddToSource_v1.txt@@\main\SGNSB_TRAIN_Integration\E343694_SGNSB_TRAIN_dev\2"
+--05-11T15:25  e433435    create hyperlink "Merge@297@\SGNSB"
+--05-11T15:10  clearcase_nm75 import sync from replica "SGNSB_MN17" to replica "SGNSB_FL51"
+  "Imported synchronization information from replica "SGNSB_MN17".
+   Row at import was: SGNSB_NJ06.deleted=10 SGNSB_MN17=248 SGNSB_PR08=15 SGNSB_NJ06=22 SGNSB_FL51=88"
+--05-11T15:07  clearcase_nm75 import sync from replica "SGNSB_NJ06" to replica "SGNSB_FL51"
+  "Imported synchronization information from replica "SGNSB_NJ06".
+   Row at import was: SGNSB_NJ06.deleted=10 SGNSB_MN17=248 SGNSB_PR08=15 SGNSB_NJ06=22 SGNSB_FL51=88"
+--05-11T15:00  clearcase_nm75 import sync from replica "SGNSB_PR08" to replica "SGNSB_FL51"
+  "Imported synchronization information from replica "SGNSB_PR08".
+   Row at import was: SGNSB_NJ06.deleted=10 SGNSB_MN17=248 SGNSB_PR08=13 SGNSB_NJ06=22 SGNSB_FL51=88"
+--05-11T14:53  e433435    make hyperlink "GlobalDefinition" on branch type "SGNSB_TRAIN_PR_DEV"
+  "Automatically created branch type from global definition in VOB "\SGNSB_PVOB"."
+--05-11T14:53  e433435    create hyperlink "GlobalDefinition@296@\SGNSB"
+  "Automatically created branch type from global definition in VOB "\SGNSB_PVOB"."
+--05-11T14:53  e433435    create branch type "SGNSB_TRAIN_PR_DEV"
+  "Automatically created branch type from global definition in VOB "\SGNSB_PVOB"."
+--10-25T11:40  clearcase_nm75 export sync from replica "SGNSB_FL51" to replica "SGNSB_PR08"
+  "Exported synchronization information for replica "SGNSB_PR08".
+   Row at export was: SGNSB_FL51=84 SGNSB_MN17=248 SGNSB_NJ06=22 SGNSB_PR08=13 SGNSB_NJ06.deleted=10"
+--10-25T11:40  clearcase_nm75 export sync from replica "SGNSB_FL51" to replica "SGNSB_NJ06"
+  "Exported synchronization information for replica "SGNSB_NJ06".
+   Row at export was: SGNSB_FL51=84 SGNSB_MN17=248 SGNSB_NJ06=22 SGNSB_PR08=13 SGNSB_NJ06.deleted=10"
+--10-25T11:40  clearcase_nm75 export sync from replica "SGNSB_FL51" to replica "SGNSB_MN17"
+  "Exported synchronization information for replica "SGNSB_MN17".
+   Row at export was: SGNSB_FL51=84 SGNSB_MN17=248 SGNSB_NJ06=22 SGNSB_PR08=13 SGNSB_NJ06.deleted=10"
+--09-27T10:30  clearcase_nm75 import sync from replica "SGNSB_NJ06" to replica "SGNSB_FL51"
+  "Imported synchronization information from replica "SGNSB_NJ06".
+   Row at import was: SGNSB_NJ06.deleted=10 SGNSB_MN17=248 SGNSB_PR08=13 SGNSB_NJ06=22 SGNSB_FL51=84"
+--09-27T10:30  clearcase_nm75 import sync from replica "SGNSB_MN17" to replica "SGNSB_FL51"
+  "Imported synchronization information from replica "SGNSB_MN17".
+   Row at import was: SGNSB_NJ06.deleted=10 SGNSB_MN17=248 SGNSB_PR08=13 SGNSB_NJ06=22 SGNSB_FL51=84"
+--09-27T10:20  clearcase_nm75 export sync from replica "SGNSB_FL51" to replica "SGNSB_NJ06"
+  "Exported synchronization information for replica "SGNSB_NJ06".
+   Row at export was: SGNSB_FL51=84 SGNSB_MN17=248 SGNSB_NJ06=22 SGNSB_PR08=11 SGNSB_NJ06.deleted=10"
+--09-27T10:20  clearcase_nm75 export sync from replica "SGNSB_FL51" to replica "SGNSB_MN17"
+  "Exported synchronization information for replica "SGNSB_MN17".
+   Row at export was: SGNSB_FL51=84 SGNSB_MN17=248 SGNSB_NJ06=22 SGNSB_PR08=11 SGNSB_NJ06.deleted=10"
+--09-27T10:20  clearcase_nm75 import sync from replica "SGNSB_PR08" to replica "SGNSB_FL51"
+  "Imported synchronization information from replica "SGNSB_PR08".
+   Row at import was: SGNSB_NJ06.deleted=10 SGNSB_MN17=248 SGNSB_PR08=11 SGNSB_NJ06=22 SGNSB_FL51=84"
+--09-27T10:10  e836198    make hyperlink "GlobalDefinition" on branch type "SGNSB_TRAIN_Test"
+  "Automatically created branch type from global definition in VOB "\SGNSB_PVOB"."
+--09-27T10:10  e836198    create hyperlink "GlobalDefinition@293@\SGNSB"
+  "Automatically created branch type from global definition in VOB "\SGNSB_PVOB"."
+--09-27T10:10  e836198    create branch type "SGNSB_TRAIN_Test"
+  "Automatically created branch type from global definition in VOB "\SGNSB_PVOB"."
+--09-06T10:00  clearcase_nm75 export sync from replica "SGNSB_FL51" to replica "SGNSB_PR08"
+  "Exported synchronization information for replica "SGNSB_PR08".
+   Row at export was: SGNSB_FL51=59 SGNSB_MN17=248 SGNSB_NJ06=22 SGNSB_PR08=11 SGNSB_NJ06.deleted=10"
+--09-06T10:00  clearcase_nm75 export sync from replica "SGNSB_FL51" to replica "SGNSB_NJ06"
+  "Exported synchronization information for replica "SGNSB_NJ06".
+   Row at export was: SGNSB_FL51=59 SGNSB_MN17=248 SGNSB_NJ06=22 SGNSB_PR08=11 SGNSB_NJ06.deleted=10"
+--09-06T10:00  clearcase_nm75 export sync from replica "SGNSB_FL51" to replica "SGNSB_MN17"
+  "Exported synchronization information for replica "SGNSB_MN17".
+   Row at export was: SGNSB_FL51=59 SGNSB_MN17=248 SGNSB_NJ06=22 SGNSB_PR08=11 SGNSB_NJ06.deleted=10"
+--09-06T09:54  e343694    create directory version "M:\admin_view\SGNSB\SB09@@\main\E343694_SGNSB_TRAIN_dev\3\TestFolderAdd@@\main\E343694_SGNSB_TRAIN_dev\2"
+  "Test folder added to source control doesn't add files!
+    
+   Added file element "e343694TestFileAddedInFolder.txt"."
+--09-06T09:54  e343694    add name to directory version "M:\admin_view\SGNSB\SB09@@\main\E343694_SGNSB_TRAIN_dev\3\TestFolderAdd@@\main\E343694_SGNSB_TRAIN_dev\2"
+  "Added file element "e343694TestFileAddedInFolder.txt".
+   Test folder added to source control doesn't add files!"
+--09-06T09:54  e343694    make hyperlink "Change" on version "M:\admin_view\SGNSB\SB09@@\main\E343694_SGNSB_TRAIN_dev\3\TestFolderAdd\main\E343694_SGNSB_TRAIN_dev\2\e343694TestFileAddedInFolder.txt@@\main\E343694_SGNSB_TRAIN_dev\1"
+  "Attached hyperlink "Change@537@\SGNSB_PVOB".
+   Test folder added to source control doesn't add files!"
+--09-06T09:54  e343694    create version "M:\admin_view\SGNSB\SB09@@\main\E343694_SGNSB_TRAIN_dev\3\TestFolderAdd\main\E343694_SGNSB_TRAIN_dev\2\e343694TestFileAddedInFolder.txt@@\main\E343694_SGNSB_TRAIN_dev\1"
+  "Test folder added to source control doesn't add files!"
+--09-06T09:54  e343694    create version "M:\admin_view\SGNSB\SB09@@\main\E343694_SGNSB_TRAIN_dev\3\TestFolderAdd\main\E343694_SGNSB_TRAIN_dev\2\e343694TestFileAddedInFolder.txt@@\main\E343694_SGNSB_TRAIN_dev\0"
+--09-06T09:54  e343694    create branch "M:\admin_view\SGNSB\SB09@@\main\E343694_SGNSB_TRAIN_dev\3\TestFolderAdd\main\E343694_SGNSB_TRAIN_dev\2\e343694TestFileAddedInFolder.txt@@\main\E343694_SGNSB_TRAIN_dev"
+  "Test folder added to source control doesn't add files!"
+--09-06T09:54  e343694    create version "M:\admin_view\SGNSB\SB09@@\main\E343694_SGNSB_TRAIN_dev\3\TestFolderAdd\main\E343694_SGNSB_TRAIN_dev\2\e343694TestFileAddedInFolder.txt@@\main\0"
+--09-06T09:54  e343694    create branch "M:\admin_view\SGNSB\SB09@@\main\E343694_SGNSB_TRAIN_dev\3\TestFolderAdd\main\E343694_SGNSB_TRAIN_dev\2\e343694TestFileAddedInFolder.txt@@\main"
+--09-06T09:54  e343694    create file element "M:\admin_view\SGNSB\SB09@@\main\E343694_SGNSB_TRAIN_dev\3\TestFolderAdd\main\E343694_SGNSB_TRAIN_dev\2\e343694TestFileAddedInFolder.txt@@"
+  "Test folder added to source control doesn't add files!"
+--09-06T09:54  e343694    make hyperlink "Change" on directory version "M:\admin_view\SGNSB\SB09@@\main\E343694_SGNSB_TRAIN_dev\3\TestFolderAdd@@\main\E343694_SGNSB_TRAIN_dev\2"
+  "Attached hyperlink "Change@536@\SGNSB_PVOB".
+   Test folder added to source control doesn't add files!
+    "
+--09-06T09:53  e343694    create directory version "M:\admin_view\SGNSB\SB09@@\main\E343694_SGNSB_TRAIN_dev\3"
+  "Does a folder added to source control add files within?
+    
+   Added directory element "TestFolderAdd"."
+--09-06T09:53  e343694    add name to directory version "M:\admin_view\SGNSB\SB09@@\main\E343694_SGNSB_TRAIN_dev\3"
+  "Added directory element "TestFolderAdd".
+   Does a folder added to source control add files within?"
+--09-06T09:53  e343694    make hyperlink "Change" on directory version "M:\admin_view\SGNSB\SB09@@\main\E343694_SGNSB_TRAIN_dev\3"
+  "Attached hyperlink "Change@534@\SGNSB_PVOB".
+   Does a folder added to source control add files within?
+    "
+--09-06T09:53  e343694    make hyperlink "Change" on directory version "M:\admin_view\SGNSB\SB09@@\main\E343694_SGNSB_TRAIN_dev\3\TestFolderAdd@@\main\E343694_SGNSB_TRAIN_dev\1"
+  "Attached hyperlink "Change@535@\SGNSB_PVOB".
+   Does a folder added to source control add files within?"
+--09-06T09:53  e343694    create directory version "M:\admin_view\SGNSB\SB09@@\main\E343694_SGNSB_TRAIN_dev\3\TestFolderAdd@@\main\E343694_SGNSB_TRAIN_dev\1"
+  "Does a folder added to source control add files within?"
+--09-06T09:53  e343694    create directory version "M:\admin_view\SGNSB\SB09@@\main\E343694_SGNSB_TRAIN_dev\3\TestFolderAdd@@\main\E343694_SGNSB_TRAIN_dev\0"
+--09-06T09:53  e343694    create branch "M:\admin_view\SGNSB\SB09@@\main\E343694_SGNSB_TRAIN_dev\3\TestFolderAdd@@\main\E343694_SGNSB_TRAIN_dev"
+  "Does a folder added to source control add files within?"

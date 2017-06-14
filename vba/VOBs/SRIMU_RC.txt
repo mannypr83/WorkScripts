@@ -1,0 +1,92 @@
+--06-30T10:46  clearcase_nm75 protect directory element "M:\admin_view\SRIMU_RC\.@@"
+  "CHMOD 775"
+--06-19T22:21  clearcase_nm75 export sync from replica "SRIMU_RC_FL51" to replica "SRIMU_RC_DCW"
+  "Exported synchronization information for replica "SRIMU_RC_DCW".
+   Row at export was: SRIMU_RC_FL51=2 SRIMU_RC_DCW=0"
+--06-19T22:15  clearcase_nm75 protect directory element "M:\admin_view\SRIMU_RC\.@@"
+  "CHMOD 770"
+--06-19T22:15  clearcase_nm75 protect directory element "M:\admin_view\SRIMU_RC\.@@"
+  "CHMOD 775"
+--06-11T14:16  e730056    export sync from replica "SRIMU_RC_FL51" to replica "SRIMU_RC_DCW"
+  "Exported synchronization information for replica "SRIMU_RC_DCW".
+   Row at export was: SRIMU_RC_FL51=0 SRIMU_RC_DCW=0"
+--06-11T14:16  e730056    change master to "SRIMU_RC_DCW" of replica "SRIMU_RC_DCW"
+  "Changed master replica from "SRIMU_RC_FL51" to "SRIMU_RC_DCW"."
+--06-11T14:16  e730056    unlock versioned object base "\SRIMU_RC"
+  "Unlock after replica dump"
+--06-11T14:16  e730056    lock versioned object base "\SRIMU_RC"
+  "Locked for all users.
+   Locked for replica dump"
+--06-11T14:16  e730056    create replica "SRIMU_RC_DCW"
+--06-11T14:16  e730056    rename replica "SRIMU_RC_FL51"
+  "Changed name of replica from "original" to "SRIMU_RC_FL51"."
+--06-11T14:12  e730056    lock trigger type "CHECK_AR_STATE" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--06-11T14:12  e730056    unlock trigger type "CHECK_AR_STATE" (locked)
+--06-11T14:11  e730056    protect trigger type "CHECK_AR_STATE" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.sgn.srimu.rc"
+--06-11T14:11  e730056    lock trigger type "NO_UNRES_CO" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--06-11T14:11  e730056    unlock trigger type "NO_UNRES_CO" (locked)
+--06-11T14:11  e730056    protect trigger type "NO_UNRES_CO" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.sgn.srimu.rc"
+--06-11T14:11  e730056    lock trigger type "NO_MKTRIGGER" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--06-11T14:11  e730056    unlock trigger type "NO_MKTRIGGER" (locked)
+--06-11T14:11  e730056    lock trigger type "NO_RMNAME" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--06-11T14:11  e730056    unlock trigger type "NO_RMNAME" (locked)
+--06-11T14:11  e730056    lock trigger type "NO_RMLOCK" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--06-11T14:11  e730056    unlock trigger type "NO_RMLOCK" (locked)
+--06-11T14:11  e730056    lock trigger type "NO_RMTYPE" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--06-11T14:11  e730056    unlock trigger type "NO_RMTYPE" (locked)
+--06-11T14:11  e730056    lock trigger type "NO_EVIL_TWIN_MKELEM" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--06-11T14:11  e730056    unlock trigger type "NO_EVIL_TWIN_MKELEM" (locked)
+--06-11T14:11  e730056    lock trigger type "NO_RMVER" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--06-11T14:11  e730056    unlock trigger type "NO_RMVER" (locked)
+--06-11T14:11  e730056    lock trigger type "NO_RMELEM" (locked)
+  "Locked for all users."
+--06-11T14:11  e730056    lock trigger type "CHOWN" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--06-11T14:11  e730056    unlock trigger type "CHOWN" (locked)
+--06-11T14:11  e730056    lock trigger type "ChangeHltypeOwner" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--06-11T14:11  e730056    unlock trigger type "ChangeHltypeOwner" (locked)
+--06-11T14:11  e730056    lock trigger type "ChangeAttypeOwner" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--06-11T14:11  e730056    unlock trigger type "ChangeAttypeOwner" (locked)
+--06-11T14:11  e730056    lock trigger type "ChangeTrtypeOwner" (locked)
+  "Locked except for users: e711819 e582601 e730056 e702445 e704548 e712432 e721877 e721598"
+--06-11T14:11  e730056    unlock trigger type "ChangeTrtypeOwner" (locked)
+--06-11T14:11  e730056    protect trigger type "NO_MKTRIGGER" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.sgn.srimu.rc"
+--06-11T14:11  e730056    protect trigger type "NO_RMNAME" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.sgn.srimu.rc"
+--06-11T14:11  e730056    protect trigger type "NO_RMLOCK" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.sgn.srimu.rc"
+--06-11T14:11  e730056    protect trigger type "NO_RMTYPE" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.sgn.srimu.rc"
+--06-11T14:11  e730056    protect trigger type "NO_EVIL_TWIN_MKELEM" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.sgn.srimu.rc"
+--06-11T14:11  e730056    protect trigger type "NO_RMVER" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.sgn.srimu.rc"
+--06-11T14:11  e730056    protect trigger type "NO_RMELEM" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.sgn.srimu.rc"
+--06-11T14:11  e730056    protect trigger type "CHOWN" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.sgn.srimu.rc"
+--06-11T14:11  e730056    protect trigger type "ChangeHltypeOwner" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.sgn.srimu.rc"
+--06-11T14:11  e730056    protect trigger type "ChangeAttypeOwner" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.sgn.srimu.rc"
+--06-11T14:11  e730056    protect trigger type "ChangeTrtypeOwner" (locked)
+  "CHOWN NAMERICA4\e730056; CHGRP GLOBAL\aero.cc.sgn.srimu.rc"
+--06-11T14:11  e730056    modify trigger type "CHECK_AR_STATE" (locked)
+  "Changed definition of type.
+   Prevent checkout of element with AR in a finished state."
+--06-11T14:11  e730056    modify trigger type "NO_UNRES_CO" (locked)
+  "Changed definition of type.
+   Unreserved Checkouts not permitted"

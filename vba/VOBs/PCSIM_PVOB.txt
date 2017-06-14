@@ -1,0 +1,123 @@
+--06-30T10:41  clearcase_nm75 protect directory element "M:\admin_view\PCSIM_PVOB\.@@"
+  "CHMOD 775"
+--06-30T10:38  clearcase_nm75 protect directory element "M:\admin_view\PCSIM_PVOB\.@@"
+  "CHMOD 770"
+--06-30T10:38  clearcase_nm75 protect directory element "M:\admin_view\PCSIM_PVOB\.@@"
+  "CHMOD 775"
+--06-30T10:35  clearcase_nm75 protect directory element "M:\admin_view\PCSIM_PVOB\.@@"
+  "CHMOD 770"
+--06-30T10:35  clearcase_nm75 protect directory element "M:\admin_view\PCSIM_PVOB\.@@"
+  "CHMOD 775"
+--06-19T15:34  clearcase_nm75 protect directory element "M:\admin_view\PCSIM_PVOB\.@@"
+  "CHMOD 770"
+--06-19T15:34  clearcase_nm75 protect directory element "M:\admin_view\PCSIM_PVOB\.@@"
+  "CHMOD 775"
+--05-07T12:00  clearcase_nm75 import sync from replica "PCSIM_PVOB_AZ75" to replica "PCSIM_PVOB_FL51_new"
+  "Imported synchronization information from replica "PCSIM_PVOB_AZ75".
+   Row at import was: PCSIM_PVOB_AZ18.deleted=38 PCSIM_PVOB_MN17=273042 PCSIM_PVOB_FL51.deleted=257 PCSIM_PVOB_MN65=14754 PCSIM_PVOB_MN51.deleted=9860 PCSIM_PVOB_FL51B.deleted=0 PCSIM_PVOB_PR08=136283 PCSIM_PVOB_MN51_new=2670 PCSIM_PVOB_AZ75.deleted=0 PCSIM_PVOB_AZ75=107958 PCSIM_PVOB_DCW=0 PCSIM_PVOB_FL51_new=563"
+--05-07T11:55  clearcase_nm75 import sync from replica "PCSIM_PVOB_DCW" to replica "PCSIM_PVOB_FL51_new"
+  "Imported synchronization information from replica "PCSIM_PVOB_DCW".
+   Row at import was: PCSIM_PVOB_AZ18.deleted=38 PCSIM_PVOB_MN17=273042 PCSIM_PVOB_FL51.deleted=257 PCSIM_PVOB_MN65=14754 PCSIM_PVOB_MN51.deleted=9860 PCSIM_PVOB_FL51B.deleted=0 PCSIM_PVOB_PR08=136283 PCSIM_PVOB_MN51_new=2670 PCSIM_PVOB_AZ75.deleted=0 PCSIM_PVOB_AZ75=107958 PCSIM_PVOB_DCW=0 PCSIM_PVOB_FL51_new=563"
+--05-07T11:50  clearcase_nm75 export sync from replica "PCSIM_PVOB_FL51_new" to replica "PCSIM_PVOB_DCW"
+  "Exported synchronization information for replica "PCSIM_PVOB_DCW".
+   Row at export was: PCSIM_PVOB_FL51_new=563 PCSIM_PVOB_AZ75.deleted=0 PCSIM_PVOB_FL51B.deleted=0 PCSIM_PVOB_DCW=0 PCSIM_PVOB_MN65=14754 PCSIM_PVOB_PR08=136271 PCSIM_PVOB_MN51.deleted=9860 PCSIM_PVOB_AZ75=107958 PCSIM_PVOB_MN51_new=2670 PCSIM_PVOB_FL51.deleted=257 PCSIM_PVOB_AZ18.deleted=38 PCSIM_PVOB_MN17=273042"
+--05-07T11:43  clearcase_nm75 import sync from replica "PCSIM_PVOB_PR08" to replica "PCSIM_PVOB_FL51_new"
+  "Imported synchronization information from replica "PCSIM_PVOB_PR08".
+   Row at import was: PCSIM_PVOB_AZ18.deleted=38 PCSIM_PVOB_MN17=273042 PCSIM_PVOB_FL51.deleted=257 PCSIM_PVOB_MN65=14754 PCSIM_PVOB_MN51.deleted=9860 PCSIM_PVOB_FL51B.deleted=0 PCSIM_PVOB_PR08=136282 PCSIM_PVOB_MN51_new=2670 PCSIM_PVOB_AZ75.deleted=0 PCSIM_PVOB_AZ75=107958 PCSIM_PVOB_DCW=0 PCSIM_PVOB_FL51_new=563"
+--05-07T11:43  e704548    change master to "PCSIM_PVOB_DCW" of replica "PCSIM_PVOB_DCW"
+  "Changed master replica from "PCSIM_PVOB_PR08" to "PCSIM_PVOB_DCW"."
+--05-07T11:43  clearcase_nm75 import sync from replica "PCSIM_PVOB_PR08" to replica "PCSIM_PVOB_FL51_new"
+  "Imported synchronization information from replica "PCSIM_PVOB_PR08".
+   Row at import was: PCSIM_PVOB_AZ18=38 PCSIM_PVOB_MN17=273042 PCSIM_PVOB_FL51.deleted=257 PCSIM_PVOB_MN65=14754 PCSIM_PVOB_MN51.deleted=9860 PCSIM_PVOB_FL51B.deleted=0 PCSIM_PVOB_PR08=136281 PCSIM_PVOB_MN51_new=2670 PCSIM_PVOB_AZ75.deleted=0 PCSIM_PVOB_AZ75=107958 PCSIM_PVOB_DCW=0 PCSIM_PVOB_FL51_new=563"
+--05-07T11:43  e704548    rename replica "PCSIM_PVOB_AZ18.deleted"
+  "Changed name of replica from "PCSIM_PVOB_AZ18" to "PCSIM_PVOB_AZ18.deleted".
+   Destroyed replica "PCSIM_PVOB_AZ18"."
+--05-07T11:43  e704548    destroy replica in versioned object base "\PCSIM_PVOB"
+  "Destroyed replica "PCSIM_PVOB_AZ18"."
+--05-07T11:40  clearcase_nm75 import sync from replica "PCSIM_PVOB_PR08" to replica "PCSIM_PVOB_FL51_new"
+  "Imported synchronization information from replica "PCSIM_PVOB_PR08".
+   Row at import was: PCSIM_PVOB_AZ18=38 PCSIM_PVOB_MN17=273042 PCSIM_PVOB_FL51.deleted=257 PCSIM_PVOB_MN65=14754 PCSIM_PVOB_MN51.deleted=9860 PCSIM_PVOB_FL51B.deleted=0 PCSIM_PVOB_PR08=136271 PCSIM_PVOB_MN51_new=2670 PCSIM_PVOB_AZ75.deleted=0 PCSIM_PVOB_AZ75=107958 PCSIM_PVOB_DCW=0 PCSIM_PVOB_FL51_new=563"
+--05-07T11:38  e704548    change master to "PCSIM_PVOB_PR08" of activity "PSL0100006797"
+  "Changed master replica from "PCSIM_PVOB_AZ18" to "PCSIM_PVOB_PR08"."
+--05-07T11:38  e704548    change master to "PCSIM_PVOB_PR08" of replica "PCSIM_PVOB_DCW"
+  "Changed master replica from "PCSIM_PVOB_AZ18" to "PCSIM_PVOB_PR08"."
+--05-07T11:38  e704548    change master to "PCSIM_PVOB_PR08" of replica "PCSIM_PVOB_AZ75"
+  "Changed master replica from "PCSIM_PVOB_AZ18" to "PCSIM_PVOB_PR08"."
+--05-07T11:38  e704548    change master to "PCSIM_PVOB_PR08" of replica "PCSIM_PVOB_AZ75.deleted"
+  "Changed master replica from "PCSIM_PVOB_AZ18" to "PCSIM_PVOB_PR08"."
+--05-07T11:38  e704548    change master to "PCSIM_PVOB_PR08" of replica "PCSIM_PVOB_FL51_new"
+  "Changed master replica from "PCSIM_PVOB_AZ18" to "PCSIM_PVOB_PR08"."
+--05-07T11:38  e704548    change master to "PCSIM_PVOB_PR08" of replica "PCSIM_PVOB_MN51_new"
+  "Changed master replica from "PCSIM_PVOB_AZ18" to "PCSIM_PVOB_PR08"."
+--05-07T11:38  e704548    change master to "PCSIM_PVOB_PR08" of replica "PCSIM_PVOB_FL51B.deleted"
+  "Changed master replica from "PCSIM_PVOB_AZ18" to "PCSIM_PVOB_PR08"."
+--05-07T11:38  e704548    change master to "PCSIM_PVOB_PR08" of replica "PCSIM_PVOB_MN51.deleted"
+  "Changed master replica from "PCSIM_PVOB_AZ18" to "PCSIM_PVOB_PR08"."
+--05-07T11:38  e704548    change master to "PCSIM_PVOB_PR08" of replica "PCSIM_PVOB_MN65"
+  "Changed master replica from "PCSIM_PVOB_AZ18" to "PCSIM_PVOB_PR08"."
+--05-07T11:38  e704548    change master to "PCSIM_PVOB_PR08" of replica "PCSIM_PVOB_FL51.deleted"
+  "Changed master replica from "PCSIM_PVOB_AZ18" to "PCSIM_PVOB_PR08"."
+--03-25T11:51  clearcase_nm75 export sync from replica "PCSIM_PVOB_FL51_new" to replica "PCSIM_PVOB_DCW"
+  "Exported synchronization information for replica "PCSIM_PVOB_DCW".
+   Row at export was: PCSIM_PVOB_FL51_new=562 PCSIM_PVOB_AZ75.deleted=0 PCSIM_PVOB_FL51B.deleted=0 PCSIM_PVOB_DCW=0 PCSIM_PVOB_MN65=14754 PCSIM_PVOB_PR08=136271 PCSIM_PVOB_MN51.deleted=9860 PCSIM_PVOB_AZ75=107958 PCSIM_PVOB_MN51_new=2670 PCSIM_PVOB_FL51.deleted=257 PCSIM_PVOB_AZ18=37 PCSIM_PVOB_MN17=273042"
+--01-20T10:30  clearcase_nm75 export sync from replica "PCSIM_PVOB_FL51_new" to replica "PCSIM_PVOB_AZ18.deleted"
+  "Exported synchronization information for replica "PCSIM_PVOB_AZ18".
+   Row at export was: PCSIM_PVOB_FL51_new=562 PCSIM_PVOB_AZ75.deleted=0 PCSIM_PVOB_FL51B.deleted=0 PCSIM_PVOB_DCW=0 PCSIM_PVOB_MN65=14754 PCSIM_PVOB_PR08=136271 PCSIM_PVOB_MN51.deleted=9860 PCSIM_PVOB_AZ75=107958 PCSIM_PVOB_MN51_new=2670 PCSIM_PVOB_FL51.deleted=257 PCSIM_PVOB_AZ18=38 PCSIM_PVOB_MN17=273042"
+--01-20T10:25  e189699    modify activity "e189699_COMMON"
+  "Updated config_spec."
+--09-12T17:37  e730056    lock baseline "COMMON_4_22_2008.1241" (locked)
+  "Locked for all users."
+--08-01T18:00  clearcase_nm75 import sync from replica "PCSIM_PVOB_DCW" to replica "PCSIM_PVOB_FL51_new"
+  "Imported synchronization information from replica "PCSIM_PVOB_DCW".
+   Row at import was: PCSIM_PVOB_AZ18=38 PCSIM_PVOB_MN17=273042 PCSIM_PVOB_FL51.deleted=257 PCSIM_PVOB_MN65=14754 PCSIM_PVOB_MN51.deleted=9860 PCSIM_PVOB_FL51B.deleted=0 PCSIM_PVOB_PR08=136271 PCSIM_PVOB_MN51_new=2670 PCSIM_PVOB_AZ75.deleted=0 PCSIM_PVOB_AZ75=107958 PCSIM_PVOB_DCW=0 PCSIM_PVOB_FL51_new=562"
+--08-01T14:40  clearcase_nm75 import sync from replica "PCSIM_PVOB_AZ75" to replica "PCSIM_PVOB_FL51_new"
+  "Imported synchronization information from replica "PCSIM_PVOB_AZ75".
+   Row at import was: PCSIM_PVOB_AZ18=38 PCSIM_PVOB_MN17=273042 PCSIM_PVOB_FL51.deleted=257 PCSIM_PVOB_MN65=14754 PCSIM_PVOB_MN51.deleted=9860 PCSIM_PVOB_FL51B.deleted=0 PCSIM_PVOB_PR08=136271 PCSIM_PVOB_MN51_new=2670 PCSIM_PVOB_AZ75.deleted=0 PCSIM_PVOB_AZ75=107958 PCSIM_PVOB_DCW=0 PCSIM_PVOB_FL51_new=562"
+--08-01T14:30  clearcase_nm75 import sync from replica "PCSIM_PVOB_PR08" to replica "PCSIM_PVOB_FL51_new"
+  "Imported synchronization information from replica "PCSIM_PVOB_PR08".
+   Row at import was: PCSIM_PVOB_AZ18=38 PCSIM_PVOB_MN17=273042 PCSIM_PVOB_FL51.deleted=257 PCSIM_PVOB_MN65=14754 PCSIM_PVOB_MN51.deleted=9860 PCSIM_PVOB_FL51B.deleted=0 PCSIM_PVOB_PR08=136271 PCSIM_PVOB_MN51_new=2670 PCSIM_PVOB_AZ75.deleted=0 PCSIM_PVOB_AZ75=107958 PCSIM_PVOB_DCW=0 PCSIM_PVOB_FL51_new=562"
+--08-01T14:30  clearcase_nm75 import sync from replica "PCSIM_PVOB_AZ18.deleted" to replica "PCSIM_PVOB_FL51_new"
+  "Imported synchronization information from replica "PCSIM_PVOB_AZ18".
+   Row at import was: PCSIM_PVOB_AZ18=38 PCSIM_PVOB_MN17=273042 PCSIM_PVOB_FL51.deleted=257 PCSIM_PVOB_MN65=14754 PCSIM_PVOB_MN51.deleted=9860 PCSIM_PVOB_FL51B.deleted=0 PCSIM_PVOB_PR08=136271 PCSIM_PVOB_MN51_new=2670 PCSIM_PVOB_AZ75.deleted=0 PCSIM_PVOB_AZ75=107958 PCSIM_PVOB_DCW=0 PCSIM_PVOB_FL51_new=562"
+--08-01T14:20  clearcase_nm75 import sync from replica "PCSIM_PVOB_AZ18.deleted" to replica "PCSIM_PVOB_FL51_new"
+  "Imported synchronization information from replica "PCSIM_PVOB_AZ18".
+   Row at import was: PCSIM_PVOB_AZ18=37 PCSIM_PVOB_MN17=273042 PCSIM_PVOB_FL51.deleted=257 PCSIM_PVOB_MN65=14754 PCSIM_PVOB_MN51.deleted=9860 PCSIM_PVOB_FL51B.deleted=0 PCSIM_PVOB_PR08=136271 PCSIM_PVOB_MN51_new=2670 PCSIM_PVOB_AZ75.deleted=0 PCSIM_PVOB_AZ75=107958 PCSIM_PVOB_FL51_new=562"
+--08-01T14:10  root       create replica "PCSIM_PVOB_DCW"
+2013-06-19     clearcase_nm75 import sync from replica "PCSIM_PVOB_PR08" to replica "PCSIM_PVOB_FL51_new"
+  "Imported synchronization information from replica "PCSIM_PVOB_PR08".
+   Row at import was: PCSIM_PVOB_AZ18=37 PCSIM_PVOB_MN17=273042 PCSIM_PVOB_FL51.deleted=257 PCSIM_PVOB_MN65=14754 PCSIM_PVOB_MN51.deleted=9860 PCSIM_PVOB_FL51B.deleted=0 PCSIM_PVOB_PR08=136271 PCSIM_PVOB_MN51_new=2670 PCSIM_PVOB_AZ75.deleted=0 PCSIM_PVOB_AZ75=107958 PCSIM_PVOB_FL51_new=562"
+2013-06-18     clearcase_nm75 import sync from replica "PCSIM_PVOB_PR08" to replica "PCSIM_PVOB_FL51_new"
+  "Imported synchronization information from replica "PCSIM_PVOB_PR08".
+   Row at import was: PCSIM_PVOB_AZ18=37 PCSIM_PVOB_MN17=273042 PCSIM_PVOB_FL51.deleted=257 PCSIM_PVOB_MN65=14754 PCSIM_PVOB_MN51.deleted=9860 PCSIM_PVOB_FL51B.deleted=0 PCSIM_PVOB_PR08=136271 PCSIM_PVOB_MN51_new=2670 PCSIM_PVOB_AZ75.deleted=0 PCSIM_PVOB_AZ75=107958 PCSIM_PVOB_FL51_new=562"
+2013-06-13     clearcase_nm75 import sync from replica "PCSIM_PVOB_AZ75" to replica "PCSIM_PVOB_FL51_new"
+  "Imported synchronization information from replica "PCSIM_PVOB_AZ75".
+   Row at import was: PCSIM_PVOB_AZ18=37 PCSIM_PVOB_MN17=273042 PCSIM_PVOB_FL51.deleted=257 PCSIM_PVOB_MN65=14754 PCSIM_PVOB_MN51.deleted=9860 PCSIM_PVOB_FL51B.deleted=0 PCSIM_PVOB_PR08=136271 PCSIM_PVOB_MN51_new=2670 PCSIM_PVOB_AZ75.deleted=0 PCSIM_PVOB_AZ75=107958 PCSIM_PVOB_FL51_new=562"
+2013-06-13     clearcase_nm75 import sync from replica "PCSIM_PVOB_AZ18.deleted" to replica "PCSIM_PVOB_FL51_new"
+  "Imported synchronization information from replica "PCSIM_PVOB_AZ18".
+   Row at import was: PCSIM_PVOB_AZ18=37 PCSIM_PVOB_MN17=273042 PCSIM_PVOB_FL51.deleted=257 PCSIM_PVOB_MN65=14754 PCSIM_PVOB_MN51.deleted=9860 PCSIM_PVOB_FL51B.deleted=0 PCSIM_PVOB_PR08=136270 PCSIM_PVOB_MN51_new=2670 PCSIM_PVOB_AZ75.deleted=0 PCSIM_PVOB_AZ75=107958 PCSIM_PVOB_FL51_new=562"
+2013-06-13     e721877    import sync to replica "PCSIM_PVOB_PR08"
+  "Changed information associated with replica."
+2013-06-12     clearcase_nm75 import sync from replica "PCSIM_PVOB_AZ75" to replica "PCSIM_PVOB_FL51_new"
+  "Imported synchronization information from replica "PCSIM_PVOB_AZ75".
+   Row at import was: PCSIM_PVOB_AZ18=37 PCSIM_PVOB_MN17=273042 PCSIM_PVOB_FL51.deleted=257 PCSIM_PVOB_MN65=14754 PCSIM_PVOB_MN51.deleted=9860 PCSIM_PVOB_FL51B.deleted=0 PCSIM_PVOB_PR08=136270 PCSIM_PVOB_MN51_new=2670 PCSIM_PVOB_AZ75.deleted=0 PCSIM_PVOB_AZ75=107958 PCSIM_PVOB_FL51_new=562"
+2013-06-12     clearcase_nm75 import sync from replica "PCSIM_PVOB_AZ75" to replica "PCSIM_PVOB_FL51_new"
+  "Imported synchronization information from replica "PCSIM_PVOB_AZ75".
+   Row at import was: PCSIM_PVOB_AZ18=37 PCSIM_PVOB_MN17=273042 PCSIM_PVOB_FL51.deleted=257 PCSIM_PVOB_MN65=14754 PCSIM_PVOB_MN51.deleted=9860 PCSIM_PVOB_FL51B.deleted=0 PCSIM_PVOB_PR08=136270 PCSIM_PVOB_MN51_new=2670 PCSIM_PVOB_AZ75.deleted=0 PCSIM_PVOB_AZ75=107958 PCSIM_PVOB_FL51_new=562"
+2013-06-12     clearcase_nm75 import sync from replica "PCSIM_PVOB_AZ18.deleted" to replica "PCSIM_PVOB_FL51_new"
+  "Imported synchronization information from replica "PCSIM_PVOB_AZ18".
+   Row at import was: PCSIM_PVOB_AZ18=37 PCSIM_PVOB_MN17=273042 PCSIM_PVOB_FL51.deleted=257 PCSIM_PVOB_MN65=14754 PCSIM_PVOB_MN51.deleted=9860 PCSIM_PVOB_FL51B.deleted=0 PCSIM_PVOB_PR08=136250 PCSIM_PVOB_MN51_new=2670 PCSIM_PVOB_AZ75.deleted=0 PCSIM_PVOB_AZ75=107958 PCSIM_PVOB_FL51_new=562"
+2013-06-12     clearcase_nm75 import sync from replica "PCSIM_PVOB_AZ18.deleted" to replica "PCSIM_PVOB_FL51_new"
+  "Imported synchronization information from replica "PCSIM_PVOB_AZ18".
+   Row at import was: PCSIM_PVOB_AZ18=37 PCSIM_PVOB_MN17=273040 PCSIM_PVOB_FL51.deleted=257 PCSIM_PVOB_MN65=14754 PCSIM_PVOB_MN51.deleted=9860 PCSIM_PVOB_FL51B.deleted=0 PCSIM_PVOB_PR08=136233 PCSIM_PVOB_MN51_new=2670 PCSIM_PVOB_AZ75.deleted=0 PCSIM_PVOB_AZ75=107958 PCSIM_PVOB_FL51_new=562"
+2013-06-12     e144999    change stream "nkly_COMMON"
+  "Updated config_spec.
+   Regenerated config spec"
+2013-06-12     e144999    set process variable on activity "nkly_COMMON"
+  "Set activity process variable named "SUM_CSPEC_ID"."
+2013-06-12     e144999    destroy activity in versioned object base "\PCSIM_PVOB"
+  "Destroyed activity "activity:PSL0100008625@\PCSIM_PVOB"."
+2013-06-12     e144999    set process variable on activity "nkly_COMMON"
+  "Set activity process variable named "UCM_REBASE"."
+2013-06-12     e144999    change stream "nkly_COMMON"
+  "Updated config_spec.
+   Regenerated config spec"
